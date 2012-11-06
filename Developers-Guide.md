@@ -1,6 +1,6 @@
 # Developer Guide
 * [Golden Cheetah - Developer's Guide](http://www.goldencheetah.org/developers-guide.html)
-* Guidelines for submitting a patch
+* [Guidelines for submitting a patch][Guidelines for submitting a patch]
 * Switching to the dev branch with GIT
 
 ## Windows
