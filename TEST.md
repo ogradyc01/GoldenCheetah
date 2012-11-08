@@ -1,0 +1,89 @@
+h1. User Guide
+
+{{>toc}}
+
+h2. General Help
+ 
+h3. General setup/installation help
+
+* [[Getting Started with Golden Cheetah 2.0 HOWTO]] screencast
+* [[I want to preview the latest features that GC has to offer]].
+* [[Installing the D2XX Drivers on Mac OS]].
+* [[Powertap USB cradle permissions on Linux]]
+* [[PCV on Mac OS X]]
+* [[Running GC off of a USB drive so you can take GC (and your rides) with you.]]
+* [[How do I configure GC so I can "Tweet my ride" ?]]
+
+h3. Ride files help
+
+* [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]] screencast
+* [[How do I import files from a Garmin Edge device?]]
+* [[How do I import files from my cycleops Joule?]]
+* [[Where are my ride files located?]] 
+* [[How to modify the date of your ride?]]
+* [[How can I set different colors in the calendar boxes?]]
+* [[Can't read .cpi file error - after importing .cpi files]].
+* [[The Ride Plot tab in Golden Cheetah 2.0 HOWTO]] screencast
+
+h3. Intervals/Metrics help 
+
+* [[The Metrics tab in Golden Cheetah 2.0 HOWTO]] screencast
+* [[How to create new intervals]].
+* [[How is the value of CP calculated in the Critical Power plot]]?
+* [[How do I define custom date ranges in long term metrics analysis?]]
+* [[How do I setup the fields and tabs for fields like workout code or sport?]]
+* [[How do I override metrics when I didn't use a power meter or HR monitor| How do I override metrics in the ride summary?]]
+* [[SettingPowerZones | Why doesn't anything show up in Performance Manager]]?
+
+
+h2. Feature Documentation 
+
+* [[V2 Features|Version 2.x Features]]
+* [[V3 Features|Version 3.x Features]]
+
+h3. Train and Racing View
+
+* [[Realtime set up]]
+* [[Allowing your Linux userid permission to use your USB device]]
+* [[Solo Ride]]
+* [[Video/Media and Workout Files]]
+
+h2. Training Measures
+
+h3. Power Measures
+
+* [[BikeScore]]
+* [[Daniels Points]]
+* [[xPower]]
+* [[Relative Intensity]]
+
+h3. Heart Rate Measures
+
+* [[TRIMP]]
+* [[TRIMP 100]]
+* [[TRIMP Zonal]]
+
+h2. Website and Wiki Information
+
+* [[How to embed Youtube video for Screencasts]]
+* [[Wiki formatting guidelines]]
+
+h2. Screencasts
+
+* [[Getting Started with Golden Cheetah 2.0 HOWTO]]
+* [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]]
+* [[The Ride Plot tab in Golden Cheetah 2.0 HOWTO]]
+* [[The Metrics tab in Golden Cheetah 2.0 HOWTO]]
+* [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
+* [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
+
+h1. Developer Guide
+
+* "Golden Cheetah - Developer's Guide":http://www.goldencheetah.org/developers-guide.html
+* [[Guidelines for submitting a patch]]
+* [[Switching to the dev branch with GIT]]
+
+h2. Windows
+
+* "Building Golden Cheetah for Windows":http://goldencheetah.stand2surf.net/?page_id=27
+* [[Eclipse IDE for Windows Developing and Debugging]]
