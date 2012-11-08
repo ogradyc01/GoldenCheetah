@@ -1,10 +1,8 @@
-h1. User Guide
+# User Guide
 
-{{>toc}}
-
-h2. General Help
+## General Help
  
-h3. General setup/installation help
+### General setup/installation help
 
 * [[Getting Started with Golden Cheetah 2.0 HOWTO]] screencast
 * [[I want to preview the latest features that GC has to offer]].
@@ -14,7 +12,7 @@ h3. General setup/installation help
 * [[Running GC off of a USB drive so you can take GC (and your rides) with you.]]
 * [[How do I configure GC so I can "Tweet my ride" ?]]
 
-h3. Ride files help
+### Ride files help
 
 * [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]] screencast
 * [[How do I import files from a Garmin Edge device?]]
@@ -25,7 +23,7 @@ h3. Ride files help
 * [[Can't read .cpi file error - after importing .cpi files]].
 * [[The Ride Plot tab in Golden Cheetah 2.0 HOWTO]] screencast
 
-h3. Intervals/Metrics help 
+### Intervals/Metrics help 
 
 * [[The Metrics tab in Golden Cheetah 2.0 HOWTO]] screencast
 * [[How to create new intervals]].
@@ -36,39 +34,39 @@ h3. Intervals/Metrics help
 * [[SettingPowerZones | Why doesn't anything show up in Performance Manager]]?
 
 
-h2. Feature Documentation 
+## Feature Documentation 
 
 * [[V2 Features|Version 2.x Features]]
 * [[V3 Features|Version 3.x Features]]
 
-h3. Train and Racing View
+### Train and Racing View
 
 * [[Realtime set up]]
 * [[Allowing your Linux userid permission to use your USB device]]
 * [[Solo Ride]]
 * [[Video/Media and Workout Files]]
 
-h2. Training Measures
+## Training Measures
 
-h3. Power Measures
+### Power Measures
 
 * [[BikeScore]]
 * [[Daniels Points]]
 * [[xPower]]
 * [[Relative Intensity]]
 
-h3. Heart Rate Measures
+### Heart Rate Measures
 
 * [[TRIMP]]
 * [[TRIMP 100]]
 * [[TRIMP Zonal]]
 
-h2. Website and Wiki Information
+## Website and Wiki Information
 
 * [[How to embed Youtube video for Screencasts]]
 * [[Wiki formatting guidelines]]
 
-h2. Screencasts
+## Screencasts
 
 * [[Getting Started with Golden Cheetah 2.0 HOWTO]]
 * [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]]
@@ -77,13 +75,13 @@ h2. Screencasts
 * [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
 * [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
 
-h1. Developer Guide
+## Developer Guide
 
 * "Golden Cheetah - Developer's Guide":http://www.goldencheetah.org/developers-guide.html
 * [[Guidelines for submitting a patch]]
 * [[Switching to the dev branch with GIT]]
 
-h2. Windows
+## Windows
 
 * "Building Golden Cheetah for Windows":http://goldencheetah.stand2surf.net/?page_id=27
 * [[Eclipse IDE for Windows Developing and Debugging]]
