@@ -5,7 +5,7 @@
 ### General setup/installation help
 
 * [[Getting Started with Golden Cheetah 2.0 HOWTO]] screencast
-* [[I want to preview the latest features that GC has to offer]].
+* [[I want to preview the latest features that GC has to offer.]] For the latest Builds
 * [[Installing the D2XX Drivers on Mac OS]].
 * [[Powertap USB cradle permissions on Linux]]
 * [[PCV on Mac OS X]]
