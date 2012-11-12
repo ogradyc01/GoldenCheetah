@@ -1,7 +1,7 @@
 # Welcome to Golden Cheetah
 
 ## WIKI Documents
-* [[Users Guide]] User Guide, How-to and Help Pages
+* [[User's Guide]] User Guide, How-to and Help Pages
 * [[Developers Guide]] How-to and Help Pages
 
 ## Office Golden Cheetah Website documents
