@@ -1,7 +1,7 @@
 # Installing the D2XX Drivers on Mac OS
 
 We've created an installer to automate the process listed below. You can download the installer here:
-http://bugs.goldencheetah.org/attachments/download/248/Install_D2XX_drivers.mpkg.zip
+https://github.com/srhea/GoldenCheetah/blob/master/contrib/Install_D2XX_drivers.mpkg.zip?raw=true
 
 Expand the .zip archive and double click the .mpkg file to install.
 
@@ -11,7 +11,7 @@ This will guide you through the steps to install the D2XX drivers required for d
 
 You may find it easiest to copy and paste the commands for each step to the terminal to avoid typos.
 
-* Download the drivers from here: http://bugs.goldencheetah.org/attachments/download/1/Universal_D2XX0.1.6.dmg
+* Download the drivers from here: https://github.com/srhea/GoldenCheetah/blob/master/contrib/Universal_D2XX0.1.6.dmg?raw=true
 * mount the disk image by double clicking the .dmg file
 * drag the D2XX folder to the Desktop
 * Open a Terminal window (Finder->Go->Utilities->Terminal).
