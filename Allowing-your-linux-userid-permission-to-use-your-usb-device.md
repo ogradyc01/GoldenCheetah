@@ -6,6 +6,7 @@ Our USB device is called _/dev/ttyUSB0_.
 Check the current permissions and owner/group of the device.
 
 `[user@machine ~]$ ls -la /dev/ttyUSB0`
+
 `crw-rw----. 1 root dialout 188, 0 Apr  3 21:16 /dev/ttyUSB0`
  
 For this configuration, the owner is _root_, the group is _dialout_and both the owner/group have _read/write_ permissions.
