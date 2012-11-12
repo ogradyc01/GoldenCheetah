@@ -1,8 +1,8 @@
 If you like you can create a separate clone of the release_3.0.0dev branch.
 
 To do so:
-1. Change to a directory one level up from where you would like to install the new clone.
 
+1. Change to a directory one level up from where you would like to install the new clone.
 2. Issue the command:
 
 `git clone -b <branch_name_on_GitHub> https://github.com/srhea/GoldenCheetah.git <Your_name_for_the_branch>`
