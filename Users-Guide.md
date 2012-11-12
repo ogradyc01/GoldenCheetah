@@ -74,14 +74,3 @@
 * [[The Metrics tab in Golden Cheetah 2.0 HOWTO]]
 * [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
 * [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
-
-## Developer Guide
-
-* "Golden Cheetah - Developer's Guide":http://www.goldencheetah.org/developers-guide.html
-* [[Guidelines for submitting a patch]]
-* [[Switching to the dev branch with GIT]]
-
-## Windows
-
-* "Building Golden Cheetah for Windows":http://goldencheetah.stand2surf.net/?page_id=27
-* [[Eclipse IDE for Windows Developing and Debugging]]
