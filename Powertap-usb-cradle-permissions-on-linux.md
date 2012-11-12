@@ -4,7 +4,8 @@ To rectify this you, on most distributions of Linux, the 'udev' daemon will moni
 
 To do this:
 
-Create a file "/etc/udev/rules/powertap.rules" containing the following line:
-SYSFS{idVendor}=="0403", SYSFS{idProduct}=="6001", MODE="666", GROUP="plugdev"
+Create a file "_/etc/udev/rules/powertap.rules_" containing the following line:
+
+`SYSFS{idVendor}=="0403", SYSFS{idProduct}=="6001", MODE="666", GROUP="plugdev"`
 
 (Many thanks to Gary Smith for providing this information.)
