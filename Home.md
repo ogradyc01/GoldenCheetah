@@ -1,6 +1,6 @@
 # Welcome to Golden Cheetah
 
-* [[Golden Cheetah]] User Guide, How-to and Help Pages
+* [[Users Guide]] User Guide, How-to and Help Pages
 * [[Developers Guide]] How-to and Help Pages
 * [Official Website - Main](http://www.goldencheetah.org/)
 * [Official Website - Developer's Guide](http://www.goldencheetah.org/developers-guide.html)
