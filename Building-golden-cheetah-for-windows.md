@@ -1,3 +1,3 @@
 See:
 
-https://github.com/srhea/GoldenCheetah/blob/master/INSTALL-WIN32
+https://github.com/GoldenCheetah/GoldenCheetah/blob/master/INSTALL-WIN32
