@@ -6,3 +6,4 @@ To find your power peaks for a ride and automatically create intervals around th
 &nbsp;&nbsp;Click on the "Ride" tab at the top of the main graph window.<br>
 &nbsp;&nbsp;Click on one of your power peak intervals (the "Peak 10min" interval, for example) and you will see it highlighted in blue in the "Ride" chart.<br>
 &nbsp;&nbsp;Drag the sliders at the bottom of the window to closely encompass your interval so that you can see it in more detail.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;![http://snag.gy/FQ9iZ.jpg](http://snag.gy/FQ9iZ.jpg)
