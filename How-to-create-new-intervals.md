@@ -1,6 +1,6 @@
 To find your power peaks for a ride and automatically create intervals around them:<br>
-Click on the "Analysis" tab on the top-right side of the window.<br>
-Select the activity you are interested from the window on the left side.<br>
+&nbsp;Click on the "Analysis" tab on the top-right side of the window.<br>
+&nbsp;Select the activity you are interested from the window on the left side.<br>
 Right-click on your selected activity and select "Find power peaks"<br>
 Look below the activity in the interval tab and you will see new power peak intervals listed.<br>
 Click on the "Ride" tab at the top of the main graph window.<br>
