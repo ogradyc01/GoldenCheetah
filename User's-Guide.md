@@ -74,3 +74,4 @@
 * [[The Metrics tab in Golden Cheetah 2.0 HOWTO]]
 * [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
 * [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
+* [[Metadata in Golden Cheetah v3 HOWTO]]
