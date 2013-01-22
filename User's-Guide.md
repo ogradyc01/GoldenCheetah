@@ -11,7 +11,7 @@
 * [[PCV on Mac OS X]]
 * [[Running GC off of a USB drive so you can take GC (and your rides) with you.]]
 * [[How do I configure GC so I can "Tweet my ride" ?]]
-* [[Metadata in Golden Cheetah v3]]
+* [[Metadata in Golden Cheetah v3]] screencast
 
 ### Ride files help
 
@@ -75,4 +75,4 @@
 * [[The Metrics tab in Golden Cheetah 2.0 HOWTO]]
 * [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
 * [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
-* [[Metadata in Golden Cheetah v3]]
+* [[Metadata in Golden Cheetah v3]] screencast
