@@ -37,7 +37,11 @@ To check this is the case, start Terminal, run the following command and then in
 
 `tail -f /var/log/system.log`
 
-You should see the device being inserted and recognized. Add the Device to Golden Cheetah and set the Device Profile to: /dev/ignored as it is not actually needed for anything but getting around the checks in the dialog box. This should hopefully be fixed in the future.
+You should see the device being inserted and recognized.  *What sort of message should one expect to see? For a "USB2 Wireless USB Stick" I see only this message:*
+
+    Feb 28 07:33:54 bobke2 pcscd[67650]: Non-smartcard device launched pcscd [Vendor: 0XFCF, Product: 0X1008]
+
+Add the Device to Golden Cheetah and set the Device Profile to: /dev/ignored as it is not actually needed for anything but getting around the checks in the dialog box. This should hopefully be fixed in the future.
 
 ### Running on Windows
 For the Garmin USB1 stick you will most likely need to download and install device drivers:
