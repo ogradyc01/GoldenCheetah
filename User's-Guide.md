@@ -8,6 +8,7 @@
 * [[I want to preview the latest features that GC has to offer.]] For the latest Builds
 * [[Installing the D2XX Drivers on Mac OS]].
 * [[Powertap USB cradle permissions on Linux]]
+* [[Installing Golden Cheetah on Debian Linux]] using packages directly from the repositories.
 * [[PCV on Mac OS X]]
 * [[Running GC off of a USB drive so you can take GC (and your rides) with you.]]
 * [[How do I configure GC so I can "Tweet my ride" ?]]
