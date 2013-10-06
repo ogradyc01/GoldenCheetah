@@ -59,14 +59,18 @@ You need to give your ANT+ stick read write permissions.
 To do this, create a file:
 `/etc/udev/rules.d/51-garmin-usb.rules`
 containing the following line:
-`ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"` 
+`SUBSYSTEM="usb", ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"` 
 In the command line you could do this (as root):
-`echo 'ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"' >> /etc/udev/rules.d/51-garmin-usb.rules`
+`echo 'SUBSYSTEM="usb", ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"' >> /etc/udev/rules.d/51-garmin-usb.rules`
 Then in GC:
 
 * A sensible device name should be chosen.
 * Device Port needs to be populated, but is not used – just add something like '/dev/ttyANT'.
 * To set up a workout, simply select your new device, press 'start', and begin pedaling. It should just work.
+
+To verify the idVendor and idProduct run
+
+`lsusb`
 
 **Older versions with Linux**
 
