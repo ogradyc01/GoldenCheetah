@@ -1,0 +1,35 @@
+I usually build Golden Cheetah in VirtualMachines so that I can keep up to date with the latest build requirements without breaking my desktop installation.
+
+The easiest way to do this is to build on a clean VirtualBox install of ubuntu
+
+The following are sh commands you can paste at the command line of a brand new clean install of ubuntu13.04 that will create an environment on which you can then build GC
+
+<pre><code># Run as Root
+apt-get update
+apt-get upgrade
+apt-get install  build-essential git subversion yasm  libtool autoconf pkg-config vim bison flex 
+# If you are running on VirtualBox
+cd /media/diarmuid/VBOXADDITIONS_4.2.18_88780/
+./VBoxLinuxAdditions.run 
+# The require packages
+apt-get install libboost-dev  libkml-dev libical-dev vlc  libclucene-dev libexpat1-dev libvlc-dev libz-dev  libvlccore-dev libssl-dev libcrypto++  libcurl4-openssl-dev libgnome2-common libqt4-dev libqt4-sql-sqlite qt4-qtconfig
+# A few fixes
+cp /usr/lib/i386-linux-gnu/CLucene/clucene-config.h /usr/include/CLucene/
+cd /usr/lib/i386-linux-gnu/qt4/bin/ ; ln -s lrelease lrelease-qt4 ; cd
+# libusb
+mkdir build ; cd build
+wget -O libusb-0.1.12.tar.gz "http://downloads.sourceforge.net/project/libusb/libusb-0.1%20%28LEGACY%29/0.1.12/libusb-0.1.12.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Flibusb%2Ffiles%2Flibusb-0.1%2520%28LEGACY%29%2F0.1.12%2F&ts=1381952912&use_mirror=freefr"
+tar zxvf libusb-0.1.12.tar.gz ; cd libusb-0.1.12
+./configure ; make ; make install
+</code></pre>
+
+Then as a regular user you can build GC
+<pre><code># User
+mkdir build; cd build
+git clone https://github.com/GoldenCheetah/GoldenCheetah.git
+cd GoldenCheetah/ ; cp  src/gcconfig.pri.in  src/gcconfig.pri ; cp qwt/qwtconfig.pri.in qwt/qwtconfig.pri
+
+#Edit the config files . I used kml, boost, ical,libusb , vlc, clucene, libz
+vim src/gcconfig.pri
+vim qwt/qwtconfig.pri
+</code></pre>
