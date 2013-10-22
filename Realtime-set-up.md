@@ -62,6 +62,8 @@ containing the following line:
 `SUBSYSTEM="usb", ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"` 
 In the command line you could do this (as root):
 `echo 'SUBSYSTEM="usb", ATTRS{idVendor}=="0fcf", ATTRS{idProduct}=="1008", MODE="0666"' >> /etc/udev/rules.d/51-garmin-usb.rules`
+After you connect the ANT+ stick and the device is created (eg /dev/ttyUSB0) verify that the permissions on the device allow the user to read from the device.
+
 Then in GC:
 
 * A sensible device name should be chosen.
