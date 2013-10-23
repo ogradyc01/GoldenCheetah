@@ -2,7 +2,24 @@ The realtime racing mode (available from the training and racing view) requires 
 
 _**Device support has been in active development and this information is up to date for dev builds as of mid November 2012.**_
 
-From the configuration dialog box (Tools->Options or Golden Cheetah->preferences on a Mac) you should select the Devices icon at the bottom on the left. From here you will be able to add or delete devices to the device list shown in the table. Each device is given a name and type. Use the name to distinguish between devices that you have. Once the device is setup, you need to select it in the 'Workout Library' and click the play button in the the 'Train' tab. Data from your device should display in the boxes at the top of screen.
+From the configuration dialog box (Tools->Options or Golden Cheetah->preferences on a Mac) you should select the Devices icon at the bottom on the left. 
+
+![Tools -> Options -> Train Devices](https://raw.github.com/dhague/GoldenCheetah/master/doc/web/Tools_Options_TrainDevices.png)
+
+From here you will be able to add or delete devices to the device list shown in the table. 
+For ANT+ sensors such as a heart rate belt, speed/cadence sensor or power meter you should click on the Native ANT+ option.
+
+![Choose Native ANT+](https://raw.github.com/dhague/GoldenCheetah/master/doc/web/AddNativeAnt.png)
+
+In the next screen Golden Cheetah should automatically detect and pair with any active devices, showing the current data value on the right. In the example below only a heart rate belt is connected:
+
+![Paired HR belt](https://raw.github.com/dhague/GoldenCheetah/master/doc/web/PairedHR.png)
+
+Each device is given a name and type. Use the name to distinguish between devices that you have. 
+
+![Device name](https://raw.github.com/dhague/GoldenCheetah/master/doc/web/NameConfig.png)
+
+Once the device is setup, you need to select it in the 'Workout Library' and click the play button in the the 'Train' tab. Data from your device should display in the boxes at the top of screen.
 
 At the moment, only a single device source (ie. Either Native ANT+ or Computrainer, not both) can be active at one time.
 
