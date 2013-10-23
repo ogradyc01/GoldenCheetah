@@ -1,8 +1,6 @@
 The realtime racing mode (available from the training and racing view) requires you to configure the devices you wish to use. For v2.0 and greater, currently, three kinds of devices are supported; Computrainer (via Serial or Serial-to-USB adapter) Golden Cheetah Server or ANT+ via Quarq's Quarqd. From v3.0 onwards Golden Cheetah supports Native ANT+.
 
-_**Device support has been in active development and this information is up to date for dev builds as of mid November 2012.**_
-
-From the configuration dialog box (Tools->Options or Golden Cheetah->preferences on a Mac) you should select the Devices icon at the bottom on the left. 
+From the configuration dialog box (Tools->Options or Golden Cheetah->preferences on a Mac) you should select the Train Devices icon at the bottom on the left. 
 
 ![Tools -> Options -> Train Devices](https://raw.github.com/dhague/GoldenCheetah/master/doc/web/Tools_Options_TrainDevices.png)
 
