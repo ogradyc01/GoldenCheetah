@@ -4,10 +4,12 @@ The easiest way to do this is to build on a clean VirtualBox install of ubuntu
 
 The following are sh commands you can paste at the command line of a brand new clean install of ubuntu13.04 that will create an environment on which you can then build GC
 
+This also worked identically to build GC on a Raspberry Pi. The only hitch was that I could not get clucene working and it took just over 6 hours. The base OS was Raspian7
+
 <pre><code># Run as Root
 apt-get update
 apt-get upgrade
-apt-get install  build-essential git subversion yasm  libtool autoconf pkg-config vim bison flex 
+apt-get install  build-essential git subversion yasm  libtool autoconf pkg-config vim bison flex binutils
 # If you are running on VirtualBox
 cd /media/diarmuid/VBOXADDITIONS_4.2.18_88780/
 ./VBoxLinuxAdditions.run 
@@ -30,6 +32,7 @@ git clone https://github.com/GoldenCheetah/GoldenCheetah.git
 cd GoldenCheetah/ ; cp  src/gcconfig.pri.in  src/gcconfig.pri ; cp qwt/qwtconfig.pri.in qwt/qwtconfig.pri
 
 #Edit the config files . I used kml, boost, ical,libusb , vlc, clucene, libz
+#I could not get clucene working on RaspberryPi
 vim src/gcconfig.pri
 vim qwt/qwtconfig.pri
 </code></pre>
