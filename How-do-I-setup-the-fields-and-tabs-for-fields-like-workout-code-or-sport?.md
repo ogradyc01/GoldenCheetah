@@ -1,0 +1,1 @@
+Can I customize the fields viewed in the summary view with regards to the information in the intervals?  I'd like to be able to see the aerobic decoupling by lap.
