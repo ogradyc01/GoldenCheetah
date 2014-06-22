@@ -1,6 +1,8 @@
 First Steps: Prerequisites (Version 3.1)
 ***
-In order to use GoldenCheetah you have to install it on you PC. GoldenCheetah is NOT a Web-based application, but has to be installed locally on your PC.
+In order to use GoldenCheetah you have to install it on you PC. Supported operating systems are listed on the GoldenCheetah website. 
+
+_Note:_ GoldenCheetah is NOT a web-based application, but has to be installed locally on your PC.
 
 Stable release build for download are available on the GoldenCheetah website, at [www.goldencheetah.org/download](http://www.goldencheetah.org/download.html)
 
