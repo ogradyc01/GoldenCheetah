@@ -1,5 +1,5 @@
 The main focus of this new Golden Cheetah User's Guide is to describe the features and functions provided by Golden Cheetah by 
-* [going through all the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: Prerequisites )
+* [going through all the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: What you need to do)
 * explaining the different views and charts provided
 * providing general tipps and tricks on Golden Cheetah UI and more
 * explaining general features which are used in multiple functions (e.g Search/Filter)
