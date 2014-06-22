@@ -11,4 +11,4 @@ There are development builds available on the GoldenCheetah development build we
 
 You can also build a GoldenCheetah version from the source code available here at GitHub. 
 
-Please be aware that this user guide will not provide any further information about these options. But it assumes that you have installed a offical final build.
+Please be aware that this user guide will not provide any further information about these options, But assumes that you have installed an offical final build.
