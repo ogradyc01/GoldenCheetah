@@ -7,4 +7,4 @@ Stable release build for download are available on the GoldenCheetah website, at
 Once you have installed the software on you PC, you can run it, it doesn't need any configuration before you start.
 
 ***
-There are development builds available on the GoldenCheetah development build website, at [www.stand2surf.net](http://www.stand2surf.net) 
+There are development builds available on the GoldenCheetah development build website, at [www.stand2surf.net](http://goldencheetah.stand2surf.net/) 
