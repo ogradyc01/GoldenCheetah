@@ -2,7 +2,7 @@ First Steps: What you need to do (Version 3.1)
 ***
 The minimum (without this you will not even reach the main screen of GoldenCheetah):
 
-1. [Download GoldenCheetah and install it on your PC ](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: What you need to do)
+1. [Download GoldenCheetah and install it on your PC ](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: Prerequisites)
 2. Setting up the first athlet 
 3. Get you first ride(s) downloaded from device or imported from files
 
