@@ -19,4 +19,4 @@ You will notice that the files are opened first to ensure you have the required 
 
 The splash screen will now disapper and reveal the main GoldenCheetah 'Rides' view and you can now start analysing and tracking your performance.
 
-
+NEXT STEP: [First-Steps:-What-you-need-to-do] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps:-What-you-need-to-do)
