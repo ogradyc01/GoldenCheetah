@@ -11,20 +11,24 @@ Looking at the figure above you will see the following components:
 ### Menu Bar 
 The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot shown is frome a Windows 7 version. On Mac OSX or modern Linux distributions the 'Menu Bar' will appear on the top (border) of the screen. 
 
-_Note:_The 'Menu Bar' layout and content is the same for all views and not configurable.
+_Note:_ The 'Menu Bar' layout and content is the same for all views and not configurable.
 
 ### Tool Bar 
 The 'Tool Bar' contains buttons to get quick access to functions that also available within the menu bar. We place them in the 'Tool Bar' because they are used very commonly, and it is handy to be able to get at them quickly and easily.
 
-_Note:_The 'Tool Bar' layout and content is the same for all views and not configurable.
+_Note: The 'Tool Bar' layout and content is the same for all views and not configurable._
 
 ### Scope Bar
 The 'Scope Bar' is used to select the GoldenCheetah view. Each view offers different functionality as their names suggest. 
 
-_Note:_The 'Scope Bar' layout and content is the same for all views and not configurable.
+_Note: The 'Scope Bar' layout and content is the same for all views and not configurable._
 
 ### Charts Bar
-The 'Charts Bar'Additionally there is a '+' menu to the right of the scope bar for adding charts to the view selected.
+The 'Chart Bar' shows the different charts for the view active in 'Scope Bar'. The 'Chart Bar' is the selection of main charts which are configured for a specific view of the 'Scope Bar'. 
+
+_Note: The 'Chart Bar' is configurable and different for each view of the 'Scope Bar'. GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
+
+If you want to add, delete 'Charts' or reset the 'Chart Bar' to the GoldenCheetah default, please have a look at the description [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar: General handling)
 
 ### Side Bar - the side bar contains selections and lists that are most appropriate for what
 the user is currently doing. It changes as dierent views are selected in the scope bar.
