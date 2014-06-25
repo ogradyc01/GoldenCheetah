@@ -26,7 +26,7 @@ _Note: The 'Scope Bar' layout and content is the same for all views and not conf
 ### Charts Bar
 The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. The 'Charts Bar' is your selection of charts which are configured for a specific view of the 'Scope Bar'. 
 
-_Note: The 'Charts Bar' different for each view of the 'Scope Bar' and configurable for your GoldenCheetah version. GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
+_Note: The 'Charts Bar' differ for each view of the 'Scope Bar' and is configurable for your GoldenCheetah version. Whith the installation GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
 
 If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah default, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar: General handling)
 
