@@ -1,2 +1,2 @@
-Special Topics: Setting the athlet directory (Version 3.)
+Special Topics: Setting the athlet directory (Version 3.1)
 ***
