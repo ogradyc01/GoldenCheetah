@@ -8,16 +8,15 @@ At a later stage (when having multiple athlets created) - see [Special Topics: H
 
 (Sreenshot: New Athlet Dialog)
 
-Whilst it is possible to congure these values in preferences or within an individual activity
+Whilst it is possible to configure these values in preferences or within an individual activity
 you should go ahead and set up as much of the data as accurately as possible. These values
 are used as defaults in many metric calculations.
 
-If you click on the blank athlete icon on the right it is possible to set an image for the
-athlete too. This isn't used anywhere at present, but that may change in the future.
+Details in the fields can be found on [Configuration: Athlet](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Configuration: Athlet)
 
-_Note:_ Since GoldenCheetah 3.1 it is possible to define an explicite "Athlete Directory" in which all the data of the created athletes are stored. When starting GoldenCheetah for the first time, your first athlet is created in the "default directory" which might deviate from directory you want to use.
+_Note:_ Since GoldenCheetah 3.1 it is possible to define an explicite "Athlete Directory" in which all the data of the created athletes are stored. When starting GoldenCheetah for the first time, your first athlet is created in the "default directory". If you consider using a different athlete directory than the default one, please follow the guide [Special Topics: Setting the athlet directory](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlet directory) after your have created and saved your first athlet and before importing any rides and changing any other configuration of GoldenCheetah. (Reason behind is that as of today GoldenCheetah does not provide a feature to copy athlet data between different directories - this would be a manual step for which you need to understand to data storage concepts of GoldenCheetah. So selecting the correct athlet directory before adding an rides is a important step.)
 
-If you want to use a different athlete directory than the default one, please follow the guide [Special Topics: Setting the athlet directory](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlet directory) after your have created and saved your first athlet.
+
 
 
 
