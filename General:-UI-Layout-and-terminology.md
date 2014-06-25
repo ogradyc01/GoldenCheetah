@@ -26,19 +26,16 @@ _Note: The 'Scope Bar' layout and content is the same for all views and not conf
 ### Charts Bar
 The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. The 'Charts Bar' is your selection of charts which are configured for a specific view of the 'Scope Bar'. 
 
-_Note: The 'Chart Bar' different for each view of the 'Scope Bar' and configurable for your GoldenCheetah version. GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
+_Note: The 'Charts Bar' different for each view of the 'Scope Bar' and configurable for your GoldenCheetah version. GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
 
-If you want to add, delete 'Charts' or reset the 'Chart Bar' to the GoldenCheetah default, please have a look at the description [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar: General handling)
+If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah default, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar: General handling)
 
 ### Side Bar 
 The 'Side Bar' contains selections and lists that are most appropriate for what the user is currently doing. It changes as different views are selected in the 'Scope Bar'.  
 
-Main View - selected via the scope bar the main view shows the charts and windows
-relevant to the view in question. Analysis View contains analysis functions and so on.
-Note that the view can be shown in a tabbed style or a scrolling set of tiles.
-The only time the main window looks dierent to that shown above is when running for
-the rst time or when no data is available. In this case a `splash' screen is shown to assist
-new users in importing data or setting up devices etc.
+### Main View 
+Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
 
 ### Compare Pane
 
+... to be completed ...
