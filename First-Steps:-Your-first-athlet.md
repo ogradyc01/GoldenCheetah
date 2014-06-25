@@ -8,9 +8,7 @@ At a later stage (when having multiple athlets created) - see [Special Topics: H
 
 (Sreenshot: New Athlet Dialog)
 
-Whilst it is possible to configure these values in preferences or within an individual activity
-you should go ahead and set up as much of the data as accurately as possible. These values
-are used as defaults in many metric calculations.
+Whilst it is possible to configure these values in preferences or within an individual activity you should go ahead and set up as much of the data as accurately as possible. These values are used as defaults in many metric calculations.
 
 Details in the fields can be found on [Configuration: Athlet](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Configuration: Athlet)
 
@@ -22,6 +20,7 @@ Once you're happy with the athlet settings click save and you will then be able 
 
 This page is shown because there is no data associated with this athlete. We need to go ahead and download some data from your bike computer or import some data from disk or USB.
 
+NEXT STEP: [Get you first ride(s) downloaded from device or imported from files](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: Download or import) 
 
 
 
