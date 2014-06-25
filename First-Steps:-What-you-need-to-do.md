@@ -15,8 +15,9 @@ In addition to minimum there is some configuration you look at and configure to 
 
 ### Important settings for an athlet 
 
-1. Defining your training zones 
+1. [Defining your training zones](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Configuration: Athlet - Training Zones)
 2. 
 
 
+NEXT STEP:
 
