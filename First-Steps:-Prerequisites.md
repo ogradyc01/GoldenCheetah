@@ -8,6 +8,8 @@ Stable release builds for download are available on the GoldenCheetah website, a
 
 Once you have installed the software on you PC, you can run it, it doesn't need any configuration before you start.
 
+NEXT STEP: [Setting up the first athlet](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: Your first athlet) 
+
 ***
 There are development builds available on the GoldenCheetah development build website, at [goldencheetah.stand2surf.net](http://goldencheetah.stand2surf.net/) 
 
