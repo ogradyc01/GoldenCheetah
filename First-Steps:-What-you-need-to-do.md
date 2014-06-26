@@ -10,12 +10,12 @@ In addition to minimum there is some configuration you look at and configure to 
 
 ### Important general settings
 
-1. [Check and configure your athlet directory](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlet directory) 
-2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Configuration: General) 
+1. [Check and configure your athlete library](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlete library) 
+2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: General) 
 
 ### Important settings for an athlet 
 
-1. [Defining your training zones](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Configuration: Athlet - Training Zones)
+1. [Defining your training zones](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlet - Training Zones)
 2. 
 
 
