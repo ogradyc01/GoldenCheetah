@@ -10,5 +10,36 @@ Options provides multiple configuration views, which are selected through the 'O
 
 1. General
 
-General setting of Golden Cheetah. More details see: [General] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: General)
+General setting of Golden Cheetah. More details: [General] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: General)
+
+2. Athlete
+
+Athlete specific settings - configured for your currently active athlete. More details: [Athlete] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete)
+
+3. Passwords
+
+TBC: Data of this view is stored per Athlete
+
+Athlete specific definition of websites and passwords for data upload and download. More details: [Passwords] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Passwords)
+
+4. Appearance
+
+General settings on font, colors and style GoldenCheetah is using in it' UI. More details: [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Appearance)
+
+5. Data Fields
+
+General settings on font, colors and style GoldenCheetah is using in it' UI. More details: [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Appearance)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
