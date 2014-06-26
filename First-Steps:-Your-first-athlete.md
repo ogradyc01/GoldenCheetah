@@ -2,7 +2,7 @@ First Steps: Your first athlete (Version 3.1)
 ***
 When you run GoldenCheetah for the very first time, you need to create you first athlete through the "Choose an Athlet" dialog box.
 
-![Choose an athlete](http://github.com/Joern-R/GoldenCheetah/blob/master/wiki/FirstSteps_YourFirstAthlete_ChooseAnAthlete.JPG)
+![Choose an athlete] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/wiki/FirstSteps_YourFirstAthlete_ChooseAnAthlete.JPG)
 
 At a later stage (when having multiple athletes created) see [Special Topics: Handling multiple athletes](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Handling multiple athletes) 
 you can select one of existing ones. But here you have to select "New..." which opens another dialog window to create a new athlete and set some basic data.
