@@ -13,7 +13,7 @@ The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot s
 
 _Note:_ The 'Menu Bar' layout and content is the same for all views and not configurable.
 
-More information on the Menu Bar and the different menu functions is provided here: [Menu Bar: Functions handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: Functions)
+More information on the Menu Bar and the different menu functions is provided here: [Menu Bar: Functions] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: Functions)
 
 ### Tool Bar 
 The 'Tool Bar' contains buttons to get quick access to functions that also available within the menu bar. We place them in the 'Tool Bar' because they are used very commonly, and it is handy to be able to get at them quickly and easily.
