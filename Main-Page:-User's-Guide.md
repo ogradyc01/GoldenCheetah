@@ -6,7 +6,7 @@ The main focus of this new GoldenCheetah User's Guide is to describe the feature
 * providing general tipps and tricks on GoldenCheetah UI and more
 * explaining general features which are used in multiple functions (e.g Search/Filter)
 * adding some country specific information (e.g. related to who things are translated)
-* [other knowledge sources] ](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
+* [other knowledge sources](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
 
 
 There are some assumptions taken regarding what this guides is NOT. It's
