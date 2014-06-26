@@ -13,12 +13,14 @@ The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot s
 
 _Note:_ The 'Menu Bar' layout and content is the same for all views and not configurable.
 
-More information on the Menue Bar and the different menu functions is provided here: [Menu Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: General handling)
+More information on the Menu Bar and the different menu functions is provided here: [Menu Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: General handling)
 
 ### Tool Bar 
 The 'Tool Bar' contains buttons to get quick access to functions that also available within the menu bar. We place them in the 'Tool Bar' because they are used very commonly, and it is handy to be able to get at them quickly and easily.
 
 _Note: The 'Tool Bar' layout and content is the same for all views and not configurable._
+
+More information on the Tool Bar and the available functions is provided here: [Tool Bar: Functions] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar: Functions)
 
 ### Scope Bar
 The 'Scope Bar' is used to select the GoldenCheetah view. Each view offers different functionality as their names suggest. 
