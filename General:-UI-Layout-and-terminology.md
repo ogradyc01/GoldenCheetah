@@ -15,9 +15,6 @@ _Note:_ The 'Menu Bar' layout and content is the same for all views and not conf
 
 More information on the Menue Bar and the different menu functions is provided here: [Menu Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: General handling)
 
-Menu Bar: General  
-
-
 ### Tool Bar 
 The 'Tool Bar' contains buttons to get quick access to functions that also available within the menu bar. We place them in the 'Tool Bar' because they are used very commonly, and it is handy to be able to get at them quickly and easily.
 
