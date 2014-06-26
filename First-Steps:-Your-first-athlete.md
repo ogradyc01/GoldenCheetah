@@ -1,4 +1,4 @@
-First Steps: Your first athlet (Version 3.1)
+First Steps: Your first athlete (Version 3.1)
 ***
 When you run GoldenCheetah for the very first time, you need to create you first athlete through the "Choose an Athlet" dialog box.
 
