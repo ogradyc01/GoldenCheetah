@@ -19,6 +19,6 @@ GoldenCheetah is not removing your old 'Athlet Library' or deleting any athlet d
 
 After selecting a new 'Athlet Library' which is recommended to be an EMPTY directory of your system, you need either to manually takeover your data from the previous library. Or you start with a new athlet in your new library.
 
-When pressing `Save` on the info popup after changing the 'Athlet Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlet Library' the 'Choose an Athlet' popup appears, allowing you to create a new athlet. Further information see:
+When pressing `Save` on the info popup after changing the 'Athlet Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlet Library' the 'Choose an Athlet' popup appears, allowing you to create a new athlet. Further information see: [First Steps: Your first athlet](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First%20Steps:%20Your%20first%20athlet)
 
  
