@@ -30,15 +30,15 @@ _Note: The 'Charts Bar' differ for each view of the 'Scope Bar' and is configura
 
 If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah default, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar: General handling)
 
+### Main View 
+Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
+
 ### Side Bar 
 The 'Side Bar' contains selections and lists that are most appropriate for what the user is currently doing. 
 
 _Note:_ The 'Side Bar' changes as different views are selected in the 'Scope Bar'. 
 
 More information on the Side Bar in general and the variants per view is provided here: [Side Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar: General handling)
-
-### Main View 
-Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
 
 ### Compare Pane
 
