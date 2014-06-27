@@ -15,9 +15,9 @@ Setting up the training zones for 'Power' and 'Heartrate' is done a a very simil
 
 * W': (spoken W Prime) is (very simplified) the work you can deliver above CP (in Joules/kJ). It's important to be set and is also part of the CP estimator. ´Menu Bar -> xxx -> yyy´. There are some more metrics related to it e.g. 'Minimum W'bal' and 'Maximum W' match'.
 
-* + or Add button: Depending on your operating system, you will see either +/- buttons or Add/Delete buttons on the screen. '+' or 'Add' is used to create a new set of zones using the data you entered in the 'Create New' section of the screen. Newly added sets appear in the 'Zones Header' section. And if you select a line in the 'Zones Header' section, the 'Zones Details' section shows the different Zones for this line.
+* '+' or 'Add' button: Depending on your operating system, you will see either +/- buttons or Add/Delete buttons on the screen. '+' or 'Add' is used to create a new set of zones using the data you entered in the 'Create New' section of the screen. Newly added sets appear in the 'Zones Header' section. And if you select a line in the 'Zones Header' section, the 'Zones Details' section shows the different Zones for this line.
 
-* - or Delete button: The '-' or 'Delete' button removes the entry marked in the 'Zones Header' section from your defined zones. 
+* '-' or 'Delete' button: The '-' or 'Delete' button removes the entry marked in the 'Zones Header' section from your defined zones. 
 
 _Note: Any changes on of data is only stored if you press 'Save'. The system does not check on changes if you leave the screen with 'Close', but will just discard whatever you have changed._
 
