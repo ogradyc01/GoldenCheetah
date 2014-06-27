@@ -1,7 +1,9 @@
 Options: General (Version 3.1)
 ***
 
-On this screen you set several important parameters which are used by GoldenCheetah in different places. 
+_Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
+
+Here you configure several important parameters which are used by GoldenCheetah in different places. 
 
 (Screeshot: Options General)
 
