@@ -1,6 +1,8 @@
 Options: Athlete (Version 3.1)
 ***
 
+_Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
+
 The athlete specific data allows to change the settings you have done when creating a new athlete and also completes them by setting up the 'Power' and 'Heartrate' zones for the athlet.
 
 _Note: All on this view is stored for the current athlete._
