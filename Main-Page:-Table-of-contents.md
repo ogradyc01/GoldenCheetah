@@ -31,6 +31,8 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 ## Options
 
 * [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Overview)
+* [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options:%20General)
+* [Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete)
 * [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete: Training Zones)
 
 
