@@ -17,7 +17,7 @@ Setting up the training zones for 'Power' and 'Heartrate' is done a a very simil
 
 * - or Delete button: The '-' or 'Delete' button removes the entry marked in the 'Zones Header' section from your defined zones. 
 
-_Note: Any changes on of data is only stored if you press 'Save'. The system does not check on changes if you leave the screen with 'Close', but will just discard whatever you have changed.
+_Note: Any changes on of data is only stored if you press 'Save'. The system does not check on changes if you leave the screen with 'Close', but will just discard whatever you have changed._
 
 The screen has two tabs again, namely 'Critical Power' and 'Default'. It's important to understand the concept of 'Default' as this can save you a lot of time.
 
@@ -31,13 +31,19 @@ For 'Power' the 'Default' tab lists the common Power Zones Z1 to Z2 as a 'Short'
 
 At the lower/right corner of the screen, you also find the '+/-' or 'Add/Delete' buttons. With those you can Add new zones to your default, or you can remove zones. (Please observe: Maximum number of zones supported is 10). And you can also change both the 'Short' and 'Long' texts for a zone. This is done by moving the mouse cursor over the text to be changed and 'click' on the text. In case the line of the text you want to change was not active, the first click makes the line active, and a second click opens the text field for input.
 
-_Note: Any changes of the default settings are automatically applied to all actual zones records, which are listed in the 'Zones Header' section, as long as you have not done any specific changes to that zone record in the 'Zones details' section. Zone records which have individual changes are display in 'Bold'.
+_Note: Any changes of the default settings are automatically applied to all actual zones records, which are listed in the 'Zones Header' section, as long as you have not done any specific changes to that zone record in the 'Zones details' section. Zone records which have individual changes are display in 'Bold'._
 
 ### Zones Header
 
+The 'Zones Header' section shows the zone records you have created sorted by 'From Date'. When creating all the detailed zones are created based on the definition configured in the 'Default' tab. In case you have changed any of the zone data in the 'Zone detail' section, this text for this records will be displayed in 'Bold' characters, and when selection such a record in the 'Zone Header' section an additional button 'Def' appears. By using this button you can reset the respective to 'Default'. 
 
+(Screen shot: section with 'Def' button)
 
 ### Zones Details
+
+The 'Zones Details' work very similar to the 'Default' tab. You can change 'Short' and 'Long' text, you can add or remove zones and you can define the zone value. Difference here is that the value is not defined as 'Percent of CP' but as absolute 'Watts'.
+
+If you edit anything in 'Zones Details' the zone record will immediately change to 'Bold' display to make you aware.
 
 
 
