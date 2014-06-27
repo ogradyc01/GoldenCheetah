@@ -3,6 +3,8 @@ Options: General (Version 3.1)
 
 On this screen you set several important parameters which are used by GoldenCheetah in different places. 
 
+(Screeshot: Options General)
+
 * Language: This is the language the GoldenCheetah UI comes up. When changing the language this is only taking effect with the next start of GoldenCheetah. When you start GoldenCheetah for the first time on your PC, the system locale (usually the language your operating system is set up) is used as default.
 
 _Note: GoldenCheetah is translated in multiple languages, which you find on the drop-down list. In case texts are not translated for a certain language GoldenCheetah uses the 'English' default texts._
