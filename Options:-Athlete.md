@@ -15,3 +15,7 @@ Fields which you have to maintain on this view are:
 * Weight (to set the default weight) which is used in metrics calculation and display
 
 For Weight please also check: [Special Topics: Weight settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Weight settings) 
+
+The next two tabs 'Power' and 'Heartrate' allow you to setup the training zones for the athlete. GoldenCheetah also an independent definition of zones for 'Power' and 'Heartrate' in all aspects of the configuration. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
+
+ 
