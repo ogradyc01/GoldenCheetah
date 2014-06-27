@@ -38,4 +38,5 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 * [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlete library)
 * [Multiple Athletes] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Handling multiple athletes)
+* [Weight Setting Options] https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics:-Weight-settings
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
