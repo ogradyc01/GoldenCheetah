@@ -1,6 +1,8 @@
 Options: Athlete: Training Zones (Version 3.1)
 ***
 
+_Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
+
 Setting up the training zones for 'Power' and 'Heartrate' is done a a very similar way. Therefore here only the setup for 'Power' is described in details - and for 'Heartrate' just the small differences are outlined.
 
 (Screen Shot: Options:Athlete:Power, Mark the 4 sections (Create New, Zones/Default Tab, Zones Header, Zones Details)
