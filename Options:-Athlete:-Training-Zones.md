@@ -31,6 +31,14 @@ For 'Power' the 'Default' tab lists the common Power Zones Z1 to Z2 as a 'Short'
 
 At the lower/right corner of the screen, you also find the '+/-' or 'Add/Delete' buttons. With those you can Add new zones to your default, or you can remove zones. (Please observe: Maximum number of zones supported is 10). And you can also change both the 'Short' and 'Long' texts for a zone. This is done by moving the mouse cursor over the text to be changed and 'click' on the text. In case the line of the text you want to change was not active, the first click makes the line active, and a second click opens the text field for input.
 
+_Note: Any changes of the default settings are automatically applied to all actual zones records, which are listed in the 'Zones Header' section, as long as you have not done any specific changes to that zone record in the 'Zones details' section. Zone records which have individual changes are display in 'Bold'.
+
+### Zones Header
+
+
+
+### Zones Details
+
 
 
 
