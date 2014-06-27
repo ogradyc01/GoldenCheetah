@@ -15,10 +15,29 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps: Download or import) 
 
 
-## General
+## UI Layout and functions
+
+* [UI Layout and terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General: UI Layout and terminology)
+* [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar: Functions)
+* [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar: Functions)
+* [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar: General handling)
+* [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar: General handling)
+* [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar: Trends view)
+* [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar: Diary view)
+* [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar: Rides view)
+* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/General: UI Layout and terminology)
 
 
 ## Options
 
+* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: General)
+* [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete: Training Zones)
 
-* [Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete: Training Zones)
+
+## Special Topics
+
+* [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlete library)
+* [Multiple Athletes] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Handling multiple athletes)
+* [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
+
+* [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
