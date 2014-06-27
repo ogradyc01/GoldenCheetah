@@ -25,7 +25,7 @@ _Note_: STS and LTS value is stored per user.
 
 * PMC Stress Balance Today: ...
 
-* Athlete Library: See detailed description here: 
+* Athlete Library: See detailed description here: [Setting the athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics:-Setting-the-athlete-library)
 
 
 
