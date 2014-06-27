@@ -5,11 +5,11 @@ On this screen you set several important parameters which are used by GoldenChee
 
 * Language: This is the language the GoldenCheetah UI comes up. When changing the language this is only taking effect with the next start of GoldenCheetah. When you start GoldenCheetah for the first time on your PC, the system locale (usually the language your operating system is set up) is used as default.
 
-_Note: GoldenCheetah is translated in multiple languages, which you find on the drop-down list. In case texts are not translated for a certain language GoldenCheetah uses the 'English" default texts._
+_Note: GoldenCheetah is translated in multiple languages, which you find on the drop-down list. In case texts are not translated for a certain language GoldenCheetah uses the 'English' default texts._
 
 * Crank Length: Is an important parameter for some of the metrics calcated in GoldenCheetah. So maintain carefully.
 
-_Note: As of today the Crank Length is defined for all users and not individual per user.
+_Note: As of today the Crank Length is defined for all users and not individual per user._
 
 * Wheelsize: TBC - where is this used
 
