@@ -55,11 +55,11 @@ The difference in zone creation for heartrate are quite small since the UI is ma
 
 * From Date: Each set of training zones is defined with a specific 'From Date' - as we assume your zones change over time. 
 
-* Lactate Threshold: The lactate threshold heart rate (LTHR) (or anaerobic threshold (AT)) is the exercise intensity at which lactate (more specifically, lactic acid) starts to accumulate in the blood stream. The value entered here is - like CP for power - an important number for GoldenCheetah metrics calculations. (As it e.g. sets the border betwen aerobic and anaerobic exercises.)
+* Lactate Threshold: The lactate threshold heart rate (LTHR) (or anaerobic threshold (AT)) is the exercise intensity at which lactate (more specifically, lactic acid) starts to accumulate in the blood stream. The value entered here is - like CP for power - important for GoldenCheetah metrics calculations. (As it e.g. sets the border betwen aerobic and anaerobic exercises.)
 
 * Rest HR: Heartrate when resting
 
-* Max HR: You maximum heartrate
+* Max HR: Maximum heartrate
 
 ### Zones Details / Default Tab
 
@@ -69,7 +69,6 @@ Values are:
 
 * Default Tab - Percent of LT (Lactate threshold heartrate)
 * Default Tab - Trimp k
-
 * Zones Details - From BPM (Heartrate)
 * Zones Details - Trimp k
 
