@@ -13,11 +13,26 @@ Setting up the training zones for 'Power' and 'Heartrate' is done a a very simil
 
 * W': .....
 
-* +/- or Add/Delete buttons: Depending on you operating system, you will see either +/- buttons or Add/Delete buttons on the screen. '+' or 'Add' is used to create a new set of Zones using the data you entered in the 'Create New' section of the screen. Newly added sets appear in the 'Zones Header' section. And if you select a line in the 'Zones Header' section, the 'Zones Details' section shows the different Zones for this line.
+* + or Add button: Depending on your operating system, you will see either +/- buttons or Add/Delete buttons on the screen. '+' or 'Add' is used to create a new set of zones using the data you entered in the 'Create New' section of the screen. Newly added sets appear in the 'Zones Header' section. And if you select a line in the 'Zones Header' section, the 'Zones Details' section shows the different Zones for this line.
 
- 
+* - or Delete button: The '-' or 'Delete' button removes the entry marked in the 'Zones Header' section from your defined zones. 
+
+_Note: Any changes on of data is only stored if you press 'Save'. The system does not check on changes if you leave the screen with 'Close', but will just discard whatever you have changed.
 
 The screen has two tabs again, namely 'Critical Power' and 'Default'. It's important to understand the concept of 'Default' as this can save you a lot of time.
+
+### Zones/Default Tab
+
+Before proceeding to the 'Zones Details' and editing them, it's very valuable and time saving to understand the purpose of the 'Default' tab.
+
+(Screen Shot: Default Tab - GC Default settings)
+
+For 'Power' the 'Default' tab lists the common Power Zones Z1 to Z2 as a 'Short' text code, 'Long' descriptive text and the value 'Percent of CP'. This default is used as basis for any new zones you create on the 'Critical Power' tab. That means, if you want to have your zones created differently for all your zone entries in future, the 'Default' settings are the place to do these changes once.
+
+At the lower/right corner of the screen, you also find the '+/-' or 'Add/Delete' buttons. With those you can Add new zones to your default, or you can remove zones. (Please observe: Maximum number of zones supported is 10). And you can also change both the 'Short' and 'Long' texts for a zone. This is done by moving the mouse cursor over the text to be changed and 'click' on the text. In case the line of the text you want to change was not active, the first click makes the line active, and a second click opens the text field for input.
+
+
+
 
 
 
