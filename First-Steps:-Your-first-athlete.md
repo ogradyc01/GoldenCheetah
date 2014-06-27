@@ -2,12 +2,12 @@ First Steps: Your first athlete (Version 3.1)
 ***
 When you run GoldenCheetah for the very first time, you need to create you first athlete through the "Choose an Athlet" dialog box.
 
-![Choose an athlete] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/wiki/FirstSteps_YourFirstAthlete_ChooseAnAthlete.JPG)
+![Choose an athlete] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_YourFirstAthlete_ChooseAnAthlete.JPG)
 
 At a later stage (when having multiple athletes created) see [Special Topics: Handling multiple athletes](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Handling multiple athletes) 
 you can select one of existing ones. But here you have to select "New..." which opens another dialog window to create a new athlete and set some basic data.
 
-![New athlete dialog](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/wiki/FirstSteps_YourFirstAthlete_NewAthlete.JPG)
+![New athlete dialog](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_YourFirstAthlete_NewAthlete.JPG)
 
 Whilst it is possible to configure these values in preferences or within an individual activity you should go ahead and set up as much of the data as accurately as possible. These values are used as defaults in many metric calculations.
 
@@ -18,7 +18,7 @@ after your have created and saved your first athlete and before importing any ri
 
 Once you're happy with the athlete settings click `Save` and you will then be able to select your new athlete in that initial dialog (except of course there is now an athlete listed). Go ahead and open that athlete and you will be greeted with GoldenCheetah, but a splash page.
 
-![Analysis view splash screen](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/wiki/FirstSteps_YourFirstAthlete_RidesViewSplashScreen.JPG)
+![Analysis view splash screen](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_YourFirstAthlete_RidesViewSplashScreen.JPG)
 
 This page is shown because there is no data associated with this athlete. We need to go ahead and download some data from your bike computer or import some data from disk or USB.
 
