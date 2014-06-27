@@ -30,7 +30,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Options
 
-* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: General)
+* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Overview)
 * [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete: Training Zones)
 
 
@@ -38,6 +38,4 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 * [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Setting the athlete library)
 * [Multiple Athletes] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Handling multiple athletes)
-* [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
-
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Other information)
