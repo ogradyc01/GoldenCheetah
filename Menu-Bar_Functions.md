@@ -8,12 +8,12 @@ _Note: There is one difference between Windows and Linux builds and MacOS builds
 (Screen Shot: Menu Bar - section only)
 
 
-[Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Athlete)
-[Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Activity)
-[Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Tools)
-[View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_View)
-[Window] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Window)
-[Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Help)
+* [Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Athlete)
+* [Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Activity)
+* [Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Tools)
+* [View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_View)
+* [Window] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Window)
+* [Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Help)
 
 
 
