@@ -42,8 +42,10 @@ The 'Side Bar' contains selections and lists that are most appropriate for what 
 
 _Note:_ The 'Side Bar' changes as different views are selected in the 'Scope Bar'. 
 
-More information on the Side Bar in general and the variants per view is provided here: [Side Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
+More information on the 'Side Bar' in general and the variants per view is provided here: [Side Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
 
 ### Compare Pane
 
-... to be completed ...
+The 'Compare Pane' appears a the lower border of the 'Main View' if activated. It allows comparison of date ranges or rides and intervalls (dependent whether you are on 'Trends' or 'Rides'). In 'Diary' and 'Train' the 'Compare Pane' is not available.
+
+More information on the 'Compare Pane' in general and the variants per view is provided here: [Compare Pane: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General handling)
