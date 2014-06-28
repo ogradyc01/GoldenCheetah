@@ -19,6 +19,6 @@ GoldenCheetah is not removing your old 'Athlete Library' or deleting any athlete
 
 After selecting a new 'Athlete Library' which is recommended to be an EMPTY directory of your system, you need either to manually takeover your data from the previous library. Or you start with a new athlete in your new library.
 
-When pressing `Save` on the info popup after changing the 'Athlete Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlete Library' the 'Choose an Athlete' popup appears, allowing you to create a new athlete. Further information see: [First Steps: Your first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First%20Steps:%20Your%20first%20athlete)
+When pressing `Save` on the info popup after changing the 'Athlete Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlete Library' the 'Choose an Athlete' popup appears, allowing you to create a new athlete. Further information see: [First Steps: Your first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Your-first-athlete)
 
  _Note:_It is highly recommended to use either use only one athlete library OR if you need multiple athlete libraries, to use distinct athlete names - even across the libraries. Reason is that parts of the configuration data is currently stored 'per athlet', but not 'per libary/athlet'. Meaning if you use the same athlet name in multiple libraries they will share the athlet dependent parts options/configuration, but not the same rides,...
