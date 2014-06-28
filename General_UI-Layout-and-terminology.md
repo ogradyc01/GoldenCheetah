@@ -4,9 +4,9 @@ Before you start using GoldenCheetah let's get familiar with the general UI conc
 
 The good news - the UI Layout and user interaction is basically the same on all GoldenCheetah views. But each view has his specific purpose and thus deviates in the content shown to the user.
 
-(Screen Shot: Main Window Elements)
+![Main Window Elements] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/UILaoyut_MainWindowElements.JPG)
 
-Looking at the figure above you will see the following components:
+Looking at the figure above you find the following elements:
 
 ### Menu Bar 
 The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot shown is frome a Windows 7 version. On Mac OSX or modern Linux distributions the 'Menu Bar' will appear on the top (border) of the screen. 
