@@ -7,7 +7,7 @@ The athlete specific data allows to change the settings you have done when creat
 
 _Note: All on this view is stored for the current athlete._
 
-(Screen Shot: Athlete: About)
+![Preferences: Athlete]https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete.jpg)
 
 In the 'About' tab you can change some basic settings - and add a picture for the athlet (if you want to). To add a picture, just click on the 'picture' area to open a 'File Selector' popup. You can select image files of types (.png, .bmp, .jpg). If you file selector does not show and files, use the operating system dependent search syntax in the 'File Name' field. (e.g. in Windows its "*.*). When selecting a picture it's automatically loaded and copied to your athlete specific data in the 'Athlete Library'.
 
