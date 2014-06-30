@@ -5,8 +5,8 @@ Menu Bar: Athlete (Version 3.1)
 
 After creating your first athlete, GoldenCheetah will by default start with opening the last used athlete in a single window. If your are working with multiple athletes - in the same athlete library - you can either
 
-* open each of these athletes in a separate window (or)
-* open each athlete as separate "tabs" in the same window
+* opens the selected athlete in a separate window (or)
+* opens the selected athlete as separate "tabs" in the same window
 
 You can see all athletes available in your athlete library when choosing "Open Window" or "Open Tab". Athletes, which are already opened (either in a separate window, or on a tab) are marked and are not selectable any more.
 
