@@ -24,7 +24,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Done Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
 * [Done Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
 * [Done Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
-* [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
+* [Done Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
 * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
 * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
 * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
@@ -33,11 +33,11 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
 
 
-## Options
+## Preferences
 
-* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [Done Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
-* [Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+* [Done Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
 * [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training Zones)
 * [Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords)
 * [Appearance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
