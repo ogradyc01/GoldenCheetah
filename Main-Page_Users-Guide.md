@@ -24,7 +24,9 @@ Since new versions of Golden Cheetah coming out frequently this WiKi is planned 
 
 For first time users of GoldenCheetah we recommended to at least 'flip-through' the whole Wiki - ideally with GoldenCheetah running in a second window and make yourself familiar with the concepts and features. Once you have done this, use the WiKi to re-visit specific details and concepts which you are using in GoldenCheetah. Most of the GoldenCheetah functionality is very straight forward and self-explanatory. This Wiki will not elaborate on these functions in broad details (everyone of you knows how to select of file for upload, so no need to explain this here) - but the Wiki aims to cover special features related to such features - such as (where to I have context menus on (right) mouse-click, where to I have mouse-over features, what is the impact of moving my athlet directory,...) - so all the things you might face when you use GoldenCheetah.
 
-_Note:_ All screenhots are taken on a Windows 7 installation of GoldenCheetah. Installations on other operating systems supported by GoldenCheetah will have a slightly different look&feel. 
+_Note: All screenhots are taken on a Windows 7 installation of GoldenCheetah. Installations on other operating systems supported by GoldenCheetah will have a slightly different look&feel._
+
+_Disclaimer: The Wiki is written to help users to explore the broadness of GoldenCheetah and to learn all of it's functionality. As any documentation, it may have errors and may be incomplete. Also there may be typos and you will easily notice that this new User's guide is not written by an english native speaker. As the Wiki is open to any GitHub user - improvements and enhancements are welcome. Please try to follow the structure provided initially. In case you do not want to edit, but still provide feedback, please send a mail to "joern.rm at gmail.de". - Thanks_ 
 
 
 
