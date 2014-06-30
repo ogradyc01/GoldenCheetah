@@ -1,4 +1,4 @@
-Options: Appearance (Version 3.1)
+Preferences: Appearance (Version 3.1)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
