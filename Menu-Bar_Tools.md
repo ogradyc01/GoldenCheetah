@@ -29,17 +29,14 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 ***
 
-* Find intervals...
+* Find intervals... - opens a dialog to find intervals in the current ride. The same functionality is also available from the "Side Bar: Intervals" view. 
 
 ***
 
 * [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 * [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
-
 * [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
-
 * [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
-
 * [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 
 
