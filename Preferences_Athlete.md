@@ -20,6 +20,6 @@ For Weight please also check: [Special Topics: Weight settings] (https://github.
 
 The next two tabs 'Power' and 'Heartrate' allow you to setup the training zones for the athlete. GoldenCheetah allows an independent and very flexible definition of zones for 'Power' and 'Heartrate' in all aspects of the configuration. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
 
-* [How-to: Configure Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options:-Athlete:-Training-Zones)
+* [How-to: Configure Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)
 
  
