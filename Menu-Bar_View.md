@@ -18,7 +18,7 @@ The View menu provides a menu access to the
 * Reset Layout - will reset the current view layout to the application default. To avoid any accidential loss of your setting and additional dialog will ask for confirmation.
 * Tabbed not Tiled - toogles tabbed or tiled mode for the current view.
 
-BACK: 
+BACK: [Menu Bar: Functions] https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions
 
 
 
