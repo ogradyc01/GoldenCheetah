@@ -9,7 +9,6 @@ _Note: There is one difference between Windows or Linux builds and MacOS builds.
 * [Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Activity)
 * [Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Tools)
 * [View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_View)
-* [Window] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Window)
 * [Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Help)
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI%20Layout%20and%20terminology)
