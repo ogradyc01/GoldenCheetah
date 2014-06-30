@@ -11,6 +11,9 @@ The main focus of this new GoldenCheetah User's Guide is to describe the feature
 * adding some country specific information (e.g. related to who things are translated)
 * [other knowledge sources](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
 
+And here a link the 'Table of Contents' of this user guide:
+
+* [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
 
 There are some assumptions taken regarding what this guides is NOT. It's
 * not a developer's or build guide for GC / it assumes you are using a stable version of the software with minimum release level 3.1
