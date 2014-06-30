@@ -18,9 +18,9 @@ Athlete specific settings - configured for your currently active athlete. More d
 
 ### Passwords
 
-TBC: Data of this view is stored per Athlete
+Athlete specific definition of websites and passwords for data upload and download. More details: [Upload / Download from/to external web-sites] (Special Topics: Upload_Download to_from external web sites)
 
-Athlete specific definition of websites and passwords for data upload and download. More details: [Passwords] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Passwords)
+_Note: Data of this view is stored separate per athlete_
 
 ### Appearance
 
