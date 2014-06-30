@@ -26,7 +26,7 @@ For first time users of GoldenCheetah we recommended to at least 'flip-through' 
 
 _Note: All screenhots are taken on a Windows 7 installation of GoldenCheetah. Installations on other operating systems supported by GoldenCheetah will have a slightly different look&feel._
 
-_Disclaimer: The Wiki is written to help users to explore the broadness of GoldenCheetah and to learn all of it's functionality. As any documentation, it may have errors and may be incomplete. Also there may be typos and you will easily notice that this new User's guide is not written by an english native speaker. As the Wiki is open to any GitHub user - improvements and enhancements are welcome. Please try to follow the structure provided initially. In case you do not want to edit, but still provide feedback, please send a mail to "joern.rm at gmail.de". - Thanks_ 
+_Disclaimer: The Wiki is written to help users to explore the broadness of GoldenCheetah and to learn all of it's functionality. As any documentation, it will have errors and is always incomplete. Also there will be typos and you will easily notice that this new User's guide is not written by an english native speaker. As the Wiki is open to any GitHub user - improvements and enhancements are welcome. Please try to follow the structure provided initially (best seen in the Table of Contents). In case you do not want to edit, but like to provide direct feedback, ideas for improvement,.. please send a mail to "joern.rm at gmail.com". - Thanks_ 
 
 
 
