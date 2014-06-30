@@ -2,7 +2,10 @@ The main focus of this new GoldenCheetah User's Guide is to describe the feature
 * [going through all the steps a new user has to do when starting](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
 * [explaining the general UI structure and concepts]
 (http://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* explaining the different views and charts provided
+* [explaining the different views]
+(http://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+* [explaining the chart type(s) which are available per view]
+(http://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 * providing general tipps and tricks on GoldenCheetah UI and more
 * explaining general features which are used in multiple functions (e.g Search/Filter)
 * adding some country specific information (e.g. related to who things are translated)
