@@ -24,8 +24,8 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 ***
 
-* Upload Ride to Calendar
-* Refresh Calendar
+* Upload Ride to Calendar - will create a calendar entry to any CalDAV based calendar. You need to configure URL, user and password in the preferences passwords.
+* Refresh Calendar - will read entries from you CalDAV calendar to display on the calendar view. Configuration is the same is in the "Upload Ride to Calendar" function.
 
 ***
 
