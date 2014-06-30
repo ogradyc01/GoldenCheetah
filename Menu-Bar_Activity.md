@@ -9,11 +9,11 @@ So most of the functions in this menu relate to rides. Here the list and some sm
 
 * Download from device... [explained here] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
 * Import from file... [explained here] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
-* Manual ride entry...
+* Manual ride entry... - Opens a dialog to manually create a ride in Golden Cheetah. You can set a number of metrics and metadata. The stress figures can either be estimated or manually entered.
 
 ***
 
-* Export...
+* Export... - 
 * Batch export...
 * Export Metrics as CSV...
 
