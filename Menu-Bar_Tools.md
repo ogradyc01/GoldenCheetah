@@ -39,4 +39,4 @@ The tools menu contains functions which either manipulate rides or relate to add
 * [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 * [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 
-
+BACK: [Menu Bar:Functions:] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions)
