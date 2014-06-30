@@ -5,9 +5,6 @@ The GoldenCheetah 'Menu Bar' is similar to any other applications. So please fin
 
 _Note: There is one difference between Windows or Linux builds and MacOS builds. For Windows and Linux the preferences pane is located unter `Tools -> Options` whilst on MacOS it located under `GoldenCheetah->Preferences`. To be consistent with the Windows 7 screenshots, any pathes to 'Menu Bar' will follow the Windows menu structure._
 
-(Screen Shot: Menu Bar - section only)
-
-
 * [Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Athlete)
 * [Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Activity)
 * [Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Tools)
