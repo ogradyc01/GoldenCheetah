@@ -14,5 +14,6 @@ You can also crate a new ahtlete in the active athlete library here. The other f
 
 For further details on "Athlete library" read [Setting the athlete library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Setting-the-athlete-library)
 
+BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions)
 
 
