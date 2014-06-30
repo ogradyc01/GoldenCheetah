@@ -13,7 +13,7 @@ So most of the functions in this menu relate to rides. Here the list and some sm
 
 ***
 
-* Export... - 
+* Export... - Opens a dialog box to export the currently selected ride. You can choose the directory and the file format - _Note: The file formats are implemented to best knowledge - but since formats evolve or other software does different interpretation some might not work with other software, even if the software claims to be able to read it._
 * Batch export...
 * Export Metrics as CSV...
 
