@@ -36,21 +36,18 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Options
 
-* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Overview)
-* [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_General)
-* [Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete)
-* [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete_Training Zones)
-* [Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Passwords)
-* [Appearance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Appearance)
-* [Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Data Fields)
-* [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Metrics)
-* [Train Devices] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Train Devices)
-
-
+* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+* [Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+* [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training Zones)
+* [Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords)
+* [Appearance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
+* [Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
+* [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+* [Train Devices] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
 
 ## Special Topics
 
 * [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library)
-* [Multiple Athletes] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Handling multiple athletes)
 * [Weight Setting Options] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
