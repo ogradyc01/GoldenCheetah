@@ -27,3 +27,5 @@ So most of the functions in this menu relate to rides. Here the list and some sm
 * Delete ride... - deletes the ride after confirmation in a dialog popup. _Note: Any deleted rides are really deleted - GoldenCheetah does not provide an "un-delete" or "history" function here._
 * Split ride... - opens the split ride wizard, which searches for breaks in an ride and then allows to split the ride into separate rides. (Useful when forgetting to stop recording.)
 * Merge rides... - opens the merge ride wizard, which allows to merge two different files from the same ride into a single file. (Useful when having 2 different recordings - e.g from 2 devices and you want to merge the data into one ride).
+
+BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions)
