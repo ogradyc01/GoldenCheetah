@@ -11,8 +11,8 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 ***
 
-* Get Withings Data... - downloads all measure from your Withings weight scale. You need to configure your user id and public key in the ["Preferences: Passwords"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords) section for this to work.
-* Get Zeo Data... - downloads sleep data from your Zeo sleop monitor. You need to configure your user id and password in the ["Preferences: Passwords"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords) section for this to work.
+* Get Withings Data... - downloads all measure from your Withings weight scale. You need to configure your user id and public key in the [Preferences: Passwords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords) section for this to work.
+* Get Zeo Data... - downloads sleep data from your Zeo sleop monitor. You need to configure your user id and password in the [Preferences: Passwords"](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords) section for this to work.
 
 
 ***
