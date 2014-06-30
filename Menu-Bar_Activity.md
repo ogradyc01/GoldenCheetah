@@ -19,7 +19,7 @@ So most of the functions in this menu relate to rides. Here the list and some sm
 
 ***
 
-* Upload/Download to multiple websites
+* Upload/Download to multiple websites [Special Topics: Upload_Download to_from external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics: Upload_Download to_from external web-sites)
 
 ***
 
