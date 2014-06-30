@@ -18,10 +18,10 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 ## UI Layout and functions
 
 * [Done UI Layout and terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
-* [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
-* [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
-* [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
+* [Done Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
+* [Done Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
+* [Done Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
+* [Done Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
 * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
 * [Menu Bar - Window] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Window)
 * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
