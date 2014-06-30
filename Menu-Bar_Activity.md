@@ -8,7 +8,7 @@ GoldenCheetah uses the term "Activity" and "Ride" mostly similar. This is becaus
 So most of the functions in this menu relate to rides. Here the list and some small explanations:
 
 * Download from device... [explained here] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
-* Import from file... [explained here] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
+* Import from file... [explained here] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
 * Manual ride entry...
 
 ***
