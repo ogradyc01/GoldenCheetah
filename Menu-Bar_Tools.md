@@ -34,10 +34,13 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 ***
 
-* Adjust Torque Values...
-* Fix GPS errors...
-* Fix Gaps in Recording...
-* Fix HR Spikes...
-* Fix Power Spikes...
+* [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+* [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+
+* [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+
+* [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+
+* [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 
 
