@@ -12,7 +12,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [What you need to do] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_What-you-need-to-do)
 * [Done Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
 * [Done Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
-* [Donw Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
+* [Done Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
 
 
 ## UI Layout and functions
