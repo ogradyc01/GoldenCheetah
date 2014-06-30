@@ -14,7 +14,7 @@ The View menu provides a menu access to the
 
 ***
 
-* Add Chart
+* Add Chart - opens a submenu to select a chart to add to the charts bar of the specific view you are on (Trends / Diary / Rides / Train). Dependent on which main view is active a different selection of chart types is offered here. After selectin a chart type, a dialog will appear, allowing you to adjust the chart settings as you want, before the chart is added to the current view. For chart types see: [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 * Reset Layout
 * Tabbed not Tiled
 
