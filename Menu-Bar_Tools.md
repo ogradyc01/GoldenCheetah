@@ -17,11 +17,10 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 
 ***
-
-* Create a new workout...
-* Download workouts from ErgDB...
-* Import workouts or videos ...
-* Scan disk for videos and workouts...
+* Create a new workout... - opens a workout wizard to create a new "Train" view workout. 
+* Download workouts from ErgDB... - opens a dialog to select and download "Train" view workouts from the internet ErgDB web-site.
+* Import workouts or videos ... - opens a file dialog to select and import a workout or a video into your "Train" workout library.
+* Scan disk for videos and workouts... opens a file dialog to scan directories for workouts and videos and import them into your "Train" workout library.
 
 ***
 
