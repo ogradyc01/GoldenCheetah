@@ -1,4 +1,4 @@
-Options: Overview (Version 3.1)
+Preferences: Overview (Version 3.1)
 ***
 
 _Choose:_ `Menu Bar->Tools->Options...` to open the main configuration screen of GoldenCheetah.
