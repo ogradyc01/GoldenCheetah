@@ -8,16 +8,8 @@ The minimum (without this you will not even reach the main screen of GoldenCheet
 
 In addition to minimum there is some configuration you look at and configure to your needs before starting loading lots of data into GoldenCheetah. Even though GoldenCheetah is handles later changes in configuration, doing some of this in the beginning will give you a better metrics on your data from the beginning:
 
-### Important general settings
+### Important settings to look at before going into details
 
 1. [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library) 
-2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_General) 
-
-### Important settings for an athlet 
-
-1. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete_Training Zones)
-2. 
-
-
-NEXT STEP:
-
+2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
+3. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete_Training Zones)
