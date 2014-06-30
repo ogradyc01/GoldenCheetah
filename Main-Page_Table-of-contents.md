@@ -47,7 +47,8 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Special Topics
 
-* [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library)
+* [Done Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library)
 * [Upload/Download from/to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
+* [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
 * [Weight Setting Options] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
