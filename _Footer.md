@@ -1,1 +1,1 @@
-![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/web/logo.png)
+![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png)
