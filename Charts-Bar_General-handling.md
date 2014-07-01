@@ -7,6 +7,8 @@ The 'Charts Bar' is a quick access to the different data views / metrics charts 
 
 _Note: For each different view of GoldenCheetah (Trends/Diary/Rides/Train) the 'Charts Bar' is different and also any change in configuration of the 'Charts Bar' only takes effect for the respective view._
 
+### Add Chart
+
 Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 
 * 'Mouse-click the icon' on the right hand side of each 'Charts Bar' - which then opens open an 'Add Chart' selection which contains the possible content views and chart types for the the currently active 'Scope Bar' view (Trends/Diary/Rides/Train).
@@ -15,6 +17,13 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 
 The different 'Chart Types' and their availability for the different 'Scope Bar' views is explained here: 
 [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+
+### Delete Chart
+
+
+### Configure Chart
+
+
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
