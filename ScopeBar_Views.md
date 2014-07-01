@@ -43,6 +43,6 @@ To get more insides in 'Rides' please check:
 
 ## Train
 
-... Work in progress ...
+... work in progress ...
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
