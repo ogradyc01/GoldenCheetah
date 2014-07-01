@@ -28,7 +28,7 @@ Depending on the type of chart, you one or many options available on 'More...". 
 
 * Close - this is available for ANY chart: 'Close' removes the chart from the 'Chart Bar' after asking if you really want to do this.
 * Export Chart Image... - for charts which have graphics/plots: 'Export Chart Image...' opens a dialog to export the graphic/plat as a graphics file (in .png) format. The export basically create an internal screenshot of the VISIBLE area of the 'Main View'. If you chart is bigger than that, only the visible part will be exported.
-* All Chart Settings - for charts having any settings: 'All Chart Settings' open the chart type specific 'Chart Settings' dialog. These dialogs are exactly the same to those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+* All Chart Settings - for charts having any settings: 'All Chart Settings' open the chart type specific 'Chart Settings' dialog. These dialogs are exactly the same to those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes) )
 
 ![Chart Bar More 2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
