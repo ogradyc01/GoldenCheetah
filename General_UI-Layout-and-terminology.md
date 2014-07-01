@@ -27,6 +27,9 @@ The 'Scope Bar' is used to select the GoldenCheetah view. Each view offers diffe
 
 _Note: The 'Scope Bar' layout and content is the same for all views and not configurable._
 
+More information on the 'Scope Bar' and the available view is provided here: [Scope Bar: Views] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Scope-Bart_Views)
+
+
 ### Charts Bar
 The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. The 'Charts Bar' is your selection of charts which are configured for a specific view of the 'Scope Bar'. 
 
