@@ -1,3 +1,0 @@
-![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png)
-
-GoldenCheetah Wiki
