@@ -29,6 +29,8 @@ _Note: The 'Scope Bar' layout and content is the same for all views and not conf
 
 More information on the 'Scope Bar' and the available view is provided here: [Scope Bar: Views] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
 
+### Main View 
+Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
 
 ### Charts Bar
 The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. The 'Charts Bar' is your selection of charts which are configured for a specific view of the 'Scope Bar'. 
@@ -36,9 +38,6 @@ The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. 
 _Note: The 'Charts Bar' differ for each view of the 'Scope Bar' and is configurable for your GoldenCheetah version. With the installation GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
 
 If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah defaults, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar_General handling)
-
-### Main View 
-Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
 
 ### Side Bar 
 The 'Side Bar' contains selections and lists that are most appropriate for what the user is currently doing. 
