@@ -4,7 +4,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Introduction
 
-* [WIP Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+* [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
 
 ## First Steps
 
