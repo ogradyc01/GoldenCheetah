@@ -1,1 +1,1 @@
-Footer
+![Logo] (https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/web/logo.png)
