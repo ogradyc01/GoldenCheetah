@@ -21,9 +21,12 @@ The different 'Chart Types' and their availability for the different 'Scope Bar'
 ### Delete Chart
 
 
+
+
 ### Configure Chart
 
 
+### Reset 
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
