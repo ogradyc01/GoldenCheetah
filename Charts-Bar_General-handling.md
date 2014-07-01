@@ -18,16 +18,12 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 The different 'Chart Types' and their availability for the different 'Scope Bar' views is explained here: 
 [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 
-### Delete Chart
+### Configure Chart / Delete Chart
 
 
+### Reset Layout
 
 
-### Configure Chart
-
-
-### Reset 
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
-
 
