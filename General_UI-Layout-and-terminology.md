@@ -37,7 +37,7 @@ The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. 
 
 _Note: The 'Charts Bar' differ for each view of the 'Scope Bar' and is configurable for your GoldenCheetah version. With the installation GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
 
-If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah defaults, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart Bar_General handling)
+If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah defaults, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
 
 ### Side Bar 
 The 'Side Bar' contains selections and lists that are most appropriate for what the user is currently doing. 
