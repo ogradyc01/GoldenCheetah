@@ -7,6 +7,6 @@ The 'Tool Bar' provides direct access on commonly used functions in GoldenCheeta
 
 ***
 
-A very powerfull tool of GoldenCheetah is the 'Search/Filter' box. This functionality is used in multiple places of Golden Cheetah and will therefore be described just once under [Special Topics: Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
+A very powerful tool of GoldenCheetah is the 'Search/Filter' box. This functionality is used in multiple places of Golden Cheetah and will therefore be described just once under [Special Topics: Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
