@@ -1,7 +1,5 @@
 Main Page: Table of contents (Version 3.1)
 ***
-<!-- --- title: New Title -->
-
 Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Introduction
