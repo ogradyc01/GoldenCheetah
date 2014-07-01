@@ -36,7 +36,7 @@ _Note: For some of the chart types, there is an accelerated access to their most
 
 ### Reset Layout
 
-
+Last function associated to charts is the 'Reset Layout' option. This function is accessed through the 'Menu Bar' only. So please check [Menu Bar: View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_View)
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
