@@ -52,3 +52,10 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
 * [Weight Setting Options] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
+
+## Translation/Localization
+
+* [General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+* [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
+* [xxx] ... open for additions for other translations ...
+
