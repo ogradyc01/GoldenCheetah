@@ -32,7 +32,7 @@ Depending on the type of chart, you one or many options available on 'More...". 
 
 ![Chart Bar More 2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
-_Note: For some of the chart types, there is an accelerated access to their most common configuration settings also provided by the 'mouse-over' to 'More...'. 
+_Note: For some of the chart types, there is an accelerated access to their most common configuration settings also revealed by the 'mouse-over' to 'More...' as part of a semi-transparent overlap on the upper border of the 'Main View'. You can change the available settings, without to got to 'All Chart Settings'. The overlay is available is long as the mouse cursor stays in the semi-transparent area._
 
 ### Reset Layout
 
