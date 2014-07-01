@@ -32,7 +32,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
 
-## General/Cross Topics
+## General and Cross Topics
 
 * [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 
