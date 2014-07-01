@@ -56,6 +56,6 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 ## Translation/Localization
 
 * [General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-* [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
+* [Done German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
 * [xxx] ... open for additions for other translations ...
 
