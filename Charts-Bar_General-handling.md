@@ -15,23 +15,24 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 
 * `Menu Bar->View->Add Chart` brings up exactly the same list like the variant before.
 
-The different 'Chart Types' and their availability for the different 'Scope Bar' views is explained here: 
+The different 'Chart Types', their availability for the different 'Scope Bar' views, and their configuration settings are explained here: 
 [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 
 ### Configure Chart / Close Chart
 
 Configuration and closig (= removing from Chart Bar) of a chart is done using the 'More...' function reached through mouse-over in the left/top corner of the 'Main View'.
 
-![Test1](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.GIF)
+![ChartBar More 1](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.GIF)
 
 Depending on the type of chart, you one or many options available on 'More...". In our example you have:
 
 * Close - this is available for ANY chart and removes the chart from the 'Chart Bar' after asking if you really want to do this.
-* 
+* Export Chart Image... - for charts which have graphics/plots - opens a dialog to export the graphic/plat as a graphics file (in .png) format. The export basically create an internal screenshot of the VISIBLE area of the 'Main View'. If you chart is bigger than that, only the visible part will be exported.
+* All Chart Settings - open the chart type specific 'Chart Settings' dialog. These dialogs are exactly the same to those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 
-![Test2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
+![Chart Bar More 2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
-
+_Note: For some of the chart types, there is an accelerated access to their most common configuration settings also provided by the 'mouse-over' to 'More...'. 
 
 ### Reset Layout
 
