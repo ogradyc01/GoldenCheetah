@@ -18,9 +18,16 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 The different 'Chart Types' and their availability for the different 'Scope Bar' views is explained here: 
 [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 
-### Configure Chart / Delete Chart
+### Configure Chart / Close Chart
+
+Configuration and closig (= removing from Chart Bar) of a chart is done using the 'More...' function reached through mouse-over in the left/top corner of the 'Main View'.
 
 ![Test1](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.GIF)
+
+Depending on the type of chart, you one or many options available on 'More...". In our example you have:
+
+* Close - this is available for ANY chart and removes the chart from the 'Chart Bar' after asking if you really want to do this.
+* 
 
 ![Test2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
