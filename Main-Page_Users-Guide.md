@@ -1,5 +1,3 @@
-Test
-
 The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah by 
 * [going through all the steps a new user has to do when starting](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
 * [explaining the general UI structure and concepts]
