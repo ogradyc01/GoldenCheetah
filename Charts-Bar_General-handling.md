@@ -11,9 +11,9 @@ _Note: For each different view of GoldenCheetah (Trends/Diary/Rides/Train) the '
 
 Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 
-* 'Mouse-click the icon' on the right hand side of each 'Charts Bar' - which then opens open an 'Add Chart' selection which contains the possible content views and chart types for the the currently active 'Scope Bar' view (Trends/Diary/Rides/Train).
+* `Mouse-click the icon` on the right hand side of each 'Charts Bar' - which then opens open an 'Add Chart' selection which contains the possible content views and chart types for the the currently active 'Scope Bar' view (Trends/Diary/Rides/Train).
 
-* 'Menu Bar->View->Add Chart' brings up exactly the same list like the variant before.
+* `Menu Bar->View->Add Chart` brings up exactly the same list like the variant before.
 
 The different 'Chart Types' and their availability for the different 'Scope Bar' views is explained here: 
 [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
