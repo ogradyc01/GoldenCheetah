@@ -20,7 +20,10 @@ The different 'Chart Types' and their availability for the different 'Scope Bar'
 
 ### Configure Chart / Delete Chart
 
-![Test](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/animated.gif)
+![Test1](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.gif)
+
+![Test2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
+
 
 
 ### Reset Layout
