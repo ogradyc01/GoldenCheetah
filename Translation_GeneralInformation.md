@@ -19,7 +19,7 @@ With these (maybe boring) explanations - now the specifics for GoldenCheetah:
 
 ### Specifics for GoldenCheetah
 
-* GoldenCheetah vs. your operating system language
+* GoldenCheetah vs. your operating system language - depending on your operating system language and the language you have configured in GoldenCheetah you might face a UI being presented in two languages. Your OS language and the GoldenCheetah language you have setup in preferences. This is NOT an error in GoldenCheetah, but is caused by the behaviour of the development framework GoldenCheetah is using in combination and the operarating system. E.g. when using a 'File Chooser' dialog in Windows 7 in a setup where only 'English' is the language installed in Windows, the standard dialog features will come up in english, the dialog box nme and any configurable parts of the dialog box will come up in the language you have configured in the GoldenCheetah preferences.
 
 * Change of Language
 
