@@ -27,7 +27,7 @@ _Note: The change does not only change the 'fix' UI texts in GoldenCheetah, but 
 
 * Date / Time representation - is handled in different ways starting with versio 3.1  DATES are shown on sreens are subject to localisation are formatted following the rules of the language configured in GoldenCheetah preferences. TIME is not localized any more, but always presented in the international format 'hh:mm:ss' without any AM/PM formating. 
 
-
+_Note: Again the development framework may create some unexpected behavior. E.g. the day and months names and their abbreviations used in the dates diplayed are using the system locale of the operating system, not the language setup in GoldenCheetah preferences._
 
 
 * Dynamic Translation of Charts
