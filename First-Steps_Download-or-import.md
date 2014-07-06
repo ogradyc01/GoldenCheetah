@@ -23,4 +23,4 @@ _Note: You can either use the drop-down list to set a date, or you can click on 
 
 The splash screen will now disapper and reveal the main GoldenCheetah 'Rides' view and you can now start analysing and tracking your performance.
 
-NEXT STEP: [First Steps: What you need to do] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
+BACK: [First Steps: What you need to do] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
