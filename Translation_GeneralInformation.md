@@ -21,9 +21,14 @@ With these (maybe boring) explanations - now the specifics for GoldenCheetah:
 
 * GoldenCheetah vs. your operating system language - depending on your operating system language and the language you have configured in GoldenCheetah you might face a UI being presented in two languages. Your OS language and the GoldenCheetah language you have setup in preferences. This is NOT an error in GoldenCheetah, but is caused by the behaviour of the development framework GoldenCheetah is using in combination and the operarating system. E.g. when using a 'File Chooser' dialog in Windows 7 in a setup where only 'English' is the language installed in Windows, the standard dialog features will come up in english, the dialog box nme and any configurable parts of the dialog box will come up in the language you have configured in the GoldenCheetah preferences.
 
-* Change of Language
+* Change of Language - when changing the language in GoldenCheetah preferences this change takes only effect after closing and restarting GoldenCheetah.
 
-* Date / Time representation
+_Note: The change does not only change the 'fix' UI texts in GoldenCheetah, but also initiates the translation of 'Chart' names and ........_
+
+* Date / Time representation - is handled in different ways starting with versio 3.1  DATES are shown on sreens are subject to localisation are formatted following the rules of the language configured in GoldenCheetah preferences. TIME is not localized any more, but always presented in the international format 'hh:mm:ss' without any AM/PM formating. 
+
+
+
 
 * Dynamic Translation of Charts
 
