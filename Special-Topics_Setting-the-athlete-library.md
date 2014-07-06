@@ -5,7 +5,7 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
 (Screen Shot: Options)
 
-Here you do most of the configuration of GoldenCheetah. The whole configuration is explained here: [Preferences: Overvier] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+Here you do most of the configuration of GoldenCheetah. The whole configuration is explained here: [Preferences: Overview] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 
 A special setting when starting with GoldenCheetah is setting your 'Athlete Library'. This library is actually a directory in your file system. You can either enter a directory name manually in the entry field next to 'Athlete Library' or you use `Browse` to select one.
 
