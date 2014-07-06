@@ -20,19 +20,19 @@ The different 'Chart Types', their availability for the different 'Scope Bar' vi
 
 ### Configure Chart / Close Chart
 
-Configuration and closig (= removing from Chart Bar) of a chart is done using the 'More...' function reached through mouse-over in the left/top corner of the 'Main View'.
+Configuration and closing (= removing from 'Chart Bar') of a chart is done using the 'More...' function reached through mouse-over in the left/top corner of the 'Main View'.
 
 ![ChartBar More 1](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.GIF)
 
-Depending on the type of chart, you one or many options available on 'More...". In our example you have:
+Depending on the type of chart, one or many options available on 'More...". In our example you have:
 
-* Close - this is available for ANY chart: 'Close' removes the chart from the 'Chart Bar' after asking if you really want to do this.
-* Export Chart Image... - for charts which have graphics/plots: 'Export Chart Image...' opens a dialog to export the graphic/plat as a graphics file (in .png) format. The export basically create an internal screenshot of the VISIBLE area of the 'Main View'. If you chart is bigger than that, only the visible part will be exported.
-* All Chart Settings - for charts having any settings: 'All Chart Settings' open the chart type specific 'Chart Settings' dialog. These dialogs are exactly the same to those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes) )
+* Close - this is available for ANY chart: 'Close' removes the chart from the 'Charts Bar' after asking if you really want to do this.
+* Export Chart Image... - for charts which have graphics/plots: 'Export Chart Image...' opens a dialog to export the graphic/plat as a graphics file (in .png) format. The export basically creates an internal screenshot of the VISIBLE area of the 'Main View'. If your chart is bigger than the visible area, only the visible part will be exported.
+* All Chart Settings - for charts having any settings, 'All Chart Settings' opens the chart type specific 'Chart Settings' dialog. These dialogs are exactly the same like those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes) )
 
 ![Chart Bar More 2](https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
-_Note: For some of the chart types, there is an accelerated access to their most common configuration settings also revealed by the 'mouse-over' to 'More...' as part of a semi-transparent overlap on the upper border of the 'Main View'. You can change the available settings, without to got to 'All Chart Settings'. The overlay is available is long as the mouse cursor stays in the semi-transparent area._
+_Note: For some of the chart types, an accelerated access of their most common configuration settings is also revealed by the 'mouse-over' to 'More...' as part of a semi-transparent overlap to the upper border of the 'Main View'. You can change the available settings, without to go to 'All Chart Settings'. The overlay is available as long as the mouse cursor stays in the semi-transparent area._
 
 ### Reset Layout
 
