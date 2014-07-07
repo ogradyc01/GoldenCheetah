@@ -9,6 +9,7 @@ The main focus of this new GoldenCheetah User's Guide is to describe the feature
 (http://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
 * [explaining the chart type(s) which are available per view]
 (http://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+* [explaining the preferences you can configure]
 * providing general tipps and tricks on GoldenCheetah UI and more
 * explaining general features which are used in multiple functions (e.g Search/Filter)
 * adding some country specific information (e.g. related to who things are translated)
