@@ -1,2 +1,13 @@
 Side Bar: General handling (Version 3.1)
 ***
+
+The 'Side Bar' contains important tools to influence what is shown in the 'Main View'. The features available differ for the different views you can select in the 'Scope Bar'. But the general structure and the wasy how to work with 'Side Bar' is the same for all views.
+
+(Screen shot  side bar layout panes and menu at bottom marked)
+
+
+** Horizontal Panes - side bars contain a number of horizontal panes, which deliver the side bar functionality. The area a pane occupies can be changed by dragging the pane header using the mouse. Some side bar pane contain subsections, which can be resized the same way.
+
+(GIF - drag of pane header)
+
+** Pane Selection
