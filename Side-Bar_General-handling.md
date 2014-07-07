@@ -12,3 +12,15 @@ The 'Side Bar' contains important tools to influence what is shown in the 'Main 
 
 * Pane Selection - the visibility of side bar panes/features is controlled by the pane selection at the bottom of the side bar. Each icon toogles the visibility for one side bar pane/feature. Mouse-over on the icons shows a short text for the icon.
 
+(GIF - toggle of side bar pane)
+
+## The different Side Bars
+
+Here you find the details per view:
+* Trends
+* Diary
+* Rides
+* Train
+
+BACK: 
+
