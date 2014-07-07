@@ -34,7 +34,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Compare Pane in Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Trends)
 * [Compare Pane in Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Rides)
 
-## Charts types and details
+## Chart types and details
 
 * [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
 * [Chart Types for Trends]
