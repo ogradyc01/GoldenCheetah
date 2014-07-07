@@ -30,9 +30,9 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
 * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
 * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
-* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* [Compare Pane in Trends]
-* [Compare Pane in Rides]
+* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)
+* [Compare Pane in Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Trends)
+* [Compare Pane in Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Rides)
 
 ## General and Cross Topics
 
