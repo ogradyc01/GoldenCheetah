@@ -35,6 +35,9 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 ## General and Cross Topics
 
 * [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+* [Chart Types for Trends]
+* [Chart Types for Diary]
+* [Chart Types for Rides]
 
 ## Preferences)
 
