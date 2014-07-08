@@ -3,7 +3,7 @@ Translation/Localization: General Information (Version 3.1)
 
 The idea of this chapter is to give you some insides into translation and localization of GoldenCheetah. And the relation between a language configured in GoldenCheetah, the behaviour of the development environment which is used to implement GoldenCheetah and the language configured in the underlying operating system (like Window, MacOS or Linux.)
 
-_Note: If you run GoldenCheetah on an operating system configured in "english" (System-Locale), and also configure GoldenCheetah to use "english" as UI language, there is not need to read through this chapter. Everything will work as you expect for a UI language perspective._
+_Note: If you run GoldenCheetah on an operating system configured in "english" (System-Locale), and also configure GoldenCheetah to use "english" as UI language, there is not need to read through this chapter. Everything will work as you expect from a UI language perspective._
 
 Translation/Localization of software is a huge topic. GoldenCheetah has been available in a version which allows the selection of your preferred UI language since a few version - and most of the UI is translated. Still - with new features coming out - also the translation has to enhanced to cover those new features. So it's an ongoing process to keep the software translated.
 
