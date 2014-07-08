@@ -36,10 +36,10 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 
 ## Chart types and details
 
-* [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
-* [Chart Types for Trends]
-* [Chart Types for Diary]
-* [Chart Types for Rides]
+* [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
+* [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+* [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
+* [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
 
 ## Preferences)
 
@@ -66,4 +66,3 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
 * [Done German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
 * [xxx] ... open for additions for other translations ...
-
