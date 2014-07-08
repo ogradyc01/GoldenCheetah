@@ -16,8 +16,8 @@ The handling of the compare pane is the same for both views:
 ## Specifics for the views
 
 
-[Compare Pane: Trends view]
-[Compare Pane: Rides view]
+* [Compare Pane: Trends view]
+* [Compare Pane: Rides view]
 
 
 BACK:
