@@ -13,9 +13,9 @@ _Note: A very useful new feature in 3.1 in 'Trends' is the ability to 'Compare' 
 
 To get more insides in 'Trends' please check:
 
-1. [Side Bar for Trends]
-2. [Chart Types for Trends]
-3. [Compare Pane in Trends]
+1. [Side Bar for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view)
+2. [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+3. [Compare Pane in Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_Trends)
 
 ## Diary
 
@@ -26,8 +26,7 @@ _Note: Diary does not provide a 'Compare Pane', so the respective menu function 
 To get more insides in 'Diary' please check:
 
 1. [Side Bar for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view)
-2. [Chart Types for Diary]
-3. [Compare Pane in Trends]
+2. [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
 
 ## Rides
 
@@ -37,9 +36,9 @@ _Note: A very useful new feature in 3.1 in 'Rides' is the ability to 'Compare' t
 
 To get more insides in 'Rides' please check:
 
-1. [Side Bar for Rides]
-2. [Chart Types for Rides]
-3. [Compare Pane in Rides]
+1. [Side Bar for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view)
+2. [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+3. [Compare Pane in Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_Rides)
 
 ## Train
 
