@@ -7,11 +7,11 @@ The 'Side Bar' contains important tools to influence what is shown in the 'Main 
 
 * Horizontal Panes - side bars contain a number of horizontal panes, which deliver the side bar functionality. The area a pane occupies can be changed by dragging the pane header using the mouse. Some side bar pane contain subsections, which can be resized the same way.
 
-(GIF - drag of pane header)
+![SideBar Pane Resize] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Pane_Resize.GIF)
 
 * Pane Selection - the visibility of side bar panes/features is controlled by the pane selection at the bottom of the side bar. Each icon toogles the visibility for one side bar pane/feature. Mouse-over on the icons shows a short text for the icon.
 
-(GIF - toggle of side bar pane)
+![SideBar Pane Select] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Pane_Select.GIF)
 
 ## The different Side Bars
 
