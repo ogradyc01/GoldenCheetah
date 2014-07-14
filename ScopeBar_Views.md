@@ -25,7 +25,7 @@ _Note: Diary does not provide a 'Compare Pane', so the respective menu function 
 
 To get more insides in 'Diary' please check:
 
-1. [Side Bar for Diary]
+1. [Side Bar for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view)
 2. [Chart Types for Diary]
 3. [Compare Pane in Trends]
 
