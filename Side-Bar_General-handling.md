@@ -22,5 +22,5 @@ Here you find the details per view:
 * Rides
 * Train
 
-BACK: 
+BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI%20Layout%20and%20terminology)
 
