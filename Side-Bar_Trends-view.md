@@ -38,6 +38,11 @@ _Note: Please observe, that the 'Starting LTS' value set in a season, is also co
 
 _Note: Please observe that some charts can have their own data range defined for the chart. If this is the case, the 'Date Range' in the 'Side Bar' does not have any effect on the chart._
 
+### Other Functions on 'Date Ranges'
+
+* Edit Season - allows to change season settings (same fields to 'Add Season')
+* Delete Season - deletes the selected season (please observe - no additional popup - season is immediately deleted)
+* Add Event - create an Event for the selected season (see section 'Events' for more details)
 
 ## Events
 
