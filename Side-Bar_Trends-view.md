@@ -5,11 +5,11 @@ Side Bar: Trends view (Version 3.1)
 
 The 'Side Bar' for the 'Trends' view offers five different panes - als illustrated above.
 
-* [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#Date Ranges)
-* [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#Events)
-* Filters
-* Charts
-* Summary
+* [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
+* [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#events)
+* [Filters] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#filters)
+* [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)
+* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#summary)
 
 ***
 
