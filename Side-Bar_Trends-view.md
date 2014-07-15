@@ -5,6 +5,14 @@ Side Bar: Trends view (Version 3.1)
 
 The 'Side Bar' for the 'Trends' view offers five different panes - als illustrated above.
 
+* [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#Date Ranges)
+* [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#Events)
+* Filters
+* Charts
+* Summary
+
+***
+
 ## Date Ranges
 
 Date ranges define for which period in time data is shown in the main view of the 'Trends'. GoldenCheetah comes with a number of pre-defined 'Date Ranges' - which start with 'All Dates' and end with 'Last 12 months'. The predefined data ranges cannot be deleted or changed.
