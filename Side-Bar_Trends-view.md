@@ -74,6 +74,33 @@ In all cases, 'Add Event' opens a popup to define your new event:
 
 ## Filters
 
+Filtering via the 'Side Bar' is one of multiple ways, how you can select the rides, which are then analysed in the 'Trends View'. The special feature of filtering in the 'Side Bar', compared to other filtering options is, the 'Auto Filter' provided here:
+
+![Filters - Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Filters_Settings.jpg)
+
+* Section 'Filters' - shows the list of predefined filters, which you have defined - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the rides are taken into account which fulfill all filter rules.
+
+* Sections 'Workout Code', 'Sport',... are the 'Autofilter's. 
+
+_Note:All fields which are of type "ShortText" or "Text" in the 'Preferences->Data Fields->Field' list and are assigned to a "Screen Tab" as well, are used as 'Autofilters'._
+
+
+
+
+### Filters - Menu
+
+
+* Filters Manage - open a Popup which allows to create you own filters (the filters created here are available for all GoldenCheetah Filter functions)
+
+
+![Filters - Manage] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Filters_Manage.jpg)
+
+
+
+
+
+[Filtering/Searching] https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter
+
 
 ## Charts
 
