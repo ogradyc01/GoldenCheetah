@@ -27,7 +27,7 @@ In all cases, 'Add Season' opens a popup to define your new season:
 
 ![Add Season - Details] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season_Details.jpg)
 
-* Name - how you want to call the season
+* Name - your season name
 * Type - currently 3 types are possible (Season, Cycle, Ad-hoc) - as of now they are for information purpose only, there is no functionality associated yet
 * From - the 'from date' of the season/date range
 * To - the 'to date' of the season/date range
@@ -45,6 +45,23 @@ _Note: Please observe that some charts can have their own data range defined for
 * Add Event - create an Event for the selected season (see section 'Events' for more details)
 
 ## Events
+
+Events are single dates which can be races,etc. Events are created and maintained for a user defined 'Date Range/Season', but are shown in the PMC charts independent of the selected 'Date Range'.
+
+* Pane Header Menu - allows only to create events - the 'Season' for such an event is the actual selected season in the 'Date Range' pane. The popup does not appear, if the currently selected 'Date Range' is a system pre-defined range. (Events can only be created for user-defined seasons.)
+
+![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event_Add.jpg)
+
+* Context Menu of an existing event - allows to Delete and Edit the selected event, but also to add a new event.
+
+![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event_Menu.jpg)
+
+In all cases, 'Add Event' opens a popup to define your new event:
+
+![Add Event - Details] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event_Details.jpg)
+
+* Name - your event name
+* Date - the date of the event
 
 
 ## Filters
