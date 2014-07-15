@@ -92,7 +92,7 @@ _Note:All fields which are of type "ShortText" or "Text" in the 'Preferences->Da
 
 * Autofilter - the list shows all possible 'Autofilter' fields - which you can either activate or de-activate to be shown/used in the 'Side Bar'
 
-Further information on filtering can be found under: [Filtering/Searching] https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter
+Further information on filtering can be found under: [Filtering/Searching] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter=
 
 
 ## Charts
