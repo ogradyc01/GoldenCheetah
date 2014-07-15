@@ -17,7 +17,7 @@ The 'Side Bar' for the 'Trends' view offers five different panes - als illustrat
 
 ## Summary
 
-This pane is a simple display pane, providing a summary view of the data selected. The data shown considers both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' are fixed. The section 'Metrics' defined through the preferences. See also ['Preferences->Metrics->Summary'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+This pane is a simple display pane, providing a summary view of the data selected. The data shown considers both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' are fixed. The section 'Metrics' defined through the preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 
 
 
