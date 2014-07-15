@@ -97,6 +97,16 @@ Further information on filtering can be found under: [Filtering/Searching] (http
 
 ## Charts
 
+The 'Charts' section is new with 3.1. It provides a different way to access the chart which are shown in the 'Main View' without having the need to add every single chart to the 'Charts Bar'.
+
+![SideBar - Charts] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Sidebar-Charts.jpg)
+
+The 'Side Bar - Charts' only take effect you use a special chart (Default - "Library") on the main view. If you display any other chart on the 'Main View', selection of a chart in the 'Side Bar - Charts' has no effect.
+
+Here the configuration of the 'Libary' Chart:
+
+![SideBar - Libary] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Sidebar-Chart-Library.jpg)
+
 
 ## Summary
 
