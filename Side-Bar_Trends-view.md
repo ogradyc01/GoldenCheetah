@@ -25,11 +25,11 @@ In all cases, 'Add Season' opens a popup to define your new season:
 ![Add Season - Details] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season_Details.jpg)
 
 * Name - how you want to call the season
-* Type - currenty 3 types are possible (Season, Cycle, Ad-hoc) - as of now they are for information purpose only, there is no functionality associated yet
+* Type - currently 3 types are possible (Season, Cycle, Ad-hoc) - as of now they are for information purpose only, there is no functionality associated yet
 * From - the 'from date' of the season/date range
 * To - the 'to date' of the season/date range
 * Starting LTS - ...
-* Lowest SB - ...
+* Lowest SB -  currently for information purposes only, no functionality associated 
 
 _Note: Please observe that some charts can have their own data range defined for the chart. If this is the case, the 'Date Range' in the 'Side Bar' does not have any effect on the chart._
 
