@@ -86,9 +86,12 @@ _Note:All fields which are of type "ShortText" or "Text" in the 'Preferences->Da
 
 ### Filters - Menu
 
+* Autofilter - the list shows all possible 'Autofilter' fields - which you can either activate or de-activate to be shown/used in the 'Side Bar'
+
+* Manage Filters - open a Popup which allows to create you own filters (the filters created here are available for all GoldenCheetah Filter functions)
+
 ![Filters - Manage] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Filters_Manage.jpg)
 
-* Filters Manage - open a Popup which allows to create you own filters (the filters created here are available for all GoldenCheetah Filter functions)
 
 * Autofilter - the list shows all possible 'Autofilter' fields - which you can either activate or de-activate to be shown/used in the 'Side Bar'
 
