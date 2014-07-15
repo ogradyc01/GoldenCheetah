@@ -27,7 +27,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Done Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
 * [Done Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
 * [Done Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
-* [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
+* [Done Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
 * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
 * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)
