@@ -50,11 +50,11 @@ Events are single dates which can be races,etc. Events are created and maintaine
 
 * Pane Header Menu - allows only to create events - the 'Season' for such an event is the actual selected season in the 'Date Range' pane. The popup does not appear, if the currently selected 'Date Range' is a system pre-defined range. (Events can only be created for user-defined seasons.)
 
-![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event_Add.jpg)
+![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event-Add.jpg)
 
 * Context Menu of an existing event - allows to Delete and Edit the selected event, but also to add a new event.
 
-![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event_Menu.jpg)
+![Add Event - Border Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Event-Menu.jpg)
 
 In all cases, 'Add Event' opens a popup to define your new event:
 
