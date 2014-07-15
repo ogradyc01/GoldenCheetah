@@ -1,7 +1,7 @@
 Side Bar: Diary view (Version 3.1)
 ***
 
-![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Diary.jpg)
+![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Diary.JPG)
 
 The 'Side Bar' for the 'Diary' view offers two different panes - als illustrated above.
 
