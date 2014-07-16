@@ -53,6 +53,9 @@ Here the re-ordering and resizing in more detail:
 
 ## Intervals
 
+Depending which source data format you are using, you might or might not have interval pre-defined with every ride after the upload. (E.g. for Garmin - FIT the Laps defined during your ride are created as 'Intervals' in GoldenCheetah).
+
+![Intervals - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Overview.jpg)
 
 
 
