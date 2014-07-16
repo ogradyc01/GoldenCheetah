@@ -2,17 +2,16 @@
 
 
 The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah by 
-* [going through all the steps a new user has to do when starting](http://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
+* [going through all the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
 * [explaining the general UI structure and concepts]
-(http://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
 * [explaining the different views]
-(http://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
 * [explaining the chart type(s) which are available per view]
-(http://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
-* [explaining the preferences you can configure]
-* providing general tipps and tricks on GoldenCheetah UI and more
-* explaining general features which are used in multiple functions (e.g Search/Filter)
-* adding some country specific information (e.g. related to who things are translated)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+* [explaining the preferences you can configure] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [looking into some special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
+* [adding some country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
 * [other knowledge sources](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
 
 And here a link the 'Table of Contents' of this user guide:
