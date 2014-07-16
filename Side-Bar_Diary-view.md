@@ -12,7 +12,12 @@ The 'Side Bar' for the 'Diary' view offers two different panes - als illustrated
 
 ## Calendar
 
-Date ranges define for which period in time data is shown in the main view of the 'Trends'. GoldenCheetah comes 
+The calendar allows monthly "scrolling" through your data. Days for which rides exist, are colored as defined in in the preferences `Options->Data Fields->Notes Keywords`. 
 
 ## Summary
+
+The summary shows a brief summary of your ride data for the time frame selected in the 'Calendar' pane. At the upper border you can select if the view shall show "Day Summary", "Weekly Summary" or "Monthly Summary". 
+
+_Note: The setting of day, weekly or monthly in the 'Summary' pane is also used when showing the diagrams in the 'Main View' of the 'Diary' view.
+
 
