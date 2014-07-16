@@ -57,6 +57,7 @@ Depending which source data format you are using, you might or might not have in
 
 ![Intervals - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Overview.jpg)
 
+The interval pane has two areas - the list of intervals and the interval data. The fields shown in the data section are defined in your preferences `Options->Metrics->Intervals`.
 
 
 BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_General-handling)
