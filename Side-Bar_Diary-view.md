@@ -18,6 +18,10 @@ The calendar allows monthly "scrolling" through your data. Days for which rides 
 
 The summary shows a brief summary of your ride data for the time frame selected in the 'Calendar' pane. At the upper border you can select if the view shall show "Day Summary", "Weekly Summary" or "Monthly Summary". 
 
-_Note: The setting of day, weekly or monthly in the 'Summary' pane is also used when showing the diagrams in the 'Main View' of the 'Diary' view.
+_Note: The setting of day, weekly or monthly in the 'Summary' pane is also used when showing the diagrams in the 'Main View' of the 'Diary' view._
+
+BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
+
+
 
 
