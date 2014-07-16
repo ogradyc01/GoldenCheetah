@@ -84,6 +84,20 @@ The other way is to search for specific data to be analysed as intervals. The ru
 
 ![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Find.jpg)
 
+Since this dialog is pretty much self-explanatory just a view details here:
+
+* Choose a method first - 'Peak Power' or 'Ascent' or 'W'(Energy)' or 'Time/Distance'
+* Enter the search criteria (which is different per method)
+* Press `Find` to fill the 'Results' list
+* Edit the 'Results' list by deselecting those entries you do NOT want to be added to your ride as an 'Interval'
+* Press `Add to Ride`
+
+And you will have set of new intervals defined based on your criteria.
+
+_Note: Interval information is stored with your ride data. So you need to save your ride if you want to keep you intervals_
+
+
+
 
 
 
