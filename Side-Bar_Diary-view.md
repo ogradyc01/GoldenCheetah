@@ -20,7 +20,7 @@ The summary shows a brief summary of your ride data for the time frame selected 
 
 _Note: The setting of day, weekly or monthly in the 'Summary' pane is also used when showing the diagrams in the 'Main View' of the 'Diary' view._
 
-BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
+BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_General-handling)
 
 
 
