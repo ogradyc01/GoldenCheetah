@@ -17,6 +17,16 @@ The calendar allows to select the ride, you want to investigate by "clicking on 
 
 ## Rides
 
+The rides pane shows all rides which have been uploaded to GoldenCheetah for the specific athlete. It offers multiple functions to sort, group - but also functions which are as well available through 'Menu Bar' functions.
+
+### Rides - main functions
+
+![Rides - menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Menu.jpg)
+
+
+
+### Rides - column header
+
 
 ## Intervals
 
