@@ -68,18 +68,23 @@ The intervals menu offers the following functions:
 ***
 * Zoom to interval / Zoom out - shows the interval in detail and the full ride in the 'Main View' - 'Ride' chart
 
-![Intervals - Zoom] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Zoom.gif)
+![Intervals - Zoom] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Intervals_Zoom.gif)
 
 * Edit Interval - opens a dialog to edit interval details:
 
 ![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Edit_Interval.jpg)
 
-* Delete Interval - remove the interval from the ride
-
-
-
+* Delete Interval - removes the selected interval from the ride
 
 ### Intervals - find intervals
+
+There are multiple way to define intervals - one is to just mark the in the 'Main View' - 'Ride' chart with a "mouse-drag" - which then automatically created an interval in the list (with a pre-defined name.)
+
+The other way is to search for specific data to be analysed as intervals. The rules for finding intervals this way are determined in the 'Find Intervals..." dialog:
+
+![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Find.jpg)
+
+
 
 
 
