@@ -45,7 +45,7 @@ When you open the context menu on the column header of the 'Rides' pane, you hav
 * Show in groups - does the same like "Group By->...." as explained above for choosen column 
 * Column Chooser - opens a screen which contains all available fields for a ride. You can "drag&drop" the fields to the column header of the 'Rides' pane to add additional columns here. Any new column added will appear most left on the rides pane.
 
-![Rides - add columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Add_Colum.gif)
+![Rides - add columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Add_Column.gif)
 
 You can also resize and re-order the columns as shown below:
 
