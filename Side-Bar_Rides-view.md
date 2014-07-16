@@ -23,9 +23,22 @@ The rides pane shows all rides which have been uploaded to GoldenCheetah for the
 
 ![Rides - menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Menu.jpg)
 
+* Delete Ride - same like `Menu Bar->Activity->Delete Ride...`
+* Split Ride -  same like `Menu Bar->Activity->Split Ride...`
+* Upload Ride to Calendar - same like 'Menu Bar->Tools->Upload Ride to Calendar'
+* Find Intervals... - opens a dialog with criteria to find intervals for a ride (details see 'Intervals' section on this WiKi page)
+***
+* Show Column Chooser - opens a screen which contains all available fields for a ride. You can "drag&drop" the fields to the column header of the 'Rides' pane to add additional columns here (details see 'Rides - column header' section of this Wiki page)
+* Group By -> <List of visible column> - you can group your rides by each of the fields - depending on the field type grouping is realized to produce senseful groupings of a field (just try it out). Grouping is only supported for one field at a time - when you have grouped, you need to "ungroup" first before choosing a different field. The "ungroup" is at the same menu position than grouping.
+* Expand All - if you have collapsed the rides within a single group or by using 'Collapse All' - this function makes them all visible again
+* Collapase All - this function hides all rides for the different groups and you will only see the group headers
 
+_Note: Could can also collapse and expand the rides for a single group, by "double-click" in the group header._
 
 ### Rides - column header
+
+![Rides - columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Columns.jpg)
+
 
 
 ## Intervals
