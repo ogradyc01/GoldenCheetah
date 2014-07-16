@@ -59,5 +59,26 @@ Depending which source data format you are using, you might or might not have in
 
 The interval pane has two areas - the list of intervals and the interval data. The fields shown in the data section are defined in your preferences `Options->Metrics->Intervals`.
 
+![Intervals - Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Menu.jpg)
+
+The intervals menu offers the following functions (sort order is different in the menu):
+
+* Find Intervals... - explained in the separate section below
+* Sort Intervals - sorts the intervals 'by starting time'
+* Delete Interval - remove the interval from the ride
+* Edit Interval - opens a dialog to edit interval details:
+
+![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Edit_Interval.jpg)
+
+
+* Zoom to interval / Zoom out - shows the interval in detail and the full ride in the 'Main View' - 'Ride' chart
+
+
+
+
+
+### Intervals - find intervals
+
+
 
 BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_General-handling)
