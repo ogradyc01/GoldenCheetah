@@ -12,7 +12,7 @@ The 'Side Bar' for the 'Diary' view offers two different panes - als illustrated
 
 ## Calendar
 
-The calendar allows monthly "scrolling" through your data. Days for which rides exist, are colored as defined in in the preferences `Options->Data Fields->Notes Keywords`. 
+The calendar allows monthly "scrolling" through your data. Days for which rides exist, are colored as defined in  preferences `Options->Data Fields->Notes Keywords`. 
 
 ## Summary
 
