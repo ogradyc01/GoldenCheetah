@@ -1,7 +1,7 @@
 Side Bar: Rides view (Version 3.1)
 ***
 
-![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides.jpg)
+![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides.JPG)
 
 The 'Side Bar' for the 'Diary' view offers two different panes - als illustrated above.
 
