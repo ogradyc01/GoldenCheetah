@@ -41,7 +41,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
 * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
 
-## Preferences)
+## Preferences
 
 * [Done Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
