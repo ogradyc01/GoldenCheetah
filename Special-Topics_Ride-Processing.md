@@ -1,2 +1,2 @@
-#Special Topics: Ride Processing (Version 3.1)
+Special Topics: Ride Processing (Version 3.1)
 ***
