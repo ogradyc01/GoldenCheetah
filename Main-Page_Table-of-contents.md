@@ -30,9 +30,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
   * [Done Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
   * [Done Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
   * [Done Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
-* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)
-  * [Compare Pane in Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Trends)
-  * [Compare Pane in Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_Rides)
+* [Done Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)
 
 ## Chart types and details
 
