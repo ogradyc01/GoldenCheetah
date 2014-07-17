@@ -5,7 +5,7 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Preferences' window.
 
 Setting up the training zones for 'Power' and 'Heartrate' is done a a very similar way. Therefore here only the setup for 'Power' is described in details - and for 'Heartrate' just the small differences are outlined.
 
-(Screen Shot: Options:Athlete:Power, Mark the 4 sections (Create New, Zones/Default Tab, Zones Header, Zones Details)
+![Athlete - Power - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
 
 ### Create New (for Power):
 
@@ -27,7 +27,7 @@ The screen has two tabs again, namely 'Critical Power' and 'Default'. It's impor
 
 Before proceeding to the 'Zones Details' and editing them, it's very valuable and time saving to understand the purpose of the 'Default' tab.
 
-(Screen Shot: Default Tab - GC Default settings)
+![Athlete - Power - Default] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Default.jpg)
 
 For 'Power' the 'Default' tab lists the common Power Zones Z1 to Z2 as a 'Short' text code, 'Long' descriptive text and the value 'Percent of CP'. This default is used as basis for any new zones you create on the 'Critical Power' tab. That means, if you want to have your zones created differently for all your zone entries in future, the 'Default' settings are the place to do these changes once.
 
@@ -37,9 +37,11 @@ _Note: Any changes of the default settings are automatically applied to all actu
 
 ### Zones Header
 
-The 'Zones Header' section shows the zone records you have created sorted by 'From Date'. When creating all the detailed zones are created based on the definition configured in the 'Default' tab. In case you have changed any of the zone data in the 'Zone detail' section, this text for this records will be displayed in 'Bold' characters, and when selection such a record in the 'Zone Header' section an additional button 'Def' appears. By using this button you can reset the respective to 'Default'. 
+The 'Zones Header' section shows the zone records you have created sorted by 'From Date'. When creating all the 
+detailed zones are created based on the definition configured in the 'Default' tab. In case you have changed any of the zone data in the 'Zone detail' section, this text for this records will be displayed in 'Bold' characters, and when selection such a record in the 'Zone Header' section an additional button 'Def' appears. By using this button you can reset the respective to 'Default'. 
 
-(Screen shot: section with 'Def' button)
+![Athlete - Power - Def.] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Def.jpg)
+
 
 ### Zones Details
 
@@ -53,7 +55,7 @@ The difference in zone creation for heartrate are quite small since the UI is ma
 
 ### Create New (for heartrate):
 
-(Screen Shot: Create New section)
+![Athlete - HR - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_HR_Overview.jpg)
 
 * From Date: Each set of training zones is defined with a specific 'From Date' - as we assume your zones change over time. 
 
