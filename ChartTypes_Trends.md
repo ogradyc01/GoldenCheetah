@@ -13,3 +13,5 @@ Chart Types: Trends view (Version 3.1)
 ## Distribution
 
 ## Summary
+
+BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
