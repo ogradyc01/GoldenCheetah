@@ -7,9 +7,9 @@ The 'Data Fields' preferences cover three different areas:
 
 * [Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#fields) - here you find the list of additional fields available to either store additional ride data or even to add/overwrite ride data.
 
-* [Notes Keywords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#noteskeywords) 
+* [Notes Keywords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Rides' view.
 
-* [Processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#processing)
+* [Processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
 
 ### Fields
 
