@@ -19,6 +19,7 @@ The 'Data Fields' preferences cover three different areas:
 
 ![Preferences - Datafields - NotesKeywords] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_NotesKeywords.jpg)
 
+The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of teh ['Details' Chart]. 
 
 ### Processing
 
