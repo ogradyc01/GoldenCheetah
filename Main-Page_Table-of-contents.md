@@ -44,7 +44,7 @@ Here you find all Wiki pages of the 'User's Guide' in a structured order:
 ## Preferences
 
 * [Done Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
-* [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+* [Done General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
 * [Done Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
 * [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training Zones)
 * [Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords)
