@@ -18,7 +18,9 @@ Here you can define UI appearance of GoldenCheetah.
 
 _Note: a theme does only change the main colors in GoldenCheetah, not the whole list. You can still define each color separately and overwrite any theme settings_
 
-![Preferences - Appearance - Colors] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Overview.jpg)
+On the tab 'Colors' you can do the individual adjustments to the GoldenCheetah colors:
+
+![Preferences - Appearance - Colors] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Colors.jpg)
 
 
 
