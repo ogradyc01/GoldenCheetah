@@ -19,6 +19,9 @@ The data fields are structured by 'Screen Tab's which then appear on the 'Rides'
 
 * Screen Tab - groups the fields on different tabs 
 * Field - name of the field - there are 2 cases to consider (1) you to add a completely new field: then make sure that it has a name, which is not used elsewhere in GoldenCheetah (and will never be used in future) (2) you want to make an existing field of GoldenCheetah editable, then please use exactly the field name here and make sure that you assign the correct field type
+
+_Note: you can use this to enter data for rides, where certain data was not captured at all, or to overwrite/correct certain values_
+
 * Type - technical type of a field - in case of existing GoldenCheetah fields, please use the correct field type (to understand appropiate types, please look at the standard examples GoldenCheetah is providing).
 * Values - is a way to restrict and simplify the input into fields of type 'Text' and 'Short Text' - by adding a list of values, seperated by "," for a specific field, only those values can be inputted into that particular field when editing 
 * Diary - if checked, the concatenated contents of the checked field is show in the 'Rides' view - 'Side Bar' -> 'Rides Pane' and also in the 'Diary' view - 'Calendar' chart.
