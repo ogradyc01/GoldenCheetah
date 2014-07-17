@@ -29,6 +29,4 @@ _Note: The change does not only change the 'fix' UI texts in GoldenCheetah, but 
 
 _Note: Please be aware that the development framework may create some unexpected behavior if system language is different to GoldenCheetah preferences language. E.g. the day and months names and their abbreviations used in the dates diplayed are using the system locale of the operating system, not the language setup in GoldenCheetah preferences._
 
-
-* Dynamic Translation of Charts
-
+BACK: [Table on contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
