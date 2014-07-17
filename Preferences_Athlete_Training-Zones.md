@@ -76,7 +76,7 @@ Values are:
 * Zones Details - From BPM (Heartrate)
 * Zones Details - Trimp k
 
-
+Back: [Preferences: Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
 
 
 
