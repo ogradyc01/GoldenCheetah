@@ -15,7 +15,7 @@ The 'Data Fields' preferences cover three different areas:
 
 ![Preferences - Datafields - Fields] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Fields.jpg)
 
-The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of teh ['Details' Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details).
+The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details).
 
 * Screen Tab - groups the fields on different tabs 
 * Field - name of the field - there are 2 cases to consider (1) you to add a completely new field: then make sure that it has a name, which is not used elsewhere in GoldenCheetah (and will never be used in future) (2) you want to make an existing field of GoldenCheetah editable, then please use exactly the field name here and make sure that you assign the correct field type
