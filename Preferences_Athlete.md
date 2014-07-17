@@ -22,4 +22,5 @@ The next two tabs 'Power' and 'Heartrate' allow you to setup the training zones 
 
 * [How-to: Configure Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)
 
- 
+BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+
