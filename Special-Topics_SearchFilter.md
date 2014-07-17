@@ -39,4 +39,7 @@ Special Topics: Search & Filter (Version 3.1)
  * Float - format examples `1234e-3`
  * String - format example `abcde`
 
+* GoldenCheetah Symbols
+ * Names of GoldenCheetah metrics which can be used on formulas (most, but not all field are supported yet - e.g. there is no support for Date or Time fields in formulas) 
+
  
