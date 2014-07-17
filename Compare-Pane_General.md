@@ -24,13 +24,11 @@ _Note: Comparison views have been implemented for most of the charts - but only 
 
 ![Compare Pane] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ComparePane_Pane.jpg)
 
+## Columns in the compare pane
 
-## Specifics for the views
+* Trends view - pre-defined columsn are 'Athlete', 'From', 'To', 'Duration' and 'Distance'. The other data fields are those metrics defined under `Preferences->DataFields->Summary`.
+* Rides view - pre-defined columns are 'Athlete', 'Date', 'Time', 'Duration' and 'Distance'. The other data fields are those metrics defined under `Preferences->DataFields->Intervals`.
 
+BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
-* [Compare Pane: Trends view]
-* [Compare Pane: Rides view]
-
-
-BACK:
 
