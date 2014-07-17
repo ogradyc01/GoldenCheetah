@@ -39,6 +39,6 @@ The data fields are structured by 'Screen Tab's which then appear on the 'Rides'
 
 ![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
 
-
+GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please check [Special Topics: Ride processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 
 BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
