@@ -15,7 +15,16 @@ _Note: You can select items ('Rides', 'Intervals' and 'Date Ranges') not only fr
 
 ## Compare on/off, sorting of items and clearing 
 
-To compare the selected items ('Rides', 
+* To activate the comparison the selected items ('Rides', 'Interval' or 'Date Ranges'), you need to push the `OFF` button in the 'Compare Pane'. With this the charts in the main view change into a comparison view and the button changes to `ON`. Pressing again ends the compare mode.
+
+* Using the 'Check boxes' on the left border of the 'Compare Pane' allow to include/exclude single items from the comparison. The first item is always checked as the comparison reference.
+
+* You can also sort the items by 'mouse-click' on the respective column header. Whith the sort, also the reference items changes (but is always the first item in the list).
+
+_Note: Comparison views have been implemented for most of the charts - but only for those, where a comparison makes sense. E.g. there is no comparison for the Google/Bing map chart._
+
+![Compare Pane: Drag & Drop] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ComparePane_DragDrop.gif)
+
 
 
 
