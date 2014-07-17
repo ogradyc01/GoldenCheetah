@@ -63,6 +63,6 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 
 ## Translation/Localization
 
-* [General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+* [Done General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
 * [Done German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
 * [xxx] ... open for additions for other translations ...
