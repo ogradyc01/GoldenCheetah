@@ -33,5 +33,5 @@ _Note_: STS and LTS value is stored per user._
 
 * Workout Library: Directory to store the 'Train' view related files,... 
 
-BACK: [Prerences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 
