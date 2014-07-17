@@ -49,7 +49,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 * [Done Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training Zones)
 * [Done Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords)
 * [Done Appearance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
-* [Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
+* [Done Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
 * [Done Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 * [Done Train Devices] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
 
