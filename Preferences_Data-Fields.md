@@ -29,9 +29,12 @@ The data fields are structured by 'Screen Tab's which then appear on the 'Rides'
 
 The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of teh ['Details' Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details).
 
-* Screen Tab - groups the fields on different tabs 
-* Field - name of the field 
-  if want want to add a completely new field, make sure that it has a name, which is not used elsewhere in GoldenCheetah (and will never be used in future)
+* Field - you need to select ONE text field, which will contain the keywords relevant to set the colors - the drop-down list offers all Text, Short Text and Textbox field maintained under 'Fields'.
+* Use for Background - if checked, the color is not applied to the text, but to the text background (this provides a behavior similar to GoldenCheetah 3.0x)
+
+* Keyword - this is the main keyword to determine the color - (which is set in field 'Color') - when comparing the keywords with your texts, Upper/Lower case writing is ignored (so 'FTP' is treated equally to 'ftp' or 'fTp').
+* Color - is set through a 'Color Chooser' dialog box which is opened by "mouse-click" on the color box.
+* Related Notes Words - is usefull, if you want more than one keyword to have the same color, instead of adding them one-by-one to the keyword list, you can just create one entry to define the color and enter all other keywords, separated by "," into this field.
 
 ### Processing
 
