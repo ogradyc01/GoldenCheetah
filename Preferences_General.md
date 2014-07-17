@@ -25,7 +25,7 @@ _Note: The value is defined for all users._
 
 * STS average (days) / LTS average (days): STS (Short Term Stress) and LTS (Long Term Stress) days are the time constants used in the calculation of STS and LTS in the PMC charts 
 
-_Note_: STS and LTS value is stored per user. 
+_Note_: STS and LTS value is stored per user._
 
 * PMC Stress Balance Today: If flaged, the training of a certain day is considered in the SB value of this day already. If not flaged, the SB change would take effect on the next day. 
 
@@ -33,5 +33,5 @@ _Note_: STS and LTS value is stored per user.
 
 * Workout Library: Directory to store the 'Train' view related files,... 
 
-
+BACK: [Prerences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 
