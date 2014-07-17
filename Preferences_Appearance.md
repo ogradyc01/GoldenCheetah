@@ -16,7 +16,7 @@ Here you can define UI appearance of GoldenCheetah.
 ***
 * Theme - themes are predefined sets of color settings for GoldenCheetah - you can't add/remove any of themes. To use them, select a theme by marking the row with a "mouse-click" and press `Apply Theme`. After that, don't forget to press `Save` to make the change work.
 
-_Note: a theme does only change the main colors in GoldenCheetah, not the whole list. You can still define each color separately and overwrite any theme settings_
+_Note: applying a theme does only change the main colors in GoldenCheetah, not the whole list. You can still define each color separately and overwrite any theme settings_
 
 On the tab 'Colors' you can do the individual adjustments to the GoldenCheetah colors:
 
