@@ -23,7 +23,7 @@ With these (maybe boring) explanations - now the specifics for GoldenCheetah:
 
 * Change of Language - when changing the language in GoldenCheetah preferences this change takes only effect after closing and restarting GoldenCheetah.
 
-_Note: The change does not only change the 'fix' UI texts in GoldenCheetah, but also initiates the translation of 'Chart' names and ........_
+_Note: The change does not only change the 'fix' UI texts in GoldenCheetah, but also initiates the translation of 'Chart' names and preset names_
 
 * Date / Time representation - is handled in different ways starting with versio 3.1  DATES shown on screens are subject to localisation. So they are formatted following the rules of the language configured in GoldenCheetah preferences (assuming translation is completely done for that language). TIME is not localized any more, but always presented in the international format 'hh:mm:ss' without any AM/PM formatting.
 
