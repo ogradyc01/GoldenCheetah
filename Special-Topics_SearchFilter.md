@@ -31,8 +31,9 @@ Special Topics: Search & Filter (Version 3.1)
   * `^`
 
 * Special Functions
- * `BEST`
- * `TIZ`
+ * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk (BEST ( xx, DURATION in seconds) returns 0 
+ * `TIZ` power|hr (Time in Zone-> TIZ ( xx, ZoneNumber) return float value (seconds)
+-> Check "RideFileCache" for further details
 
 * Constants 
  * Integer - format examples `12345`, `-12345`
