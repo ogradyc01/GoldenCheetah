@@ -28,4 +28,4 @@ Chart Types: Rides view (Version 3.1)
 
 ## Aerolab Chung Analysis
 
-BACK: 
+BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
