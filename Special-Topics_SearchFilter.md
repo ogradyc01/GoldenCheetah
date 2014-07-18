@@ -71,7 +71,9 @@ In a simple view, a filter query is a bit like a database query - (which is diff
 
 Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
-## A simple query looks like: `<field_name> <operator> <value>`
+## Simple Queries
+
+A simple query lokes like: `<field_name> <operator> <value>`
 
 ### `<field_name>`
 
