@@ -135,29 +135,16 @@ The syntax is <value_or_field> <calcuation_operator> <value_or_field>. With this
 
 GoldenCheetah provides two functions which return rides specific metrics very easily:
 
- * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the specific ride. This value can then be used in the query e.g. to compare to a <value>.
+ * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the ride to filter. This value then needs to be used in the complete query e.g. to compare to a <value>.
 
 The supported `<data_series>` are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
-Example: You want to select all rides, where your 5min mean max power was higher than 350 watts. This query then looks: `Best ( power, 300) > 200`
+Example: You want to select all rides, where your 5min mean max power was higher than 200 watts. This query then looks: `BEST ( power, 300) > 200`. Again the duration (5min) has to be entered in seconds (300sec) into the query.
+
+ * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the rides to filter. This value then needs to be used in the complete query e.g. to compare to a <value>.
+
+The supported `<tiz_series` are: "power" and "hr"
+
+Example: You want to select all rides, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
 
 
-Example: You want to 
-
-apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
-   (BEST ( xx, DURATION in seconds) return the value (power,...) which is the meanMax for the duration (basically the data from the CP chart for that duration) which then still needs a comparison again a constant to filter the rides
- * `TIZ` power|hr (Time in Zone-> TIZ ( xx, ZoneNumber) return float value (seconds) which then can be used in comparison (1h = 3600 seconds)
-
-* Constants 
- * Integer - format examples `12345`, `-12345`
- * Float - format examples `1234e-3`
- * String - format example `abcde`
-
-* Special Fields
-
-  * Duration, et.al - > time is in SECONDS !!!!
-
-* GoldenCheetah Symbols
- * Names of GoldenCheetah metrics which can be used on formulas (most, but not all field are supported yet - e.g. there is no support for Date or Time fields in formulas) 
-
- 
