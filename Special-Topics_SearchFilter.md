@@ -71,6 +71,8 @@ In a simple view, a filter query is a bit like a database query - (which is diff
 
 Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
+_Note: You need to separate fieldnamens, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query changing to red. To see the error text, just move the mouse cursor to the "Red" text and wait until the error text appears._
+
 ## Simple Queries
 
 A simple query lokes like: `<field_name> <operator> <value_or_string>`
@@ -102,25 +104,28 @@ _Note: For text fields mainly `=` and `<>` make sense, comparison of text on 'gr
 ### `<value_or_string>`
 
 * `<string>` can be a single word, or a sequence of words (which then need to be put into quotes "" or '')
-* `<value>` can be a 'integer' (like 3333 or -9999) or a 'float' (like 123.567 or -123.456 or 123.567e3 or 123.567e-3 )
+* `<value>` can be an 'integer' (like 123 or -456) or a 'float' (like 123.567 or -123.456 or 123.567e3 or 123.567e-3 )
 
 ## Combined Queries
 
- `<field_name> <operator> <value> AND <other_field> <o`
+You can combine multiple simple queries with 
 
-* Logical Operator
-  * `&&` or `AND`
-  * `||` or `OR`
+* Boolean operators
+  * `AND` or `&&` - both simple queries have to be fulfilled 
+  * `OR` or `||` - either one or both simple queries have to be fulfilled
 
+_Note: This can be done as often as the query input field allows for a size perspective. In contrast to the 'Search' queries, the filter queries don't care on upper/lower case for the operator keywords_
 
 ### Special Operators
 
+In addition to the usual operators before, GoldenCheetah has some build-in extras you can use.
+
 * Calculation Operator
-  * `+`
-  * `-`
-  * `*`
-  * `\`
-  * `^`
+  * `+` - plus
+  * `-` - minus
+  * `*` - multiply
+  * `\` - divide
+  * `^` - power
 
 * Special Functions
  * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
