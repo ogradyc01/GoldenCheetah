@@ -118,7 +118,7 @@ _Note: This can be done as often as the query input field allows for a size pers
 
 * Using bracket "(" ")" - in more complex queries it is often either required / or senseful to put certain sub-query or calculations in brackets - so that execution is done in the right sequence. 
 
-### Special Operators and Functions
+### Special Operators
 
 In addition to the quite common operators before, GoldenCheetah has some build-in extras you can use.
 
@@ -131,16 +131,18 @@ In addition to the quite common operators before, GoldenCheetah has some build-i
 
 The syntax is <value_or_field> <calcuation_operator> <value_or_field>. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations /here 2h) are always treated as "seconds" (here 7200 seconds).
 
-* Special Functions
+## Special Functions
 
 GoldenCheetah provides two functions which return rides specific metrics very easily:
 
  * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the specific ride. This value can then be used in the query e.g. to compare to a <value>.
 
+The supported <data_series> are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
 
 
-Example: 
+
+Example: You want to 
 
 apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
    (BEST ( xx, DURATION in seconds) return the value (power,...) which is the meanMax for the duration (basically the data from the CP chart for that duration) which then still needs a comparison again a constant to filter the rides
