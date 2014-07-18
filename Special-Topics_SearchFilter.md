@@ -27,7 +27,7 @@ _Note: Again be sure to use the correct query type (Search/Filter)._
 
 ### Applying Queries
 
-You can always just enter the query into the text field and press `Enter` to apply the query. By using pre-defined queries you save the time for typing and get always the same result (without any typing errors.)
+You can always just enter the query into the text field and press `Enter` to apply the query. Or use a pre-defined queries which applies directly and saves the time of typing.
 
 ![Search Filter - Apply/Remove] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_Apply_Remove.gif)
 
