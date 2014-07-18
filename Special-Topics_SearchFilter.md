@@ -116,6 +116,9 @@ You can combine multiple simple queries with
 
 _Note: This can be done as often as the query input field allows for a size perspective. In contrast to the 'Search' queries, the filter queries don't care on upper/lower case for the operator keywords_
 
+* Using bracket "(" ")" 
+  * In more complex queries it is often either required / or senseful to put certain sub-query or calculations in brackets - so that execution is done in the right sequence.
+
 ### Special Operators
 
 In addition to the usual operators before, GoldenCheetah has some build-in extras you can use.
@@ -126,6 +129,9 @@ In addition to the usual operators before, GoldenCheetah has some build-in extra
   * `*` - multiply
   * `\` - divide
   * `^` - power
+
+The syntax here is <value_or_field> <calcuation_operator> <value_or_field>
+
 
 * Special Functions
  * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
