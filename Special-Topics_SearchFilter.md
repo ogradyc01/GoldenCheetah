@@ -1,6 +1,8 @@
 Special Topics: Search & Filter (Version 3.1)
 ****
 
+Searching and Filtering are ways to find rides which fulfill specific criteria (e.g. to limit the number of rides shown in the ride navigator - or to find a particular ride). But also to only consider specific rides in summary and cumulative charts, like on the 'Trends' view.
+
 ## Search & Filter - Common Functions
 
 Before going into any details, here the common functions available for both Search and Filter queries. The logic for Search and Filter is similar in all places of GoldenCheetah:
@@ -37,6 +39,8 @@ _Note:To de-activate a 'Search/Filter' query, just click on the little (x) on th
 
 The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the right Icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears.
 
+### Search Query Syntax
+
 The search engine used by GoldenCheetah offers more options - e.g. field specific searches. Some of them which might be helpful (and which appear to work in GoldenCheetah's way to use the search engine) are:
 
 * Wildcard searches 
@@ -53,11 +57,24 @@ _Note: Here AND, resp. OR have to be in UPPER CASE - otherwise they are interpre
 
 _Note: Since the search engine has more capabilities - there may be more usable, but since the documentation on the query snytax is quite basic, you need to find out on your own. A usefull search term to get further information is the name of the search engine used: 'Lucene' and the implementation GoldenCheetah is using is 'CLucene'._
   
-
 ## Filter
 
+Filtering is like searching, a way to find rides which fulfill specific criteria. Where searching mainly works on text fields, filtering can do a lot more. But this 'more' also means you have to make yourself familiar with the query syntax for filtering.
 
-## Filter Syntax 
+## Filter Query Syntax 
+
+In a simple view, a filter query is a bit like a database query - (which is different to free-text search engines). As a minimum you need to define
+
+  * the field you want to look at
+  * a rule how to look at that field
+  * a comparison value
+
+Easy example: "TSS > 100" - finds all rides where TSS is 101 or more
+
+
+
+
+
 
 * String Functions
   * `MATCHES`
