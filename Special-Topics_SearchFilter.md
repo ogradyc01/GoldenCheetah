@@ -61,7 +61,7 @@ _Note: Since the search engine has more capabilities - there may be more usable,
 
 Filtering is like searching, a way to find rides which fulfill specific criteria. Where searching mainly works on text fields, filtering can do a lot more. But this 'more' also means you have to make yourself familiar with the query syntax for filtering.
 
-## Filter Query Syntax 
+### Filter Query Syntax 
 
 In a simple view, a filter query is a bit like a database query - (which is different to free-text search engines). As a minimum you need to define
 
@@ -71,8 +71,13 @@ In a simple view, a filter query is a bit like a database query - (which is diff
 
 Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
+Based on the exampe a simple query looks like: `<field> <operator> <value>`
 
-* String Functions
+#### <field>
+* The Field to look at
+
+
+* Strings and String Functions
   * `MATCHES`
   * `BEGINSWITH`
   * `ENDSWITH`
