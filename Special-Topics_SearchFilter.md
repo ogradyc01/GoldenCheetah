@@ -83,22 +83,26 @@ _Note: In releases below 3.1 the field names were partly translated into your pr
 
 ### `<operator>`
 
-* Strings and String Functions
-  * `MATCHES`
-  * `BEGINSWITH`
-  * `ENDSWITH`
-  * `CONTAINS`
+* Text Operators (make only sense for text fields/strings)
+  * `MATCHES` -> ???
+  * `BEGINSWITH` - checks if the field text begins with the text you are comparing to
+  * `ENDSWITH` - checks if the field text ends with text your are comparing to
+  * `CONTAINS` - checks if the field text at any position contains the text you are comparing to
 
-* Value Operator
-  * `=`
-  * `<>` 
-  * `<`
-  * `<=`
-  * `>`
-  * `>=`
+* Value Operator (work for value fields and text fields)
+  * `=` - Equal
+  * `<>` - Not equal
+  * `<` - Smaller
+  * `<=` - Smaller or equal
+  * `>` - Greater
+  * `>=` - Greater or equal
+
+_Note: For text fields mainly `=` and `<>` make sense, comparison of text on 'greater' or 'smaller' works as well, but uses the character codes to compare - so you need to understand that concept_
 
 ### `<value_or_string>`
 
+* `<string>` can be a single word, or a sequence of words (which then need to be put into quotes "" or '')
+* `<value>` can be a 'integer' (like 3333 or -9999) or a 'float' (like  ??????)
 
 ## Combined Queries
 
