@@ -139,7 +139,7 @@ GoldenCheetah provides two functions which return rides specific metrics very ea
 
 The supported `<data_series>` are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
-
+Example: You want to select all rides, where your 5min mean max power was higher than 350 watts. This query then looks: `Best ( power, 300) > 200`
 
 
 Example: You want to 
