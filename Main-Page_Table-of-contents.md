@@ -56,7 +56,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 * [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
 * [Done Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library)
 * [Upload/Download from/to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
-* [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
+* [Done Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
 * [Ride processing - Fix/Correct/Adjust] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 * [Done Weight Setting Options] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
