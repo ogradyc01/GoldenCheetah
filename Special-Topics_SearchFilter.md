@@ -71,7 +71,7 @@ In a simple view, a filter query is a bit like a database query - (which is diff
 
 Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
-_Note: You need to separate fieldnamens, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query changing to red. To see the error text, just move the mouse cursor to the "Red" text and wait until the error text appears._
+_Note: You need to separate fieldnamens, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query text color changing to "red". To see the error text, just click into the query text wait until an error text appears._
 
 ## Simple Queries
 
@@ -147,4 +147,11 @@ The supported `<tiz_series` are: "power" and "hr"
 
 Example: You want to select all rides, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
 
+## Additional Information
 
+* Duration fields and values - always have to be provided in "seconds" in a query.
+* Date and Time fields - are currently not supported in the queries - for some needs you may use 'Date Ranges' instead
+* Some technical fields are also not supported - when you enter such a field with the 'Column Chooser' you will get a 'syntax error' e.g. "field not known".
+* Syntax errors - when a query cannto be recognized as a valid query, the query input field text color changes to "red". By clicking at any part of the query with your mouse and waiting a short moment, an error text will appear - telling you why GoldenCheetah failed to parse query. 
+
+BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Overview)
