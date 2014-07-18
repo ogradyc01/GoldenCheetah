@@ -1,11 +1,29 @@
 Special Topics: Search & Filter (Version 3.1)
 ****
 
+## Search
+
+The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the right Icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears.
+
+The search engine used by GoldenCheetah offers more options - e.g. field specific searches. Some of them which might be helpful (and which should work) are:
+
+* Wildcard searches
+  * Single character wildcard is "?"
+  * Multiple character wildcard is "*"
+_Note: Using a wildcard charater as first character of a search is not possible._
+
+
+
+
+
+ - but since this is not very well documented, and the simple search is considered to cover pretty much all
+
+## Filter
 
 
 ## Filter Syntax 
 
-* String Operator
+* String Functions
   * `MATCHES`
   * `BEGINSWITH`
   * `ENDSWITH`
