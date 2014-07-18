@@ -116,8 +116,7 @@ You can combine multiple simple queries with
 
 _Note: This can be done as often as the query input field allows for a size perspective. In contrast to the 'Search' queries, the filter queries don't care on upper/lower case for the operator keywords_
 
-* Using bracket "(" ")" 
-  * In more complex queries it is often either required / or senseful to put certain sub-query or calculations in brackets - so that execution is done in the right sequence.
+* Using bracket "(" ")" - in more complex queries it is often either required / or senseful to put certain sub-query or calculations in brackets - so that execution is done in the right sequence. 
 
 ### Special Operators
 
@@ -130,8 +129,7 @@ In addition to the usual operators before, GoldenCheetah has some build-in extra
   * `\` - divide
   * `^` - power
 
-The syntax here is <value_or_field> <calcuation_operator> <value_or_field>
-
+The syntax is <value_or_field> <calcuation_operator> <value_or_field>. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations /here 2h) are always treated as "seconds" (here 7200 seconds).
 
 * Special Functions
  * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
