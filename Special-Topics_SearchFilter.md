@@ -9,19 +9,29 @@ Before going into any details, here the common functions available for both Sear
 
 The UI is multifunctional. It has a selector to switch between 'Search' and 'Filter', a drop-down menu contain the pre-defined queries and related functions, and an input field to enter your queries.
 
-_Note: Please do always check if you have selected the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and thus might create unexpected results._
+_Note: Please do always check if you have selected the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and purpose and will most likely create unexpected results._
 
 ![Search Filter - UI] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_UI.gif)
 
+### Manage Filters (Manage Queries)
 
+You can create and store 'Search' and 'Filter' queries using the 'Manage Filters' menu. Queries stored here are appear in the drop-down menu for faster access.
 
+![Search Filter - ManageFilters] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_ManageFilters.jpg)
 
-### Manage Queries
+* Add - adds the query defined in the Name/Filter input field to the list
+* Update - updates an existing query with changes from Name/Filter input fields
+* Delete - delete the query marked in the list
 
-* Add to Filter - independent if you create a Search or a Filter query, you can store it for later re-use. Created queries appear under their names in the Search/Filter menu.
-* Manage Filter - allows to 'Add',... and 'Delete' queries.
+_Note: Again be sure to use the correct query type (Search/Filter)._
 
+### Applying Queries
 
+You can always just enter the query into the text field and press `Enter` to apply the query. By using pre-defined queries you save the time for typing and get always the same result (without any typing errors.)
+
+![Search Filter - Apply/Remove] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_Apply_Remove.gif)
+
+_Note:To de-activate a 'Search/Filter' query, just click on the little (x) on the right end of the text box._
 
 ## Search
 
