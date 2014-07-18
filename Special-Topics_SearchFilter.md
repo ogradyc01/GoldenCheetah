@@ -137,7 +137,7 @@ GoldenCheetah provides two functions which return rides specific metrics very ea
 
  * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the specific ride. This value can then be used in the query e.g. to compare to a <value>.
 
-The supported <data_series> are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
+The supported `<data_series>` are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
 
 
