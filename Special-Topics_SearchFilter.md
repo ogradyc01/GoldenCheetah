@@ -73,7 +73,7 @@ Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more.
 
 ## Simple Queries
 
-A simple query lokes like: `<field_name> <operator> <value>`
+A simple query lokes like: `<field_name> <operator> <value_or_string>`
 
 ### `<field_name>`
 
@@ -97,12 +97,19 @@ _Note: In releases below 3.1 the field names were partly translated into your pr
   * `>`
   * `>=`
 
+### `<value_or_string>`
 
-## A more complex query: `<field_name> <operator> <value> AND <other_field> <o`
+
+## Combined Queries
+
+ `<field_name> <operator> <value> AND <other_field> <o`
 
 * Logical Operator
   * `&&` or `AND`
   * `||` or `OR`
+
+
+### Special Operators
 
 * Calculation Operator
   * `+`
