@@ -3,9 +3,16 @@ Special Topics: Search & Filter (Version 3.1)
 
 ## Search & Filter - Common Functions
 
-Before going into any details, here the common functions available for both Search and Filter queries:
+Before going into any details, here the common functions available for both Search and Filter queries. The logic for Search and Filter is similar in all places of GoldenCheetah:
 
 ### UI Handling
+
+The UI is multifunctional. It has a selector to switch between 'Search' and 'Filter', a drop-down menu contain the pre-defined queries and related functions, and an input field to enter your queries.
+
+_Note: Please do always check if you have selected the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and thus might create unexpected results._
+
+![Search Filter - UI] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_UI.gif)
+
 
 
 
