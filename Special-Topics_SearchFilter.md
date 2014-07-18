@@ -1,6 +1,21 @@
 Special Topics: Search & Filter (Version 3.1)
 ****
 
+## Search & Filter - Common Functions
+
+Before going into any details, here the common functions available for both Search and Filter queries:
+
+### UI Handling
+
+
+
+### Manage Queries
+
+* Add to Filter - independent if you create a Search or a Filter query, you can store it for later re-use. Created queries appear under their names in the Search/Filter menu.
+* Manage Filter - allows to 'Add',... and 'Delete' queries.
+
+
+
 ## Search
 
 The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the right Icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears.
