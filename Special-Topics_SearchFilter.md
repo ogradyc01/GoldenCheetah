@@ -68,9 +68,9 @@ _Note: Since the search engine has more capabilities - there may be more usable,
   * `^`
 
 * Special Functions
- * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk (BEST ( xx, DURATION in seconds) returns 0 
- * `TIZ` power|hr (Time in Zone-> TIZ ( xx, ZoneNumber) return float value (seconds)
--> Check "RideFileCache" for further details
+ * `BEST`apower|power|hr|cadence|speed|torque|vam|xpower|np|wpk 
+   (BEST ( xx, DURATION in seconds) return the value (power,...) which is the meanMax for the duration (basically the data from the CP chart for that duration) which then still needs a comparison again a constant to filter the rides
+ * `TIZ` power|hr (Time in Zone-> TIZ ( xx, ZoneNumber) return float value (seconds) which then can be used in comparison (1h = 3600 seconds)
 
 * Constants 
  * Integer - format examples `12345`, `-12345`
