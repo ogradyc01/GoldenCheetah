@@ -152,6 +152,6 @@ Example: You want to select all rides, where you have spend 60min or more in pow
 * Duration fields and values - always have to be provided in "seconds" in a query.
 * Date and Time fields - are currently not supported in the queries - for some needs you may use 'Date Ranges' instead
 * Some technical fields are also not supported - when you enter such a field with the 'Column Chooser' you will get a 'syntax error' e.g. "field not known".
-* Syntax errors - when a query cannto be recognized as a valid query, the query input field text color changes to "red". By clicking at any part of the query with your mouse and waiting a short moment, an error text will appear - telling you why GoldenCheetah failed to parse query. 
+* Syntax errors - when a query cannto be recognized as a valid query, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear - telling you why GoldenCheetah failed to parse query. 
 
 BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Overview)
