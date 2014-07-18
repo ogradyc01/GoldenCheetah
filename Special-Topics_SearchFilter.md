@@ -71,11 +71,15 @@ In a simple view, a filter query is a bit like a database query - (which is diff
 
 Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
-Based on the exampe a simple query looks like: `<field> <operator> <value>`
+Based on the exampe a simple query looks like: `<field_name> <operator> <value>`
 
-#### <field>
-* The Field to look at
+### <field_name>
 
+GoldenCheetah uses a "semi"technical field name for the queries - which is basically the english metric name, where all 'spaces' are substited by '_' to get the <field> as one textstring. Since it's difficult to remember all the field names, and for longer field names to type the name correctly, you can "Drag&Drop" field field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
+
+_Note: In releases below 3.1 the field names were partly translated into your preferences - language. Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent on of translation, from 3.1 on, only the english fieldnames (as described above) are valid <field_name>s for 'Filter' queries._
+
+### <operator>
 
 * Strings and String Functions
   * `MATCHES`
