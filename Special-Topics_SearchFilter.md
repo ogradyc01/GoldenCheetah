@@ -102,7 +102,7 @@ _Note: For text fields mainly `=` and `<>` make sense, comparison of text on 'gr
 ### `<value_or_string>`
 
 * `<string>` can be a single word, or a sequence of words (which then need to be put into quotes "" or '')
-* `<value>` can be a 'integer' (like 3333 or -9999) or a 'float' (like  ??????)
+* `<value>` can be a 'integer' (like 3333 or -9999) or a 'float' (like 123.567 or -123.456 or 123.567e3 or 123.567e-3 )
 
 ## Combined Queries
 
@@ -131,6 +131,10 @@ _Note: For text fields mainly `=` and `<>` make sense, comparison of text on 'gr
  * Integer - format examples `12345`, `-12345`
  * Float - format examples `1234e-3`
  * String - format example `abcde`
+
+* Special Fields
+
+  * Duration, et.al - > time is in SECONDS !!!!
 
 * GoldenCheetah Symbols
  * Names of GoldenCheetah metrics which can be used on formulas (most, but not all field are supported yet - e.g. there is no support for Date or Time fields in formulas) 
