@@ -129,7 +129,7 @@ In addition to the quite common operators before, GoldenCheetah has some build-i
   * `\` - divide
   * `^` - power
 
-The syntax is <value_or_field> <calcuation_operator> <value_or_field>. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations /here 2h) are always treated as "seconds" (here 7200 seconds).
+The syntax is `<value_or_field> <calcuation_operator> <value_or_field>`. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations /here 2h) are always treated as "seconds" (here 7200 seconds).
 
 ## Special Functions
 
