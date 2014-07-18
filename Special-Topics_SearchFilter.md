@@ -73,13 +73,13 @@ Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more.
 
 Based on the exampe a simple query looks like: `<field_name> <operator> <value>`
 
-### <field_name>
+### `<field_name>`
 
 GoldenCheetah uses a "semi"technical field name for the queries - which is basically the english metric name, where all 'spaces' are substited by '_' to get the <field> as one textstring. Since it's difficult to remember all the field names, and for longer field names to type the name correctly, you can "Drag&Drop" field field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
 
 _Note: In releases below 3.1 the field names were partly translated into your preferences - language. Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent on of translation, from 3.1 on, only the english fieldnames (as described above) are valid <field_name>s for 'Filter' queries._
 
-### <operator>
+### `<operator>`
 
 * Strings and String Functions
   * `MATCHES`
