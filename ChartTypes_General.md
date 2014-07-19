@@ -9,7 +9,7 @@ Since some of the chart types appear in more than one Scope View (Trends / Diary
 
 * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 * [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
-* [Critical Mean Maximal ((https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-critical-mean-maximal)
+* [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-critical-mean-maximal)
 * [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
 * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
 
