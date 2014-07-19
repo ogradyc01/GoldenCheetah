@@ -16,29 +16,29 @@ Since some of the chart types appear in more than one Scope View (Trends / Diary
 
 ## Diary
 
-* Metric Trends
-* Collection Tree Map
-* Critical Mean Maximal
-* Distribution
-* Calendar
-* Navigator
-* Summary
+* [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#metric-trends)
+* [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#collection-tree-map)
+* [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#metric-critical-mean-maximal)
+* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#distribution)
+* [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
+* [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
+* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#summary)
 
 ## Rides
 
-* Ride Summary
-* Details
-* Summary and Details
-* Editor
-* Performance
-* Critical Mean Maximals
-* Histogram
-* Pedal Force vs Velocity
-* Heartrate vs Power
-* Google Map / Bing Map
-* 2d Plot
-* 3d Plot
-* Aerolab Chung Analysis
+* [Ride Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#ride-summary)
+* [Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details)
+* [Summary and Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#summary-and-details)
+* [Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#editor)
+* [Performance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#performance)
+* [Critical Mean Maximals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#critical-mean-maximals)
+* [Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#histogram)
+* [Pedal Force vs Velocity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#pedal-force-vs-velocity)
+* [Heartrate vs Power] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#heartrate-vs-power)
+* [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#oogle-map--bing-map)
+* [2d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#2d-plot)
+* [3d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#3d-plot)
+* [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#aerolab-chung-analysis)
 
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
 
