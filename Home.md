@@ -2,6 +2,7 @@
 
 ## WIKI Documents
 * [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/user/GC3-FAQ.pdf?raw=true)
+* [[User's Guide 3.1]] Main Page_Users Guide  
 * [[User's Guide]] User Guide, How-to and Help Pages
 * [[Developers Guide]] How-to and Help Pages
 
