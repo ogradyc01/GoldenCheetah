@@ -5,4 +5,3 @@
 
 ## Windows
 * [[Building Golden Cheetah for Windows]]
-* [[Eclipse IDE for Windows Developing and Debugging]]
