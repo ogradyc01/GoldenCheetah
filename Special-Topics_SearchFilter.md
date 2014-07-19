@@ -79,14 +79,14 @@ A simple query lokes like: `<field_name> <operator> <value_or_string>`
 
 ### `<field_name>`
 
-GoldenCheetah uses a "semi"technical field name for the queries - which is basically the english metric name, where all 'spaces' are substited by '_' to get the <field> as one textstring. Since it's difficult to remember all the field names, and for longer field names to type the name correctly, you can "Drag&Drop" field field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
+GoldenCheetah uses a "semi"technical field name for the queries - which is basically the english metric or field name, where all 'spaces' are substited by '_' to get the `<field>` as one textstring. Since it's difficult to remember all the field names, and (for longer field names) to type the name correctly, you can "Drag&Drop" field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
 
-_Note: In releases below 3.1 the field names were partly translated into your preferences - language. Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent on of translation, from 3.1 on, only the english fieldnames (as described above) are valid <field_name>s for 'Filter' queries._
+_Note: In releases before 3.1 the field names were partly translated into your "preferences - language". Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent of any translation, from 3.1 on, only the english fieldnames (as described above) are valid <field_name>s for 'Filter' queries._
 
 ### `<operator>`
 
 * Text Operators (make only sense for text fields/strings)
-  * `MATCHES` -> ???
+  * `MATCHES` - checks if the field text has a exact match with the regular expression in `MATCHES(<reg_expr>)`
   * `BEGINSWITH` - checks if the field text begins with the text you are comparing to
   * `ENDSWITH` - checks if the field text ends with text your are comparing to
   * `CONTAINS` - checks if the field text at any position contains the text you are comparing to
@@ -114,7 +114,7 @@ You can combine multiple simple queries with
   * `AND` or `&&` - both simple queries have to be fulfilled 
   * `OR` or `||` - either one or both simple queries have to be fulfilled
 
-_Note: This can be done as often as the query input field allows for a size perspective. In contrast to the 'Search' queries, the filter queries don't care on upper/lower case for the operator keywords_
+_Note: This can be done as often as the query input field allows for a size perspective. In contrast to the 'Search' queries, the filter queries don't care on upper/lower case for the operator keywords._
 
 * Using bracket "(" ")" - in more complex queries it is often either required / or senseful to put certain sub-query or calculations in brackets - so that execution is done in the right sequence. 
 
@@ -129,19 +129,19 @@ In addition to the quite common operators before, GoldenCheetah has some build-i
   * `\` - divide
   * `^` - power
 
-The syntax is `<value_or_field> <calcuation_operator> <value_or_field>`. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations /here 2h) are always treated as "seconds" (here 7200 seconds).
+The syntax is `<value_or_field> <calcuation_operator> <value_or_field>`. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that durations (here 2h) are always treated as "seconds" (here 7200 seconds).
 
 ## Special Functions
 
 GoldenCheetah provides two functions which return rides specific metrics very easily:
 
- * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the ride to filter. This value then needs to be used in the complete query e.g. to compare to a <value>.
+ * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the choosen data series for the ride to filter. This value then can be used in a query e.g. to compare to a <`value>`.
 
 The supported `<data_series>` are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
 Example: You want to select all rides, where your 5min mean max power was higher than 200 watts. This query then looks: `BEST ( power, 300) > 200`. Again the duration (5min) has to be entered in seconds (300sec) into the query.
 
- * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the rides to filter. This value then needs to be used in the complete query e.g. to compare to a <value>.
+ * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the rides to filter. This value then needs to be used in the complete query e.g. to compare to a `<value>`.
 
 The supported `<tiz_series` are: "power" and "hr"
 
@@ -152,6 +152,6 @@ Example: You want to select all rides, where you have spend 60min or more in pow
 * Duration fields and values - always have to be provided in "seconds" in a query.
 * Date and Time fields - are currently not supported in the queries - for some needs you may use 'Date Ranges' instead
 * Some technical fields are also not supported - when you enter such a field with the 'Column Chooser' you will get a 'syntax error' e.g. "field not known".
-* Syntax errors - when a query cannto be recognized as a valid query, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear - telling you why GoldenCheetah failed to parse query. 
+* Syntax errors - when a query is invalid, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear - telling you why GoldenCheetah failed to parse your query. 
 
 BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Overview)
