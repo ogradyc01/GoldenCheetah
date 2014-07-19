@@ -11,7 +11,7 @@ _Select:_ `Menu Bar -> Help -> About GoldenCheetah` This opens a popup like belo
 
 ![Preferences - General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesGeneral.jpg)
 
-GoldenCheetah is not removing your old 'Athlete Library' or deleting any athlete data stored in it. After changing your 'Athlete Library' you can alway switch back to the previous one, but there is currently no feature to move or copy athletes from one library to another.
+When changing your 'Athlete Library' path, GoldenCheetah is not removing your old 'Athlete Library' or deleting any athlete data stored in it. After changing your 'Athlete Library' you can alway switch back to the previous one, but there is currently no feature to move or copy athletes from one library to another.
 
 After selecting a new 'Athlete Library' which is recommended to be an EMPTY directory of your system, you need either to manually takeover your data from the previous library. Or you start with a new athlete in your new library.
 
