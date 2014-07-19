@@ -55,7 +55,9 @@ _Note: Using a wildcard charater as first character of a search is not possible.
 
 _Note: Here AND, resp. OR have to be in UPPER CASE - otherwise they are interpreted as search terms_
 
-_Note: Since the search engine has more capabilities - there may be more usable, but since the documentation on the query snytax is quite basic, you need to find out on your own. A usefull search term to get further information is the name of the search engine used: 'Lucene' and the implementation GoldenCheetah is using is 'CLucene'._
+_Note2: The search engines operators are considered as "reserved" words, so that they cannot be found if you are looking for them - known cases are - "NOT", "AND", "OR", "TO" as well as "*", "?", "+", "-", but there may be more.
+
+_Note3: Since the search engine has more capabilities - there may be more usable, but since the documentation on the query snytax is quite basic, you need to find out on your own. A usefull search term to get further information is the name of the search engine used: 'Lucene' and the implementation GoldenCheetah is using is 'CLucene'._
   
 ## Filter
 
