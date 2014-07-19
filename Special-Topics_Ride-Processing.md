@@ -5,6 +5,9 @@ GoldenCheetah provides a number of tools to fix/adjust/correct ride data. The ad
 
 The configuration of the available tools is done in ['Preferences'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#processing)
 
+* If you set a tool to 'Manual' in the preferences, you have to run it manually per ride through `Tools-><name of the tool>`. The values set in preferences then are taken as defaults, which you can still override in a dialog, when running the tool.
+
+* If you set a tool to 'Auto' in the preferences, the tool is run with the given parameter setting for each ride import you are doing. You can still run the tool manually with different parameters after the import is done.
 
 _Note: The fixes are only done to the ride file stored in GoldenCheetah format (.json) - GoldenCheetah does not manipulate any of original data files._
 
