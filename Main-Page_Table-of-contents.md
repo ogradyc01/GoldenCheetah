@@ -53,7 +53,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 
 ## Special Topics
 
-* [wip Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
+* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
 * [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library)
 * [wip Upload/Download from/to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
 * [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
