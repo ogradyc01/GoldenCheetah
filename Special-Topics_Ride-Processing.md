@@ -16,11 +16,34 @@ Adjusting torque values allows you to uplift or degrade the torque values when t
 
 ## Fix GPS errors
 
+Remove GPS errors and interpolate positional data where the GPS device did not record any data, or the data that was recorded is invalid.
+
+* No parameters.
+
 ## Fix Gaps in Recording
+
+Many devices, especially wireless devices, will drop connections to the bike computer. This leads to lost samples in the resulting data, or so-called drops in recording. In order to calculate peak powers and averages, it is very helpful to remove these gaps, and either smooth the data where it is missing or just replace with zero value samples
+
+This function performs this task, taking two parameters:
+
+* Tolerance - this defines the minimum size of a recording gap (in seconds) that will be processed. Any gap shorter than this will not be affected.
+* Stop - this defines the maximum size of gap (in seconds) that will have a smoothing algorithm applied. Where a gap is shorter than this value it will be filled with values interpolated from the values recorded before and after the gap. If it is longer than this value, it will be filled with zero values.
 
 ## Fix HR Spikes
 
+Occasionally heart rate sensors will erroneously report high values for heart rate or drop out (0). This function will look for spikes and dropouts in heart rate data and replace the erroneous data by interpolating the data from either side of the point in question
+
+It takes a single parameter:
+
+* Absolute Max - this defines an absolute value for heart rates, and will smooth any values above this absolute value that have been identified as being anomalies (i.e. at odds with the data surrounding it).
+
 ## Fix Power Spikes
 
+Occasionally power meters will erroneously report high values for power. For crank based power meters such as SRM and Quarq this is caused by an erroneous cadence reading as a result of triggering a reed switch whilst pushing off. This function will look for spikes/anomalies in power data and replace the erroneous data by smoothing/interpolating the data from either side of the point in question
+
+It takes the following parameters:
+
+* Absolute Max - this defines an absolute value for watts, and will smooth any values above this absolute value that have been identified as being anomalies (i.e. at odds with the data surrounding it)
+* Variance (%) - this will smooth any values which are higher than this percentage of the rolling average wattage for the 30 seconds leading up to the spike.
 
 BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Overview)
