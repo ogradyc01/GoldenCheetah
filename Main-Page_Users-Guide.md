@@ -5,11 +5,11 @@ The main focus of this new GoldenCheetah User's Guide is to describe the feature
 * [the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
 * [general UI structure and concepts]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* [different views]
+* [what different views are provided]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-* [chart type(s) which are available per view]
+* [which chart type(s) which are available per view]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-* [preferences you can configure] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 * [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
 * [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
 * [other knowledge sources](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
