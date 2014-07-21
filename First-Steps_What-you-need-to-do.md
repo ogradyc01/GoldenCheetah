@@ -14,4 +14,4 @@ In addition to minimum there is some configuration you look at and configure to 
 2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
 3. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete_Training Zones)
 
-NEXT: [Back the Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+BACK: [To the Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
