@@ -1,17 +1,17 @@
 # ![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Golden Cheetah: User's Guide 
 
 
-The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah by 
-* [going through all the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
-* [explaining the general UI structure and concepts]
+The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah:
+* [the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)
+* [general UI structure and concepts]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* [explaining the different views]
+* [different views]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-* [explaining the chart type(s) which are available per view]
+* [chart type(s) which are available per view]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-* [explaining the preferences you can configure] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
-* [looking into some special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
-* [adding some country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+* [preferences you can configure] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
+* [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
 * [other knowledge sources](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
 
 And here a link the 'Table of Contents' of this user guide:
