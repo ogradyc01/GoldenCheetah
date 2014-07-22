@@ -13,7 +13,7 @@ To start the download go ahead and click the download from device button. This w
 
 ### Importing from a file
 
-To import les into GoldenCheetah you have a couple of options. You can drag and drop them from a file explorer or from the desktop into the main GoldenCheetah window, or you can select them via the import files button on the splash screen. Once you have done either the import rides wizard will appear to process the selected files.
+To import files into GoldenCheetah you have a couple of options. You can drag and drop them from a file explorer or from the desktop into the main GoldenCheetah window, or you can select them via the import files button on the splash screen. Once you have done either the import rides wizard will appear to process the selected files.
 
 ![Import Dialog] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_ImportFilesDialog.JPG)
 
