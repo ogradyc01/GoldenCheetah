@@ -82,6 +82,7 @@ For the detailed settings pleae check: [Curve Settings] (https://github.com/Gold
 
 Supported data series are visible in the drop-down list - starting with `Power`,...
 
+For the detailed settings pleae check: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
 
 ### Curves - Details - Estimates
