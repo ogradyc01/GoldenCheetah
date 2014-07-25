@@ -16,6 +16,10 @@ Any of the chart types allows a huge number of configuration - to fully leverage
 
 ## Metric Trends
 
+The long term metrics provided by the 'Metrics Trends' covers all pre-defined metrics but allows also to add self-defined 'Best value' metrics as well as 'Estimate' metrics.
+
+
+![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/doc/wiki/MetricTrends_New_Basic.jpg)
 
 ## Collection Tree Map
 
