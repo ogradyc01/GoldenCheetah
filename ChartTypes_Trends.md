@@ -55,6 +55,11 @@ _Note: Since the presets available here are also used in the 'Library' chart, th
   * `Export...` -
   * `Add current` -
 
+### Curves
+
+![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curves.jpg)
+
+
 ## Collection Tree Map
 
 ## Critical Mean Maximal
