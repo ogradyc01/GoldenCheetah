@@ -151,10 +151,10 @@ The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted 
   * Highlight Highest - puts markers on the curve for the 'X' hightest values (if '0' - no point is marked)
   * Highlight Lowest - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
   * Highlight Outliers - puts markes on the curve for the 'X' outliers (if '0' - no point is marked)
-  * Baseline
-  * Trend Line - `No trend Line` or 'xxx or 'xxx'
-  * Smooth Curve - 
-  * Data lables - 
+  * Baseline - sets a value for the curve which is considered as '0' regarding the Y-Axis scale (Example: If you set 100 as the 'Baseline' for your TSS curve, any value above 100 will be treate as positive, every value below 100 negative so 150 TSS shows +50 on the Y-Axis, 70 TSS shows -30 on the Y-Axis.)
+  * Trend Line - `No trend Line` or 'Linear' or 'xxx' - decide if a 'Trend Line' in the curve data is shown at all, and if yes, how the trend is calculated.
+  * Smooth Curve - makes curves with many small changes better readable/understandable  
+  * Data lables - if checked, also the value for a data point is shown in the plot
 
 ***
 
