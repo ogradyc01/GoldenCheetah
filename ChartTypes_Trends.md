@@ -17,6 +17,8 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 
 ### Basic Settings
 
+The first screen of the dialog to add a Metric Trends chart are the basic settings. To ease the configuration, you will see the results of your configuration already in teh 'Preview' section on the left side of the dialog box. This allows easy configuration without a lot navigation between the settings and the resulting chart.
+
 ![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Basic.jpg)
 
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
@@ -33,6 +35,25 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 
 ![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
 
+GoldenCheetah comes with a set of 'Presets' for you charts - when creating a new 'Athlete' the presets are taken over to the athlete's library - and from that point on any changes, enhancements of this presets are athlete specific.
+
+The 'Presets' view of the dialog box is multi-functional, so besides using a 'Preset' to configure a new chart, the dialog box offers a full set of 'Preset' administration functions.
+
+* Using a preset
+  * `Apply` - applies the settings of the selected presets (= takes over the 'Curves' defined in the 'Preset')
+
+* Maintain presets
+  * `Rename` - change the name
+  * `Delete` - removes/delete a preset
+  * `Move Up` - moves the selected preset 'up' in the list
+  * `Move Down` - moves the selected preset 'down' in the list
+
+_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view._
+
+* Get more presets
+  * `Import...` -
+  * `Export...` -
+  * `Add current` -
 
 ## Collection Tree Map
 
@@ -43,7 +64,7 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 
 ## Summary
 
-## Data Range Selection
+## Date Range Selection
 
 
 
