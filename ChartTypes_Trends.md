@@ -51,9 +51,9 @@ The 'Presets' view of the dialog box is multi-functional, so besides using a 'Pr
 _Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))_
 
 * Get more presets
-  * `Import...` - ?????
-  * `Export...` - ?????
-  * `Add current` - ?????
+  * `Import...` - imports an XML File with presets - the imported presets are ADDED to the current preset - the import does not check of duplicates,... (_Note: since the file format of the XML is specific to GoldenCheetah and also contains "serialized" for certain configuration settings, manual creation of a valid XML file is not recommended (and will most likely not work)_)
+  * `Export...` - exports ALL presets available in the list to an XML File (_Note: Only by using the 'Export...' function you get a valid XML file which can be imported to other GoldenCheetah installation. Please observe - since the file format might differ between GoldenCheetah version, you can only expect this to work within the same GoldenCheetah version.)
+  * `Add current` - adds the chart definition (curves, settings,...) you are currently working on to the 'Preset' list as a new preset. (Basically this feature provide a 'Create Preset' function using the settings in focus.
 
 ### Curves
 
