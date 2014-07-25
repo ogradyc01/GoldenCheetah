@@ -72,7 +72,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
-For the detailed settings pleae check: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
 ### Curves - Details - Best
 
@@ -82,15 +82,18 @@ For the detailed settings pleae check: [Curve Settings] (https://github.com/Gold
 
 Supported data series are visible in the drop-down list - starting with `Power`,...
 
-For the detailed settings pleae check: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
 
 ### Curves - Details - Estimates
 
+'Estimate's are metric curves derived based on the CP models. 
+
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
+As parameter you need to choose the CP model to use. And the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series may be not selectable.
 
-
+For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
 ## Collection Tree Map
 
