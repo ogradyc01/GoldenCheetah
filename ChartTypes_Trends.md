@@ -51,9 +51,9 @@ The 'Presets' view of the dialog box is multi-functional, so besides using a 'Pr
 _Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))_
 
 * Get more presets
-  * `Import...` -
-  * `Export...` -
-  * `Add current` -
+  * `Import...` - ?????
+  * `Export...` - ?????
+  * `Add current` - ?????
 
 ### Curves
 
@@ -72,7 +72,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
-
+For the detailed settings pleae check: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
 
 
