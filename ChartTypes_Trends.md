@@ -61,10 +61,10 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve.jpg)
 
-* `Edit` -
-* `+` -
-* `-`
-* `User sidebar chart settings` -
+* `Edit` - changes the settings of the selected curve
+* `+` - opens the dialog to add a new curve
+* `-` - removes a curve
+* `User sidebar chart settings` - if checked, any curve settings are ignored, and the created chart serves as a proxy for the [Side Bar - Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))
 
 ### Curves - Details - Metric
 
