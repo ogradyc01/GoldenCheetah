@@ -33,9 +33,9 @@ The first screen of the dialog to add a Metric Trends chart are the basic settin
 
 ### Presets
 
-![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
-
 GoldenCheetah comes with a set of 'Presets' for you charts - when creating a new 'Athlete' the presets are taken over to the athlete's library - and from that point on any changes, enhancements of this presets are athlete specific.
+
+![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
 
 The 'Presets' view of the dialog box is multi-functional, so besides using a 'Preset' to configure a new chart, the dialog box offers a full set of 'Preset' administration functions.
 
@@ -57,7 +57,20 @@ _Note: Since the presets available here are also used in the 'Library' chart, th
 
 ### Curves
 
+The curves are what is actually shown on the charts. The curves can either come from presets, or are defined here by adding new charts. Also editing / adjustments of existing curves is possible.
+
 ![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curves.jpg)
+
+* `Edit` -
+* `+` -
+* `-`
+* `User sidebar chart settings` -
+
+### Curves - Details
+
+
+
+
 
 
 ## Collection Tree Map
