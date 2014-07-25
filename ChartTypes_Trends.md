@@ -130,6 +130,14 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ![Date Range] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
 
+* Current selection - uses the date range active in the 'Date Ranges' pane of the 'Side Bar'
+* Current selection thru today - use the date range active, (like the one before), but limits the 'to-date' to the current date
+* From 'date' to today - starts with the defined 'date' and ends today
+* Between 'from' and 'to' - does what is says
+* Last 'x' (days, weeks, months or years) - goes backward the given time frame
+* This (week, month, year) prior 'x' - subtracts a number of (weeks, months, years) from the actual (week, month, year) to define the new date range (e.g. "This 'month' prior '3'" - means the time range 3 month back - so if it is 'July', date range will be 'April'). 
+
+
 ## Curve Settings
 
 The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted in your diagram. 
@@ -152,7 +160,7 @@ The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted 
   * Highlight Lowest - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
   * Highlight Outliers - puts markes on the curve for the 'X' outliers (if '0' - no point is marked)
   * Baseline - sets a value for the curve which is considered as '0' regarding the Y-Axis scale (Example: If you set 100 as the 'Baseline' for your TSS curve, any value above 100 will be treate as positive, every value below 100 negative so 150 TSS shows +50 on the Y-Axis, 70 TSS shows -30 on the Y-Axis.)
-  * Trend Line - `No trend Line` or `Linear Trend` or `Quadradic Trend` decides if a 'Trend Line' for the curve data is shown at all, and if yes, how the trend is calculated
+  * Trend Line - `No trend Line` or `Linear Trend` or `Quadratic Trend` decides if a 'Trend Line' for the curve data is shown at all, and if yes, how the trend is calculated
   * Smooth Curve - makes curves with many small peaks/changes better readable/understandable  
   * Data lables - if checked, also the value for a data point is shown in the plot
 
