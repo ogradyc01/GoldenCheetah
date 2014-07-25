@@ -59,7 +59,7 @@ _Note: Since the presets available here are also used in the 'Library' chart, th
 
 The curves are what is actually shown on the charts. The curves can either come from presets, or are defined here by adding new charts. Also editing / adjustments of existing curves is possible.
 
-![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curves.jpg)
+![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve.jpg)
 
 * `Edit` -
 * `+` -
