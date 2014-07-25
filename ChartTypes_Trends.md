@@ -74,13 +74,14 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 For the detailed settings pleae check: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
-
-
 ### Curves - Details - Best
 
-'Best's are a kind of definable metrics. Best will  
+'Best's are a kind of definable metrics. Best delivers curves which show the best value / of a defined time period / for a defined data series.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
+
+Supported data series are visible in the drop-down list - starting with `Power`,...
+
 
 
 ### Curves - Details - Estimates
