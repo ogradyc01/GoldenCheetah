@@ -18,8 +18,12 @@ Any of the chart types allows a huge number of configuration - to fully leverage
 
 The long term metrics provided by the 'Metrics Trends' covers all pre-defined metrics but allows also to add self-defined 'Best value' metrics as well as 'Estimate' metrics.
 
+### Basic Settings
 
-![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/doc/wiki/MetricTrends_New_Basic.jpg)
+![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Basic.jpg)
+
+* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/
+* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 
 ## Collection Tree Map
 
@@ -29,5 +33,9 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 ## Distribution
 
 ## Summary
+
+## Data Range Selection
+
+
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
