@@ -7,6 +7,8 @@ Since some of the chart types appear in more than one Scope View (Trends / Diary
 
 _Note: Most of the chart types allows a huge number of configuration - to discover and leverage the power of GoldenCheetah charts, please have a detailed look at the different options available._
 
+_Note 2: The configuration of a chart is stored when a chart is added to one of the chart bars. It can later be changed through the `More` function on the 'Main View' when a specific chart is selected._
+
 
 ## Trends
 
