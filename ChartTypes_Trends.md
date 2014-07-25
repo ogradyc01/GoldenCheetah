@@ -92,7 +92,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 ![Collection Tree Map - Second] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_Second.jpg)
 
 
-![Collection Tree Map - Rides] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopupjpg)
+![Collection Tree Map - Rides] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
 
 
 ## Critical Mean Maximal
