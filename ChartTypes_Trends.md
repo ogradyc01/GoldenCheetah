@@ -141,9 +141,9 @@ The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted 
   * Axis/Label / Units - is the description shown on the axis labels
 
 * Style and Color
-  * Style - is the plot style 
-  * Symbol - is 
-  * Stack - 
+  * Style - is the plot style (you can have a line, dots, bars,...)
+  * Symbol - is an additional marker for the single data point - works for the style, where adding a symbol makes sense
+  * Stack - is special - it works only for curves where the style is set to 'Bar' AND you need more that one curve where style is 'Bar' - when checking 'Stack' for those 2 or more curves then, there is just ONE bar which contains the different curve data as sections in the bar 
   * Color - the color to be used for the curve (to select a color, "Mouse-Click" on the color box to open a 'Color Chooser' dialog box
   * Fill curve - fills the area "below" the curve with a color shade
 
