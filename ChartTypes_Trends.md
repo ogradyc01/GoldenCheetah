@@ -48,7 +48,7 @@ The 'Presets' view of the dialog box is multi-functional, so besides using a 'Pr
   * `Move Up` - moves the selected preset 'up' in the list
   * `Move Down` - moves the selected preset 'down' in the list
 
-_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)_
+_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))_
 
 * Get more presets
   * `Import...` -
