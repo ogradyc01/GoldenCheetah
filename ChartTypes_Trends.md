@@ -134,7 +134,7 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted in your diagram. 
 
-![Curve - Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
+![Curve - Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Details.jpg)
 
 * General
   * Name - is a user defined name for the curve 
