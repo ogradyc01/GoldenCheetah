@@ -25,7 +25,7 @@ The first screen of the dialog to add a Metric Trends chart are the basic settin
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * Group by - defines the default grouping setting of the metrics - you can change the grouping using the chart
 * Data Table - if checked, not the chart diagramm, but a table with the data used is shown
-* Show Stack - 
+* Show Stack - if checked, the different curves are shown separately own above the other (see also 'Stack
 * Shade Zones - 
 * Show Legend - 
 * Show Events - 
@@ -68,7 +68,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ### Curves - Details - Metric
 
-Metrics are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the graph.
+'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the graph.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
@@ -77,6 +77,8 @@ Metrics are pre-defined in GoldenCheetah. Each metric determines the data to be 
 
 
 ### Curves - Details - Best
+
+'Best's are a kind of definable metrics. Best will  
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
 
