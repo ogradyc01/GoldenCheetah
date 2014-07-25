@@ -100,6 +100,9 @@ The curves are what is actually shown on the charts. The curves can either come 
 ![CP] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
 
 
+![CP Model] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
+
+
 ## Distribution
 
 ## Summary
