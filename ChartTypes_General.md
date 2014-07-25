@@ -5,6 +5,9 @@ This is an overview / link page of the different chart types available in Golden
 
 Since some of the chart types appear in more than one Scope View (Trends / Diary / Rides), it will be described only once - and this description will be referenced from the other occurences.
 
+_Note: Most of the chart types allows a huge number of configuration - to discover and leverage the power of GoldenCheetah charts, please have a detailed look at the different options available._
+
+
 ## Trends
 
 * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
