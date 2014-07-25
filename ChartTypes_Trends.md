@@ -86,7 +86,18 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ## Collection Tree Map
 
+![Collection Tree Map - First] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
+
+
+![Collection Tree Map - Second] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_Second.jpg)
+
+
+![Collection Tree Map - Rides] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopupjpg)
+
+
 ## Critical Mean Maximal
+
+![CP] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
 
 
 ## Distribution
@@ -95,6 +106,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ## Date Range Selection
 
+![Date Range] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
 
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
