@@ -103,7 +103,15 @@ The curves are what is actually shown on the charts. The curves can either come 
 ![CP Model] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
 
+![CP Speed] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Speed.jpg)
+
+
 ## Distribution
+
+![Distribution - Ride Data] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
+
+
+![Distribution - Ride Metrics] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
 
 ## Summary
 
