@@ -131,20 +131,25 @@ The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted 
 
 ![Curve - Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
-* Name - is a user defined name for the curve
-* Axis/Label / Units - is the description shown on the axis labels
-* Style - is the plot style 
-* Symbol - is 
-* Stack - 
-* Color - the color to be used for the curve (to select a color, "Mouse-Click" on the color box to open a 'Color Chooser' dialog box
-* Fill curve - fills the area "below" the curve with a color shade
-* Highlight Highest - puts markers on the curve for the 'X' hightest values (if '0' - no point is marked)
-* Highlight Lowest - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
-* Highlight Outliers - puts markes on the curve for the 'X' outliers (if '0' - no point is marked)
-* Baseline
-* `No trend Line` or 'xxx or 'xxx'
-* Smooth Curve - 
-* Data lables - 
+* General
+  * Name - is a user defined name for the curve 
+  * Axis/Label / Units - is the description shown on the axis labels
+
+* Style and Color
+  * Style - is the plot style 
+  * Symbol - is 
+  * Stack - 
+  * Color - the color to be used for the curve (to select a color, "Mouse-Click" on the color box to open a 'Color Chooser' dialog box
+  * Fill curve - fills the area "below" the curve with a color shade
+
+* Special Options
+  * Highlight Highest - puts markers on the curve for the 'X' hightest values (if '0' - no point is marked)
+  * Highlight Lowest - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
+  * Highlight Outliers - puts markes on the curve for the 'X' outliers (if '0' - no point is marked)
+  * Baseline
+  * Trend Line - `No trend Line` or 'xxx or 'xxx'
+  * Smooth Curve - 
+  * Data lables - 
 
 ***
 
