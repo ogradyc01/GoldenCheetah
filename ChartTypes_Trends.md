@@ -66,9 +66,20 @@ The curves are what is actually shown on the charts. The curves can either come 
 * `-`
 * `User sidebar chart settings` -
 
-### Curves - Details
+### Curves - Details - Metric
+
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
 
+
+### Curves - Details - Best
+
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
+
+
+### Curves - Details - Estimates
+
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
 
 
