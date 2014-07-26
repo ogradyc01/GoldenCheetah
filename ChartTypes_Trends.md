@@ -97,11 +97,25 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ## Collection Tree Map
 
-![Collection Tree Map - First] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
+The 'Collection Tree Map' is an very useful tool to analyse how your rides distribute - e.g. regarding your "Workout Codes", or equipment (if you maintain it).
 
+What the graphics does is a 2-dimensional map where you can 
+* define the 2 Dimensions (here called 'First' and 'Second') and
+* define the metrics used to calculate the size of a tree-segment.
+
+What GoldenCheetah does is summarize the selected metrics along all selected rides ('Date Range' and 'Filter' is considered) and show for each separate value of the configured dimensions, a tile which goes in line with the cumulated metric value for the tile.
+
+_Note: As a dimension all text fields from the rides - details (as defined in the preferences) are proposed. So like for 'Search/Filter' only if you maintain data and the values are consistent, you will usable output here._
+
+The example analyses 'TSS' values, first by 'Workout Code' and second by 'Keywords' (which were used to store the bike used for the workout).
+
+![Collection Tree Map - First] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
 
 ![Collection Tree Map - Second] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_Second.jpg)
 
+***
+
+If you do a 'Mouse-Click' on one of the tiles, the list of rides which added to this tile are shown - together with the metric their values. You can scroll through the list to get some ride detail information displayed.
 
 ![Collection Tree Map - Rides] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
 
