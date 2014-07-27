@@ -15,7 +15,7 @@ _Note 2: The configuration of a chart is stored when a chart is added to one of 
 * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 * [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
 * [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-critical-mean-maximal)
-* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
+* [Distribution / Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
 * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
 
 
