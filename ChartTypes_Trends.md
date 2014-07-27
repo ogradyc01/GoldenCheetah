@@ -103,9 +103,11 @@ What the graphics does is a 2-dimensional map where you can
 * define the 2 Dimensions (here called 'First' and 'Second') and
 * define the metrics used to calculate the size of a tree-segment.
 
-What GoldenCheetah does is summarize the selected metrics along all selected rides ('Date Range' and 'Filter' is considered) and show for each separate value of the configured dimensions, a tile which goes in line with the cumulated metric value for the tile.
+What GoldenCheetah then does is to summarize the selected metrics along all selected rides ('Date Range' and 'Filter' is considered) and show for each separate value of the configured dimensions, a tile which goes in line with the cumulated metric value for the tile.
 
-_Note: As a dimension all text fields from the rides - details (as defined in the preferences) are proposed. So like for 'Search/Filter' only if you maintain data and the values are consistent, you will usable output here._
+_Note: As a dimension all text fields from the rides - details (as defined in the preferences) are available in the selection. So like for 'Search/Filter' only if you maintain data and the values are consistent, you will usable output here.
+
+_Note2: Unlike 'Search/Filter' the field content is treated as 'Case Sensitive'_
 
 The example analyses 'TSS' values, first by 'Workout Code' and second by 'Keywords' (which were used to store the bike used for the workout).
 
