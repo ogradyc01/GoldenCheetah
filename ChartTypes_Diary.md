@@ -27,13 +27,18 @@ Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Ch
 
 ## Calendar
 
-Gives a full page / monthly / calendar view. Each ride you have done is shown wit the same color code like the 'Side Bar' -> 'Calendar' pane and the 'Side Bar' -> 'Rides' pane (as well as the 'Diary' -> 'Navigator' chart type.
+Provides a full page / monthly / calendar view. Each ride you have done is shown wit the same color code like the 'Side Bar' -> 'Calendar' pane and the 'Side Bar' -> 'Rides' pane (as well as the 'Diary' -> 'Navigator' chart type.
 
 You can choose and entry - which is then highlighted - and switch to the 'Rides' view for detailed analyis. Depending on your preferences, certain data field content is populated as calendar text.
 
 The fields are those where the check-box 'Diary' is checked. Configuration is done in `Preferences -> Data Fields` (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data%20Fields) - 
 
 ## Navigator
+
+Provides a full page 'Rides' list. You can apply and additional 'Search/Filter' query to reduce the list. And you can add, remove, re-order columns.
+
+The way how to add, remove and re-order of columns in the 'Navigator' is works the same as in the [Side Bar - Rides View - Column Header]
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
 
 ## Summary
 Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
