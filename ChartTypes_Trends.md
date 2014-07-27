@@ -134,7 +134,7 @@ As in most other charts, also here you have several options, and the options par
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Data Range' which are then considered in the 'Bests' calculation._
 * `Data series `- here you have multiple sets of data which can be analyized in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series'.
-* `Power Shading `- if checked, shows the power zones, along the curve. Only giving a result for 'Data Series' = 'Power'.
+* `Power Shading `- if checked, shows the power zones, along the curve. Only has effect for 'Data Series' = 'Power'.
 * `Show Grid`- if checked, the plot area get's a grid for easier analysis
 * `Show Bests `- if checked, shows the 'MMP' curve (the best value for point of duration of the X-Axis) for the 'Data Series' selected
 * `Show as percentage` - only for single rides on the 'Rides' view - if checked, it shows not the absolute values, but the percentage of the actual ride value in relation to 'Bests'
@@ -144,9 +144,7 @@ _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, wher
 
 ![CP Model] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
-
-![CP Speed] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Speed.jpg)
-
+You can also show a CP curve, based on one of GoldenCheetah's CP model, by going to the 'CP Model' tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
 
 ## Distribution
 
