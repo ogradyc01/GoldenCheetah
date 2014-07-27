@@ -6,7 +6,7 @@
   * [Introduction] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#introduction)
   * [First Steps] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#first-steps)
   * [UI Layout and functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#ui-layout-and-functions)
-  * [Chart types and details] https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#chart-types-and-details)
+  * [Chart types and details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#chart-types-and-details)
   * [Preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#preferences)
   * [Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#special-topic)
   * [Translation/Localizatio] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#translationlocalization)
