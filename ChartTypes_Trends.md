@@ -1,7 +1,7 @@
 Chart Types: Trends view (Version 3.1)
 ***
 
-The 'Trends' view provides 'Chart Types' which work on a more than one ride. The rides which are considered when opening a chart here selected based on the 'Date Range' selected - as well as the actual 'Search/Filter' settings. 
+The 'Trends' view provides 'Chart Types' which work on a range of rides. The rides which are considered when opening a chart here selected based on the 'Date Range' selected - as well as the actual 'Search/Filter' settings. 
 
 _Note: Both selection criteria 'Date Range' and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the general settings done in the 'Side Bar' are ignored in such cases._
 
