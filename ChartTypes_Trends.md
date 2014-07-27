@@ -23,13 +23,13 @@ The first screen of the dialog to add a Metric Trends chart are the basic settin
 
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
-* Group by - defines the default grouping setting of the metrics - you can change the grouping using the chart
-* Data Table - if checked, not curves, but a table with the data used is shown
-* Show Stack - if checked, the different curves are shown separately one above the other (see also 'Stack
-* Shade Zones - if checked / and the chart has a power related metrics - show the power-zones
-* Show Legend - if checked, show the legend of the curves included in the chart
-* Show Events - if checked, show events (if events are defined)
-* Stack Zoom - zooms the diagrams if 'Show Stack' is checked
+* `Group by` - defines the default grouping setting of the metrics - you can change the grouping using the chart
+* `Data Table `- if checked, not curves, but a table with the data used is shown
+* `Show Stack `- if checked, the different curves are shown separately one above the other (see also 'Stack
+* `Shade Zones `- if checked / and the chart has a power related metrics - show the power-zones
+* `Show Legend `- if checked, show the legend of the curves included in the chart
+* `Show Events `- if checked, show events (if events are defined)
+* `Stack Zoom `- zooms the diagrams if 'Show Stack' is checked
 
 ### Presets
 
@@ -76,7 +76,7 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ### Curves - Details - Best
 
-'Best's are a kind of definable metrics. Best delivers curves which show the best value / of a defined time period / for a defined data series.
+'Best's are self-definable metrics. Best delivers curves which show the best value / of a defined time period / for a defined data series.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
 
@@ -124,8 +124,23 @@ If you do a 'Mouse-Click' on one of the tiles, the list of rides which added to 
 
 ## Critical Mean Maximal
 
+This curve, also called 'MMP' curve is again one of the central and assumed 'Standard' ways for analysing power. Here only the handling / available option are described.
+
 ![CP] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
 
+As in most other charts, also here you have several options, and the options partly relate to each other. Knowing which combinations are supported (and also which not) - is important to maximize the use of the chart.
+
+* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+_Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Data Range' which are then considered in the 'Bests' calculation._
+* `Data series `- here you have multiple sets of data which can be analyized in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series'.
+* `Power Shading `- if checked, shows the power zones, along the curve. Only giving a result for 'Data Series' = 'Power'.
+* `Show Grid`- if checked, the plot area get's a grid for easier analysis
+* `Show Bests `- if checked, shows the 'MMP' curve (the best value for point of duration of the X-Axis) for the 'Data Series' selected
+* `Show as percentage` - only for single rides on the 'Rides' view - if checked, it shows not the absolute values, but the percentage of the actual ride value in relation to 'Bests'
+* `Show curve heat` - shows the number of rides, whose maximal power duration is within 10% of the best
+* `Show curve heat by date` - ...
+* `Shade Intervals` - only for single rides on the 'Rides' view - shows separate curves for an interval, if you select it on the 'Side Bar' - multiple selection of intervals is possible
 
 ![CP Model] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
