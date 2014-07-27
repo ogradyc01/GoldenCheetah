@@ -24,7 +24,7 @@ _Note 2: The configuration of a chart is stored when a chart is added to one of 
 * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#metric-trends)
 * [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#collection-tree-map)
 * [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#metric-critical-mean-maximal)
-* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#distribution)
+* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#distribution--histogram)
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
 * [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
 * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#summary)
