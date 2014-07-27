@@ -19,7 +19,7 @@ _Note: As of today the Crank Length is defined for all users and not individual 
 
 * Use Garmin Smart Recording / Smart Recording Threshold (sec): Garmin devices have a feature called 'Smart Recording', where data points are not stored per second, but in variable intervals. In order to read such files and understand how to handle the gaps, GoldenCheetah can fill such gaps (by interpolating the missing data points). To enable this you need to activate 'Use Garmin Smart Recording' and defined the threshold (in seconds) upto which GoldenCheetah shall consider a data gap to be a smart recording gap - which then is filled. If 'Use Garmin Smart Recording' is off - gaps are filled with 'Zeroes'.
 
-* Elevation hysteresis (meters): This value is used to smooth the small changes in altitude. The default value is 3m. Since different programs use different hysteresis values, the elevation calculated by GoldenCheetah and other programs deviate. If such differences are important, you can adjust the hysteresis.
+* Elevation hysteresis (meters): This value is used to smooth the small changes in altitude. The default value is 3m. Since different programs use different hysteresis values, the elevation calculated by GoldenCheetah and other programs deviate. If such differences are important for you, you can adjust the hysteresis and try to reach the value of the other program. _Note: Since other programs might also deviate in the algorithm used, there is no guarantee to find a value which delivers the same result for all rides._
 
 _Note: The value is defined for all users._
 
