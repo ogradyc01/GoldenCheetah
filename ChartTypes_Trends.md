@@ -146,10 +146,30 @@ _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, wher
 
 You can also show a CP curve, based on one of GoldenCheetah's CP model, by going to the 'CP Model' tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
 
-## Distribution
+## Distribution (also called Histogram)
+
+This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' along different dimensions. 
 
 ![Distribution - Ride Data] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
 
+When choosing 'Ride Data Samples' the selected data series applies to the X-Axis, where the time 
+
+* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+* 'Plot' section 
+  * 'Ride Data Samples' is checked is this case
+  * `Data Series Box` - Selection of available ride data series
+* 'Show' section
+  * `Time` - select betwenn 'Absolute Time' or 'Percentage Time'
+  * `Log Y` - if checked, shows the time axis (here Y) in log scale
+  * `With zeros` - if checked, also zeros are considered in the plot
+  * `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate') 
+  * `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate')
+  * `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 program defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
+
+* `Bin width `- both input field and slider to set the value - defined the X-Size of data range cumulated into one bar of the diagram (the size defined here has no influence if 'Show in zones' is checked)
+
+_Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the drop down area on the upper border of the graphics view pane._
 
 ![Distribution - Ride Metrics] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
 
