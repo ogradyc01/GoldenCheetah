@@ -179,6 +179,18 @@ When choosing 'Ride Metrics' you can select both X-Axis and Y-Axis metrics from 
 
 ## Summary
 
+A summary chart is chart with fixed structure, which displays a summary about the selected 'Date Range'. 'Search/Filter' settings are considered when creating the charts.
+
+* Contents Section are:
+  * Totals, Average, Maximums, Metrics, Model information - the 'Metrics' shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
+  * Athlete Best - the fields shown are configurable through 'Preferences' 
+  * Power Zones - the power zones as configured in 'Preferences', considering the 'Date Range' settings (as far as they fit to the date ranges in your power zone settings)
+  * Heart Rate Zones - the heart rate zones as configured in 'Preferences', considering the 'Date Range' settings (as far as they fit to the date ranges in your power zone settings)
+  * "##" Rides - ride list - the fields shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
+
+* Configuration of 'Summary' chart itself offers:
+  * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+  * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 
 
 
