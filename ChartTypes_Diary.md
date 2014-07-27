@@ -10,7 +10,7 @@ Note: Both selection criteria like the used date range (from 'Side Bar' settings
 * [Critical Mean Maximal - similar to 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
 * [Distribution / Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
-* [Navigator] ( (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
+* [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
 * [Summary - Similar to 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
 
 ## Metric Trends
@@ -26,6 +26,12 @@ Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Ch
 Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
 
 ## Calendar
+
+Gives a full page / monthly / calendar view. Each ride you have done is shown wit the same color code like the 'Side Bar' -> 'Calendar' pane and the 'Side Bar' -> 'Rides' pane (as well as the 'Diary' -> 'Navigator' chart type.
+
+You can choose and entry - which is then highlighted - and switch to the 'Rides' view for detailed analyis. Depending on your preferences, certain data field content is populated as calendar text.
+
+The fields are those where the check-box 'Diary' is checked. Configuration is done in `Preferences -> Data Fields` (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data%20Fields) - 
 
 ## Navigator
 
