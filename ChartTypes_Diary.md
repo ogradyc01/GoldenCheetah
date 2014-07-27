@@ -31,7 +31,7 @@ Provides a full page / monthly / calendar view. Each ride you have done is shown
 
 You can choose and entry - which is then highlighted - and switch to the 'Rides' view for detailed analyis. Depending on your preferences, certain data field content is populated as calendar text.
 
-The fields are those where the check-box 'Diary' is checked. Configuration is done in `Preferences -> Data Fields` (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data%20Fields) - 
+The fields are those where the check-box 'Diary' is checked. Configuration is done in `Preferences -> Data Fields` (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data%20Fields)  
 
 ## Navigator
 
