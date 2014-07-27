@@ -152,7 +152,7 @@ This chart type allows to show the distribution of either 'Ride Data Samples' or
 
 ![Distribution - Ride Data] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
 
-When choosing 'Ride Data Samples' the selected data series applies to the X-Axis, where the time 
+When choosing 'Ride Data Samples' the selected data series applies to the X-Axis, where the time is shown on the Y-Axis:
 
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
@@ -171,9 +171,17 @@ When choosing 'Ride Data Samples' the selected data series applies to the X-Axis
 
 _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the drop down area on the upper border of the graphics view pane._
 
+***
+
 ![Distribution - Ride Metrics] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
 
+When choosing 'Ride Metrics' you can select both X-Axis and Y-Axis metrics from the provided lists. Besides the metrics the only other parameter is the `Color` for drawing and the `Bin width` (like before).
+
 ## Summary
+
+
+
+
 
 ## Date Range Selection
 
