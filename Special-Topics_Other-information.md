@@ -9,6 +9,7 @@ The aim of the page is collect links to additional documents,... which are relat
   * [What's new] (https://vimeo.com/99817526)
   * [CP Chart] (https://vimeo.com/100244204)
   * [W'bal] (https://vimeo.com/100599100)
+  * [Metric Trends] (https://vimeo.com/101867214)
 
 ...
 
