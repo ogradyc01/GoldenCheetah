@@ -5,25 +5,25 @@ The 'Diary' view provides 'Chart Types' which work on a range of rides. The ride
 
 Note: Both selection criteria like the used date range (from 'Side Bar' settings) and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the general settings done in the 'Side Bar' are ignored in such cases.
 
-* [Metric Trends - similar to 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
-* [Collection Tree Map - similar to 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
-* [Critical Mean Maximal - similar to 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
-* [Distribution / Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
+* [Metric Trends - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
+* [Collection Tree Map - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
+* [Critical Mean Maximal - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
+* [Distribution / Histogram - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
 * [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
-* [Summary - Similar to 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
+* [Summary - same as 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
 
 ## Metric Trends
-Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 
 ## Collection Tree Map
-Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
 
 ## Critical Mean Maximal
-Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
 
 ## Distribution / Histogram
-Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
 
 ## Calendar
 
@@ -41,6 +41,6 @@ The way how to add, remove and re-order of columns in the 'Navigator' is works t
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
 
 ## Summary
-Similar to [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
