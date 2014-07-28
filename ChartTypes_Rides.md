@@ -39,14 +39,14 @@ Here the 'Workout' Tab as an example to show the relationship:
 
 Important to know is: The sequence of the 'Tab's on the 'Details' screen and the sequence of the field per 'Tab' is the sequence of the configuration list. When adding or removing a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's interal structures and to re-create the screens (by adding the new field). 
 
-_Note: GoldenCheetah comes with a set of preferences, which already contain a number of additional fields for ride specific data, as well as a proposal on field for the 'Metric' tab.
+_Note: GoldenCheetah comes with a set of field preferences, which already contain a number of additional fields for ride specific data, as well as a proposal on field for the 'Metric' tab. Since for some of these field specific logic is implemented in GoldenCheetah, it is clearly NOT recommended to remove any of the pre-defined fields._
 
 ## 'Metric' Tab
 
 
 ## 'Extra' Tab
 
-The 'Extra'Tab 
+The 'Extra' Tab 
 
 ## Summary and Details
 
