@@ -27,6 +27,27 @@ A summary chart is chart with fixed structure, which displays a summary about th
 
 ## Details
 
+The ride 'Details' allow to view, change and enter ride specific data. Some of the fields are pre-populated with ride file data (e.g. 'Start Date' and 'Start Time').
+
+The content of the 'Details' base on the configuration done in [Preferences->Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data%20Fields#fields)
+
+Here the 'Workout' Tab as an example to show the relationship:
+
+![Ride Details - Workout Tab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Workout.jpg)
+
+![Ride Details - Workout Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Workout-Config.jpg)
+
+Important to know is: The sequence of the 'Tab's on the 'Details' screen and the sequence of the field per 'Tab' is the sequence of the configuration list. When adding or removing a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's interal structures and to re-create the screens (by adding the new field). 
+
+_Note: GoldenCheetah comes with a set of preferences, which already contain a number of additional fields for ride specific data, as well as a proposal on field for the 'Metric' tab.
+
+## 'Metric' Tab
+
+
+## 'Extra' Tab
+
+The 'Extra'Tab 
+
 ## Summary and Details
 
 ## Editor
