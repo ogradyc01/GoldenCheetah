@@ -59,7 +59,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 * [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
 * [Ride processing - Fix/Correct/Adjust] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 * [Weight Setting Options] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
-* [wip Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
+* [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
 
 ## Translation/Localization
 
