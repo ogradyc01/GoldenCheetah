@@ -2,7 +2,7 @@
 
 ## WIKI Documents
 
-### [User's Guide 3.1] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide) User Guide starting with version 3.1
+### [User's Guide 3.1] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide) Guide based on version 3.1
   * [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents) (Note: chapters marked 'wip' are still work in progress)
   * [Introduction] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#introduction)
   * [First Steps] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#first-steps)
