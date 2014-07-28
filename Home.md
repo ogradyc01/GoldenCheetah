@@ -12,8 +12,8 @@
   * [Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#special-topic)
   * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#translationlocalization)
 
-* [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/User%27s-Guide) User Guide, How-to and Help Pages
-* [[Developers Guide]] How-to and Help Pages
+### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/User%27s-Guide) User Guide, How-to and Help Pages
+### [[Developers Guide]] How-to and Help Pages
 
 ## Website documents
 * [Main Website](http://www.goldencheetah.org/)
