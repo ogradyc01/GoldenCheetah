@@ -18,6 +18,12 @@ The 'Rides' view provides 'Chart Types' which work on a single ride. The ride in
 * [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#aerolab-chung-analysis)
 
 ## Ride Summary
+A summary chart is chart with fixed structure, which displays a summary about the current ride you a looking at.
+
+* Contents Section are:
+  *Totals, Average, Maximums, Metrics, Model information - the 'Metrics' shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
+* Power Zones - the power zones as configured in 'Preferences' for the date the ride took place
+* Heart Rate Zones - the heart rate zones as configured in 'Preferences' for the date the ride took place
 
 ## Details
 
