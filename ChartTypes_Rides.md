@@ -43,10 +43,15 @@ _Note: GoldenCheetah comes with a set of field preferences, which already contai
 
 ## 'Metric' Tab
 
+![Ride Details - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Metric.jpg)
+
 
 ## 'Extra' Tab
 
 The 'Extra' Tab 
+
+![Ride Details - Extra] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
+ 
 
 ## Summary and Details
 
