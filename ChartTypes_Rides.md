@@ -77,11 +77,11 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Icons)
 
-* Save
-* Undo
-* Redo
-* Find
-* Anomalies
+* `Save`
+* `Undo`
+* `Redo`
+* `Find`
+* `Anomalies`
 
 
 ## Column Header - Context Menu
@@ -92,16 +92,16 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* Cut
-* Copy
-* Paste
-* Paste Special
-* Clear Contents
+* `Cut`
+* `Copy`
+* `Paste`
+* `Paste Special`
+* `Clear Contents`
 
 ***
 
-* Remove Column
-* Add Column
+* `Remove Column`
+* `Add Column`
 
 ## Data area - Context Menu
 
@@ -115,7 +115,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* Smooth Anomaly
+* `Smooth Anomaly`
 
 
 ## Performance
