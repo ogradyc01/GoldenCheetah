@@ -88,7 +88,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Column Header Menu]
 
-* Undo, Redo - see above
+* `Undo`, `Redo` - see above
 
 ***
 
@@ -107,11 +107,11 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Data area Menu]
 
-* Undo, Redo - see above
+* `Undo`, `Redo` - see above
 
 ***
 
-* Cut, Copy, Paste, Paste Special, Clear Contents - see above
+* `Cut`, `Copy`, `Paste`, `Paste Special`, `Clear Contents` - see above
 
 ***
 
