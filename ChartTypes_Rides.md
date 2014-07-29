@@ -51,10 +51,15 @@ To enter or overwrite a 'Metric' value, please check the check-box next to the m
 
 ## 'Extra' Tab
 
-The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generated based on you configuration. You do not find the 'Extra' Tab in the list of 'Tabs' in 'Preferences->Data Fields', but you find field like 'Calendar Text' or 'Data' in the list (without an explicite 'Tab' assigned
+The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generated based on you configuration. You do not find the 'Extra' Tab in the list of 'Tabs' in 'Preferences->Data Fields', but you find field like 'Calendar Text' or 'Data' in the list (without an explicite 'Tab' assigned).
 
 ![Ride Details - Extra] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
  
+Some important fields are explained here
+* 'Calendar Text' - generated text which also appears in the 'Diary' view - 'Calendar' chart
+* 'Change History' - log of changes done to the ride file
+* 'Data' - info which data series are available for the ride
+*  ... other fields are self-explanatory
 
 ## Summary and Details
 
