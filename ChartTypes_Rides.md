@@ -88,9 +88,6 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Column Header Menu]
 
-
-## Data area - Context Menu
-
 * Undo - see above
 * Redo - see above
 
@@ -107,6 +104,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 * Remove Column
 * Add Column
 
+## Data area - Context Menu
 
 ![Editor - Data area Menu]
 
