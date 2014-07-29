@@ -67,6 +67,57 @@ Combines [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTyp
 
 ## Editor
 
+The 'Editor' chart provides all the ride file details in a list format. The default view contains columns for all data series captured from your head-unit, as well as any data series derived.
+
+As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
+
+![Editor - Complete View)
+
+### Icon Functions
+
+![Editor - Icons)
+
+* Save
+* Undo
+* Redo
+* Find
+* Anomalies
+
+
+## Column Header - Context Menu
+
+![Editor - Column Header Menu]
+
+
+## Data area - Context Menu
+
+* Undo - see above
+* Redo - see above
+***
+* Cut
+* Copy
+* Paste
+* Paste Special
+* Clear Contents
+***
+* Remove Column
+* Add Column
+
+
+![Editor - Data area Menu]
+
+* Undo - see above
+* Redo - see above
+***
+* Cut - see above
+* Copy - see above
+* Paste - see above
+* Paste Special - see above
+* Clear Contents - see above
+***
+* Smooth Anomaly
+
+
 
 ## Performance
 
