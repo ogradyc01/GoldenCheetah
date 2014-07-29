@@ -91,7 +91,7 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 * Show Start/End point - special icons for start/end point of track appears
 * Show Intervals - by marking one or more interval in the 'Side Bar'- 'Intervals' pane, the part of the track belonging to the intervals is 'highlighted'. The start points of all intervals are always marked in a track - and you can also 'Mouse-Click' on the markers to 'highlight' and interval (only for Google).
-* Color the track based on Power - 
+* Color - the color of the track gives an indication about the Power Zone you have been riding a certain track - colors are the same like in the color shading of the power-graphs 
 
 ## 2d Plot
 
