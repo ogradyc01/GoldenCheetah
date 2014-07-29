@@ -17,9 +17,9 @@ Any changes to the ride data done by the tools explained below, are not immediat
 
 * 'Leave without Saving' - you can always end GoldenCheetah without saving your ride data - (depending on your setting GoldenCheetah will ask / or not, if you have done any changes). When going this way ALL changes done since last saving of the ride file is lost.
 
-* 'Revert to saved version' - on the 'Side Bar' -> 'Rides' pane, the context menu changes when ride data has changed - it then also offers to 'Revert to saved version'.
+* 'Revert to Saved version' - on the 'Side Bar' -> 'Rides' pane, the context menu changes when ride data has changed - it then also offers to 'Revert to saved version'.
 
-* 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have and explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which is then used to get back to the version of data before running the tool. You can also 'Redo' the changes - which then re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor] ( https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#editor)
+* 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have and explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which is then used to get back to the version of data before running the tool. You can also 'Redo' the changes - which then re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#editor)
 
 ## Tool: Adjust Torque
 
