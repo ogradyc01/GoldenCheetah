@@ -63,6 +63,8 @@ Some important fields are explained here
 
 ## Summary and Details
 
+Combines [Summary] (
+
 ## Editor
 
 ## Performance
