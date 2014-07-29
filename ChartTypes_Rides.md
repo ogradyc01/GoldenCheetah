@@ -93,13 +93,17 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 * Undo - see above
 * Redo - see above
+
 ***
+
 * Cut
 * Copy
 * Paste
 * Paste Special
 * Clear Contents
+
 ***
+
 * Remove Column
 * Add Column
 
@@ -108,15 +112,18 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 * Undo - see above
 * Redo - see above
+
 ***
+
 * Cut - see above
 * Copy - see above
 * Paste - see above
 * Paste Special - see above
 * Clear Contents - see above
-***
-* Smooth Anomaly
 
+***
+
+* Smooth Anomaly
 
 
 ## Performance
