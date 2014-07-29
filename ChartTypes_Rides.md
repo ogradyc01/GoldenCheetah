@@ -51,7 +51,7 @@ To enter or overwrite a 'Metric' value, please check the check-box next to the m
 
 ## 'Extra' Tab
 
-The 'Extra' Tab 
+The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generated based on you configuration. You do not find the 'Extra' Tab in the list of 'Tabs' in 'Preferences->Data Fields', but you find field like 'Calendar 
 
 ![Ride Details - Extra] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
  
