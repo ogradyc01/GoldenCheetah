@@ -85,6 +85,14 @@ Combines [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTyp
 
 ## Google Map / Bing Map
 
+If GPS data is available, the ride is shown on a Google Map, or a Bing Map. You need to be connected to the internet.
+
+The functionality provided on the maps differs on what Google or Bing are delivering (e.g. other views, zoom, rotate). GoldenCheetah itself adds capabilities to:
+
+* Show Start/End point - special icons for start/end point of track appears
+* Show Intervals - by marking one or more interval in the 'Side Bar'- 'Intervals' pane, the part of the track belonging to the intervals is 'highlighted'. The start points of all intervals are always marked a track - and you can also 'Mouse-Click' on the markers to 'highlight' and interval.
+* Color the track based on Power - 
+
 ## 2d Plot
 
 ## 3d Plot
