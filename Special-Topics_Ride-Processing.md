@@ -11,7 +11,7 @@ The configuration of the available tools is done in ['Preferences'] (https://git
 
 _Note: The fixes are only done to the ride file stored in GoldenCheetah format (.json) - GoldenCheetah does not manipulate any of original data files._
 
-## Undo/Redo
+## General: Undo/Redo
 
 Any changes to the ride data done by the tools explained below, are not immediately stored. There are basically three ways to 'Undo' your changes done by the processing tools:
 
@@ -21,19 +21,19 @@ Any changes to the ride data done by the tools explained below, are not immediat
 
 * 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have and explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which is then used to get back to the version of data before running the tool. You can also 'Redo' the changes - which then re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor] ( https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#editor)
 
-## Adjust Torque
+## Tool: Adjust Torque
 
 Adjusting torque values allows you to uplift or degrade the torque values when the calibration of your power meter was incorrect. It takes a single parameter: 
 
 * Torque Adjust - this defines an absolute value in poinds per square inch or newton meters to modify values by. Negative values are supported. (e.g. enter "1.2 nm" or "-0.5 pi").
 
-## Fix GPS errors
+## Tool: Fix GPS errors
 
 Remove GPS errors and interpolate positional data where the GPS device did not record any data, or the data that was recorded is invalid.
 
 * No parameters.
 
-## Fix Gaps in Recording
+## Tool: Fix Gaps in Recording
 
 Many devices, especially wireless devices, will drop connections to the bike computer. This leads to lost samples in the resulting data, or so-called drops in recording. In order to calculate peak powers and averages, it is very helpful to remove these gaps, and either smooth the data where it is missing or just replace with zero value samples
 
@@ -42,7 +42,7 @@ This function performs this task, taking two parameters:
 * Tolerance - this defines the minimum size of a recording gap (in seconds) that will be processed. Any gap shorter than this will not be affected.
 * Stop - this defines the maximum size of gap (in seconds) that will have a smoothing algorithm applied. Where a gap is shorter than this value it will be filled with values interpolated from the values recorded before and after the gap. If it is longer than this value, it will be filled with zero values.
 
-## Fix HR Spikes
+## Tool: Fix HR Spikes
 
 Occasionally heart rate sensors will erroneously report high values for heart rate or drop out (0). This function will look for spikes and dropouts in heart rate data and replace the erroneous data by interpolating the data from either side of the point in question
 
@@ -50,7 +50,7 @@ It takes a single parameter:
 
 * Absolute Max - this defines an absolute value for heart rates, and will smooth any values above this absolute value that have been identified as being anomalies (i.e. at odds with the data surrounding it).
 
-## Fix Power Spikes
+## Tool: Fix Power Spikes
 
 Occasionally power meters will erroneously report high values for power. For crank based power meters such as SRM and Quarq this is caused by an erroneous cadence reading as a result of triggering a reed switch whilst pushing off. This function will look for spikes/anomalies in power data and replace the erroneous data by smoothing/interpolating the data from either side of the point in question
 
