@@ -43,8 +43,11 @@ _Note: GoldenCheetah comes with a set of field preferences, which already contai
 
 ## 'Metric' Tab
 
+The 'Metric' tab is pre-populated with a number of metrics (as defined in the 'Preferences->Data Fields'). 
+
 ![Ride Details - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Metric.jpg)
 
+To enter or overwrite a 'Metric' value, please check the check-box next to the metric to open an input field for this metric. Only if you then input a value - different to '0' - the value will be taken as the metric value for this ride.
 
 ## 'Extra' Tab
 
