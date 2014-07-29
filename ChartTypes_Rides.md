@@ -63,7 +63,7 @@ Some important fields are explained here
 
 ## Summary and Details
 
-Combines [Summary] (
+Combines [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#ride-summary) and [Ride Details] https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#ride-details) in one chart.
 
 ## Editor
 
