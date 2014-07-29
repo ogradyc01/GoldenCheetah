@@ -90,7 +90,7 @@ If GPS data is available, the ride is shown on a Google Map, or a Bing Map. You 
 The functionality provided on the maps differs on what Google or Bing are delivering (e.g. other views, zoom, rotate). GoldenCheetah itself adds capabilities to:
 
 * Show Start/End point - special icons for start/end point of track appears
-* Show Intervals - by marking one or more interval in the 'Side Bar'- 'Intervals' pane, the part of the track belonging to the intervals is 'highlighted'. The start points of all intervals are always marked a track - and you can also 'Mouse-Click' on the markers to 'highlight' and interval.
+* Show Intervals - by marking one or more interval in the 'Side Bar'- 'Intervals' pane, the part of the track belonging to the intervals is 'highlighted'. The start points of all intervals are always marked in a track - and you can also 'Mouse-Click' on the markers to 'highlight' and interval (only for Google).
 * Color the track based on Power - 
 
 ## 2d Plot
