@@ -109,14 +109,12 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* `Delete Row`
-* `Insert Row`
-
+* `Delete Row` - delete the current or the selected range of rows
+* `Insert Row` - inserts an emtpy row at the current selection
 
 ## Column Header - Context Menu
 
 ![Editor - Column Header Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
-
 
 * `Undo`, `Redo` - see above
 
@@ -126,8 +124,9 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* `Remove Column`
-* `Add Column`
+* `Remove Column` - remove the selected column 
+* `Add Column` - opens a list of the available columns - only those columns not yet on the editor chart can be added
+
 
 ## Data area - Context Menu
 
