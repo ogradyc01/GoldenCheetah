@@ -191,7 +191,11 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## Aerolab Chung Analysis
 
+The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation method to derive CdA and CRR from a power file. 
+
 ![Aerolab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
+
+For the theory on this, sample test protocols for the power file, please search for the tool and/or the method using a common search engine on the Web. There are many very good description out. So no reason to re-write all this to incorporate in the Wiki.
 
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
