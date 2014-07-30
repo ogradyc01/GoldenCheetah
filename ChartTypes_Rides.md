@@ -105,7 +105,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Column Header - Context Menu
 
-![Editor - Column Header Menu] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
+![Editor - Column Header Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
 
 
 * `Undo`, `Redo` - see above
@@ -121,7 +121,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Data area - Context Menu
 
-![Editor - Data area Menu] (![Editor - Column Header Menu] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
+![Editor - Data area Menu] (![Editor - Column Header Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
 
 
 * `Undo`, `Redo` - see above
