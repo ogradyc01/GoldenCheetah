@@ -146,7 +146,32 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Performance
 
+This chart type provides all the graphs for your ride data series. In addition to data series which are captured by the head-unit directly, GoldenCheetah also delivers some derived series like 'Delta' series.
+
 ![Performance] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
+
+* Top Section
+  * 'Shading' - here you select if, and how your power data curve is shown
+  * 'X-Axis' - either plot the ride 'by time' or 'by distance' on the X-Axis
+  * 'Smooth' - smoothes the graphs - the value set here is used for all curves 
+
+* View (
+  * 'Stack', 'By Series' 
+     * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is streched over multiple lines
+     * if 'Stack' is checked and 'By Series' is checked - all curves are plotted separately diagrams one above the other - the X-Axis is not streched
+     * if 'Stack is NOT checked ('By Series') is ignored - all curvers are plotted in one diagram, and the X-Axis is not streched
+
+
+
+ 
+* `Stack Zoom `- zooms the diagrams if 'Show Stack' is checked
+
+
+
+the different curves are shown separately one above the other (see also 'Stack Zoom')
+  * 'By Series' 
+
+*
 
 
 ## Critical Mean Maximals
