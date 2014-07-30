@@ -25,7 +25,7 @@ The first screen of the dialog to add a Metric Trends chart are the basic settin
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * `Group by` - defines the default grouping setting of the metrics - you can change the grouping using the chart
 * `Data Table `- if checked, not curves, but a table with the data used is shown
-* `Show Stack `- if checked, the different curves are shown separately one above the other (see also 'Stack
+* `Show Stack `- if checked, the different curves are shown separately one above the other (see also 'Stack Zoom')
 * `Shade Zones `- if checked / and the chart has a power related metrics - show the power-zones
 * `Show Legend `- if checked, show the legend of the curves included in the chart
 * `Show Events `- if checked, show events (if events are defined)
