@@ -146,6 +146,8 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Performance
 
+![Performance] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
+
 
 ## Critical Mean Maximals
 
@@ -157,7 +159,13 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Pedal Force vs Velocity
 
+![Pedal Forcs vs Velocity] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
+
+
 ## Heartrate vs Power
+
+![HR vs Power] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
+
 
 ## Google Map / Bing Map
 
@@ -171,7 +179,15 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## 2d Plot
 
+![2d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
+
+
+
 ## 3d Plot
+
+![3d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
+
+
 
 ## Aerolab Chung Analysis
 
