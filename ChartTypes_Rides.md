@@ -172,6 +172,18 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Data Series `- you can check the data series available from your head unit
   * `Metrics` - metrics which use the source data to calculate data along the complete ride
 
+## Special Features for the 'Performance' chart
+
+* references line (creation only in 'Stacked' mode, but visible on both
+* scaling Y-Axis (only in 'Stacked' mode
+* mouseover on Y-Axis in non-stacked mode
+* marking intervals
+* mouseover on curve for details
+
+
+
+
+
 ## Critical Mean Maximals
 
 [Similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
