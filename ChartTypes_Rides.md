@@ -167,10 +167,10 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Grid` - if checked, it adds a grid to the chart
 
 * Data series settings
-  * Delta Series - prefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
-  * Left/Right - Left leg / Right leg dependent data series (only provided by some powermeter / head-unit combinations today)
-  * Data Series - you can check the data series available from your head unit
-  * Metrics - metrics which use the source data to calculate data along the complete ride
+  * `Delta Series `- prefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
+  * `Left/Right `- Left leg / Right leg dependent data series (only provided by some powermeter / head-unit combinations today)
+  * `Data Series `- you can check the data series available from your head unit
+  * `Metrics` - metrics which use the source data to calculate data along the complete ride
 
 ## Critical Mean Maximals
 
