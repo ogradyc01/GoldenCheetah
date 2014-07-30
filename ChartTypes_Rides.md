@@ -150,29 +150,27 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 ![Performance] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
 
-* Top Section
-  * 'Shading' - here you select if, and how your power data curve is shown
-  * 'X-Axis' - either plot the ride 'by time' or 'by distance' on the X-Axis
-  * 'Smooth' - smoothes the graphs - the value set here is used for all curves 
+* Basic Settings
+  * `Shading` - here you select if, and how your power data curve is shown
+  * `X-Axis `- either plot the ride 'by time' or 'by distance' on the X-Axis
+  * `Smooth` - smoothes the graphs - the value set here is used for all curves 
 
-* View (
-  * 'Stack', 'By Series' 
-     * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is streched over multiple lines
-     * if 'Stack' is checked and 'By Series' is checked - all curves are plotted separately diagrams one above the other - the X-Axis is not streched
-     * if 'Stack is NOT checked ('By Series') is ignored - all curvers are plotted in one diagram, and the X-Axis is not streched
-
-
-
+* View Settings
+  * `Stack`, `By Series`
+      * if 'Stack is NOT checked -  the 'By Series' setting is ignored and all curves are plotted in one diagram
+     * if 'Stack' is checked and 'By Series' is checked - all curves are plotted in separate diagrams one above the other
+      * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is streched over multiple lines
  
-* `Stack Zoom `- zooms the diagrams if 'Show Stack' is checked
+  * `Stack Zoom `- zooms the Y-Axis sizes for all diagrams if 'Show Stack' is checked
+  * `Full Plot` - if checked, in addition to the curves, an additiona diagram, containing all the curves coming for 'Data Series' is displayed at the lower border of the 'Rides' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
+  * `Overlay` - if checked, it adds a small overlay window to the diagram, in which selected interval data is displayed
+  * `Grid` - if checked, it adds a grid to the chart
 
-
-
-the different curves are shown separately one above the other (see also 'Stack Zoom')
-  * 'By Series' 
-
-*
-
+* Data series settings
+  * Delta Series - prefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
+  * Left/Right - Left leg / Right leg dependent data series (only provided by some powermeter / head-unit combinations today)
+  * Data Series - you can check the data series available from your head unit
+  * Metrics - metrics which use the source data to calculate data along the complete ride
 
 ## Critical Mean Maximals
 
