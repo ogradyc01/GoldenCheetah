@@ -71,11 +71,11 @@ The 'Editor' chart provides all the ride file details in a list format. The defa
 
 As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
 
-![Editor - Complete View)
+![Editor - Complete View]  (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-View.jpg)
 
 ### Icon Functions
 
-![Editor - Icons)
+![Editor - Icons] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
 
 * `Save`
 * `Undo`
@@ -83,10 +83,9 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 * `Find`
 * `Anomalies`
 
+## First Column - Context Menu
 
-## Column Header - Context Menu
-
-![Editor - Column Header Menu]
+![Editor - First Column Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_1st_Column.jpg)
 
 * `Undo`, `Redo` - see above
 
@@ -100,12 +99,30 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
+* `Delete Row`
+* `Insert Row`
+
+
+## Column Header - Context Menu
+
+![Editor - Column Header Menu] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
+
+
+* `Undo`, `Redo` - see above
+
+***
+
+* `Cut`, `Copy`, `Paste`, `Paste Special`, `Clear Contents` - see above
+
+***
+
 * `Remove Column`
 * `Add Column`
 
 ## Data area - Context Menu
 
-![Editor - Data area Menu]
+![Editor - Data area Menu] (![Editor - Column Header Menu] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
+
 
 * `Undo`, `Redo` - see above
 
