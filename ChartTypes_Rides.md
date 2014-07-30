@@ -191,4 +191,7 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## Aerolab Chung Analysis
 
+![Aerolab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
+
+
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
