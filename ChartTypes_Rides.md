@@ -77,11 +77,21 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Icons] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
 
-* `Save`
-* `Undo`
-* `Redo`
-* `Find`
-* `Anomalies`
+* `Save` - Saves the ride
+* `Undo` - if active, there have been changes to the ride series data (as shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by presssing 'Undo'
+* `Redo` - if active, you have been 'Undo'ing changes - they can be re-applied be 'Redo'
+* `Find` - opens a 'Search' dialog box - which can search for values in the series data, you can define search rules, the values to search and the data series where to search. As a result you get the list of search hits in the dialog box and the values fulfilling the search are marked in the 'Editor' data list. "Mouse-Click" on a result line in the dialog box, moves the data view to this hit.
+* `Anomalies` - when choosing, GoldenCheetah does consistency check on the available data points / data series. The checks performed and their messages are:
+  * 'Invalid recording gap' - there is a gap in recording of more than 1 seconds (gap)
+  * 'Distance goes backwards' - like the description says
+  * 'Suspiciously high cadence' - cadence detected is above 150
+  * 'Suspiciously high heartrate' - heartrate detected is above 200
+  * 'Suspiciously high speed' - speed detected is above 100 
+  * 'Out of bounds value' - either latitude or longitude have invalid values 
+  * 'Non-zero torque but zero cadence' - like the description says
+  * 'Data spike candidate' - uses the 'Fix Power Spikes...' analysis and configuration settings to find power data spikes
+
+'Anomalies' are listed in a 'Dialog box' - "Mouse-Click" on a text line in the dialog box, moves the data view to this anomaly.
 
 ## First Column - Context Menu
 
