@@ -214,6 +214,8 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## 2d Plot
 
+The '2d Plot' - also called 'Scatter Plot' display values of a set of data for two variables. The data is displayed as a collection of points, each having the value of one variable determining the position on the X- axis and the value of the other variable determining the position on the Y-axis.
+
 ![2d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
 
 
