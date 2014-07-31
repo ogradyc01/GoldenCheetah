@@ -214,7 +214,7 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## 2d Plot
 
-The '2d Plot' - also called 'Scatter Plot' display the ride data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
+The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
 
 ![2d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
 
@@ -227,9 +227,26 @@ The '2d Plot' - also called 'Scatter Plot' display the ride data as a collection
 
 ## 3d Plot
 
+The '3d Plot' displays the ride data by .....
+
 ![3d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
+* `Analyse` - ....
+* `X-Axis` - drop-down list box with the available data (e.g. Power,...)
+* `Y-Axis` - drop-down list box with the available data (e.g. Power,...)
+* `Z-Axis` - drop-down list box with the available data (e.g. Power,...)
+* `Ignore Zero` - if checked, data points which are '0' are not plotted
+* `Show Grid` - if checked, a grid is displayed in the plot area
+* `Frame Intervals` - if checked, and you select one or more intervals in the 'Side Bar', the data points belonging to the interval are highlighted
+* `Legend` - if checked, the legend for the chart is shown
 
+You can rotate the 3d graphics in all 3 directions with you mouse. As well as adding an 'layer' to the 'Z-Axis':
+
+![Rotate] (.gif)
+
+You can add an analysis layer to the 'Z-Axis':
+
+![Layer] (.gif)
 
 ## Aerolab Chung Analysis
 
