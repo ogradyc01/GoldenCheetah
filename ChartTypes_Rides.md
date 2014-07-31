@@ -214,10 +214,13 @@ The functionality provided on the maps differs on what Google or Bing are delive
 
 ## 2d Plot
 
-The '2d Plot' - also called 'Scatter Plot' display values of a set of data for two variables. The data is displayed as a collection of points, each having the value of one variable determining the position on the X- axis and the value of the other variable determining the position on the Y-axis.
+The '2d Plot' - also called 'Scatter Plot' display the ride data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
 
 ![2d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
 
+* `X-Axis` - drop-down list box with the available data series (e.g. Power,...)
+* `Y-Axis` - drop-down list box with the available data series (e.g. Power,...)
+* 
 
 
 ## 3d Plot
