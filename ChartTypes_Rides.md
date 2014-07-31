@@ -220,7 +220,9 @@ The '2d Plot' - also called 'Scatter Plot' display the ride data as a collection
 
 * `X-Axis` - drop-down list box with the available data series (e.g. Power,...)
 * `Y-Axis` - drop-down list box with the available data series (e.g. Power,...)
-* 
+* `Ignore Zero` - if checked, data points which are '0' are not plotted
+* `Show Grid` - if checked, a grid is displayed in the plot area
+* `Frame Intervals` - if checked, and you select one or more intervals in the 'Side Bar', the data points belonging to the interval are highlighted
 
 
 ## 3d Plot
