@@ -174,8 +174,18 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 ## Special Features for the 'Performance' chart
 
-* references line (creation only in 'Stacked' mode, but visible on both
+* references line - for power and power related charts, you can add references lines to your chart - creation of the lines works only in 'Stacked' mode, but the created lines are als visible if not 'Stacked'
+
+You can create a reference line via 'Mouse-Click' and 'Drag' from the Y-Axis label area. And you can do a 'double-click' on this area to open a dialog box to '+' (add) and '-' remove references lines.
+
+![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Create_Ref_Line.gif)
+
+![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/
+Performance_Edit_Ref_Line.gif)
+
+
 * scaling Y-Axis (only in 'Stacked' mode
+
 * mouseover on Y-Axis in non-stacked mode
 * marking intervals
 * mouseover on curve for details
