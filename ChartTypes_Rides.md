@@ -174,7 +174,7 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 ## Special Features for the 'Performance' chart
 
-* references line - for power and power related charts, you can add references lines to your chart - creation of the lines works only in 'Stacked' mode, but the created lines are als visible if not 'Stacked'
+* References line - for power and power related charts, you can add references lines to your chart
 
 You can create a reference line via 'Mouse-Click(Hold) and Drag' from the Y-Axis label area. And you can do a 'Double-Click' on this area to open a dialog box to '+' (add) and '-' remove references lines.
 
