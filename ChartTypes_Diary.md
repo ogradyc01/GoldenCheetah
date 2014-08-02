@@ -8,7 +8,7 @@ Note: Both selection criteria like the used date range (from 'Side Bar' settings
 * [Metric Trends - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 * [Collection Tree Map - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
 * [Critical Mean Maximal - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
-* [Distribution / Histogram - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
+* [Distribution - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
 * [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
 * [Summary - same as 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
@@ -22,8 +22,8 @@ Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Chart
 ## Critical Mean Maximal
 Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
 
-## Distribution / Histogram
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
+## Distribution
+Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
 
 ## Calendar
 
