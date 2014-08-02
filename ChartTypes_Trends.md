@@ -146,7 +146,7 @@ _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, wher
 
 You can also show a CP curve, based on one of GoldenCheetah's CP model, by going to the 'CP Model' tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
 
-## Distribution / Histogram
+## Distribution
 
 This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' along different dimensions. 
 
