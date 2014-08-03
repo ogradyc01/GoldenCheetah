@@ -19,14 +19,11 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 * Zeo Sleep Data - `Tools -> Get Zeo Data`
 
-* Web Calendar
+* Web Calendar - ...
 
-* CALDAV Calendar
+* CALDAV Calendar - ...
 
-* Trainingstagebuch
-
-* Selfloops
-
+* Trainingstagebuch - `Activity -> Upload to Trainingstagebuch`
 
 ## Configuration
 
