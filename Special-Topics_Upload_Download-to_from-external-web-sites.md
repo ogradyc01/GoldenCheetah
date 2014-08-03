@@ -15,9 +15,9 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 ![Share] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
 
-* Withings Wifi Scales
+* Withings Wifi Scales - `Tools -> Get Withings Data`
 
-* Zeo Sleep Data
+* Zeo Sleep Data - `Tools -> Get Zeo Data`
 
 * Web Calendar
 
@@ -59,6 +59,5 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 * Trainingstagebuch
 
 * Selfloops
-
 
 
