@@ -37,7 +37,7 @@ Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 * [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
   * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
   * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
-  * [wip Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+  * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
 
 ## Preferences
 
