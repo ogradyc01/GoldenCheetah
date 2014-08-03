@@ -213,7 +213,9 @@ You can create a reference line via 'Mouse-Click(Hold) and Drag' from the Y-Axis
 
 ## Histogram
 
-[Similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution--histogram)
+![Ride Histogram] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
+
+
 
 ## Pedal Force vs Velocity
 
