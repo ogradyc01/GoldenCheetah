@@ -245,6 +245,8 @@ This chart provides a so called 'Quadrant Analysis'  of Pedal Force vs Pedal Vel
 
 ## Heartrate vs Power
 
+... if someone can deliver details on the interpretation and configuration of the chart, please add here to the Wiki ...
+
 ![HR vs Power] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
 
 
