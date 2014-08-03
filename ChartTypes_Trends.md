@@ -193,8 +193,6 @@ A summary chart is chart with fixed structure, which displays a summary about th
   * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 
 
-
-
 ## Date Range Selection
 
 ![Date Range] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
