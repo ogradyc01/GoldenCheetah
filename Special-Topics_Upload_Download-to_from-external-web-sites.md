@@ -11,11 +11,9 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 * Twitter - `Tweet Ride`
 
-* Strava, Cycling Analytics, RideWithGPS, Selfloops
+* Strava, Cycling Analytics, RideWithGPS, Selfloops - `Activity -> Share(...)`
 
 ![Share] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
-
-
 
 * Withings Wifi Scales
 
