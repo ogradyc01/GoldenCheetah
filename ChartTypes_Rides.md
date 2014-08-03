@@ -103,8 +103,8 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 * `Cut` - cuts the marked data section to the clipboard - 'Cut' is only available if you have marked COMPLETE rows
 * `Copy` - copies the marked data section to the clipboard - 'Copy' works for any selecton of cells
-* `Paste` - pastes the clipboard data at choosen place - 'Paste' does not care for data consistency - (e.g. you can past power values to the latitude cell
-* `Paste Special` - is aimed to paste data from outside GoldenCheetah (e.g. from an Excel Spreadsheet) to a data series, you have different settings to tell GoldenCheetah how this data is structured (quite similar to 'Past Special' features in other software products)
+* `Paste` - pastes the clipboard data at choosen place - 'Paste' does not care for data consistency - (e.g. you can past power values to the latitude cell)
+* `Paste Special` - is aimed to paste data from outside GoldenCheetah (e.g. from an Excel Spreadsheet) to a data series, you have different settings to tell GoldenCheetah how this data is structured (quite similar to 'Paste Special' features in other software products)
 * `Clear Contents` - sets the cell in the marked data section to '0'
 
 ***
