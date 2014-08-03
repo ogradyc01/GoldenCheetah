@@ -5,17 +5,17 @@ Special Topics: Upload/Download to/from external web sites (Version 3.1)
 
 Most of the execution (Upload or Download) functions are self-explanatory. Here only the menu path is provided. More info is only given for 'special cases' which need extra explanations.
 
-* Trainingpeaks - `Activity -> Upload to Trainingpeaks`
+* Trainingpeaks - `Activity -> Upload to Trainingpeaks`, `Activity -> Downlaod from Trainingpeaks`
 
-* Golden Cheetah Racing
+* Golden Cheetah Racing - currently without function
 
-* Twitter
+* Twitter - `Tweet Ride`
 
-* Strava
+* Strava, Cycling Analytics, RideWithGPS, Selfloops
 
-* Cycling Analytics
+![Share] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
 
-* RideWithGPS
+
 
 * Withings Wifi Scales
 
@@ -40,7 +40,7 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 
 * Trainingpeaks
 
-* Golden Cheetah Racing
+* Golden Cheetah Racing - currently without function
 
 * Twitter
 
