@@ -294,7 +294,7 @@ You can rotate the 3d graphics in all 3 directions with you mouse. As well as ad
 
 You can add an analysis layer to the 'Z-Axis':
 
-![Layer] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
+![Layer] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
 
 ## Aerolab Chung Analysis
 
