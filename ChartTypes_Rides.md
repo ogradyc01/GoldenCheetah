@@ -215,7 +215,17 @@ You can create a reference line via 'Mouse-Click(Hold) and Drag' from the Y-Axis
 
 ![Ride Histogram] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
 
+* `Data Series Box` - Selection of available ride data series
+* `Time` - select between 'Absolute Time' or 'Percentage Time'
+* `Log Y` - if checked, shows the time axis (here Y) in log scale
+* `With zeros` - if checked, also zeros are considered in the plot
+* `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate') 
+* `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate')
+* `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 program defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
 
+* `Bin width `- both input field and slider to set the value - defined the X-Size of data range cumulated into one bar of the diagram (the size defined here has no influence if 'Show in zones' is checked)
+
+_Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the drop down area on the upper border of the graphics view pane._
 
 ## Pedal Force vs Velocity
 
