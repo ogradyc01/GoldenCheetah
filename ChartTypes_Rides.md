@@ -229,8 +229,19 @@ _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the 
 
 ## Pedal Force vs Velocity
 
+This chart provides a so called 'Quadrant Analysis'  of Pedal Force vs Pedal Velocity.
+
 ![Pedal Forcs vs Velocity] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
 
+* Definition of the quadrants is done by the input of 'Watts' and 'RPM
+  * `Watts` - a curve through the chart which is exactly that power 
+  * `RPM` - the cadence for which the curve is splitted to quadrants
+
+* `Crank Length` - determines the correct values and scale of the X-Axis
+
+* `Shade Zones` - if checked the power zones are shown
+* `Merge Intervals` - if checked (and 'Frame Interval' is NOT checked) - shows the intervals selected in the 'Side Bar' but not the complete data
+* `Frame Intervals` - if checked - shows all data points - and highlights the intervals selected in the 'Side Bar'
 
 ## Heartrate vs Power
 
