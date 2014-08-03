@@ -58,4 +58,4 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 * Selfloops
 
 
-[BACK] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special%20Topics_Overview)
+BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special%20Topics_Overview)
