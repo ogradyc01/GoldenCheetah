@@ -275,11 +275,11 @@ The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collect
 
 ## 3d Plot
 
-The '3d Plot' displays the ride data by .....
+The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and rotate.
 
 ![3d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
-* `Analyse` - ....
+* `Analyse` - offers a number of default-settings for X,Y,and Z-Axis you can use - 'User Defined' is the option to defined the Axis individually (after applying  a default setting, you can still change the Axis settings)
 * `X-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Y-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Z-Axis` - drop-down list box with the available data (e.g. Power,...)
@@ -290,11 +290,11 @@ The '3d Plot' displays the ride data by .....
 
 You can rotate the 3d graphics in all 3 directions with you mouse. As well as adding an 'layer' to the 'Z-Axis':
 
-![Rotate] (.gif)
+![Rotate] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-rotate.gif)
 
 You can add an analysis layer to the 'Z-Axis':
 
-![Layer] (.gif)
+![Layer] ((https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
 
 ## Aerolab Chung Analysis
 
