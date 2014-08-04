@@ -19,7 +19,7 @@ And here a link the 'Table of Contents' of this user guide:
 * [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
 
 There are some assumptions taken regarding what this guides is NOT. It's
-* not a developer's or build guide for GC / it assumes you are using a stable version of the software with minimum release level 3.1
+* not a developer's or build guide for GoldenCheetah / it assumes you are using a stable version of the software with minimum release level 3.1
 * not an introduction into power based training / it assumes that you have a basic understanding on power based training together with knowledge on the common terminology
 * not an full introduction into all GoldenCheetah metrics / it will deliver information on the metrics which are important to understand the software, but not provide detailed background on the metrics provided
 
