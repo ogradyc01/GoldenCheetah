@@ -16,7 +16,7 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 * `Menu Bar->View->Add Chart` brings up exactly the same list like the variant before.
 
 The different 'Chart Types', their availability for the different 'Scope Bar' views, and their configuration settings are explained here: 
-[Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_ChartTypes)
+[Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
 
 ### Configure Chart / Close Chart
 
