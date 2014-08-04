@@ -1,13 +1,13 @@
 Chart Types: General Information (Version 3.1)
 ***
 
-This is an overview / link page of the different chart types available in GoldenCheetah. Each chart type will be described regarding it's capabilities and specialities. The focus will be on a functional description, not on how-to-use such charts to evaluate your data / to optimize your training.
+This is an overview / link page of the different chart types available in GoldenCheetah. Each chart type will be described regarding it's capabilities and special features. The focus will be on a functional description, not on how-to-use such charts "to evaluate your data / to optimize your training".
 
-Since some of the chart types appear in more than one Scope View (Trends / Diary / Rides), it will be described only once - and this description will be referenced from the other occurences.
+Some of the chart types appear in more than one 'Scope view' (Trends / Diary / Rides), but is only described once - and this description is then referenced from the other occurrences.
 
-_Note: Most of the chart types allows a huge number of configuration - to discover and leverage the power of GoldenCheetah charts, please have a detailed look at the different options available._
+_Note: Most of the chart types have a set of configuration options - to discover and leverage the power of GoldenCheetah charts, please have a detailed look at the different options available._
 
-_Note 2: The configuration of a chart is stored when a chart is added to one of the chart bars. It can later be changed through the `More` function on the 'Main View' when a specific chart is selected._
+_Note 2: The configuration of a chart is stored (with the chart) when a chart is added to one of the 'Chart Bars'. It can later be changed through the `More` function on the 'Main View'._
 
 
 ## Trends
