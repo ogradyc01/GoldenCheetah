@@ -15,7 +15,7 @@ To get more insides in 'Trends' please check:
 
 1. [Side Bar for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view)
 2. [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
-3. [Compare Pane in Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_Trends)
+3. [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_General)
 
 ## Diary
 
@@ -38,7 +38,7 @@ To get more insides in 'Rides' please check:
 
 1. [Side Bar for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view)
 2. [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
-3. [Compare Pane in Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_Rides)
+3. [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_General)
 
 ## Train
 
