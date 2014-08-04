@@ -12,6 +12,6 @@ In addition to minimum there is some configuration you should look at and config
 
 1. [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library) 
 2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
-3. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options_Athlete_Training Zones)
+3. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)
 
 BACK: [To the Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
