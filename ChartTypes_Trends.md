@@ -148,7 +148,7 @@ You can show the theoretical CP curve, based on one of GoldenCheetah's models, b
 
 ## Distribution
 
-This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' along different dimensions. 
+This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' in different dimensions. 
 
 ![Distribution - Ride Data] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
 
