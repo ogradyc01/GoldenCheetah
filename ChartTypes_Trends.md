@@ -3,7 +3,7 @@ Chart Types: Trends view (Version 3.1)
 
 The 'Trends' view provides 'Chart Types' which work on a range of rides. The rides which are considered when opening a chart here selected based on the 'Date Range' selected - as well as the actual 'Search/Filter' settings. 
 
-_Note: Both selection criteria 'Date Range' and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the general settings done in the 'Side Bar' are ignored in such cases._
+_Note: Both selection criteria 'Date Range' and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the more general settings of the 'Side Bar' are ignored in such cases._
 
 * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
 * [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
@@ -17,30 +17,30 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 
 ### Basic Settings
 
-The first screen of the dialog to add a Metric Trends chart are the basic settings. To ease the configuration, you will see the results of your configuration already in teh 'Preview' section on the left side of the dialog box. This allows easy configuration without a lot navigation between the settings and the resulting chart.
+The first screen of the dialog box to add a 'Metric Trends' chart are the basic settings. To ease the configuration, you will see the results of your configuration already in the 'Preview' section on the left side of the dialog box. This simplifies configuration without a lot navigation between the settings and the resulting chart.
 
 ![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Basic.jpg)
 
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
-* `Group by` - defines the default grouping setting of the metrics - you can change the grouping using the chart
-* `Data Table `- if checked, not curves, but a table with the data used is shown
-* `Show Stack `- if checked, the different curves are shown separately one above the other (see also 'Stack Zoom')
-* `Shade Zones `- if checked / and the chart has a power related metrics - show the power-zones
-* `Show Legend `- if checked, show the legend of the curves included in the chart
-* `Show Events `- if checked, show events (if events are defined)
-* `Stack Zoom `- zooms the diagrams if 'Show Stack' is checked
+* `Group by` - defines the default grouping setting of the metrics - you can interactively change the grouping when displaying the chart
+* `Data Table` - if checked, not curves, but a table with the data / curve values used is shown
+* `Show Stack` - if checked, the different curves are shown separately one above the other (see also 'Stack Zoom')
+* `Shade Zones` - if checked / and the chart has a power related metrics - shows the power-zones
+* `Show Legend` - if checked, shows the legend of the curves included in the chart
+* `Show Events` - if checked, shows events (if events are defined)
+* `Stack Zoom` - zooms the diagrams if 'Show Stack' is checked
 
 ### Presets
 
-GoldenCheetah comes with a set of 'Presets' for you charts - when creating a new 'Athlete' the presets are taken over to the athlete's library - and from that point on any changes, enhancements of this presets are athlete specific.
+GoldenCheetah comes with a number of 'Presets' for your charts - when creating a new 'Athlete' the presets are taken over to the athlete's library - and from that point on, any changes, enhancements of this presets are athlete specific.
 
 ![Metric Trends - New Basic] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
 
 The 'Presets' view of the dialog box is multi-functional, so besides using a 'Preset' to configure a new chart, the dialog box offers a full set of 'Preset' administration functions.
 
 * Using a preset
-  * `Apply` - applies the settings of the selected presets (= takes over the 'Curves' defined in the 'Preset')
+  * `Apply` - applies the settings of the currently selected preset in the list (= takes over the 'Curves' defined in the 'Preset')
 
 * Maintain presets
   * `Rename` - change the name
@@ -48,16 +48,16 @@ The 'Presets' view of the dialog box is multi-functional, so besides using a 'Pr
   * `Move Up` - moves the selected preset 'up' in the list
   * `Move Down` - moves the selected preset 'down' in the list
 
-_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))_
+_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your personal list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts))_
 
 * Get more presets
   * `Import...` - imports an XML File with presets - the imported presets are ADDED to the current preset - the import does not check of duplicates,... (_Note: since the file format of the XML is specific to GoldenCheetah and also contains "serialized" for certain configuration settings, manual creation of a valid XML file is not recommended (and will most likely not work)_)
-  * `Export...` - exports ALL presets available in the list to an XML File (_Note: Only by using the 'Export...' function you get a valid XML file which can be imported to other GoldenCheetah installation. Please observe - since the file format might differ between GoldenCheetah version, you can only expect this to work within the same GoldenCheetah version.)
-  * `Add current` - adds the chart definition (curves, settings,...) you are currently working on to the 'Preset' list as a new preset. (Basically this feature provide a 'Create Preset' function using the settings in focus.
+  * `Export...` - exports ALL presets available in the list to an XML File (_Note: Only by using the 'Export...' function you get a valid XML file which can be imported to other GoldenCheetah installations. Please observe - since the file format might differ between GoldenCheetah version, you can only expect this to work when using the same GoldenCheetah version.)
+  * `Add current` - adds the chart definition (curves, settings,...) you are currently working on, to the 'Preset' list as a new preset. (Basically this feature provides a 'Create Preset' function using the settings in focus.
 
 ### Curves
 
-The curves are what is actually shown on the charts. The curves can either come from presets, or are defined here by adding new charts. Also editing / adjustments of existing curves is possible.
+The curves are what is actually shown on the charts. The curves can either come from presets, or are defined here by adding them. Also editing / adjustments of existing curves is possible.
 
 ![Metric Trends - New Curves] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve.jpg)
 
@@ -68,7 +68,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ### Curves - Details - Metric
 
-'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the graph.
+'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the diagram.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
