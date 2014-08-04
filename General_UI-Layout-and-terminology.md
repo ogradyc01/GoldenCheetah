@@ -52,4 +52,4 @@ The 'Compare Pane' appears at the lower border of the 'Main View' - if activated
 
 More information on the 'Compare Pane' in general and the variants per view is provided here: [Compare Pane: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General handling)
 
-
+BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
