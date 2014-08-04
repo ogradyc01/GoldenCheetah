@@ -9,7 +9,7 @@ The good news - the UI Layout and user interaction is basically the same on all 
 Looking at the figure above you find the following elements:
 
 ### Menu Bar 
-The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot shown is frome a Windows 7 version. On Mac OSX or modern Linux distributions the 'Menu Bar' will appear on the top (border) of the screen. 
+The 'Menu Bar' contains all the menu options for GoldenCheetah. The screenshot shown is from a Windows 7 version. On Mac OSX or modern Linux distributions the 'Menu Bar' will appear on the top (border) of the screen. 
 
 _Note:_ The 'Menu Bar' layout and content is the same for all views and not configurable.
 
@@ -30,17 +30,17 @@ _Note: The 'Scope Bar' layout and content is the same for all views and not conf
 More information on the 'Scope Bar' and the available view is provided here: [Scope Bar: Views] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
 
 ### Main View 
-Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
+Selected via the 'Scope Bar' the main view shows the charts and windows relevant to the view in question. Note that the view can be shown in a tabbed style or a scrolling set of tiles. The only time the main window looks different to that shown above is when running GoldenCheetah for the first time or when no data is available. In this case a 'splash' screen is shown to assist new users in importing data or setting up devices etc.
 
 ### Charts Bar
 The 'Charts Bar' shows the different charts for the view active in 'Scope Bar'. The 'Charts Bar' is your selection of charts which are configured for a specific view of the 'Scope Bar'. 
 
-_Note: The 'Charts Bar' differ for each view of the 'Scope Bar' and is configurable for your GoldenCheetah version. With the installation GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
+_Note: The 'Charts Bar' differs for each view of the 'Scope Bar' and is configurable. With the installation GoldenCheetah provides a standard configuration for the 'Chart Bar' for all views._
 
 If you want to add, delete 'Charts' or reset the 'Charts Bar' to the GoldenCheetah defaults, you find the details here: [Chart Bar: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
 
 ### Side Bar 
-The 'Side Bar' contains selections and lists that are most appropriate for what the user is currently doing. 
+The 'Side Bar' contains selections and lists that are most appropriate for what a user is currently doing. 
 
 _Note:_ The 'Side Bar' changes as different views are selected in the 'Scope Bar'. 
 
@@ -48,6 +48,8 @@ More information on the 'Side Bar' in general and the variants per view is provi
 
 ### Compare Pane
 
-The 'Compare Pane' appears a the lower border of the 'Main View' if activated. It allows comparison of date ranges or rides and intervalls (dependent whether you are on 'Trends' or 'Rides'). In 'Diary' and 'Train' the 'Compare Pane' is not available.
+The 'Compare Pane' appears at the lower border of the 'Main View' - if activated. It allows comparison of date ranges or rides and intervals (dependent whether you are on 'Trends' or 'Rides'). In 'Diary' and 'Train' the 'Compare Pane' is not available.
 
 More information on the 'Compare Pane' in general and the variants per view is provided here: [Compare Pane: General handling] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General handling)
+
+
