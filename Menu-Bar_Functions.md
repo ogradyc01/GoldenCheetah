@@ -1,9 +1,9 @@
 Menu Bar: Functions (Version 3.1)
 ***
 
-The GoldenCheetah 'Menu Bar' is similar to any other applications. So please find the details on the different menus and menu options below.
+The GoldenCheetah 'Menu Bar' is similar to any other application. So please find the details on the different menus and menu options below.
 
-_Note: There is one difference between Windows or Linux builds and MacOS builds. For Windows and Linux the preferences pane is located unter `Tools -> Options` whilst on MacOS it located under `GoldenCheetah->Preferences`. To be consistent with the Windows 7 screenshots, any pathes to 'Menu Bar' will follow the Windows menu structure._
+_Note: There is one difference between Windows or Linux builds and MacOS builds. For Windows and Linux the preferences pane is located under `Tools -> Options` whilst on MacOS it located under `GoldenCheetah->Preferences`. To be consistent with the Windows 7 screenshots, any paths to 'Menu Bar' will follow the Windows menu structure._
 
 * [Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Athlete)
 * [Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Activity)
