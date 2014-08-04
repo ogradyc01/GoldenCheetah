@@ -157,17 +157,17 @@ When choosing 'Ride Data Samples' the selected data series applies to the X-Axis
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * 'Plot' section 
-  * 'Ride Data Samples' is checked is this case
+  * `Ride Data Samples` has to be checked for this variant
   * `Data Series Box` - Selection of available ride data series
 * 'Show' section
-  * `Time` - select betwenn 'Absolute Time' or 'Percentage Time'
-  * `Log Y` - if checked, shows the time axis (here Y) in log scale
+  * `Time` - select between 'Absolute Time' or 'Percentage Time'
+  * `Log Y` - if checked, shows the time axis (here Y) in logarithmic scale
   * `With zeros` - if checked, also zeros are considered in the plot
-  * `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate') 
-  * `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate')
-  * `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 program defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
+  * `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heart rate') 
+  * `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heart rate')
+  * `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 fix defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
 
-* `Bin width `- both input field and slider to set the value - defined the X-Size of data range cumulated into one bar of the diagram (the size defined here has no influence if 'Show in zones' is checked)
+* `Bin width `- both input field and slider to set the value - defines the X-Size of data range accumulated into one bar of the diagram (the size defined here is not used if 'Show in zones' is checked)
 
 _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the drop down area on the upper border of the graphics view pane._
 
@@ -197,39 +197,39 @@ A summary chart is chart with fixed structure, which displays a summary about th
 
 ![Date Range] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
 
-* Current selection - uses the date range active in the 'Date Ranges' pane of the 'Side Bar'
-* Current selection thru today - use the date range active, (like the one before), but limits the 'to-date' to the current date
-* From 'date' to today - starts with the defined 'date' and ends today
-* Between 'from' and 'to' - does what is says
-* Last 'x' (days, weeks, months or years) - goes backward the given time frame
-* This (week, month, year) prior 'x' - subtracts a number of (weeks, months, years) from the actual (week, month, year) to define the new date range (e.g. "This 'month' prior '3'" - means the time range 3 month back - so if it is 'July', date range will be 'April'). 
+* `Current selection` - uses the date range active in the 'Date Ranges' pane of the 'Side Bar'
+* `Current selection thru today` - uses the date range active, (like the one before), but limits the 'to-date' to the current date
+* `From 'date' to today` - starts with the defined 'date' and ends today
+* `Between 'from' and 'to'` - does what is says
+* `Last 'x' (days, weeks, months or years)` - goes backward the given time frame
+* T`his (week, month, year) prior 'x'` - subtracts a number of (weeks, months, years) from the actual (week, month, year) to define the new date range (e.g. "This 'month' prior '3'" - means the time range 3 month back - so if it is 'July', date range will be 'April'). 
 
 
 ## Curve Settings
 
-The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' is plotted in your diagram. 
+The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' curve is plotted in your diagram. 
 
 ![Curve - Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Details.jpg)
 
 * General
-  * Name - is a user defined name for the curve 
-  * Axis/Label / Units - is the description shown on the axis labels
+  * `Name` - is a user defined name for the curve 
+  * `Axis/Label / Units` - is the description shown on the axis labels
 
 * Style and Color
-  * Style - is the plot style (you can have a line, dots, bars,...)
-  * Symbol - is an additional marker for the single data point - works for the style, where adding a symbol makes sense
-  * Stack - is special - it works only for curves where the style is set to 'Bar' AND you need more that one curve where style is 'Bar' - when checking 'Stack' for those 2 or more curves then, there is just ONE bar which contains the different curve data as sections in the bar 
-  * Color - the color to be used for the curve (to select a color, "Mouse-Click" on the color box to open a 'Color Chooser' dialog box
-  * Fill curve - fills the area "below" the curve with a color shade
+  * `Style` - is the plot style (you can have a line, dots, bars,...)
+  * `Symbol` - is an additional marker for the single data point - works for the style, where adding a symbol makes sense
+  * `Stack` - is special - it works only for curves where the style is set to 'Bar' AND you need to define more that one curve where style is 'Bar' - when checking 'Stack' for such 2 or more curves then, there is just ONE bar which contains the different curve data as sections in the bar 
+  * `Color` - the color to be used for the curve (to select a color, "Mouse-Click" on the color box to open a 'Color Chooser' dialog box
+  * `Fill curve` - fills the area "below" the curve with a color shade
 
 * Special Options
-  * Highlight Highest - puts markers on the curve for the 'X' hightest values (if '0' - no point is marked)
-  * Highlight Lowest - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
-  * Highlight Outliers - puts markes on the curve for the 'X' outliers (if '0' - no point is marked)
-  * Baseline - sets a value for the curve which is considered as '0' regarding the Y-Axis scale (Example: If you set 100 as the 'Baseline' for your TSS curve, any value above 100 will be treate as positive, every value below 100 negative so 150 TSS shows +50 on the Y-Axis, 70 TSS shows -30 on the Y-Axis.)
-  * Trend Line - `No trend Line` or `Linear Trend` or `Quadratic Trend` decides if a 'Trend Line' for the curve data is shown at all, and if yes, how the trend is calculated
-  * Smooth Curve - makes curves with many small peaks/changes better readable/understandable  
-  * Data lables - if checked, also the value for a data point is shown in the plot
+  * `Highlight Highest` - puts markers on the curve for the 'X' highest values (if '0' - no point is marked)
+  * `Highlight Lowest` - puts markers on the curve for the 'X' lowest values (if '0' - no point is marked)
+  * `Highlight Outliers` - puts markers on the curve for the 'X' outliers (if '0' - no point is marked)
+  * `Baseline` - sets a value for the curve which is considered as '0' regarding the Y-Axis scale (Example: If you set 100 as the 'Baseline' for your TSS curve, any value above 100 will be treated as positive, every value below 100 negative so 150 TSS shows +50 on the Y-Axis, 70 TSS shows -30 on the Y-Axis.)
+  * `Trend Line` - 'No trend Line' or 'Linear Trend' or 'Quadratic Trend' decides if a 'Trend Line' for the curve data is shown at all, and if yes, how the trend is calculated
+  * `Smooth Curve` - makes curves with many small peaks/changes better readable/understandable  
+  * `Data labels` - if checked, also the value for a data point is shown in the plot
 
 ***
 
