@@ -5,7 +5,7 @@ Menu Bar: View (Version 3.1)
 
 The View menu provides a menu access to the 
 
-* `Toogle Full Screen` - also (for some OS) available on 'F11' - use 'ESC' to return to 'Window' mode
+* `Toggle Full Screen` - also (for some OS) available on 'F11' - use 'ESC' to return to 'Window' mode
 * `Switching on/off` of certain UI elements ('Side Bar' / 'Compare Pane' / 'Tool Bar' / 'Athlete Tabs')
 
 ***
@@ -14,9 +14,9 @@ The View menu provides a menu access to the
 
 ***
 
-* `Add Chart` - opens a submenu to select a chart to add to the charts bar of the specific view you are on (Trends / Diary / Rides / Train). Dependent on which main view is active a different selection of chart types is offered here. After selectin a chart type, a dialog will appear, allowing you to adjust the chart settings as you want, before the chart is added to the current view. For get an overview of the different chart types pleas check: [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-* `Reset Layout` - will reset the current view layout to the application default. To avoid any accidential loss of your setting and additional dialog will ask for confirmation.
-* `Tabbed not Tiled` - toogles tabbed or tiled mode for the current view.
+* `Add Chart` - opens a sub-menu to select a chart to add to the charts bar of the specific view you are on (Trends / Diary / Rides / Train). Dependent on the main view a different selection of chart types is offered here. After selection a chart type, a dialog box appears, allowing you to adjust the chart settings as you want, before the chart is added to the current view. To get an overview of the different chart types please check: [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
+* `Reset Layout` - will reset the current view layout to the application default. To avoid any accidental loss of your setting an additional dialog box asks to confirm this step.
+* `Tabbed not Tiled` - toggles tabbed or tiled mode for the current view.
 
 
 BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions)
