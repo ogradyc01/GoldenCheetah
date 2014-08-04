@@ -3,7 +3,7 @@ Side Bar: Trends view (Version 3.1)
 
 ![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Trends.jpg)
 
-The 'Side Bar' for the 'Trends' view offers five different panes - als illustrated above.
+The 'Side Bar' for the 'Trends' view offers five different panes - as illustrated above.
 
 * [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
 * [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#events)
@@ -15,7 +15,7 @@ The 'Side Bar' for the 'Trends' view offers five different panes - als illustrat
 
 ## Date Ranges
 
-Date ranges define for which period in time data is shown/cumulated in the main view of 'Trends'. GoldenCheetah comes with a number of pre-defined 'Date Ranges' - which start with 'All Dates' and end with 'Last 12 months'. The predefined date ranges cannot be deleted or changed.
+Date ranges define for which period in time data is shown/accumulated in the main view of 'Trends'. GoldenCheetah comes with a number of pre-defined 'Date Ranges' - which start with 'All Dates' and end with 'Last 12 months'. The predefined date ranges cannot be deleted or changed.
 
 You can add you own data ranges - also called 'Seasons' in multiple ways.
 
@@ -110,6 +110,6 @@ Here the configuration of the 'Library' Chart:
 
 ## Summary
 
-This pane is a simple display pane, providing a summary view of the rides selected. The data shown honours both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+This pane is a simple display pane, providing a summary view of the rides selected. The data shown honors both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 
 BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_General-handling)
