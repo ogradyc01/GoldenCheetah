@@ -37,7 +37,7 @@ The data fields shown as calendar text are those where the check-box 'Diary' is 
 
 Provides a full page 'Rides' list. You can apply an additional 'Search/Filter' query to reduce the list. And you can add, remove, re-order columns.
 
-The way how to add, remove and re-order of columns in the 'Navigator' works the same like [Side Bar - Rides View - Column Header]
+The way how to add, remove and re-order of columns in the 'Navigator' works the same as [Side Bar - Rides View - Column Header]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
 
 ## Summary
