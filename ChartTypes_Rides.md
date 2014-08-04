@@ -37,7 +37,7 @@ Here the 'Workout' Tab as an example to show the relationship between configurat
 
 ![Ride Details - Workout Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Workout-Config.jpg)
 
-Important to know is: The sequence of the 'Tab's on the 'Details' screen and the sequence of the fields per 'Tab' is exactly the sequence of the field and tabs in the configuration. When adding a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's internal structures and to re-create the screens (by adding the new field). 
+_Note: The sequence of the 'Tab's on the 'Details' screen and the sequence of the fields per 'Tab' is exactly the sequence of the field and tabs in the configuration. When adding a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's internal structures and to re-create the screens (by adding the new field)._
 
 _Note: GoldenCheetah comes with a set of field preferences, which already contain a number of additional fields for ride specific data, as well as a proposal on fields for the 'Metric' tab. Since for some of these field specific logic is implemented in GoldenCheetah, it is NOT recommended to remove any of the pre-defined fields, as it might cause unexpected behavior._
 
