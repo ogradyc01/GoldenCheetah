@@ -6,7 +6,7 @@ The 'Diary' view offers 'Chart Types' which work on a range of rides. The rides 
 _Note: Both selection criteria like the used date range (from 'Side Bar' settings) and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the general settings done in the 'Side Bar' are ignored in such cases._
 
 * [Metric Trends - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
-* [Collection Tree Map - same like 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
+* [Collection Tree Map - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
 * [Critical Mean Maximal - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
 * [Distribution - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
