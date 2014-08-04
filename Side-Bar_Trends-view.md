@@ -78,17 +78,17 @@ Filtering via the 'Side Bar' is one of multiple ways, how you can select the rid
 
 ![Filters - Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Filters_Settings.jpg)
 
-* Section 'Filters' - shows the list of predefined filters, which you have defined - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the rides are taken into account which fulfill all filter rules.
+* Section 'Filters' - shows the list of your predefined filter queries - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the data of rides which fulfill ALL filter rules is considered in a chart.
 
-* Sections 'Workout Code', 'Sport',... are the 'Autofilter's. The values shown per 'Autofilter' section is the list of values used in that particular 'Autofilter' field. You can select one or many of these values which then filter the rides to those where one of the selected values is assigned (logical "OR").
+* Sections 'Workout Code', 'Sport',... are the 'Autofilter's. The values shown for each 'Autofilter' is the list of values used in that particular 'Autofilter' field of your rides. You can select one or many of these values which then limit the rides to those where one of the selected values is assigned (logical "OR").
 
-_Note:All fields which are of type "ShortText" or "Text" in the 'Preferences->Data Fields->Field' list and are assigned to a "Screen Tab" as well, are used as 'Autofilters'._
+_Note: All fields which are of type "ShortText" or "Text" in the 'Preferences->Data Fields->Field' list and are assigned to a "Screen Tab", are available as 'Autofilters'._
 
 ### Filters - Menu
 
-* Autofilter - the list shows all possible 'Autofilter' fields - which you can either activate or de-activate to be shown/used in the 'Side Bar'
+* `Autofilter` - the list shows all possible 'Autofilter' fields - which you can either activate or de-activate to be shown/used in the 'Side Bar'
 
-* Manage Filters - open a Popup which allows to create you own filters (the filters created here are available for all GoldenCheetah Filter functions)
+* `Manage Filters` - open a dialog box which allows to create your own filter queries (the filter queries created here are available for all GoldenCheetah Filter functions)
 
 ![Filters - Manage] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Filters_Manage.jpg)
 
@@ -97,11 +97,11 @@ Further information on filtering can be found under: [Filtering/Searching] (http
 
 ## Charts
 
-The 'Charts' section is new with 3.1. It provides a different way to access the chart which are shown in the 'Main View' without having the need to add every single chart to the 'Charts Bar'.
+The 'Charts' section is new with 3.1. It provides a different way to access the charts which are shown in the 'Main View' without having the need to add every single chart to the 'Charts Bar'.
 
 ![SideBar - Charts] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar-Charts.jpg)
 
-The 'Side Bar - Charts' only take effect you use a special chart (Default - "Library") on the main view. If you display any other chart on the 'Main View', selection of a chart in the 'Side Bar - Charts' has no effect.
+The 'Side Bar - Charts' only take effect if you use a special chart (Default - "Library") on the main view. If you display any other chart on the 'Main View', selection of a chart in the 'Side Bar - Charts' has no effect.
 
 Here the configuration of the 'Library' Chart:
 
@@ -110,6 +110,6 @@ Here the configuration of the 'Library' Chart:
 
 ## Summary
 
-This pane is a simple display pane, providing a summary view of the data selected. The data shown considers both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+This pane is a simple display pane, providing a summary view of the rides selected. The data shown honours both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 
 BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_General-handling)
