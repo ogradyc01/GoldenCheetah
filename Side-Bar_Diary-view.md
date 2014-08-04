@@ -3,7 +3,7 @@ Side Bar: Diary view (Version 3.1)
 
 ![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Diary.JPG)
 
-The 'Side Bar' for the 'Diary' view offers two different panes - als illustrated above.
+The 'Side Bar' for the 'Diary' view offers two different panes - as illustrated above.
 
 * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#calendar)
 * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#summary)
