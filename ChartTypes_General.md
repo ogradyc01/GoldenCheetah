@@ -40,7 +40,7 @@ _Note 2: The configuration of a chart is stored when a chart is added to one of 
 * [Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#histogram)
 * [Pedal Force vs Velocity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#pedal-force-vs-velocity)
 * [Heartrate vs Power] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#heartrate-vs-power)
-* [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#oogle-map--bing-map)
+* [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#google-map--bing-map)
 * [2d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#2d-plot)
 * [3d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#3d-plot)
 * [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#aerolab-chung-analysis)
