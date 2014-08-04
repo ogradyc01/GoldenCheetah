@@ -34,9 +34,9 @@ The tools menu contains functions which either manipulate rides or relate to add
 ***
 
 * [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#adjust-torque#tool-adjust-torque)
-* [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#fix-gps-errors#tool-fix-gps-errors)
-* [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#fix-gaps-in-recording)
-* [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#fix-hr-spikes#tool-fix-hr-spikes)
-* [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#fix-power-spikes)
+* [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gps-errors)
+* [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
+* [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
+* [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)
 
 BACK: [Menu Bar:Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_Functions)
