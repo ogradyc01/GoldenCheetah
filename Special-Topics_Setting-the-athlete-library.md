@@ -18,3 +18,5 @@ After selecting a new 'Athlete Library' which is recommended to be an EMPTY dire
 When pressing `Save` on the info popup after changing the 'Athlete Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlete Library' the 'Choose an Athlete' popup appears, allowing you to create a new athlete. Further information see: [First Steps: Your first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Your-first-athlete)
 
  _Note: It is recommended to use either use only one athlete library OR if you need multiple athlete libraries, to use distinct athlete names - even across the libraries. Reason is that parts of the configuration data is currently stored 'per athlete', but not 'per libary/athlete'. Meaning if you use the same athlete name in multiple libraries they will share the athlete dependent parts options/configuration, but not the same rides,..._
+
+BACK: [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
