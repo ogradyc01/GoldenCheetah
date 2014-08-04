@@ -68,7 +68,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 ### Curves - Details - Metric
 
-'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the diagram.
+'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the curve/diagram.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
@@ -76,7 +76,7 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ### Curves - Details - Best
 
-'Best's are self-definable metrics. Best delivers curves which show the best value / of a defined time period / for a defined data series.
+'Best's are user-defined metrics. 'Best' delivers curves which show the best value / for a defined period in time / for a defined data series.
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
 
@@ -91,7 +91,7 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
-As parameter you need to choose the CP model to use. And the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series may be not selectable.
+As parameter you need to choose the CP model to use and the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series cannot be selected.
 
 For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
 
@@ -101,15 +101,15 @@ The 'Collection Tree Map' is an very useful tool to analyse how your rides distr
 
 What the graphics does is a 2-dimensional map where you can 
 * define the 2 Dimensions (here called 'First' and 'Second') and
-* define the metrics used to calculate the size of a tree-segment.
+* define the metrics used to calculate the size of a tree/map-segment.
 
-What GoldenCheetah then does is to summarize the selected metrics along all selected rides ('Date Range' and 'Filter' is considered) and show for each separate value of the configured dimensions, a tile which goes in line with the cumulated metric value for the tile.
+What GoldenCheetah does is to summarize the selected metrics for all selected rides ('Date Range' and 'Filter' is considered) and shows for each separate value combination of the configured dimensions, a tile which goes in line with the accumulated metric value for the tile.
 
-_Note: As a dimension all text fields from the rides - details (as defined in the preferences) are available in the selection. So like for 'Search/Filter' only if you maintain data and the values are consistent, you will usable output here.
+_Note: Possible dimensions for 'First' and 'Second' are all text fields from the rides - details (as defined in the preferences). So like for 'Search/Filter' only if you maintain data and the values are consistent, you will get useful output here._
 
 _Note2: Unlike 'Search/Filter' the field content is treated as 'Case Sensitive'_
 
-The example analyses 'TSS' values, first by 'Workout Code' and second by 'Keywords' (which were used to store the bike used for the workout).
+The example summarizes 'TSS' values, first by 'Workout Code' and second by 'Keywords' (which in the example data was to defined the bicycle used for a workout).
 
 ![Collection Tree Map - First] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
 
@@ -117,14 +117,14 @@ The example analyses 'TSS' values, first by 'Workout Code' and second by 'Keywor
 
 ***
 
-If you do a 'Mouse-Click' on one of the tiles, the list of rides which added to this tile are shown - together with the metric their values. You can scroll through the list to get some ride detail information displayed.
+If you do a 'Mouse-Click' on one of the tiles, the list of rides which added up to this tile are shown - together with their metric values. You can scroll through the list to get some ride detail information displayed.
 
 ![Collection Tree Map - Rides] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
 
 
 ## Critical Mean Maximal
 
-This curve, also called 'MMP' curve is again one of the central and assumed 'Standard' ways for analysing power. Here only the handling / available option are described.
+This curve, also called 'MMP' curve is again one of the central and assumed 'Standard' ways for analyzing power. Here only the handling / available option are described.
 
 ![CP] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
 
@@ -132,8 +132,8 @@ As in most other charts, also here you have several options, and the options par
 
 * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
-_Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Data Range' which are then considered in the 'Bests' calculation._
-* `Data series `- here you have multiple sets of data which can be analyized in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series'.
+_Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Date Range' which are then considered in the 'Bests' calculation._
+* `Data series `- here you have multiple sets of data which can be analyzed in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series').
 * `Power Shading `- if checked, shows the power zones, along the curve. Only has effect for 'Data Series' = 'Power'.
 * `Show Grid`- if checked, the plot area get's a grid for easier analysis
 * `Show Bests `- if checked, shows the 'MMP' curve (the best value for point of duration of the X-Axis) for the 'Data Series' selected
@@ -144,7 +144,7 @@ _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, wher
 
 ![CP Model] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
-You can also show a CP curve, based on one of GoldenCheetah's CP model, by going to the 'CP Model' tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
+You can show the theoretical CP curve, based on one of GoldenCheetah's models, by going to the `CP Model` tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
 
 ## Distribution
 
