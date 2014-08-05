@@ -15,9 +15,8 @@ _Note: Important to understand is, that in most cases the translation process is
 
 * Localization: Is the ability of software to handle region or country specific requirements. (Easy to understand in business software (e.g. taxation rules,...). Luckily there is not much need for localization in GoldenCheetah. But still there are some example. Most popular is the representation of 'Dates' and 'Time' in different regions and/or languages.
 
-With these (maybe boring) explanations - now the specifics for GoldenCheetah:
-
 ### Specifics for GoldenCheetah
+After those (maybe boring) explanations - now the specifics for GoldenCheetah:
 
 * GoldenCheetah vs. your operating system language - depending on your operating system language and the language you have configured in GoldenCheetah you might face pieces of the UI being presented in two languages. Screens / dialog box with a mixture of your OS language and the GoldenCheetah preferences language are presented. This is NOT an error in GoldenCheetah, but is caused by the behavior of the development framework GoldenCheetah is using and the operating system. E.g. when using a 'File Chooser' dialog in Windows 7 in a setup where only 'English' is the language installed in Windows, the standard dialog features will come up in English, the dialog box name and any configurable parts of the dialog box will come up in the language you have configured in the GoldenCheetah preferences.
 
