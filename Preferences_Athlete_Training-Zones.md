@@ -73,7 +73,7 @@ The difference in zone creation for heart rate are quite small since the UI is m
 
 Zones can be added, removed, renamed in same way as 'Power'. 
 
-Values are:
+Input fields are:
 
 * `Default Tab` - percent of LT (Lactate threshold heartrate)
 * `Default Tab` - Trimp k
