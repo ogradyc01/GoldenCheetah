@@ -6,7 +6,7 @@ _Choose:_ `Menu Bar->Tools->Options...` to open the main configuration screen of
 
 ![Preferences] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesBar.jpg)
 
-Preferences provide multiple configuration views, which are selected through the 'Preferences Bar' on the upper edge of the screen. Next we will explain all configuration views, and the most important fields in these view. Fields which are considered self-explanatory will not be mentioned explicitely here.
+Preferences provide multiple configuration views, which are selected through the 'Preferences Bar' on the upper border of the screen. Next we will explain all configuration views, and the most important fields in these views. Fields which are considered self-explanatory will not be mentioned explicitly here.
 
 ### General
 
@@ -24,21 +24,21 @@ _Note: Data of this view is stored separate per athlete_
 
 ### Appearance
 
-General settings on font, colors and style GoldenCheetah is using in it' UI. More details: [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
+General settings on font, colors and style GoldenCheetah is using for the UI. More details: [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
 
 ### Data Fields
 
-General settings on font, colors and style GoldenCheetah is using in it' UI. More details: [Data Fields] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
+Here you defined additional ride data fields and other data related preferences. More details: [Data Fields] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
 
 ### Metrics
 
-Here you can select the metrics as well as the sequence in which the selected metrics are shown in specific screens and summaries of GoldenCheetat: [Metrics] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+Here you can select the metrics as well as the sequence in which the selected metrics are shown in specific screens and summaries of GoldenCheetah: [Metrics] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 
 ### Train Devices
 
-Here maintaining your device(s) for the 'Train' view : [Train Devices] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
+Here you maintain your device(s) for the 'Train' view : [Train Devices] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
 
-
+BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
 
 
 
