@@ -250,8 +250,7 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
   * `Watts` - a curve through the chart which is reflects the entered power 
   * `RPM` - the cadence for which the curve is split into quadrants
 
-* `Crank Length` - determines the correct values and scale for the X-Axis (defaulted from your 'Preferences -> Athlete' data
-
+* `Crank Length` - determines the correct values and scale for the X-Axis (defaulted from your 'Preferences -> Athlete' data)
 * `Shade Zones` - if checked, the power zones are shown
 * `Merge Intervals` - if checked (and 'Frame Interval' is NOT checked) - shows the intervals selected in the 'Side Bar' but not the complete data points
 * `Frame Intervals` - if checked - shows all data points - and highlights the intervals selected in the 'Side Bar'
@@ -296,6 +295,9 @@ The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and r
 * `X-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Y-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Z-Axis` - drop-down list box with the available data (e.g. Power,...)
+* `Color` - ....
+* `Graphic Type` - ....
+* `Bin Width` - both input field and slider to set the value - which is the width of the plotted chart segments
 * `Ignore Zero` - if checked, data points which are '0' are not plotted
 * `Show Grid` - if checked, a grid is displayed in the plot area
 * `Frame Intervals` - if checked, and you select one or more intervals in the 'Side Bar', the data points belonging to the interval are highlighted
@@ -315,7 +317,7 @@ The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation 
 
 ![Aerolab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
 
-For the theory on this, sample test protocols for the power file, please search for the tool and/or the method using a common search engine on the Web. There are many very good description out. So no reason to re-write all this to incorporate in the Wiki.
+For the theory on this, sample test protocols for the power/ride file you need for an analysis, please search for the tool and/or the method using a common search engine on the Web. There are many very good descriptions existing. That's why it's not re-written and incorporate in the Wiki.
 
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
