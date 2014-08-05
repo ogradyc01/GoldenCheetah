@@ -80,7 +80,7 @@ Combines [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTyp
 
 ## Editor
 
-The 'Editor' chart provides all the ride file details in a list format. The default view contains columns for all data series captured from your head-unit, as well as any data series derived.
+The 'Editor' chart provides all the ride file data in a spreadsheet/list format. The default view contains columns for all data series captured from your head-unit, as well as any data series derived.
 
 As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
 
@@ -90,21 +90,21 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Icons] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
 
-* `Save` - Saves the ride
-* `Undo` - if active, there have been changes to the ride series data (as shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by presssing 'Undo'
-* `Redo` - if active, you have been 'Undo'ing changes - they can be re-applied be 'Redo'
-* `Find` - opens a 'Search' dialog box - which can search for values in the series data, you can define search rules, the values to search and the data series where to search. As a result you get the list of search hits in the dialog box and the values fulfilling the search are marked in the 'Editor' data list. "Mouse-Click" on a result line in the dialog box, moves the data view to this hit.
-* `Anomalies` - when choosing, GoldenCheetah does consistency check on the available data points / data series. The checks performed and their messages are:
-  * 'Invalid recording gap' - there is a gap in recording of more than 1 seconds (gap)
+* `Save` - saves the ride data (with all changes/adjustments done)
+* `Undo` - if active, there have been changes done to the ride series data (shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by pressing 'Undo' multiple times
+* `Redo` - if active, you have been 'Undo'ing changes before - they can be re-applied be 'Redo'
+* `Find` - opens a 'Search' dialog box - which allows to find specific values or value ranges in the series data - you can define search rules, the values to search and the data series to search in. As a result you get a list of search hits in the dialog box and the values fulfilling the search criteria are marked (with a different background color) in the 'Editor' data list. "Mouse-Click" on a result line in the dialog box, moves the data view to the specific search hit.
+* `Anomalies` - when choosing, GoldenCheetah does a number consistency analysis on the available data points / data series. The analysis performed and their messages are:
+  * 'Invalid recording gap' - there is a gap in recording of more than 1 second (gap)
   * 'Distance goes backwards' - like the description says
   * 'Suspiciously high cadence' - cadence detected is above 150
-  * 'Suspiciously high heartrate' - heartrate detected is above 200
+  * 'Suspiciously high heartrate' - heart rate detected is above 200
   * 'Suspiciously high speed' - speed detected is above 100 
   * 'Out of bounds value' - either latitude or longitude have invalid values 
   * 'Non-zero torque but zero cadence' - like the description says
   * 'Data spike candidate' - uses the 'Fix Power Spikes...' analysis and configuration settings to find power data spikes
 
-'Anomalies' are listed in a 'Dialog box' - "Mouse-Click" on a text line in the dialog box, moves the data view to this anomaly.
+'Anomalies' are listed in a 'Dialog box' - "Mouse-Click" on a text line in the dialog box, moves the data view to the specific anomaly in the editor data list.
 
 ## First Column - Context Menu
 
@@ -114,16 +114,16 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* `Cut` - cuts the marked data section to the clipboard - 'Cut' is only available if you have marked COMPLETE rows
-* `Copy` - copies the marked data section to the clipboard - 'Copy' works for any selecton of cells
-* `Paste` - pastes the clipboard data at choosen place - 'Paste' does not care for data consistency - (e.g. you can past power values to the latitude cell)
-* `Paste Special` - is aimed to paste data from outside GoldenCheetah (e.g. from an Excel Spreadsheet) to a data series, you have different settings to tell GoldenCheetah how this data is structured (quite similar to 'Paste Special' features in other software products)
+* `Cut` - cuts the selected data section to the clipboard - 'Cut' is only available if you have selected COMPLETE rows
+* `Copy` - copies the selected data section to the clipboard - 'Copy' works for any selection of cells
+* `Paste` - pastes the clipboard data at chosen place - 'Paste' does not care for data consistency - (e.g. you can paste power values to the latitude cell)
+* `Paste Special` - is aimed mainly to paste data from outside GoldenCheetah (e.g. from an Excel Spreadsheet) to a data series - you have different settings to tell GoldenCheetah how this data is structured (quite similar to 'Paste Special' features in other software products)
 * `Clear Contents` - sets the cell in the marked data section to '0'
 
 ***
 
-* `Delete Row` - delete the current or the selected range of rows
-* `Insert Row` - inserts an emtpy row at the current selection
+* `Delete Row` - deletes the current or the selected range of rows
+* `Insert Row` - inserts an empty row at the current selection
 
 ## Column Header - Context Menu
 
@@ -137,8 +137,8 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ***
 
-* `Remove Column` - remove the selected column 
-* `Add Column` - opens a list of the available columns - only those columns not yet on the editor chart can be added
+* `Remove Column` - removes the selected column 
+* `Add Column` - opens a list of the available columns - only columns which are not yet visible on the editor chart can be added
 
 
 ## Data area - Context Menu
@@ -165,8 +165,8 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 * Basic Settings
   * `Shading` - here you select if, and how your power data curve is shown
-  * `X-Axis `- either plot the ride 'by time' or 'by distance' on the X-Axis
-  * `Smooth` - smoothes the graphs - the value set here is used for all curves 
+  * `X-Axis `- choose if your ride X-Axis is plotted 'by time' or 'by distance'
+  * `Smooth` - smooths the graphs - the value set here is used for all curves 
 
 * View Settings
   * `Stack`, `By Series`
