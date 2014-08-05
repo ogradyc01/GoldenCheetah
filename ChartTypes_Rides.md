@@ -265,13 +265,13 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
 
 ## Google Map / Bing Map
 
-If GPS data is available, the ride is shown on a Google Map, or a Bing Map. You need to be connected to the internet.
+If GPS data is available, the ride is shown on a Google Map, or a Bing Map. _Note: You need to be connected to the internet._
 
-The functionality provided on the maps differs on what Google or Bing are delivering (e.g. other views, zoom, rotate). GoldenCheetah itself adds capabilities to:
+The functionality provided on the maps differs on what Google or Bing is offering (e.g. multiple views, zoom, rotate). GoldenCheetah itself adds capabilities to:
 
-* Show Start/End point - special icons for start/end point of track appears
+* Show Start/End point of the track - special icons for start/end point of track appears
 * Show Intervals - by marking one or more interval in the 'Side Bar'- 'Intervals' pane, the part of the track belonging to the intervals is 'highlighted'. The start points of all intervals are always marked in a track - and you can also 'Mouse-Click' on the markers to 'highlight' and interval (only for Google).
-* Color - the color of the track gives an indication about the Power Zone you have been riding a certain track - colors are the same like in the color shading of the power-graphs 
+* Color - the color of the track gives an indication about the Power Zone you have been riding a certain track - colors are the same like in the color shading of the power-curves
 
 ## 2d Plot
 
@@ -292,7 +292,7 @@ The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and r
 
 ![3d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
-* `Analyse` - offers a number of default-settings for X,Y,and Z-Axis you can use - 'User Defined' is the option to defined the Axis individually (after applying  a default setting, you can still change the Axis settings)
+* `Analyse` - offers a number of default-settings for X,Y,and Z-Axis which you can use - the setting 'User Defined' is the option to defined the Axis individually (after applying a default setting, you can still change the Axis settings as well)
 * `X-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Y-Axis` - drop-down list box with the available data (e.g. Power,...)
 * `Z-Axis` - drop-down list box with the available data (e.g. Power,...)
