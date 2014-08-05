@@ -25,25 +25,35 @@ Athlete specific settings - configured for your currently active athlete. More d
 
 ### Passwords
 
-Athlete specific definition of websites and passwords for data upload and download. More details: [Upload and Download from and to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
+Athlete specific definition of websites and passwords for data upload and download. More details: 
+
+* [Upload and Download from and to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
 
 _Note: Data of this view is stored separate per athlete_
 
 ### Appearance
 
-General settings on font, colors and style GoldenCheetah is using for the UI. More details: [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
+General settings on font, colors and style GoldenCheetah is using for the UI. More details: 
+
+* [Appearance] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
 
 ### Data Fields
 
-Here you defined additional ride data fields and other data related preferences. More details: [Data Fields] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
+Here you defined additional ride data fields and other data related preferences. More details: 
+
+* [Data Fields] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
 
 ### Metrics
 
-Here you can select the metrics as well as the sequence in which the selected metrics are shown in specific screens and summaries of GoldenCheetah: [Metrics] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+Here you can select the metrics as well as the sequence in which the selected metrics are shown in specific screens and summaries of GoldenCheetah: 
+
+* [Metrics] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
 
 ### Train Devices
 
-Here you maintain your device(s) for the 'Train' view : [Train Devices] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
+Here you maintain your device(s) for the 'Train' view : 
+
+* [Train Devices] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
 
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
 
