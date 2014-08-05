@@ -38,12 +38,12 @@ The section 'Notes Keywords' defines which field / field content is used to dete
 * `Use for Background` - if checked, the color is not applied to the text, but to the text background (this provides a behavior similar to GoldenCheetah 3.0x).
 * `Keyword` - this is the main keyword to determine the color - (which is set in field 'Color') - when comparing the keywords with your texts, Upper/Lower case writing is ignored (so 'FTP' is treated equally to 'ftp' or 'fTp').
 * `Color` - is set using a 'Color Chooser' dialog box which is opened by "mouse-click" on the color box.
-* `Related Notes Words` - is usefull, if you want more than one keyword to have the same color, instead of adding them one-by-one to the keyword list, you can just create one entry to define the color and enter all other keywords, separated by "," into this field.
+* `Related Notes Words` - is useful, if you want more than one keyword to have the same color, instead of adding them one-by-one to the keyword list, you can just create one entry to define the color and enter all other keywords, separated by "," into this field.
 
 ### Processing
 
 ![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
 
-GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please check [Special Topics: Ride processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Ride processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 
 BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
