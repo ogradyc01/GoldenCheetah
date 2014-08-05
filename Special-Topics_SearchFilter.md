@@ -5,49 +5,52 @@ Searching and Filtering are ways to find rides which fulfill specific criteria (
 
 ## Search & Filter - Common Functions
 
-Before going into any details, here the common functions available for both Search and Filter queries. The logic for Search and Filter is similar in all places of GoldenCheetah:
+Before going into any details, here the common functions available for both 'Search' and 'Filter' queries. The logic for 'Search' and 'Filter' is similar in all places of GoldenCheetah:
 
 ### UI Handling
 
-The UI is multifunctional. It has a selector to switch between 'Search' and 'Filter', a drop-down menu contain the pre-defined queries and related functions, and an input field to enter your queries.
+The input box for 'Search/Filter' functionality contains multiple functions. It has 
+* a selector to switch between 'Search' and 'Filter' mode, 
+* a drop-down menu contain the pre-defined queries and related functions, 
+* and is the text input field to enter your queries.
 
-_Note: Please do always check if you have selected the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and purpose and will most likely create unexpected results._
+_Note: Please do always check if you have chosen the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and purpose._
 
 ![Search Filter - UI] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_UI.gif)
 
 ### Manage Filters (Manage Queries)
 
-You can create and store 'Search' and 'Filter' queries using the 'Manage Filters' menu. Queries stored here are appear in the drop-down menu for faster access.
+You can create and store 'Search' and 'Filter' queries using the 'Manage Filters' menu. Queries stored here  appear in the drop-down menu for faster access.
 
 ![Search Filter - ManageFilters] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_ManageFilters.jpg)
 
-* Add - adds the query defined in the Name/Filter input field to the list
-* Update - updates an existing query with changes from Name/Filter input fields
-* Delete - delete the query marked in the list
+* `Add`- adds the query defined in the Name/Filter input field to the list
+* `Update` - updates an existing query with changes from Name/Filter input fields
+* `Delete` - deletes the query selected in the list
 
-_Note: Again be sure to use the correct query type (Search/Filter)._
+_Note: Please be sure to use the correct query type (Search/Filter)._
 
 ### Applying Queries
 
-You can always just enter the query into the text field and press `Enter` to apply the query. Or use a pre-defined queries which applies directly and saves the time of typing.
+You can always just enter the query into the text field and press `Enter` to run the query. Or use a pre-defined queries which applies directly and saves the time of typing.
 
 ![Search Filter - Apply/Remove] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Search_Filter_Apply_Remove.gif)
 
-_Note:To de-activate a 'Search/Filter' query, just click on the little (x) on the right end of the text box._
+_Note:To de-activate a 'Search/Filter' query, just click on the little (x) on the right side of the input field._
 
 ## Search
 
-The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the right Icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears.
+The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the correct icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears in any of the text fields.
 
 ### Search Query Syntax
 
-The search engine used by GoldenCheetah offers more options - e.g. field specific searches. Some of them which might be helpful (and which appear to work in GoldenCheetah's way to use the search engine) are:
+The search engine used by GoldenCheetah offers more options. Some of them which seem to be helpful (and which appear to work in GoldenCheetah's implementation to use the search engine) are:
 
 * Wildcard searches 
   * Single character wildcard is "?"
   * Multiple character wildcard is "*"
 
-_Note: Using a wildcard charater as first character of a search is not possible._
+_Note: Using a wildcard charater as first character of a search query is not possible._
 
 * Boolean operators
   * `AND` or `&&` - to find rides where both term exists
@@ -65,19 +68,19 @@ Filtering is like searching, a way to find rides which fulfill specific criteria
 
 ### Filter Query Syntax 
 
-In a simple view, a filter query is a bit like a database query - (which is different to free-text search engines). As a minimum you need to define
+In a simplified way, a filter query is a bit like a database query - (which is different to free-text search engines). As a minimum you need to define
 
-  * the field you want to look at
-  * a rule how to look at that field
-  * a comparison value
+  * the field you want to look at (FieldName)
+  * a rule how to look at that field (Operator)
+  * a comparison value (Value)
 
-Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. And this example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You will not define a search which can do this. (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes absolutely sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
+Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. This example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You cannot define a search which can do this (in GoldenCheetah). (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes most sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
-_Note: You need to separate fieldnamens, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query text color changing to "red". To see the error text, just click into the query text wait until an error text appears._
+_Note: You need to separate field names, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query text color changing to "red". To see the error text, just click into the query text and wait until an error text appears._
 
 ## Simple Queries
 
-A simple query lokes like: `<field_name> <operator> <value_or_string>`
+A simple query is structured: `<field_name> <operator> <value_or_string>`
 
 ### `<field_name>`
 
