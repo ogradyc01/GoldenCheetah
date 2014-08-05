@@ -21,4 +21,4 @@ Ziel war in GoldenCheetah eine so weit wie möglich durchgängige und einheitlic
 
 Feedback bitte in der User Group posten oder direkt per mail an: "joern.rm at gmail.com".
 
-[BACK:] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+BACK: [Main Page] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
