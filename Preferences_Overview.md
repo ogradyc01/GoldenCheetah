@@ -10,7 +10,10 @@ Preferences provide multiple configuration views, which are selected through the
 
 ### General
 
-General setting of Golden Cheetah. More details: [General] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+General setting of Golden Cheetah. More details: 
+
+* [General] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+* [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Setting-the-athlete-library)
 
 ### Athlete
 
