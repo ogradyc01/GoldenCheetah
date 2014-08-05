@@ -172,50 +172,50 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Stack`, `By Series`
       * if 'Stack is NOT checked -  the 'By Series' setting is ignored and all curves are plotted in one diagram
      * if 'Stack' is checked and 'By Series' is checked - all curves are plotted in separate diagrams one above the other
-      * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is streched over multiple lines
+      * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is stretched over multiple lines
  
-  * `Stack Zoom `- zooms the Y-Axis sizes for all diagrams if 'Show Stack' is checked
-  * `Full Plot` - if checked, in addition to the curves, an additiona diagram, containing all the curves coming for 'Data Series' is displayed at the lower border of the 'Rides' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
+  * `Stack Zoom `- zooms the Y-Axis sizes for all diagrams (only takes effect if 'Show Stack' is checked)
+  * `Full Plot` - if checked, in addition to the curves, an additional diagram (containing all the curves of the ride data series) is displayed at the lower border of the 'Rides' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
   * `Overlay` - if checked, it adds a small overlay window to the diagram, in which selected interval data is displayed
   * `Grid` - if checked, it adds a grid to the chart
 
 * Data series settings
-  * `Delta Series `- prefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
-  * `Left/Right `- Left leg / Right leg dependent data series (only provided by some powermeter / head-unit combinations today)
+  * `Delta Series `- predefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
+  * `Left/Right `- Left leg / Right leg dependent data series (only provided by some power meter / head-unit combinations today)
   * `Data Series `- you can check the data series available from your head unit
-  * `Metrics` - metrics which use the source data to calculate data along the complete ride
+  * `Metrics` - predefined metrics which use the data series and calculate data along the complete ride
 
 ## Special Features for the 'Performance' chart
 
 * References line - for power and power related charts, you can add references lines to your chart
 
-You can create a reference line via 'Mouse-Click(Hold) and Drag' from the Y-Axis label area. And you can do a 'Double-Click' on this area to open a dialog box to '+' (add) and '-' remove references lines.
+You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axis label area. You can also do a 'Double-Click' on this area to open a dialog box to '+' (add) and '-' (remove) references lines.
 
-`Mouse-Click(Hold) and Drag`
+`Mouse-Click (Hold) and Drag`
 
 ![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Create_Ref_Line.gif)
 
 
-`'Double-Click'`
+`Double-Click`
 
 ![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Edit_Ref_Line.gif)
 
 
-* Scaling Y-Axis - by 'Single Mouse-Click' into the Y-Axis label area, you get two sliders handles which you can pull to change the scale of the Y-Axis of that specific chart (only in 'Stacked' mode)
+* Scaling Y-Axis - by 'Single Mouse-Click' into the Y-Axis label area, you get two sliders handles which you can drag (up and down) to change the scale of the Y-Axis of that specific chart (only in 'Stacked' mode)
 
-`'Single Mouse-Click'`
+`Single Mouse-Click`
 
 ![Performance - Scaling Y-Axis] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Scale_Y-Axis.gif)
 
-* Interactive marking of intervals - can be done be 'Mouse-Click (Hold) and Drag' in the charts - the intervals is valid/visible on all charts - the feature works independent of stack-view or not
+* Interactive marking of intervals - can be done be 'Mouse-Click (Hold) and Drag' in the charts - the intervals is valid/visible for all curves - the feature works independent of stack-view active or not
 
-`Mouse-Click(Hold) and Drag`
+`Mouse-Click (Hold) and Drag`
 
 ![Performance - Select Interval] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Select_Interval.gif)
 
 * Shown single curves - (only in non-stacked mode) - by 'Mouse-Over' on a Y-Axis label for a curve, only this particular curve is shown on the chart
 
-`'Mouse-Over'`
+`Mouse-Over`
 
 ![Performance - Show single curve] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Isolate_Series.gif)
 
