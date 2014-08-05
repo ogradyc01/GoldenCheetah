@@ -3,7 +3,7 @@ Preferences: Appearance (Vers``ion 3.1)
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
-![Preferences - Appearance - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Overview.jpg)
+![Preferences - Appearance - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Overview.jpg)
 
 Here you can define UI appearance of GoldenCheetah.
 
@@ -20,7 +20,7 @@ _Note: applying a theme does only change the main colors in GoldenCheetah, not t
 
 On the tab `'Colors'` you can do the individual adjustments to the GoldenCheetah colors:
 
-![Preferences - Appearance - Colors] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Colors.jpg)
+![Preferences - Appearance - Colors] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAppearance_Colors.jpg)
 
 
 

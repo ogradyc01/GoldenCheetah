@@ -1,7 +1,7 @@
 Side Bar: Rides view (Version 3.1)
 ***
 
-![SideBar General] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides.JPG)
+![SideBar General] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides.JPG)
 
 The 'Side Bar' for the 'Rides' view offers three different panes - as illustrated above.
 
@@ -21,7 +21,7 @@ The rides pane shows all rides which have been uploaded to GoldenCheetah for the
 
 ### Rides - main functions
 
-![Rides - menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Menu.jpg)
+![Rides - menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Menu.jpg)
 
 * `Delete Ride` - same like `Menu Bar->Activity->Delete Ride...`
 * `Split Ride` -  same like `Menu Bar->Activity->Split Ride...`
@@ -37,7 +37,7 @@ _Note: You can also collapse and expand the rides for a single group, by "mouse 
 
 ### Rides - column header
 
-![Rides - columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Columns.jpg)
+![Rides - columns] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Rides_Columns.jpg)
 
 When you open the context menu on the column header of the 'Rides' pane, you have three options:
 
@@ -45,21 +45,21 @@ When you open the context menu on the column header of the 'Rides' pane, you hav
 * `Show in groups` - does the same like "Group By->...." as explained above for selected column 
 * `Column Chooser` - opens a dialog box which contains all available fields for a ride. You can "drag&drop" the fields to the column header of the 'Rides' pane to add additional columns here. Any new column added always appears as most left column on the rides pane. You can also re-order and resize the columns.
 
-![Rides - add columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Add_Column.gif)
+![Rides - add columns] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Add_Column.gif)
 
 Here the re-ordering and resizing in more detail:
 
-![Rides - move/resize columns] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Move_Resize.gif)
+![Rides - move/resize columns] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides_Columns_Move_Resize.gif)
 
 ## Intervals
 
 Depending which source data format you are using, you might or might not have intervals pre-defined for your ride(s) after importing/uploading. (E.g. for Garmin - .FIT the Laps created in a ride are created as 'Intervals' in GoldenCheetah).
 
-![Intervals - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Overview.jpg)
+![Intervals - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Overview.jpg)
 
 The interval pane has two areas - the list of intervals and the interval data. The fields shown in the data section are defined in your preferences `Options->Metrics->Intervals`.
 
-![Intervals - Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Menu.jpg)
+![Intervals - Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Menu.jpg)
 
 The intervals menu offers the following functions:
 
@@ -68,11 +68,11 @@ The intervals menu offers the following functions:
 ***
 * `Zoom to interval / Zoom out` - shows the interval in detail and the full ride in the 'Main View' - 'Ride' chart
 
-![Intervals - Zoom] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides_Intervals_Zoom.gif)
+![Intervals - Zoom] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides_Intervals_Zoom.gif)
 
 * `Edit Interval` - opens a dialog to edit interval details:
 
-![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Edit_Interval.jpg)
+![Intervals - Edit] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Edit_Interval.jpg)
 
 * `Delete Interval` - removes the selected interval from the ride
 
@@ -82,7 +82,7 @@ There are multiple way to define intervals - one is to just mark the in the 'Mai
 
 The other way is to search for specific data to be analysed as intervals. The rules for finding intervals this way are configured in the 'Find Intervals..." dialog:
 
-![Intervals - Edit] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Find.jpg)
+![Intervals - Edit] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Find.jpg)
 
 Since this dialog is mostly self-explanatory just a view details here:
 

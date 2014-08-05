@@ -4,7 +4,7 @@ Preferences: Overview (Version 3.1)
 _Choose:_ `Menu Bar->Tools->Options...` to open the main configuration screen of GoldenCheetah.
 
 
-![Preferences] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesBar.jpg)
+![Preferences] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesBar.jpg)
 
 Preferences provide multiple configuration views, which are selected through the 'Preferences Bar' on the upper border of the screen. Next we will explain all configuration views, and the most important fields in these views. Fields which are considered self-explanatory will not be mentioned explicitly here.
 

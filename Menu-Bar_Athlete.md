@@ -1,7 +1,7 @@
 Menu Bar: Athlete (Version 3.1)
 ***
 
-![Athlete Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MenuBar_Athlete.jpg)
+![Athlete Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Athlete.jpg)
 
 After creating your first athlete, GoldenCheetah will by default start with opening the last used athlete in a single window. If your are working with multiple athletes - in the same athlete library - you can either
 

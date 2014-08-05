@@ -1,4 +1,4 @@
-# ![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Welcome to Golden Cheetah
+# ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Welcome to Golden Cheetah
 
 ## WIKI Documents
 

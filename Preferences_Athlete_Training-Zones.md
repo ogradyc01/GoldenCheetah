@@ -5,7 +5,7 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Preferences' window.
 
 Setting up the training zones for 'Power' and 'Heartrate' is done a a very similar way. Therefore here only the setup for 'Power' is described in details - and for 'Heartrate' just the small differences are outlined.
 
-![Athlete - Power - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
+![Athlete - Power - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
 
 ### Create New (for Power):
 
@@ -27,7 +27,7 @@ The dialog box itself has two tabs available, named 'Critical Power' and 'Defaul
 
 Before proceeding to the 'Zones Details' and editing them, it's very valuable and time saving to understand the purpose of the 'Default' tab.
 
-![Athlete - Power - Default] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Default.jpg)
+![Athlete - Power - Default] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Default.jpg)
 
 For 'Power' the 'Default' tab lists the common Power Zones Z1 to Z7 with 
 * `Short` - text code
@@ -44,7 +44,7 @@ _Note: Any changes of the default settings are automatically applied to all actu
 
 The 'Zones Header' section shows the zone records you have created sorted by 'From Date'. When adding, the detailed zones are created based on the definition configured in the 'Default' tab. In case you have changed any of the zone data in the 'Zone detail' section, the text for this record will be displayed in 'Bold' characters, and when selection such a record in the 'Zone Header' section an additional button 'Def' appears. By using this button you can reset the settings to 'Default'. 
 
-![Athlete - Power - Def.] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Def.jpg)
+![Athlete - Power - Def.] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Def.jpg)
 
 
 ### Zones Details
@@ -59,7 +59,7 @@ The difference in zone creation for heart rate are quite small since the UI is m
 
 ### Create New (for heartrate):
 
-![Athlete - HR - Overview] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesAthlete_HR_Overview.jpg)
+![Athlete - HR - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_HR_Overview.jpg)
 
 * `From Date` - each set of training zones is defined with a specific 'From Date' - as we assume your zones change over time. 
 

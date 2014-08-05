@@ -4,7 +4,7 @@ Before you start using GoldenCheetah let's get familiar with the general UI conc
 
 The good news - the UI Layout and user interaction is basically the same on all GoldenCheetah views. But each view has his specific purpose and thus deviates in the content shown to the user.
 
-![Main Window Elements] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/UILayout_MainWindowElements.JPG)
+![Main Window Elements] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/UILayout_MainWindowElements.JPG)
 
 Looking at the figure above you find the following elements:
 

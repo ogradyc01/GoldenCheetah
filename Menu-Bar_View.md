@@ -1,7 +1,7 @@
 Menu Bar: View (Version 3.1)
 ***
 
-![View Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MenuBar_View_TrendsCharts.jpg)
+![View Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_View_TrendsCharts.jpg)
 
 The View menu provides a menu access to the 
 

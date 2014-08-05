@@ -13,7 +13,7 @@ The 'Data Fields' preferences cover three different areas:
 
 ### Fields
 
-![Preferences - Datafields - Fields] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Fields.jpg)
+![Preferences - Datafields - Fields] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Fields.jpg)
 
 The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details).
 
@@ -30,7 +30,7 @@ _Note: You can use this to enter data for rides, where certain data was not capt
 
 ### Notes Keywords
 
-![Preferences - Datafields - NotesKeywords] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_NotesKeywords.jpg)
+![Preferences - Datafields - NotesKeywords] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_NotesKeywords.jpg)
 
 The section 'Notes Keywords' defines which field / field content is used to determine the color shown for a ride in e.g. the calendar view.
 
@@ -42,7 +42,7 @@ The section 'Notes Keywords' defines which field / field content is used to dete
 
 ### Processing
 
-![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
+![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
 
 GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Ride processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
 

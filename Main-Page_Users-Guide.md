@@ -1,4 +1,4 @@
-# ![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Golden Cheetah: User's Guide 
+# ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Golden Cheetah: User's Guide 
 
 
 The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah:

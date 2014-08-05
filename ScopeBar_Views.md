@@ -1,7 +1,7 @@
 Scope Bar: Views (Version 3.1)
 ***
 
-![Scope Bar] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/ScopeBar_Views.jpg)
+![Scope Bar] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ScopeBar_Views.jpg)
 
 The 'Scope Bar' provides access to the 'Main View' variants GoldenCheetah is offering. Each view has a specific purpose and therefore specific capabilities. The general layout and UI for all views is following the same pattern. Still there are differences, which are important to understand when using GoldenCheetah:
 

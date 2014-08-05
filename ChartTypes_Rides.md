@@ -33,9 +33,9 @@ The fields available in 'Details' are mainly determined by the configuration don
 
 Here the 'Workout' Tab as an example to show the relationship between configuration and input fields:
 
-![Ride Details - Workout Tab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Workout.jpg)
+![Ride Details - Workout Tab] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Workout.jpg)
 
-![Ride Details - Workout Settings] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Workout-Config.jpg)
+![Ride Details - Workout Settings] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Workout-Config.jpg)
 
 _Note: The sequence of the 'Tab's on the 'Details' screen and the sequence of the fields per 'Tab' is exactly the sequence of the field and tabs in the configuration. When adding a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's internal structures and to re-create the screens (by adding the new field)._
 
@@ -45,7 +45,7 @@ _Note: GoldenCheetah comes with a set of field preferences, which already contai
 
 The 'Metric' tab is pre-populated with a number of metrics (as defined in the 'Preferences->Data Fields'). 
 
-![Ride Details - Metric] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Metric.jpg)
+![Ride Details - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Metric.jpg)
 
 To enter or overwrite a 'Metric' value, please check the check-box next to the metric to open the input field for this metric. Only if you then input a value different to '0', this value will be taken as the metric value for this ride (and overwrite any value coming from your ride data).
 
@@ -53,7 +53,7 @@ To enter or overwrite a 'Metric' value, please check the check-box next to the m
 
 The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generated based on your configuration. You do not find the 'Extra' Tab in the list of 'Tabs' in 'Preferences->Data Fields', but you find fields like 'Calendar Text' or 'Data' in the list (without an specific 'Tab' assigned).
 
-![Ride Details - Extra] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
+![Ride Details - Extra] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
  
 Some important fields are:
 * 'Calendar Text' - generated text which also appears in the 'Diary' view - 'Calendar' chart
@@ -84,11 +84,11 @@ The 'Editor' chart provides all the ride file data in a spreadsheet/list format.
 
 As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
 
-![Editor - Complete View]  (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-View.jpg)
+![Editor - Complete View]  (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-View.jpg)
 
 ### Icon Functions
 
-![Editor - Icons] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
+![Editor - Icons] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
 
 * `Save` - saves the ride data (with all changes/adjustments done)
 * `Undo` - if active, there have been changes done to the ride series data (shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by pressing 'Undo' multiple times
@@ -108,7 +108,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## First Column - Context Menu
 
-![Editor - First Column Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_1st_Column.jpg)
+![Editor - First Column Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_1st_Column.jpg)
 
 * `Undo`, `Redo` - see above
 
@@ -127,7 +127,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Column Header - Context Menu
 
-![Editor - Column Header Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
+![Editor - Column Header Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
 
 * `Undo`, `Redo` - see above
 
@@ -143,7 +143,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Data area - Context Menu
 
-![Editor - Data area Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
+![Editor - Data area Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
 
 
 * `Undo`, `Redo` - see above
@@ -161,7 +161,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 This chart type provides all the graphs for your ride data series. In addition to data series which are captured by the head-unit directly, GoldenCheetah also delivers some derived series like 'Delta' series.
 
-![Performance] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
+![Performance] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
 
 * Basic Settings
   * `Shading` - here you select if, and how your power data curve is shown
@@ -193,31 +193,31 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 
 `Mouse-Click (Hold) and Drag`
 
-![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Create_Ref_Line.gif)
+![Performance - Reference Line] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Create_Ref_Line.gif)
 
 
 `Double-Click`
 
-![Performance - Reference Line] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Edit_Ref_Line.gif)
+![Performance - Reference Line] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Edit_Ref_Line.gif)
 
 
 * Scaling Y-Axis - by 'Single Mouse-Click' into the Y-Axis label area, you get two sliders handles which you can drag (up and down) to change the scale of the Y-Axis of that specific chart (only in 'Stacked' mode)
 
 `Single Mouse-Click`
 
-![Performance - Scaling Y-Axis] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Scale_Y-Axis.gif)
+![Performance - Scaling Y-Axis] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Scale_Y-Axis.gif)
 
 * Interactive marking of intervals - can be done be 'Mouse-Click (Hold) and Drag' in the charts - the intervals is valid/visible for all curves - the feature works independent of stack-view active or not
 
 `Mouse-Click (Hold) and Drag`
 
-![Performance - Select Interval] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Select_Interval.gif)
+![Performance - Select Interval] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Select_Interval.gif)
 
 * Shown single curves - (only in non-stacked mode) - by 'Mouse-Over' on a Y-Axis label for a curve, only this particular curve is shown on the chart
 
 `Mouse-Over`
 
-![Performance - Show single curve] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Performance_Isolate_Series.gif)
+![Performance - Show single curve] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Isolate_Series.gif)
 
 
 ## Critical Mean Maximals
@@ -226,7 +226,7 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 
 ## Histogram
 
-![Ride Histogram] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
+![Ride Histogram] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
 
 * `Data Series Box` - selection of ride data series to be analysed
 * `Time` - choose between 'Absolute Time' or 'Percentage Time'
@@ -244,7 +244,7 @@ _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the 
 
 This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velocity.
 
-![Pedal Force vs Velocity] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
+![Pedal Force vs Velocity] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
 
 * Definition of the quadrants is done by the input of 'Watts' and 'RPM
   * `Watts` - a curve through the chart which is reflects the entered power 
@@ -259,7 +259,7 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
 
 ... if someone can deliver details on the interpretation and configuration of the chart, please add here to the Wiki ...
 
-![HR vs Power] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
+![HR vs Power] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
 
 
 ## Google Map / Bing Map
@@ -276,7 +276,7 @@ The functionality provided on the maps differs on what Google or Bing is offerin
 
 The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
 
-![2d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
+![2d Plot] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
 
 * `X-Axis` - drop-down list box with the available data series (e.g. Power,...)
 * `Y-Axis` - drop-down list box with the available data series (e.g. Power,...)
@@ -289,7 +289,7 @@ The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collect
 
 The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and rotate.
 
-![3d Plot] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
+![3d Plot] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
 * `Analyse` - offers a number of default-settings for X,Y,and Z-Axis which you can use - the setting 'User Defined' is the option to defined the Axis individually (after applying a default setting, you can still change the Axis settings as well)
 * `X-Axis` - drop-down list box with the available data (e.g. Power,...)
@@ -305,17 +305,17 @@ The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and r
 
 You can rotate the 3d graphics in all 3 directions with you mouse. As well as adding an 'layer' to the 'Z-Axis':
 
-![Rotate] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-rotate.gif)
+![Rotate] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_3d-rotate.gif)
 
 You can add an analysis layer to the 'Z-Axis':
 
-![Layer] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
+![Layer] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
 
 ## Aerolab Chung Analysis
 
 The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation method to derive CdA and CRR from a power file. 
 
-![Aerolab] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
+![Aerolab] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
 
 For the theory on this, sample test protocols for the power/ride file you need for an analysis, please search for the tool and/or the method using a common search engine on the Web. There are many very good descriptions existing. That's why it's not re-written and incorporate in the Wiki.
 

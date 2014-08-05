@@ -13,7 +13,7 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 * Strava, Cycling Analytics, RideWithGPS, Selfloops - `Activity -> Share(...)`
 
-![Share] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
+![Share] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
 
 * Withings Wifi Scales - `Tools -> Get Withings Data`
 
@@ -29,9 +29,9 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 Most of the configuration is self-explanatory (like defining User/Password). Therefore additional info is only given for 'special cases' need extra explanations.
 
-![Passwords 1] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesPasswords_1.jpg)
+![Passwords 1] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesPasswords_1.jpg)
 
-![Passwords 2] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesPasswords_2.jpg)
+![Passwords 2] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesPasswords_2.jpg)
 
 * Trainingpeaks
 

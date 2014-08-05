@@ -1,4 +1,4 @@
-![Logo] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Main Page: Table of contents (Version 3.1)
+![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Main Page: Table of contents (Version 3.1)
 ***
 Here you find all Wiki pages of the 'User's Guide' section in a TOC style:
 

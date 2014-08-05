@@ -1,7 +1,7 @@
 Menu Bar: Help (Version 3.1)
 ***
 
-![Help Menu] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/MenuBar_Help.jpg)
+![Help Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Help.jpg)
 
 * `User Guide` - directs you to the GoldenCheetah Wiki
 * `Log a bug or feature request` - directs you to a web-site explaining how to do this

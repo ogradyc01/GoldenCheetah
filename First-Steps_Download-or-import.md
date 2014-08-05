@@ -5,7 +5,7 @@ First Steps: Download or import (Version 3.1)
 
 If you use a Powertap, SRM, Joule, Joule GPS or Macro-X device you will be able to download from it directly. Please make sure the device is connected and plugged in correctly. For example, if you are downloading from a Powertap please make sure the computer is firmly connected and displays 'HOST' on its screen.
 
-![Download Dialog] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_DownloadDialog.JPG)
+![Download Dialog] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/FirstSteps_DownloadDialog.JPG)
 
 (Screeshot: Download Dialog)
 
@@ -15,7 +15,7 @@ To start the download go ahead and click the download from device button. This w
 
 To import files into GoldenCheetah you have a couple of options. You can drag and drop them from a file explorer or from the desktop into the main GoldenCheetah window, or you can select them via the import files button on the splash screen. Once you have done either the import rides wizard will appear to process the selected files.
 
-![Import Dialog] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/FirstSteps_ImportFilesDialog.JPG)
+![Import Dialog] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/FirstSteps_ImportFilesDialog.JPG)
 
 You will notice that the files are opened first to ensure you have the required permissions to read them before being validated. Once validated the dialog will prompt you to edit any of the dates (some file formats do not include date information). Once you have set the dates (if needed) you can click on save to complete the import and save the files to disk.
 
