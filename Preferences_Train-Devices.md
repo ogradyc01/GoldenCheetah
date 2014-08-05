@@ -5,7 +5,7 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
 ![Preferences - Train] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PreferencesTrain_Overview.jpg)
 
-... work in progress ...
+... work in progress - will be added based on Version 3.11 ...
 
 
 BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
