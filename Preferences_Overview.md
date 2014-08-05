@@ -14,7 +14,11 @@ General setting of Golden Cheetah. More details: [General] (http://github.com/Go
 
 ### Athlete
 
-Athlete specific settings - configured for your currently active athlete. More details: [Athlete] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+Athlete specific settings - configured for your currently active athlete. More details: 
+
+* [Athlete] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+* [Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)
+
 
 ### Passwords
 
