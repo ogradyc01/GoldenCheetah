@@ -35,4 +35,5 @@ _Note: Please be aware that the development framework may create some unexpected
 
 * [Deutsch / German] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
 * ...
+
 BACK: [Table on contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
