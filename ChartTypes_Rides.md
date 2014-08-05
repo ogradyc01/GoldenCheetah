@@ -228,32 +228,32 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 
 ![Ride Histogram] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
 
-* `Data Series Box` - Selection of available ride data series
-* `Time` - select between 'Absolute Time' or 'Percentage Time'
+* `Data Series Box` - selection of ride data series to be analysed
+* `Time` - choose between 'Absolute Time' or 'Percentage Time'
 * `Log Y` - if checked, shows the time axis (here Y) in log scale
 * `With zeros` - if checked, also zeros are considered in the plot
-* `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate') 
+* `Shade zones` - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate') 
 * `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heartrate')
 * `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 program defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
 
-* `Bin width `- both input field and slider to set the value - defined the X-Size of data range cumulated into one bar of the diagram (the size defined here has no influence if 'Show in zones' is checked)
+* `Bin width `- both input field and slider to set the value - defined the X-Size of data range accumulated into one bar of the diagram (the size defined here has no influence if 'Show in zones' is checked)
 
 _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the drop down area on the upper border of the graphics view pane._
 
 ## Pedal Force vs Velocity
 
-This chart provides a so called 'Quadrant Analysis'  of Pedal Force vs Pedal Velocity.
+This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velocity.
 
-![Pedal Forcs vs Velocity] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
+![Pedal Force vs Velocity] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/PedalForce_vs_Velocity.jpg)
 
 * Definition of the quadrants is done by the input of 'Watts' and 'RPM
-  * `Watts` - a curve through the chart which is exactly that power 
-  * `RPM` - the cadence for which the curve is splitted to quadrants
+  * `Watts` - a curve through the chart which is reflects the entered power 
+  * `RPM` - the cadence for which the curve is split into quadrants
 
-* `Crank Length` - determines the correct values and scale of the X-Axis
+* `Crank Length` - determines the correct values and scale for the X-Axis (defaulted from your 'Preferences -> Athlete' data
 
-* `Shade Zones` - if checked the power zones are shown
-* `Merge Intervals` - if checked (and 'Frame Interval' is NOT checked) - shows the intervals selected in the 'Side Bar' but not the complete data
+* `Shade Zones` - if checked, the power zones are shown
+* `Merge Intervals` - if checked (and 'Frame Interval' is NOT checked) - shows the intervals selected in the 'Side Bar' but not the complete data points
 * `Frame Intervals` - if checked - shows all data points - and highlights the intervals selected in the 'Side Bar'
 
 ## Heartrate vs Power
