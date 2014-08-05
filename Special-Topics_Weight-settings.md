@@ -2,7 +2,7 @@ Special Topics: Weight settings (Version 3.1)
 ***
 
 Weight can be maintained in 3 ways:
-* Every athlete is setup with a weight value - this is the fallback value should no other weight measure be available. It can be found under [Options: Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Options: Athlete)
+* Every athlete is setup with a weight value - this is the fallback value should no other weight measure be available. It can be found under [Preferences: Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
 
 * The 'Weight' field can be maintained for every ride. This is found on the 'Workout' tab in the details screen by default. Any entry here will be used for this ride ONLY.
 
