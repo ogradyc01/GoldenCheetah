@@ -278,7 +278,7 @@ The set of colored points / the colored line in the center of the chart shows th
 
 * The coloring of the power/heart rate plot (along the ride time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from an HSV color code. The HSV coloring covers all colors in a "circle style". Each segment of the ride data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and moving by an angle of 10 degrees (direction see 'Arrow') to determine the color for each new segment.
 
-![HR vs Power Colors] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
+![HR vs Power Colors] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
 
 The Power@150 value is estimation of your PWC150 value based on ride data. PWC150 (Physical Work Capacity at HR 150) is a measure in diagnostics - it follows a tiered test protocol but ends with the HR of its name (here 150). For further details, please use the search engine of your choice with the given key words.
 
