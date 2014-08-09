@@ -257,10 +257,28 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
 
 ## Heartrate vs Power
 
-... if someone can deliver details on the interpretation and configuration of the chart, please add here to the Wiki ...
+This chart shows the distribution of HR and the distribution of power for the whole ride (on X-Axis (Power) / on Y-Axis (Heart Rate) - along with the HR/Power data points during the ride.
 
 ![HR vs Power] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
 
+The distribution of HR and Power is shown proportional, but not with a specific scale. The mouse-over information on the bars is only relevant for the dimension (Power or Heart rate) of the axis. The seconds value is of no means.
+
+The set of colored points / the colored line in the center of the chart shows the development of the Power/Heart rate relationship over the time of the ride. The determination approach and the relation to the chart parameters is outlined here:
+
+* Power/Heart rate data points for the plot are
+  * `Smooth` the ride data points (every second) are first "smoothed" by calculating the moving average value over the time period (in seconds) defined in this parameter
+  * Only data points where the heart rate is above 50 and power is between 50 and 500 watts are further considered
+  * `HR Delay` shifts the heart rate by the given value (in seconds) - that means for a data point recorded at second in the rade "X" the heart rate from second 'X+HR Delay" is assigned
+  * To reduce the number of data points shown on the plot, only every 10th point is plotted
+
+* Other chart parameters are:
+  * `Join Points` - if checked, instead of single data points they are plotted as a complete line
+  * `Shade Zones` - if checked, adds the power zone shading
+  * `Show Full Plot` - if checked, also the ride (power and heart rate curves only) are shown at the bottom of the view
+
+* The coloring of the power/heart rate plot (along the ride time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from the HSV color code representation. The HSV coloring covers all colors in a "circle style". Each segment of the ride data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and adding an angle of 10 degrees to determine the color for each new segment.
+
+![HR vs Power Colors] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
 
 ## Google Map / Bing Map
 
