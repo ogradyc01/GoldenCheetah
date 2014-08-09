@@ -280,6 +280,8 @@ The set of colored points / the colored line in the center of the chart shows th
 
 ![HR vs Power Colors] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
 
+The Power@150 value is estimation of your PWC150 value based on ride data. PWC150 (Physical Work Capacity at HR 150) is a measure in diagnostics - it follows a tiered test protocol but ends with the HR of its name (here 150). For further details, please use the search engine of your choice with the given key words.
+
 ## Google Map / Bing Map
 
 If GPS data is available, the ride is shown on a Google Map, or a Bing Map. _Note: You need to be connected to the internet._
