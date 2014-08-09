@@ -259,7 +259,7 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
 
 This chart shows the distribution of HR and the distribution of power for the whole ride (on X-Axis (Power) / on Y-Axis (Heart Rate) - along with the HR/Power data points during the ride.
 
-![HR vs Power] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
+![HR vs Power] (https://raw.githubusercontent.com/Joern-R/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
 
 The distribution of HR and Power is shown proportional, but not with a specific scale. The mouse-over information on the bars is only relevant for the dimension (Power or Heart rate) of the axis. The seconds value is of no means.
 
