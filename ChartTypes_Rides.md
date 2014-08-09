@@ -276,7 +276,7 @@ The set of colored points / the colored line in the center of the chart shows th
   * `Shade Zones` - if checked, adds the power zone shading
   * `Show Full Plot` - if checked, also the ride (power and heart rate curves only) are shown at the bottom of the view
 
-* The coloring of the power/heart rate plot (along the ride time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from the HSV color code representation. The HSV coloring covers all colors in a "circle style". Each segment of the ride data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and adding an angle of 10 degrees to determine the color for each new segment.
+* The coloring of the power/heart rate plot (along the ride time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from an HSV color code. The HSV coloring covers all colors in a "circle style". Each segment of the ride data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and moving by an angle of 10 degrees (direction see 'Arrow') to determine the color for each new segment.
 
 ![HR vs Power Colors] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
 
