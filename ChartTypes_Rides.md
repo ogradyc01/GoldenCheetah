@@ -337,7 +337,7 @@ The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation 
 
 ![Aerolab] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
 
-For the theory on this, sample test protocols for the power/ride file you need for an analysis, please search for the tool and/or the method using a common search engine on the Web. There are many very good descriptions existing. That's why it's not re-written and incorporate in the Wiki.
+For the theory on this, sample test protocols for the power/ride file you need for an analysis see [Dr Chung's document describing the theory and practice of 'Virtual Elevation'](https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/contrib/ChungVE.pdf?raw=true).
 
 
 BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
