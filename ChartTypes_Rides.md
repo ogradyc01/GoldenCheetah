@@ -312,11 +312,11 @@ The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and r
 ![3d Plot] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
 * `Analyse` - offers a number of default-settings for X,Y,and Z-Axis which you can use - the setting 'User Defined' is the option to defined the Axis individually (after applying a default setting, you can still change the Axis settings as well)
-* `X-Axis` - drop-down list box with the available data (e.g. Power,...)
-* `Y-Axis` - drop-down list box with the available data (e.g. Power,...)
-* `Z-Axis` - drop-down list box with the available data (e.g. Power,...)
-* `Color` - ....
-* `Graphic Type` - ....
+* `X-Axis` - drop-down list box with the data series (e.g. Power,...)
+* `Y-Axis` - drop-down list box with the data series (e.g. Power,...)
+* `Z-Axis` - drop-down list box with the data series (e.g. Power,...)
+* `Color` - drop-down list box with the data series (e.g. Power,...) - can be considered as a 4th dimension of the chart
+* `Graphic Type` - drop-down list box to choose the visualization variant ('Bar', 'Grid', 'Surface' or 'Dots')
 * `Bin Width` - both input field and slider to set the value - which is the width of the plotted chart segments
 * `Ignore Zero` - if checked, data points which are '0' are not plotted
 * `Show Grid` - if checked, a grid is displayed in the plot area
