@@ -76,7 +76,7 @@ The intervals menu offers the following functions:
 
 * `Delete Interval` - removes the selected interval from the ride
 
-_Note: The interval list allows "multi-selection" by using `SHIFT+Mouse-Click` or `CRTL+Mouse-Click`(on Windows 7 - other OS might use a different keys for that). If you have selected multiple intervals, it depends on the function, if it's applied to all intervals, or only to the currently active intervals. E.g. 'Delete Interval' deletes ALL marked intervals, while 'Edit Interval" opens the dialog box for the interval currently marked by the mouse-cursor._
+_Note: The interval list allows "multi-selection" by using `SHIFT+Mouse-Click` or `CRTL+Mouse-Click`(on Windows 7 - other OS might use different keys for that). If you have selected multiple intervals, it depends on the function, if it's applied to all intervals, or only to the currently active intervals. E.g. 'Delete Interval' deletes ALL marked intervals, while 'Edit Interval" opens the dialog box for the interval currently marked by the mouse-cursor._
 
 
 ### Intervals - find intervals
