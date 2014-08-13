@@ -17,8 +17,7 @@
 
 ## Website documents
 * [Main Website](http://www.goldencheetah.org/)
-* [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/user/GC3-FAQ.pdf?raw=true)
+* [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
 * [Developer's Guide](http://www.goldencheetah.org/developers-guide.html)
 * [User's Guide](http://www.goldencheetah.org/users-guide.html)
-* [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/user/GC3-FAQ.pdf?raw=true)
 * [Download Versions](http://www.goldencheetah.org/download.html)
