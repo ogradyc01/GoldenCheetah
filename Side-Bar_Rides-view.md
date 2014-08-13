@@ -72,9 +72,14 @@ The intervals menu offers the following functions:
 
 * `Edit Interval` - opens a dialog to edit interval details:
 
+_Note: The interval list allows "multi-selection" by using `SHIFT+Mouse-Click` or `CRTL+Mouse-Click`(on Windows 7 - other OS might use a different keys for that). If you have selected multiple intervals, it depends on the function, if it's applied to all intervals, or only to the currently active intervals. E.g. '
+
 ![Intervals - Edit] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Rides-Intervals_Edit_Interval.jpg)
 
 * `Delete Interval` - removes the selected interval from the ride
+
+_Note: The interval list allows "multi-selection" by using `SHIFT+Mouse-Click` or `CRTL+Mouse-Click`(on Windows 7 - other OS might use a different keys for that). If you have selected multiple intervals, it depends on the function, if it's applied to all intervals, or only to the currently active intervals. E.g. 'Delete Interval' works for ALL selected, while 'Edit Interval" opens the dialog box for the currently choosen with the mouse cursor._
+
 
 ### Intervals - find intervals
 
