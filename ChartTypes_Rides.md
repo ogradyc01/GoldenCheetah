@@ -207,7 +207,7 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 
 ![Performance - Scaling Y-Axis] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Scale_Y-Axis.gif)
 
-* I**nteractive marking of intervals** - can be done be 'Mouse-Click (Hold) and Drag' in the charts - the intervals is valid/visible for all curves - the feature works independent of stack-view active or not
+* **Interactive marking of intervals** - can be done be 'Mouse-Click (Hold) and Drag' in the charts - the intervals is valid/visible for all curves - the feature works independent of stack-view active or not
 
 `Mouse-Click (Hold) and Drag`
 
