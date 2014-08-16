@@ -185,9 +185,9 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Data Series `- you can check the data series available from your head unit
   * `Metrics` - predefined metrics which use the data series and calculate data along the complete ride
 
-## Special Features for the 'Performance' chart
+## Special Features of the 'Performance' chart
 
-* References line - for power and power related charts, you can add references lines to your chart
+* **References line** - for power and power related charts, you can add references lines to your chart
 
 You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axis label area. You can also do a 'Double-Click' on this area to open a dialog box to '+' (add) and '-' (remove) references lines.
 
@@ -201,7 +201,7 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 ![Performance - Reference Line] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Edit_Ref_Line.gif)
 
 
-* Scaling Y-Axis - by 'Single Mouse-Click' into the Y-Axis label area, you get two sliders handles which you can drag (up and down) to change the scale of the Y-Axis of that specific chart (only in 'Stacked' mode)
+* **Scaling Y-Axis** - by 'Single Mouse-Click' into the Y-Axis label area, you get two sliders handles which you can drag (up and down) to change the scale of the Y-Axis of that specific chart (only in 'Stacked' mode)
 
 `Single Mouse-Click`
 
@@ -213,11 +213,20 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 
 ![Performance - Select Interval] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Select_Interval.gif)
 
-* Shown single curves - (only in non-stacked mode) - by 'Mouse-Over' on a Y-Axis label for a curve, only this particular curve is shown on the chart
+* **Show single curves** - (only in non-stacked mode) - by 'Mouse-Over' on a Y-Axis label for a curve, only this particular curve is shown on the chart
 
 `Mouse-Over`
 
 ![Performance - Show single curve] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Isolate_Series.gif)
+
+* **Zoom into curves** - (only in non-stacked mode) - allows to select rectangle plot areas to zoom in - zooming can be done multiple times
+
+`Shift + Left Mouse Button` - to select an area and zoom in when releasing
+`Right Mouse Button` - to zoom out 1 level
+`Crtl + Right Mouse Button` - to zoom out to full view
+
+![Performance - Show single curve] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_ZoomInOut.gif)
+
 
 
 ## Critical Mean Maximals
