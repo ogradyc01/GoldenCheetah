@@ -222,7 +222,9 @@ You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axi
 * **Zoom into curves** - (only in non-stacked mode) - allows to select rectangle plot areas to zoom in - zooming can be done multiple times
 
 `Shift + Left Mouse Button` - to select an area and zoom in when releasing
+
 `Right Mouse Button` - to zoom out 1 level
+
 `Crtl + Right Mouse Button` - to zoom out to full view
 
 ![Performance - Show single curve] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_ZoomInOut.gif)
