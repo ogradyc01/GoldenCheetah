@@ -3,7 +3,7 @@ Special Topics: Other information (Version 3.1)
 
 The aim of the page is collect links to additional documents,... which are related to GoldenCheetah:
 
-* [GoldenCheetah FAQ](http://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/user/GC3-FAQ.pdf?raw=true) - everybody should have a look at this at least once before working with GoldenCheetah - since it clarifies a lot questions
+* [GoldenCheetah FAQ](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ) - everybody should have a look at this at least once before working with GoldenCheetah - since it clarifies a lot questions
 
 * [GoldenCheetah Release Info- Version 3.1](http://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/user/GC31-Release.pdf?raw=true) - information about the new features introduced with 3.1
 
