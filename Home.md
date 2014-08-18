@@ -13,11 +13,11 @@
   * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents#translationlocalization)
 
 ### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/User%27s-Guide) User Guide, How-to and Help Pages
+### [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
 ### [[Developers Guide]] How-to and Help Pages
 
 ## Website documents
 * [Main Website](http://www.goldencheetah.org/)
-* [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
 * [Developer's Guide](http://www.goldencheetah.org/developers-guide.html)
 * [User's Guide](http://www.goldencheetah.org/users-guide.html)
 * [Download Versions](http://www.goldencheetah.org/download.html)
