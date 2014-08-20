@@ -66,9 +66,12 @@ looking to add this in version 3.1, but for now you can only plot 1s, 5s, 10s, 1
 By default we do not add these charts to the layout. Aerolab can be added to the Analysis
 view via the '+' menu found to the right hand side of the GoldenCheetah scope bar.
 
-Similarly, the Performance manager can be added to the Home layout via the '+' menu. We
-may deprecate this chart in the near future since the LTM charts can be used to plot a PMC
-and we expect to implement an interactive PMC for planning in v3.1.
+The Performance manager has been deprecated in preference for using a trends chart
+and we have added 3 PMC style charts to the chart library to help transition. 
+
+We will be adding an 'interactive' PMC in v3.2 to support planning and this will allow
+you to set goals and drag the curves/load to set and adjust your plan, before looking at
+specific workouts -- but this won't be available till 2015.
 
 
 
