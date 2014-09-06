@@ -191,6 +191,8 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 You can create a reference line via 'Mouse-Click (Hold) and Drag' from the Y-Axis label area. You can also do a 'Double-Click' on this area to open a dialog box to '+' (add) and '-' (remove) references lines.
 
+_Note: References Lines are not supported for any non-power related chart like e.g. Heart Rate._
+
 `Mouse-Click (Hold) and Drag`
 
 ![Performance - Reference Line] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance_Create_Ref_Line.gif)
