@@ -5,6 +5,8 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Preferences' window.
 
 Setting up the training zones for 'Power' and 'Heartrate' is done a a very similar way. Therefore here only the setup for 'Power' is described in details - and for 'Heartrate' just the small differences are outlined.
 
+_Note: To make sure that all data is correctly assigned to a specific Zone, start your Zones always with "Zero/0". Otherwise any data record who does not "find" a Zone will be added to the highest available Zone - giving wrong results._
+
 ![Athlete - Power - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
 
 ### Create New (for Power):
