@@ -38,5 +38,11 @@ _Note: For some of the chart types, an accelerated access of their most common c
 
 Last function associated to charts is the `Reset Layout` option. This function is accessed through the 'Menu Bar' only. So please check [Menu Bar: View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu-Bar_View)
 
+### Change Chart Order 
+
+Changing the order of the charts in the 'Charts Bar' is possible. The re-sorting has to take place in the "Tiled" view of the charts. This view can be switched on (as one option) through the 'Tools Bar'
+https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool%20Bar_Functions
+ 
+
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
