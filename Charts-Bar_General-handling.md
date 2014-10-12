@@ -41,8 +41,12 @@ Last function associated to charts is the `Reset Layout` option. This function i
 ### Change Chart Order 
 
 Changing the order of the charts in the 'Charts Bar' is possible. The re-sorting has to take place in the "Tiled" view of the charts. This view can be switched on (as one option) through the 'Tools Bar'
+
 https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool%20Bar_Functions
- 
+
+When being in the 'Tiled' view it's possible to "drag&drop" the charts into a new order. The section to "drag" is the header line / chart name. The section to "drop" is the separator section between the two chart where you want to 'dragged' chart to be moved to.
+
+Changes in the 'Tiled' view are also considered in the 'Charts Bar' view.
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI-Layout-and-terminology)
 
