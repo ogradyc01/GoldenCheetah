@@ -9,7 +9,7 @@ When changing your library, the athlete(s) of your current library (in case of a
 
 _Select:_ `Menu Bar -> Help -> About GoldenCheetah` - this opens a dialog box similar to the one below, which shows the path of your currently active 'Athlete Library'
 
-![Help - About] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Help_About.jpg)
+![Help - About] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Help_About.JPG)
 
 When changing your 'Athlete Library' path, GoldenCheetah is not removing your old 'Athlete Library' or deleting any athlete data stored in it. After changing your 'Athlete Library' you can always switch back to the previous one, but there is currently no feature to move or copy athletes from one library to another.
 
