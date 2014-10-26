@@ -1,6 +1,12 @@
 ## DATA
 
+### Where is ride data stored?
 
+By default data will be stored in operating system specific directories, assuming you have not changed the location in preferences.
+
+On Apple OS X the data is stored in Library/GoldenCheetah/name in your home directory. On Linux the data is stored in .goldencheetah/name in your home directory. On Microsoft Windows application data folders seemingly change with each release, but typically will be found in AppData within your user home directory (which my be hidden by default).
+
+To assist the about dialog lists the folder where ride data is stored.
 
 ### How do I split, merge or join files?
 
