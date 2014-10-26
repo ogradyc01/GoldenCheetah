@@ -40,6 +40,7 @@
 
 ## DATA
 
+* [Where is ride data stored?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-DATA#Where-is-ride-data-stored)
 * [How do I split, merge or join files?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-DATA#How-do-I-split-merge-or-join-files)
 * [How can I find 'spikes' or specific values in activity data?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-DATA#How-can-I-find-spikes-or-specific-values-in-activity-data)
 * [How can I fix 'spikes' or 'anomalies' in activity data?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-DATA#How-can-I-fix-spikes-or-anomalies-in-activity-data)
