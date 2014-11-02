@@ -53,6 +53,7 @@
 
 ## UPLOADING AND DOWNLOADING
 
+* [How to fix "permission denied" when downloading from a device?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-UPLOADING-AND-DOWNLOADING#How-to-fix-permission-denied)
 * [Why does upload to TrainingPeaks keep failing?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-UPLOADING-AND-DOWNLOADING#Why-does-upload-to-TrainingPeaks-keep-failing)
 * [Why does download from TrainingPeaks say I need a premium account?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-UPLOADING-AND-DOWNLOADING#Why-does-download-from-TrainingPeaks-say-I-need-a-premium-account)
 * [What settings do I need to get GoldenCheetah to upload to my Google Calendar?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-UPLOADING-AND-DOWNLOADING#What-settings-do-I-need-to-get-GoldenCheetah-to-upload-to-my-Google-Calendar)
