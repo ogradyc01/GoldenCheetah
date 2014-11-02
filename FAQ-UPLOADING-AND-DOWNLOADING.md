@@ -5,7 +5,7 @@
 
 When downloading from a Joule, Osynce, Powertap, SRM or Moxy over a serial port on Linux you may see a permission denied error -- this is because you are not a member of the "dialout" user group that owns the serial device.
 
-To fix it add the user to the dialout group on the command line. This is done with the command "sudo usermod -a -G dialout /USERNAME/" where /USERNAME/ is replaced with your login name. You will need to logout and log back in again for the change to take effect.
+To fix it add the user to the dialout group on the command line. This is done with the command "sudo usermod -a -G dialout _USERNAME_" where _USERNAME_ is replaced with your login name. You will need to logout and log back in again for the change to take effect.
 
 ### Why does upload to TrainingPeaks keep failing?
 
