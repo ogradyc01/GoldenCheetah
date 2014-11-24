@@ -28,10 +28,13 @@ The upload to Google Calendar uses their CalDAV API, and as such needs to specif
 collection. This means when entering the details in the passwords pane of preferences
 you should use the following for the caldav url:
 
-<https://www.google.com/calendar/dav/xxxx@@gmail.com/events/>
+<https://https://apidata.googleusercontent.com/caldav/v2/xxxx@@gmail.com/events/>
+
 
 Where xxxx is your username. The username will need to be repeated in the username
 field and obviously set the password too.
+
+**NOTE**: that the previous address has now been deprecated, those were of the form <https://www.google.com/calendar/dav/xxxx@@gmail.com/events/>
 
 
 ### When setting up my Withings wifi scales where do I get the userid and key ?
