@@ -28,7 +28,7 @@ The upload to Google Calendar uses their CalDAV API, and as such needs to specif
 collection. This means when entering the details in the passwords pane of preferences
 you should use the following for the caldav url:
 
-<https://https://apidata.googleusercontent.com/caldav/v2/xxxx@@gmail.com/events/>
+<https://apidata.googleusercontent.com/caldav/v2/xxxx@@gmail.com/events/>
 
 
 Where xxxx is your username. The username will need to be repeated in the username
