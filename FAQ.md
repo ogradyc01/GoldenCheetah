@@ -75,3 +75,7 @@
 * [How do you zoom in on a chart?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-CHARTS#How-do-you-zoom-in-on-a-chart)
 * [I zoomed in but can't zoom out?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-CHARTS#I-zoomed-in-but-cant-zoom-out)
 * [GoldenCheetah is saying there is no data for a chart, but I'm sure there is?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-CHARTS#GoldenCheetah-is-saying-there-is-no-data-for-a-chart-but-Im-sure-there-is)
+
+## Troubleshooting
+
+* [3.11 Folder Structure Upgrade reports Errors - what to do now?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_311_Troubleshooting_Guide)
