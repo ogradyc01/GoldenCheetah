@@ -1,5 +1,7 @@
-Start here
+Upgrade Troubleshooting (Version 3.11)
+***
 
+# Information
 
 Backup your 'Athlete' data first!Please read carefully before proceeding! With Version 3.11 the 'Athlete' directory has been refactored by adding a set of subdirectory which hold the different types of GoldenCheetah files. 
 
@@ -19,3 +21,7 @@ The upgrade process will create the new directory structure and move the existin
 Starting with version 3.11 all downloads from devices or imported activity/ride files will be converted to GoldenCheetah's file format during import/download. The original files will be stored - depending on the source -                     in <samp>/downloads</samp> or <br><samp>/imports</samp> folder.
 
 Please make sure that you have done a backup of your athlete data before proceeding with the upgrade. We can't take responsibility for any loss of data during the process. 
+
+# Troubleshooting
+
+
