@@ -6,21 +6,21 @@ Upgrade Troubleshooting (Version 3.11)
 With Version 3.11 the 'Athlete' directory has been refactored by adding a set of subdirectory which hold the different types of GoldenCheetah files. 
 
 The new structure is:
-- Activity/Ride files: <samp>/activities</samp><br>"
-- Configuration files: <samp>/config</samp><br>"
-- Download files: <samp>/downloads</samp><br>"
-- Import files: <samp>/imports</samp><br>"
-- Workout related files: <samp>/workouts</samp><br>"
-- Cache files: <samp>/cache</samp><br>"
-- Calendar files: <samp>/calendar</samp><br>"
-- Log files: <samp>/logs</samp><br>"
-- Temp files: <samp>/temp</samp><br><br>"
+- Activity/Ride files: <samp>/activities</samp>
+- Configuration files: <samp>/config</samp>
+- Download files: <samp>/downloads</samp>
+- Import files: <samp>/imports</samp>
+- Workout related files: <samp>/workouts</samp>
+- Cache files: <samp>/cache</samp>
+- Calendar files: <samp>/calendar</samp>
+- Log files: <samp>/logs</samp>
+- Temp files: <samp>/temp</samp>
 
-The upgrade process will create the new directory structure and move the existing files to the new directories as needed. During the upgrade all activity/ride files will be converted to GoldenCheetah's native file format .JSON and moved to the <br><samp>/activities</samp> folder. The source files are moved to the <samp>/imports</samp> folder.
+The upgrade process creates the new directory structure and moves the existing files to the new directories as needed. During the upgrade all activity/ride files are converted to GoldenCheetah's native file format .JSON and moved to the <br><samp>/activities</samp> folder. The source files are moved to the <samp>/imports</samp> folder.
 
-Starting with version 3.11 all downloads from devices or imported activity/ride files will be converted to GoldenCheetah's file format during import/download. The original files will be stored - depending on the source -                     in <samp>/downloads</samp> or <br><samp>/imports</samp> folder.
+Starting with version 3.11 all downloads from devices or imported activity/ride files are converted to GoldenCheetah's file format during import/download. The original files are (depending on the source)                     in <samp>/downloads</samp> or <br><samp>/imports</samp> folder.
 
-Please make sure that you have done a backup of your athlete data before proceeding with the upgrade. We can't take responsibility for any loss of data during the process. 
+We assume that you have backed up your athlete data before you started the upgrade process. Even though the upgrade process has carefully been implemented and tested we can't take responsibility for any loss of data during the process. 
 
 # Troubleshooting
 
