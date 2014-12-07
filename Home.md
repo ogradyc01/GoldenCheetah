@@ -2,7 +2,7 @@
 
 ## Search
 
-Since there is no build in search on the Wiki pages only you need to take the way through site specific Google Search. Just add 
+Since there is no build-in search on the Wiki pages only you need to take the way through site specific Google Search. Just add 
 
 `site: https://github.com/GoldenCheetah/GoldenCheetah/wiki` 
 
