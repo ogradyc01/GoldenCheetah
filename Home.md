@@ -1,5 +1,13 @@
 # ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Welcome to Golden Cheetah
 
+## Search
+
+Since there is no build in search on the Wiki pages only you need to take the way through site specific Google Search. Just add 
+
+`site: https://github.com/GoldenCheetah/GoldenCheetah/wiki` 
+
+to your search and Google will only search the Wiki. I assume other search engines have similar capabilities.
+ 
 ## WIKI Documents
 
 ### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide) based on version 3.1
