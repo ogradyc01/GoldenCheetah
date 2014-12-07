@@ -160,3 +160,4 @@ Example: You want to select all rides, where you have spend 60min or more in pow
 * Syntax errors - when a query is invalid, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear, telling you why GoldenCheetah failed to parse your query. 
 
 BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Overview)
+      [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
