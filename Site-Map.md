@@ -37,15 +37,15 @@
         * `Create a new workout...` 
         * `Download workouts from ErgDB...` 
         * `Import workouts or videos ...` 
-    * `Scan disk for videos and workouts...`
-    * `Upload Ride to Calendar` 
-    * `Refresh Calendar` 
-    * `Find intervals...` 
-    * [`Adjust Torque Values...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-adjust-torque)
-    * [`Fix GPS errors...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gps-errors)
-    * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
-    * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
-    * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
+        * `Scan disk for videos and workouts...`
+        * `Upload Ride to Calendar` 
+        * `Refresh Calendar` 
+        * `Find intervals...` 
+        * [`Adjust Torque Values...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-adjust-torque)
+        * [`Fix GPS errors...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gps-errors)
+        * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
+        * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
+        * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
   * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
   * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
 * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
