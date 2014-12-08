@@ -13,7 +13,50 @@
     * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)  
 
   * [general UI structure and concepts]
-(https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)  
+    * [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
+      * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
+      * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
+        * [`Download from device...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
+        * [`Import from file...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
+        * `Manual ride entry...`
+        * `Export...`
+        * `Batch export...`
+        * `Export Metrics as CSV...`
+        * [`Upload/Download...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Upload_Download to_from external web-sites)
+        * `Save ride`
+        * `Delete ride...`
+        * `Split ride...`
+        * `Merge rides...`
+      * [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
+        * `Options...` 
+        * `CP and W' Estimator...` 
+        * `Air Density (Rho) Estimator..`
+        * `Get Withings Data...` 
+        * `Get Zeo Data...` 
+        * `Create a new workout...` 
+        * `Download workouts from ErgDB...` 
+        * `Import workouts or videos ...` 
+    * `Scan disk for videos and workouts...`
+    * `Upload Ride to Calendar` 
+    * `Refresh Calendar` 
+    * `Find intervals...` 
+    * [`Adjust Torque Values...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-adjust-torque)
+    * [`Fix GPS errors...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gps-errors)
+    * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
+    * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
+    * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
+  * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
+  * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
+* [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
+* [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+* [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
+* [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
+  * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
+  * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
+  * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
+* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
+
   * [what different views are provided]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
   * [which chart type(s) which are available per view]
@@ -25,54 +68,6 @@
   * [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
 
 
-
-
-
-## UI Layout and functions
-
-* [UI Layout and terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
-* [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
-  * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
-  * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
-    * [`Download from device...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
-    * [`Import from file...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
-    * `Manual ride entry...`
-    * `Export...`
-    * `Batch export...`
-    * `Export Metrics as CSV...`
-    * [Upload/Download] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Upload_Download to_from external web-sites)
-    * `Save ride`
-    * `Delete ride...`
-    * `Split ride...`
-    * `Merge rides...`
-  * [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
-    * `Options...` 
-    * `CP and W' Estimator...` 
-    * `Air Density (Rho) Estimator..`
-    * `Get Withings Data...` 
-    * `Get Zeo Data...` 
-    * `Create a new workout...` 
-    * `Download workouts from ErgDB...` 
-    * `Import workouts or videos ...` 
-    * `Scan disk for videos and workouts...`
-    * `Upload Ride to Calendar` 
-    * `Refresh Calendar` 
-    * `Find intervals...` 
-    * [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-adjust-torque)
-    * [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gps-errors)
-    * [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
-    * [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
-    * [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
-  * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
-  * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
-* [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
-* [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-* [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
-* [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
-  * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
-  * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
-  * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
-* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)
 
 ## Chart types and details
 
