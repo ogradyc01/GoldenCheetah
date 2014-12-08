@@ -6,6 +6,8 @@
     * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
     * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
     * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
+      * Downloading a ride from device  
+      * Importing from a file  
     * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library) 
     * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
     * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)  
