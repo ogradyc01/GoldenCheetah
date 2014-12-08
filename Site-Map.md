@@ -96,3 +96,5 @@ Here you find all Wiki pages of the 'User's Guide' section in an Expanded TOC st
 * [xxx] ... open for additions for other translations ...
 
 ***
+  
+BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
