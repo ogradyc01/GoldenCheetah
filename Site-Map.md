@@ -1,17 +1,29 @@
 ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Site Map (Version 3.1)
 ***
-Here you find all Wiki pages of the 'User's Guide' section in an Expanded TOC style:
-
-## Introduction
 
 * [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+  * [the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
+    * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
+    * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
+    * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
+    * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library) 
+    * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
+    * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)  
 
-## First Steps
+  * [general UI structure and concepts]
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)
+  * [what different views are provided]
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+  * [which chart type(s) which are available per view]
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
+  * [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+  * [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
+  * [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+  * [other sources of information](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
+  * [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
 
-* [What you need to do] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_What-you-need-to-do)
-* [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
-* [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
-* [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
+
+
 
 
 ## UI Layout and functions
