@@ -20,6 +20,17 @@ Here you find all Wiki pages of the 'User's Guide' section in an Expanded TOC st
 * [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
   * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
   * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
+    * [`Download from device...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
+    * [`Import from file...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
+    * `Manual ride entry...`
+    * `Export...`
+    * `Batch export...`
+    * `Export Metrics as CSV...`
+    * [Upload/Download] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Upload_Download to_from external web-sites)
+    * `Save ride`
+    * `Delete ride...`
+    * `Split ride...`
+    * `Merge rides...`
   * [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
     * `Options...` 
     * `CP and W' Estimator...` 
