@@ -1,4 +1,4 @@
-![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Site Map (Version 3.1) - This page is work in progress: December 2014
+![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC Wiki Site Map (Version 3.1) - This page is work in progress: December 2014
 ***
 
 * [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
