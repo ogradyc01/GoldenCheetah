@@ -2,7 +2,7 @@
 ***
 
 # [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
-## [First steps for the new user](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
+## First steps for the new user [Link](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
     * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
     * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
     * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
