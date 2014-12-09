@@ -56,16 +56,19 @@
   * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
   * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
+  * Selection of data for comparison
+  * ON/OFF, sorting and Clear
+  * Columns in the compare pane  
 
-  * [what different views are provided]
+* [what different views are provided]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-  * [which chart type(s) which are available per view]
+* [which chart type(s) which are available per view]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-  * [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
-  * [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
-  * [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-  * [other sources of information](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
-  * [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
+* [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+* [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
+* [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+* [other sources of information](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
+* [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
 
 
 
