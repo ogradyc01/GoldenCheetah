@@ -1,7 +1,7 @@
 ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC Wiki Site Map (Version 3.1) - This page is work in progress: December 2014
 ***
 
-* [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+# [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
   * [the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
     * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
     * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
@@ -12,7 +12,7 @@
     * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
     * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)  
 
-  * [general UI structure and concepts]
+  ## [general UI structure and concepts]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)  
     * [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
       * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
