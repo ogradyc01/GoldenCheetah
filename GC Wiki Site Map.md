@@ -46,19 +46,19 @@
         * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
         * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
         * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
-  * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
-  * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
-* [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
-* [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-* [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
-* [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
+    * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
+    * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
+  * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
+  * [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+  * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
+  * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
   * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
   * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
   * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
-* [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
-  * Selection of data for comparison
-  * ON/OFF, sorting and Clear
-  * Columns in the compare pane  
+  * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
+    * Selection of data for comparison
+    * ON/OFF, sorting and Clear
+    * Columns in the compare pane  
 
 * [what different views are provided]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
