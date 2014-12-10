@@ -70,8 +70,44 @@
   * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
     * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
       * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+        * [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
+          * Basic Settings
+          * Presets
+          * [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#curve-settings)
+            * Metric
+            * Best
+            * Estimate
+        * [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
+        * [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
+        * [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
+        * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
+        * Date Range Selection
+        * Curve Settings
+          * General
+          * Style & Colour
+          * Other options
       * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
+        * [Metric Trends - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#metric-trends)
+        * [Collection Tree Map - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#collection-tree-map)
+        * [Critical Mean Maximal - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
+        * [Distribution - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#distribution)
+        * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#calendar)
+        * [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary#navigator)
+        * [Summary - same as 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#summary)
       * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+        * [Ride Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#ride-summary)
+        * [Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#details)
+        * [Summary and Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#summary-and-details)
+        * [Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#editor)
+        * [Performance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#performance)
+        * [Critical Mean Maximals - similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends#critical-mean-maximal)
+        * [Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#histogram)
+        * [Pedal Force vs Velocity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#pedal-force-vs-velocity)
+        * [Heartrate vs Power] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#heartrate-vs-power)
+        * [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#google-map--bing-map)
+        * [2d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#2d-plot)
+        * [3d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#3d-plot)
+        * [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides#aerolab-chung-analysis)
     * Configure Chart / Close Chart
       * Close
       * Export Chart Image
@@ -113,10 +149,10 @@
         * Edit Interval 
         * Delete Interval  
 
-    * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
-      * Selection of data for comparison
-      * ON/OFF, sorting and Clear
-      * Columns in the compare pane  
+  * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
+    * Selection of data for comparison
+    * ON/OFF, sorting and Clear
+    * Columns in the compare pane  
 
 * [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
 * [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
