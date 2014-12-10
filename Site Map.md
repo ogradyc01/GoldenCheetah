@@ -1,12 +1,12 @@
 ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC (Version 3.1) Wiki Site Map  - NB: work in progress: December 2014
 ***
 
-[First steps for the new user] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#first-steps-for-the-new-user)
-[General Layout Structure and Terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#general-layout-structure-and-terminology)
-[Chart types and details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#chart-types-and-details)
-[Preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#preferences)
-[Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#special-topics)
-[Translation Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#translationlocalization)
+[First steps for the new user] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#first-steps-for-the-new-user)   
+[General Layout Structure and Terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#general-layout-structure-and-terminology)  
+[Chart types and details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#chart-types-and-details)  
+[Preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#preferences)  
+[Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#special-topics)  
+[Translation Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#translationlocalization)  
 [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#faq)  
 
 
