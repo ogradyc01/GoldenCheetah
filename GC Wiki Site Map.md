@@ -50,10 +50,39 @@
       * ["View"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
       * ["Help"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
     * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
+      * [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_SearchFilter)
     * [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
+      * Trends
+        * [Side Bar for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view)
+        * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+        * [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_General)
+      * Diary
+        * [Side Bar for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view)
+        * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
+      * Rides
+        * [Side Bar for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view)
+        * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+        * [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_General)
+      * Train
+
     * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
+      * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
+        * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+        * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
+        * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+      * Configure Chart / Close Chart
+        * Close
+        * Export Chart Image
+        * All Chart Settings
+      * Reset Layout
+      * Change Chart Order
     * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
       * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
+        * [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
+        * [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#events)
+        * [Filters] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#filters)
+        * [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)
+        * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#summary)
       * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
       * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
     * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
