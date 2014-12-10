@@ -15,9 +15,9 @@
 
 ## General Layout Structure and Terminology 
   * [UI: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)  
-    * [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
-      * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
-      * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
+    * [Menu Bar Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
+      * ["Athlete"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
+      * ["Activity"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
         * [`Download from device...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import)
         * [`Import from file...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First-Steps_Download-or-import#importing-from-a-file)
         * `Manual ride entry...`
@@ -29,7 +29,7 @@
         * `Delete ride...`
         * `Split ride...`
         * `Merge rides...`
-      * [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
+      * ["Tools"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Tools)
         * `Options...` 
         * `CP and W' Estimator...` 
         * `Air Density (Rho) Estimator..`
@@ -47,8 +47,8 @@
         * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
         * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-hr-spikes)
         * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing#tool-fix-power-spikes)  
-      * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
-      * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
+      * ["View"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_View)
+      * ["Help"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Help)
     * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Tool Bar_Functions)
     * [Scope Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
     * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
