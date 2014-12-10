@@ -3,7 +3,7 @@
 
 # [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
 ## First steps for the new user 
-  * [Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
+  * [First steps: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
     * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
     * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
     * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
@@ -13,7 +13,8 @@
     * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General) 
     * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training-Zones)  
 
-## General Layout Structure and Concepts [Link] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)  
+## General Layout Structure and Terminology 
+  * [UI: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/General_UI Layout and terminology)  
     * [Menu Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Functions)
       * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Athlete)
       * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Menu Bar_Activity)
