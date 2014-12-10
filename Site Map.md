@@ -163,12 +163,6 @@
     * ON/OFF, sorting and Clear
     * Columns in the compare pane  
 
-* [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
-* [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-
-* [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
-
-
 ## Preferences
 
 * [Configure / set preferences (Menu Bar->Tools->Options)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
