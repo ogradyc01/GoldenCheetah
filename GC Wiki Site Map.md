@@ -4,9 +4,10 @@
 # [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
 ## First steps for the new user 
   * [First steps: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
-    * [Prerequisites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
-    * [Your first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
-    * [Download or import] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
+    * [Download GoldenCheetah and install it on your PC] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
+    * [Set up the first athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Your first athlete) 
+      * [Athlete data fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+    * [Download or import rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Download or import) 
       * Downloading a ride from device  
       * Importing from a file  
     * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Setting the athlete library) 
@@ -65,6 +66,7 @@
         * [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare-Pane_General)
       * Train
 
+## Chart types and details
     * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
       * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
         * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
@@ -75,7 +77,8 @@
         * Export Chart Image
         * All Chart Settings
       * Reset Layout
-      * Change Chart Order
+      * Change Chart Order  
+
     * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
       * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
         * [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
@@ -84,41 +87,138 @@
         * [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)
         * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#summary)
       * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
+        * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#calendar)
+        * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#summary)
       * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
+        * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#calendar)
+          * Colours
+        * [Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#rides)
+          * [Main functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---main-functions)
+            * Delete Ride 
+            * Split Ride 
+            * Upload Ride to Calendar
+            * Find Intervals
+            * Show Column Chooser
+            * Group By 
+            * Expand All
+            * Collapse All  - this function hides all rides for the different groups and you will only see the group headers
+          * [Column Header] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
+            * Remove Column
+            * Show in groups
+            * Column Chooser  
+        * [Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#intervals)
+          * [Find Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#intervals---find-intervals)
+          * Sort Intervals  
+          * Zoom to interval
+          * Edit Interval 
+          * Delete Interval  
+
     * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
       * Selection of data for comparison
       * ON/OFF, sorting and Clear
       * Columns in the compare pane  
 
-* [what different views are provided]
-(https://github.com/GoldenCheetah/GoldenCheetah/wiki/ScopeBar_Views)
-* [which chart type(s) which are available per view]
-(https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-* [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
 * [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Overview)
 * [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-* [other sources of information](http://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
+
 * [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
 
 
-
-## Chart types and details
-
-* [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-  * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
-  * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
-  * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
-
 ## Preferences
 
-* [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
-* [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
-* [Athlete: About] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+* [Configure / set preferences (Menu Bar->Tools->Options)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Overview)
+  * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+    * Language 
+    * Crank Length 
+    * Wheel size 
+    * Garmin Smart Recording 
+    * Elevation hysteresis 
+    * STS / LTS days average 
+    * PMC Stress Balance "Today"
+    * [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Setting-the-athlete-library)
+    * Workout Library 
+    * [Weight Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
+* [Athlete specific settings]
+  * [Athlete: Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete)
+    * Units (metric/imperial)
+    * [Weight] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Weight-settings)
+      * [Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_General)
+      * [Ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-METRICS#how-do-i-add-a-metric-to-the-details-screen-so-i-can-override-it-)
+      * Withings
   * [Athlete: Training zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Athlete_Training Zones)
+    * Critical Power 
+      * From Date  
+      * W'
+      * Zones
+    * Heart Rate
+      * Lactate Threshold  
+      * Rest HR
+      * Max HR		
+      * Zones
 * [Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Passwords)
+  * [Execution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Upload_Download-to_from-external-web-sites)
+  * Trainingpeaks
+  * Golden Cheetah Racing
+  * Twitter
+  * Strava
+  * Cycling Analytics
+  * RideWithGPS
+  * Withings Wifi Scales
+  * Zeo Sleep Data
+  * Web Calendar
+  * CALDAV Calendar
+  * Trainingstagebuch
+  * Selfloops
+
+  
 * [Appearance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Appearance)
+  * Fonts and Font Sizes  
+  * Line Width  
+  * Antialias 
+  * Ride Scrollbar 
+  * Ride Headings  
+  * Styling  
+  * Theme  
+  * Colors  
+
 * [Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data Fields)
+  * [Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#fields)
+    * Screen Tab  
+    * Field 
+    * Type
+    * Values
+    * Diary
+  * [Notes Keywords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Data-Fields#notes-keywords)
+    * Field
+    * Use for Background  
+    * Keyword 
+    * Color
+    * Related Notes Words  
+  * [Processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special-Topics_Ride-Processing)
+    * General: Undo/Redo
+    * Adjust Torque
+    * Fix GPS errors
+    * Fix Gaps in Recording
+    * Fix HR Spikes
+    * Fix Power Spikes
 * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Metrics)
+    * 'Bests' metric sections
+    * 'Summary' metric sections
+    * 'Interval' metric sections
+    * [FAQ} (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-METRICS)
+      * What is the difference between xPower, NP and Daniels EqP
+      * What is the difference between CP and FTP?
+      * Why does my CP chart show higher watts for a longer duration?
+      * Can I set a different CP/FTP for different reasons e.g. CP/FTP on a trainer?
+      * How do I seed the CTL for my PMC?
+      * Why is elevation different in GoldenCheetah to my other training software / website?
+      * Why is a metric e.g. TSS or average power different in GoldenCheetah to Garmin Connect?
+      * How do I set the metrics shown for intervals in the various summaries?
+      * How do I add a metric to the details screen (so I can override it) ?
+      * Can you calculate gradient, virtual power or other derived series from the ride data?
+      * Can I export metrics or access the metric database GC uses?
+
+
 * [Train Devices] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Preferences_Train Devices)
 
 ## Special Topics
@@ -132,11 +232,11 @@
 * [Other information sources] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Special Topics_Other information)
 
 ## Translation/Localization
+* [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
+  * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
 
-* [General Information] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-* [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
-* [xxx] ... open for additions for other translations ...
 
 ***
   
-BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)
+BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
+BACK: [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
