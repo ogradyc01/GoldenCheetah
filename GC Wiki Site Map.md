@@ -68,50 +68,50 @@
 
 ## Chart types and details
   * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
-      * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
-        * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
-        * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
-        * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
-      * Configure Chart / Close Chart
-        * Close
-        * Export Chart Image
-        * All Chart Settings
-      * Reset Layout
-      * Change Chart Order  
+    * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
+      * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
+      * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
+      * [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Rides)
+    * Configure Chart / Close Chart
+      * Close
+      * Export Chart Image
+      * All Chart Settings
+    * Reset Layout
+    * Change Chart Order  
 
-    * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
-      * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
-        * [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
-        * [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#events)
-        * [Filters] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#filters)
-        * [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)
-        * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#summary)
-      * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
-        * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#calendar)
-        * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#summary)
-      * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
-        * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#calendar)
-          * Colours
-        * [Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#rides)
-          * [Main functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---main-functions)
-            * Delete Ride 
-            * Split Ride 
-            * Upload Ride to Calendar
-            * Find Intervals
-            * Show Column Chooser
-            * Group By 
-            * Expand All
-            * Collapse All  - this function hides all rides for the different groups and you will only see the group headers
-          * [Column Header] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
-            * Remove Column
-            * Show in groups
-            * Column Chooser  
-        * [Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#intervals)
-          * [Find Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#intervals---find-intervals)
-          * Sort Intervals  
-          * Zoom to interval
-          * Edit Interval 
-          * Delete Interval  
+  * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_General handling)
+    * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Trends view)
+      * [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#date-ranges)
+      * [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#events)
+      * [Filters] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#filters)
+      * [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#charts)
+      * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Trends-view#summary)
+    * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Diary view)
+      * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#calendar)
+      * [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Diary-view#summary)
+    * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side Bar_Rides view)
+      * [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#calendar)
+        * Colours
+      * [Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#rides)
+        * [Main functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---main-functions)
+          * Delete Ride 
+          * Split Ride 
+          * Upload Ride to Calendar
+          * Find Intervals
+          * Show Column Chooser
+          * Group By 
+          * Expand All
+          * Collapse All  - this function hides all rides for the different groups and you will only see the group headers
+        * [Column Header] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#rides---column-header)
+          * Remove Column
+          * Show in groups
+          * Column Chooser  
+      * [Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side-Bar_Rides-view#intervals)
+        * [Find Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Side%20Bar_Rides%20view#intervals---find-intervals)
+        * Sort Intervals  
+        * Zoom to interval
+        * Edit Interval 
+        * Delete Interval  
 
     * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Compare Pane_General)  
       * Selection of data for comparison
