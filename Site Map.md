@@ -1,4 +1,4 @@
-![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC (Version 3.1)
+![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png)
 ***
 
 [First steps for the new user] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#first-steps-for-the-new-user)   
