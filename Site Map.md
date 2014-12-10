@@ -10,7 +10,7 @@
 [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#faq)  
 
 
-# [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
+## [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
 ## First steps for the new user 
   * [First steps: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_What you need to do)  
     * [Download GoldenCheetah and install it on your PC] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/First Steps_Prerequisites)
