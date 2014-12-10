@@ -283,7 +283,7 @@
   * [Uploading & Downloading] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#uploading-and-downloading)
   * [Seasons & Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#seasons-and-events)
   * [Charts]  (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#charts)
-  * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)
+  * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)  
 ***
   
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
