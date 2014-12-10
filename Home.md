@@ -11,6 +11,9 @@ to your search and Google will only search the Wiki. I assume other search engin
 ## WIKI Documents
 
 ### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Users-Guide) based on version 3.1
+  
+  * [Site Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Site_Map)
+  
   * [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Table-of-contents) 
   * [Introduction] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Table-of-contents#introduction)
   * [First Steps] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Table-of-contents#first-steps)
