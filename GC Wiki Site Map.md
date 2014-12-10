@@ -241,7 +241,7 @@
     * 'Bests' metric sections
     * 'Summary' metric sections
     * 'Interval' metric sections
-    * [FAQ} (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-METRICS)
+    * [FAQ: Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-METRICS)
       * What is the difference between xPower, NP and Daniels EqP
       * What is the difference between CP and FTP?
       * Why does my CP chart show higher watts for a longer duration?
@@ -270,8 +270,16 @@
 ## Translation/Localization
 * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
   * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
-
-
+## FAQ
+* [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
+  * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
+  * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#general)
+  * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#metrics)
+  * [Data] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#data)
+  * [Uploading & Downloading] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#uploading-and-downloading)
+  * [Seasons & Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#seasons-and-events)
+  * [Charts]  (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#charts)
+  * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)
 ***
   
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Table-of-contents)  
