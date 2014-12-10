@@ -275,15 +275,15 @@
   * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Translation_German)  
 
 ## FAQ  
-* [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ)
-  * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#most-common-questions-of-all)
-  * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#general)
-  * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#metrics)
-  * [Data] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#data)
-  * [Uploading & Downloading] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#uploading-and-downloading)
-  * [Seasons & Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#seasons-and-events)
-  * [Charts]  (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ#charts)
-  * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Upgrade_v3.11_Troubleshooting_Guide)  
+* [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
+  * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
+  * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#general)
+  * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#metrics)
+  * [Data] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#data)
+  * [Uploading & Downloading] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#uploading-and-downloading)
+  * [Seasons & Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#seasons-and-events)
+  * [Charts]  (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#charts)
+  * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)  
 ***
   
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Table-of-contents)  
