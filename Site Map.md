@@ -269,7 +269,7 @@
 
 ## Translation/Localization
 * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
-  * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)
+  * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)  
 ## FAQ
 * [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
   * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
