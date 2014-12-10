@@ -67,7 +67,7 @@
       * Train
 
 ## Chart types and details
-    * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
+  * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/Charts Bar_General handling)
       * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_General)
         * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Trends)
         * [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/ChartTypes_Diary)
