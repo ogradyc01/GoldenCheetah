@@ -1,5 +1,14 @@
-![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC Wiki Site Map (Version 3.1) - This page is work in progress: December 2014
+![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) GC (Version 3.1) Wiki Site Map  - NB: work in progress: December 2014
 ***
+
+[First steps for the new user] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#first-steps-for-the-new-user)
+[General Layout Structure and Terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#general-layout-structure-and-terminology)
+[Chart types and details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#chart-types-and-details)
+[Preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#preferences)
+[Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#special-topics)
+[Translation Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#translationlocalization)
+[FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Site-Map#faq)  
+
 
 # [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Main-Page_Users-Guide)
 ## First steps for the new user 
@@ -270,7 +279,8 @@
 ## Translation/Localization
 * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_GeneralInformation)
   * [German / Deutsch] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Translation_German)  
-## FAQ
+
+## FAQ  
 * [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
   * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
   * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#general)
