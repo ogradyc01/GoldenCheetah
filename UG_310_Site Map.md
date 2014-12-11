@@ -58,6 +58,12 @@
         * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
         * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Special-Topics_Ride-Processing#tool-fix-power-spikes)  
       * ["View"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Menu Bar_View)
+        * Toggle Full Screen  
+        * Show: 'Side Bar' / 'Compare Pane' / 'Tool Bar' / 'Athlete Tabs'
+        * Scope: Trends / Diary / Rides / Train
+        * [Add Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_ChartTypes_General)
+        * Reset Layout  
+        * Tabbed not Tiled  
       * ["Help"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Menu Bar_Help)
     * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Tool Bar_Functions)
       * [Search/Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Special-Topics_SearchFilter)
