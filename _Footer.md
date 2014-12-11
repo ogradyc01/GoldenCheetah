@@ -1,1 +1,0 @@
-Golden Cheeah Wiki
