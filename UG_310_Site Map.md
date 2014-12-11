@@ -8,6 +8,7 @@
 [Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Site-Map#special-topics)  
 [Translation Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Site-Map#translationlocalization)  
 [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Site-Map#faq)  
+[Video Tutorials] (http://vimeo.com/user3992403/videos)  
 
 
 ## [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Users-Guide)
