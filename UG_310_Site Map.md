@@ -247,10 +247,10 @@
     * Fix HR Spikes
     * Fix Power Spikes
 * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Preferences_Metrics)
-    * 'Bests' metric sections
-    * 'Summary' metric sections
-    * 'Interval' metric sections
-    * [FAQ: Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_FAQ-METRICS)
+    * Select for 'Bests' chart
+    * Select for 'Summary' chart
+    * Select 'Interval' displays
+    * [FAQ: Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-METRICS)
       * What is the difference between xPower, NP and Daniels EqP
       * What is the difference between CP and FTP?
       * Why does my CP chart show higher watts for a longer duration?
