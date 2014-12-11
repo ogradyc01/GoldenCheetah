@@ -283,6 +283,17 @@
 ## FAQ  
 * [FAQ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
   * [Most Common] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
+    * [How do I override / manually enter TSS for a ride?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-override--manually-enter-TSS-for-a-ride)
+    * [How do I add or remove a chart?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-add-or-remove-a-chart)
+    * [Can I enter my weight and track/plot it?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Can-I-enter-my-weight-and-trackplot-it)
+    * [How do I plot x sec power best?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-plot-x-sec-power-best)
+    * [I can't find Aerolab / Performance Manager?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#I-cant-find-Aerolab--Performance-Manager)
+    * [What happened to weekly summary?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#What-happened-to-weekly-summary)
+    * [Where are all the chart settings?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-are-all-the-chart-settings)
+    * [Where is the preferences / options panel?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-is-the-preferences--options-panel)
+    * [How do I change the colour of the rides on the calendar/list?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-change-the-colour-of-the-rides-on-the-calendarlist)
+    * [GoldenCheetah doesn't find my PowerTap on Ubuntu Linux.] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetah-doesnt-find-my-PowerTap-on-Ubuntu-Linux)
+    * [GoldenCheetah.dmg installation didn't seem to work.] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetahdmg-installation-didnt-seem-to-work)
   * [General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#general)
   * [Metrics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#metrics)
   * [Data] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#data)
@@ -290,7 +301,8 @@
   * [Seasons & Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#seasons-and-events)
   * [Charts]  (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#charts)
   * [Troubleshooting] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)  
-***
+
+***  
   
 BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Table-of-contents)  
 BACK: [Main Page: Users's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_310_Main-Page_Users-Guide)
