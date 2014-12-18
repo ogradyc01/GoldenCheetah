@@ -15,13 +15,9 @@ emphasise on upper intensity work. For more info on xPower see Dr Skiba's paper 
 
 ### What is the difference between CP and FTP?
 
-CP is a shorthand for CP60 in GoldenCheetah, and is computed using the Scherer/Monod
-protocol using 3 and 20 minutes. Functional Threshold Power (FTP) is an actual measure of
-the power an athlete sustains for 60 minutes.
+CP represents the power an athlete can sustain for a very long time, without fatigue, in theory. It is calculated using a model and time to exhaustion tests of 2 and 12 or 20 minutes. Functional Threshold Power (FTP) is an estimate of the power an athlete can sustain for about 60 minutes or a 40km TT. There is no formal model or protocol for establishing it, most people use rules of thumb like FTP is 95% of 20 minute power, or they use the best power from a 40km TT. 
 
-Since it is very difficult for an athlete to maintain the desired intensity FTP 'reality'
-tends to result in a number that is much lower than CP 'theory'. Often users will
-consider the two as the same.
+In practice, CP and FTP are usually close to each other. But since it is very difficult for an athlete to maintain the desired intensity FTP 'reality' tends to result in a number that is much lower than CP 'theory'. Often users will consider the two as the same.
 
 In GC we compute TSS and BikeScore using your 'CP' value. If you set it to your FTP value
 TSS will be accurate, BikeScore is likely to be lower. And if you set it to your CP value
