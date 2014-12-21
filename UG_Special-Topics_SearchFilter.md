@@ -1,4 +1,4 @@
-Special Topics: Search & Filter (Version 3.1)
+Special Topics: Search & Filter (Version 3.11) 
 ****
 
 Searching and Filtering are ways to find rides which fulfill specific criteria (e.g. to limit the number of rides shown in the ride navigator - or to find a particular ride). But also to only consider specific rides in summary and cumulative charts, like on the 'Trends' view.
@@ -148,9 +148,19 @@ Example: You want to select all rides, where your 5min mean max power was higher
 
  * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the rides to filter. This value then needs to be used in the complete query e.g. to compare to a `<value>`.
 
-The supported `<tiz_series` are: "power" and "hr"
+The supported `<tiz_series>` are: "power" and "hr"
 
 Example: You want to select all rides, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
+
+### NEW with 3.11
+
+ * `SB` - (Stress Balance) - syntax is `SB(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+
+ * `LTS` - (Long Term Stress) - syntax is `LTS(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+
+ * `STS` - (Short Term Stress) - syntax is `STS(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+
+The supported `<metric>` are e.g. `TSS`, and the similar ones.
 
 ## Additional Information
 
