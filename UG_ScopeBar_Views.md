@@ -42,6 +42,6 @@ To get more insides in 'Rides' please check:
 
 ## Train
 
-... work in progress - will be updated based on Version 3.11 ...
+... work in progress - will be updated after the planned rework is done ...
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
