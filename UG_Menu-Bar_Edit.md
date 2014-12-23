@@ -3,7 +3,7 @@ Menu Bar: Edit (Version 3.11)
 
 ![Tools Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Edit.jpg)
 
-The edit menu contains functions which manipulate the series data of the current ride in multiple ways.
+The edit menu contains functions which manipulate (fix, adjust, add) series data of the current ride in multiple ways.
 
 * [Add Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-add-torque)
 * [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
