@@ -13,8 +13,6 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 * `Get Withings Data...` - downloads all measure from your Withings weight scale. You need to configure your user id and public key in the [Preferences: Passwords]
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites) section for this to work.
-* `Get Zeo Data...` - downloads sleep data from your Zeo sleop monitor. You need to configure your user id and password in the [Preferences: Passwords"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites) section for this to work.
-
 
 ***
 * `Create a new workout...` - opens a workout wizard to create a new "Train" view workout. 
@@ -26,17 +24,11 @@ The tools menu contains functions which either manipulate rides or relate to add
 
 * `Upload Ride to Calendar` - will create a calendar entry to any CalDAV based calendar. You need to configure URL, user and password in the [Preferences: Passwords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites).
 * `Refresh Calendar` - will read entries from you CalDAV calendar to display on the calendar view. Configuration is the same is in the "Upload Ride to Calendar" function.
+* `Create Heat Map` - create a HTML showing a heat map of the selected rides on a map - the HTML is created for use outside GoldenCheetah under the name "HeatMap.htm" - the folder can be chosen in the creation dialog box.
+* `Export Metrics as .CSV` - exports the available metrics data for all rides as .CSV file for external processing
 
 ***
 
 * `Find intervals...` - opens a dialog to find intervals in the current ride. The same functionality is also available from the "Side Bar: Intervals" view. 
-
-***
-
-* [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
-* [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
-* [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
-* [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
-* [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-power-spikes)
 
 BACK: [Menu Bar:Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
