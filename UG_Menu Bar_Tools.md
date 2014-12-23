@@ -1,4 +1,4 @@
-Menu Bar: Tools (Version 3.1)
+Menu Bar: Tools (Version 3.11)
 ***
 
 ![Tools Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Tools.jpg)
