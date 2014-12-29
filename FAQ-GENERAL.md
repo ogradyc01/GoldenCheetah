@@ -77,7 +77,7 @@ If you want to help, post a note on the golden-cheetah-users mailing list.
 
 ### Can I donate to the project?
 
-We are an open source project. Our software is developed by a community. We do not have
-any facility to collect funding or spend it! We would rather you spread the word if you
+We are a free software project. Free as in freedom. Our software is developed by a community.
+We do not have any facility to collect funding or spend it! We would rather you spread the word if you
 think our software is good, and maybe help out with documentation, tutorials or
 translations if you can.
