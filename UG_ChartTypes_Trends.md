@@ -66,6 +66,8 @@ The curves are what is actually shown on the charts. The curves can either come 
 * `-` - removes a curve
 * `User sidebar chart settings` - if checked, any curve settings are ignored, and the created chart serves as a proxy for the [Side Bar - Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))
 
+### Curves Details
+
 ### Curves - Details - Metric
 
 'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the curve/diagram.
