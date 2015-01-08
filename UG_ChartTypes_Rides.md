@@ -163,6 +163,7 @@ This chart type provides all the graphs for your ride data series. In addition t
 
 ![Performance] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
 
+## Performance Basic
 * Basic Settings
   * `Shading` - here you select if, and how your power data curve is shown
   * `X-Axis `- choose if your ride X-Axis is plotted 'by time' or 'by distance'
@@ -179,6 +180,7 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Overlay` - if checked, it adds a small overlay window to the diagram, in which selected interval data is displayed
   * `Grid` - if checked, it adds a grid to the chart
 
+### Performance Curves
 * Data series settings
   * `Delta Series `- predefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
   * `Left/Right `- Left leg / Right leg dependent data series (only provided by some power meter / head-unit combinations today)
