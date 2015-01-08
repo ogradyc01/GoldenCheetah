@@ -235,7 +235,7 @@ _Note: References Lines are not supported for any non-power related chart like e
 
 
 
-## Critical Mean Maximals
+## Critical Mean Maximal
 
 [Similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
 
