@@ -40,6 +40,10 @@ The section 'Notes Keywords' defines which field / field content is used to dete
 * `Color` - is set using a 'Color Chooser' dialog box which is opened by "mouse-click" on the color box.
 * `Related Notes Words` - is useful, if you want more than one keyword to have the same color, instead of adding them one-by-one to the keyword list, you can just create one entry to define the color and enter all other keywords, separated by "," into this field.
 
+### Defaults
+
+new in 3.11 
+
 ### Processing
 
 ![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
