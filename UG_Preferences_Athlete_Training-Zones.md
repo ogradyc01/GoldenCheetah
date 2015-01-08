@@ -9,6 +9,8 @@ _Note: To make sure that all data is correctly assigned to a specific Zone, star
 
 ![Athlete - Power - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
 
+## Power Zones
+
 ### Create New (for Power):
 
 * `From Date` - Each set of training zones is defined with a specific 'From Date' - as we assume your zones change over time. 
@@ -55,7 +57,7 @@ The 'Zones Details' work very similar to the 'Default' tab. You can change 'Shor
 
 If you edit anything in 'Zones Details' the zone record will immediately change to 'Bold' display to make you aware (of changing from Default to a specific setting).
 
-## Difference for Heart rate
+## Heartrate Zones
 
 The difference in zone creation for heart rate are quite small since the UI is mainly the same as for power. 
 
@@ -81,6 +83,12 @@ Input fields are:
 * `Default Tab` - Trimp k
 * `Zones Details` - from BPM (Heartrate)
 * `Zones Details` - Trimp k
+
+## Pace Zones
+
+* New in 3.11
+
+
 
 Back: [Preferences: Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
 
