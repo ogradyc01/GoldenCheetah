@@ -116,7 +116,8 @@ dialog is designed to be simple and accept only the most common of entries.
 
 ### Can you calculate gradient, virtual power or other derived series from the ride data?
 
-Not in 3.1. We plan to extend this functionality in v3.2.
+Not in 3.1. We have implemented virtual power, slope and some other derived series in v3.11
+which is due for release Q1 2014.
 
 
 
