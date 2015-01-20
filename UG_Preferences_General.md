@@ -1,4 +1,4 @@
-Preferences: General (Version 3.1)
+Preferences: General (Version 3.11)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
@@ -15,7 +15,7 @@ _Note: GoldenCheetah is translated into multiple languages, which you find on th
 
 _Note: As of today the Crank Length is defined for all athletes and not individual per athlete._
 
-* `Wheelsize` - is the default value for the wheel size used in the 'Train' view (e.g. if not device specific wheel size is configured) - and the wheel size used in 'Train' view in areas where not specific wheel size can be maintained
+* `Wheelsize` - is the default value for the wheel size in GoldenCheetah used in the 'Train' view (e.g. if not a device specific wheel size is configured) - and the wheel size used in 'Train' view in areas where not specific wheel size can be maintained
 
 * `Use Garmin Smart Recording / Smart Recording Threshold (sec)` - Garmin devices have a feature called 'Smart Recording', where data points are not stored per second, but in variable intervals. In order to read such files and understand how to handle the gaps, GoldenCheetah can fill such gaps (by interpolating the missing data points). To enable this you need to activate 'Use Garmin Smart Recording' and defined the threshold (in seconds) upto which GoldenCheetah shall consider a data gap to be a smart recording gap - which then is filled. If 'Use Garmin Smart Recording' is off - gaps are filled with 'Zeroes'.
 
