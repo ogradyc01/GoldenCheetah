@@ -22,7 +22,7 @@
       * Importing from a file  
     * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library) 
     * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General) 
-    * [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)  
+    * [*** 3.11 - Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)  
 
 ## General Layout Structure and Terminology 
   * [UI: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI Layout and terminology)  
