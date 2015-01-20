@@ -1,4 +1,4 @@
-First Steps: Download or import (Version 3.1)
+First Steps: Download or import (Version 3.11)
 ***
 
 ### Downloading a ride from device
