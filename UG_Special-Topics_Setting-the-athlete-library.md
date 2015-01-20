@@ -1,4 +1,4 @@
-Special Topics: Setting the athlete library (Version 3.1)
+Special Topics: Setting the athlete library (Version 3.11)
 ***
 
 Overall GoldenCheetah configuration is explained here: [Preferences: Overview] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
