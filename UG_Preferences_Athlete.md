@@ -1,4 +1,4 @@
-Preferences: Athlete (Version 3.1)
+Preferences: Athlete (Version 3.11)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
@@ -18,7 +18,7 @@ Fields which you have to maintain on this view are:
 
 For 'Weight' please also check: [Special Topics: Weight settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
 
-The next two tabs `Power` and `Heartrate` allow you to setup the training zones for the athlete. GoldenCheetah allows an independent and very flexible definition of zones for 'Power' and 'Heartrate' in all aspects of the configuration. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
+The next two tabs `Power Zones`, `Heartrate Zones`, and `Pace Zones` allow you to setup the training zones for the athlete. GoldenCheetah allows a time dependent and very flexible definition of zones for 'Power' and 'Heartrate' as well as the definition of 'Pace Zones' separate for 'Run' and 'Swim' activities. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
 
 * [How-to: Configure Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
 
