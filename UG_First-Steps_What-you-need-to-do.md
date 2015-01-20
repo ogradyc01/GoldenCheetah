@@ -1,4 +1,4 @@
-First Steps: What you need to do (Version 3.1)
+First Steps: What you need to do (Version 3.11)
 ***
 The minimum (without this you will not even reach the main screen of GoldenCheetah):
 
