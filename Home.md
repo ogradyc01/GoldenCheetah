@@ -12,7 +12,7 @@ to your search and Google will only search the Wiki. I assume other search engin
 
 ### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide) based on version 3.1 - in transition to 3.2
   
-  * [Site Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site_Map)
+  * [Site Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map)
   * [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents) 
   * [Introduction] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents#introduction)
   * [First Steps] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents#first-steps)
