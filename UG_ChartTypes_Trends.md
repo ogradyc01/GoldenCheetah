@@ -92,9 +92,9 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 'Estimate's are metric curves derived based on the CP models.
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Stress.jpg)
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
-As parameter you need to choose the metric for which the Stress shall be calculated and the `Stress Type` which shall be calculated for the selected metric.
+As parameter you need to choose the CP model to use and the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series cannot be selected.
 
 For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
@@ -102,9 +102,9 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 'Stress' metrics allows to have user defined stress metric (like Long Term Stress, Short Term Stress, Stress Balance and Stress Ramp Rate) depending on any other metric as an input parameter. So you can e.g. define a Stress Metric which only considers "Duration" if you training as an input parameter - (probably not the best example - but just to illustrate the option). 
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Stress.jpg)
 
-As parameter you need to choose the CP model to use and the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series cannot be selected.
+As parameter you need to choose the metric for which the Stress shall be calculated and the `Stress Type` which shall be calculated for the selected metric.
 
 For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
