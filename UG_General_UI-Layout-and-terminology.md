@@ -1,4 +1,4 @@
-General: UI Layout and terminology (Version 3.1)
+General: UI Layout and terminology (Version 3.2)
 ***
 Before you start using GoldenCheetah let's get familiar with the general UI concept / screen layout and the terminology used for the different sections of the screen. This will help you in walking through the further documentation.
 
