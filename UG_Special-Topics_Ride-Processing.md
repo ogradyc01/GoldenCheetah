@@ -1,4 +1,4 @@
-Special Topics: Ride Processing (Version 3.11 - WIP)
+Special Topics: Ride Processing (Version 3.2)
 ***
 
 GoldenCheetah provides a number of tools to fix/adjust/correct ride data. The adjustments can either be executing manually for a specific ride, or automatically during import of rides.
@@ -23,7 +23,9 @@ Any changes to the ride data done by the tools explained below, are not immediat
 
 ## Edit tool: Add Torque
 
-3.11
+Derive torque when power and cadence data is available.
+
+* No parameters.
 
 ## Edit tool: Adjust Torque
 
@@ -33,15 +35,23 @@ Adjusting torque values allows you to uplift or degrade the torque values when t
 
 ## Edit tool: Adjust Power
 
-3.11
+Adjusting power values allows you to uplift or degrade the power values by a percentage. It takes a single parameter:
+
+* `Power Adjustment` - this defines percentage  to modify values by. Negative values are supported.
 
 ## Edit tool: Estimate Power
 
-3.11
+Derive estimated power data based on speed/elevation/weight etc.
+
+* No parameters.
 
 ## Edit tool: Fix Elevation errors
 
-3.11
+Fix or add elevation data. If elevation data is present it will be removed and overwritten.
+
+INTERNET CONNECTION REQUIRED.
+
+* No parameters.
 
 ## Edit tool: Fix GPS errors
 
@@ -65,6 +75,12 @@ Occasionally heart rate sensors will erroneously report high values for heart ra
 It takes a single parameter:
 
 * `Absolute Max` - this defines an absolute value for heart rates, and will smooth any values above this absolute value that have been identified as being anomalies (i.e. at odds with the data surrounding it).
+
+## Edit tool: Set SmO2/tHb from Speed and Cadence
+
+When recording from the Moxy in Speed and cadence mode the SmO2 and tHb data is sent as cadence and speed respectively. This tool will update the ride file to move the values from speed and cadence into the Moxy series.
+
+* No parameters.
 
 ## Edit tool: Fix Power Spikes
 
