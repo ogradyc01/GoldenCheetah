@@ -1,4 +1,4 @@
-Side Bar: Diary view (Version 3.1)
+Side Bar: Diary view (Version 3.2)
 ***
 
 ![SideBar General] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Diary.JPG)
