@@ -56,11 +56,15 @@
         * `Refresh Calendar` 
         * `Find intervals...` 
       * ["Edit"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Edit)
-        * [`Adjust Torque Values...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
-        * [`Fix GPS errors...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
-        * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
-        * [`Fix HR Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
-        * [`Fix Power Spikes...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-power-spikes)  
+        * [Add Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-add-torque)
+        * [Adjust Torque Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
+        * [Adjust Power Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-power)
+        * [Estimate Power Values...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-estimate-power)
+        * [Fix Elevation errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-elevation-errors)
+        * [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
+        * [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
+        * [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
+        * [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-power-spikes)
       * ["View"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_View)
         * Toggle Full Screen  
         * Show: 'Side Bar' / 'Compare Pane' / 'Tool Bar' / 'Athlete Tabs'
