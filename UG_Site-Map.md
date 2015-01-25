@@ -1,7 +1,7 @@
 ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Site Map (Version 3.2)
 ***
 
-[First steps for the new user] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map#first-steps-for-the-new-user)   
+[First steps for the new user] (UG_Site-Map#first-steps-for-the-new-user)   
 [General Layout Structure and Terminology] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map#general-layout-structure-and-terminology)  
 [Chart types and details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map#chart-types-and-details)  
 [Preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map#preferences)  
