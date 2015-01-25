@@ -22,6 +22,7 @@ For an expanded list see the [Site Map] (https://github.com/GoldenCheetah/Golden
   * [Menu Bar - Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Athlete)
   * [Menu Bar - Activity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Activity)
   * [Menu Bar - Tools] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Tools)
+  * [Menu Bar - Edit] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu%20Bar_Edit)
   * [Menu Bar - View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_View)
   * [Menu Bar - Help] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Help)
 * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Tool Bar_Functions)
