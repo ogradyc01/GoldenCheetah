@@ -1,4 +1,4 @@
-Menu Bar: Functions (Version 3.11)
+Menu Bar: Functions (Version 3.2)
 ***
 
 The GoldenCheetah 'Menu Bar' is similar to any other application. So please find the details on the different menus and menu options below.
