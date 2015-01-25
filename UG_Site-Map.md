@@ -55,6 +55,7 @@
         * `Upload Ride to Calendar` 
         * `Refresh Calendar` 
         * `Find intervals...` 
+      * ["Edit"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Edit)
         * [`Adjust Torque Values...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
         * [`Fix GPS errors...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
         * [`Fix Gaps in Recording...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
