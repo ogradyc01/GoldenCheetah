@@ -1,4 +1,4 @@
-Scope Bar: Views (Version 3.1)
+Scope Bar: Views (Version 3.2)
 ***
 
 ![Scope Bar] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ScopeBar_Views.jpg)
