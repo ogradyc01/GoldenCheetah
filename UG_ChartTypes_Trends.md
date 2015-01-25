@@ -1,4 +1,4 @@
-Chart Types: Trends view (Version 3.1)
+Chart Types: Trends view (Version 3.2)
 ***
 
 The 'Trends' view offers 'Chart Types' which work on a range of rides. The rides which are considered when opening a chart here selected based on the 'Date Range' selected - as well as the actual 'Search/Filter' settings. 
@@ -64,6 +64,7 @@ The curves are what is actually shown on the charts. The curves can either come 
 * `Edit` - changes the settings of the selected curve
 * `+` - opens the dialog to add a new curve
 * `-` - removes a curve
+* `Up`, `Down` (or `Arrows`) - move the metric up/down within the list - this is useful mainly in "Stack" view, since the sequence of metrics in this list determines the sequence in the stack
 * `User sidebar chart settings` - if checked, any curve settings are ignored, and the created chart serves as a proxy for the [Side Bar - Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))
 
 ### Curves Details
@@ -89,7 +90,17 @@ For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah
 
 ### Curves - Details - Estimates
 
-'Estimate's are metric curves derived based on the CP models. 
+'Estimate's are metric curves derived based on the CP models.
+
+![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Stress.jpg)
+
+As parameter you need to choose the metric for which the Stress shall be calculated and the `Stress Type` which shall be calculated for the selected metric.
+
+For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
+
+### Curves - Details - Stress
+
+'Stress' metrics allows to have user defined stress metric (like Long Term Stress, Short Term Stress, Stress Balance and Stress Ramp Rate) depending on any other metric as an input parameter. So you can e.g. define a Stress Metric which only considers "Duration" if you training as an input parameter - (probably not the best example - but just to illustrate the option). 
 
 ![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
