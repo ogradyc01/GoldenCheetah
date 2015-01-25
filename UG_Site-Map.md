@@ -36,11 +36,12 @@
         * `Export...`
         * `Batch export...`
         * `Export Metrics as CSV...`
-        * [`Upload/Download...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
+        * [`Upload to TrainingPeaks] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
+        * [`Synchronise TrainingPeaks...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
         * `Save ride`
         * `Delete ride...`
         * `Split ride...`
-        * `Merge rides...`
+        * `Combine rides...`
       * ["Tools"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Tools)
         * `Options...` 
         * `CP and W' Estimator...` 
