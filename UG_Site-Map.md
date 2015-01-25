@@ -64,6 +64,7 @@
         * [Fix GPS errors...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
         * [Fix Gaps in Recording...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
         * [Fix HR Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
+         * [Set SmO2/tHb from Speed and Cadence] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#edit-tool-set-smo2thb-from-speed-and-cadence)
         * [Fix Power Spikes...] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-power-spikes)
       * ["View"] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_View)
         * Toggle Full Screen  
