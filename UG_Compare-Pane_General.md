@@ -1,7 +1,7 @@
-Compare Pane: General (Version 3.1)
+Compare Pane: General (Version 3.2)
 ***
 
-The compare pane is a very powerful new feature of GoldenCheetah 3.1 - depending on the view you are on (Trends or Rides) it allows the comparison of 
+The compare pane is a very powerful feature of GoldenCheetah - depending on the view you are on (Trends or Rides) it allows the comparison of 
 * Date Ranges (Trends View) or 
 * Rides and/or Intervals (Rides View) - which can even be mixed.
 
