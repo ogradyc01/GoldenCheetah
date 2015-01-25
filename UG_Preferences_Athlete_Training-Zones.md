@@ -1,4 +1,4 @@
-Preferences: Athlete: Training Zones (Version 3.1)
+Preferences: Athlete: Training Zones (Version 3.2)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Preferences' window.
@@ -84,9 +84,11 @@ Input fields are:
 * `Zones Details` - from BPM (Heartrate)
 * `Zones Details` - Trimp k
 
-## Pace Zones
+## Pace Zones (from v3.2 on)
 
-* New in 3.11
+* Pace Zones allow the definition of Zones for additional sports like Swim and Run in GoldenCheetah.
+
+![Athlete - Pace Zones - Overview] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_PaceZones_Overview.jpg)
 
 
 
