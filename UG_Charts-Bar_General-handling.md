@@ -1,4 +1,4 @@
-Charts Bar: General handling (Version 3.1)
+Charts Bar: General handling (Version 3.2)
 ***
 
 ![Charts Bar] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ChartsBar_Rides.jpg)
