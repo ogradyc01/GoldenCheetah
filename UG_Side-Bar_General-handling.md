@@ -1,4 +1,4 @@
-Side Bar: General handling (Version 3.1)
+Side Bar: General handling (Version 3.2)
 ***
 
 The 'Side Bar' contains important tools to influence what is shown in the 'Main View'. The features available differ for the different views you can select in the 'Scope Bar'. But the general structure and the way how to work with 'Side Bar' is the same for all views.
@@ -19,7 +19,7 @@ Here you find the details per view:
 * [Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view)
 * [Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view)
 * [Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view)
-* Train ... work in progress - updated with version 3.11 - ...
+* Train ... work in progress ...
 
 BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI%20Layout%20and%20terminology)
 
