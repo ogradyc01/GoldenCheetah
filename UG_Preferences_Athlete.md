@@ -1,4 +1,4 @@
-Preferences: Athlete (Version 3.11)
+Preferences: Athlete (Version 3.2)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
