@@ -32,10 +32,11 @@
         * [`Download from device...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First-Steps_Download-or-import)
         * [`Import from file...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First-Steps_Download-or-import#importing-from-a-file)
         * `Manual ride entry...`
+        * [`Share Online...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites) 
         * `Export...`
         * `Batch export...`
         * `Export Metrics as CSV...`
-        * [`Upload/Download...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Upload_Download to_from external web-sites)
+        * [`Upload/Download...`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
         * `Save ride`
         * `Delete ride...`
         * `Split ride...`
