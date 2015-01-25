@@ -1,4 +1,4 @@
-Menu Bar: Activity (Version 3.1)
+Menu Bar: Activity (Version 3.2)
 ***
 
 ![Activity Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Activity.jpg)
@@ -25,6 +25,8 @@ So most of the functions in this menu relate to rides. Here the list:
 * `Tweet Ride` - Open a dialog box to select the data to be tweeted
 
 For further details, please check [Special Topics: Upload_Download to_from external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Upload_Download to_from external web-sites)
+
+***
 
 * `Save ride` - does what is says. Important to know - metrics are only updated, once the ride is saved and only based on saved data. _Note: When closing GoldenCheetah, the system checks if are still any changed but unsaved rides and shows those in a dialog box - offering to save, discard or going back to GoldenCheetah._
 * `Delete ride...` - deletes the ride after confirmation in a dialog popup. _Note: Any deleted rides are really deleted - GoldenCheetah does not provide an "un-delete" or "history" function here._
