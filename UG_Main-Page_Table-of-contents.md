@@ -34,7 +34,7 @@ For an expanded list see the [Site Map] (https://github.com/GoldenCheetah/Golden
   * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Rides view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare Pane_General)
 
-## Chart types and details
+## Chart types and details - here to proceed with 3.2 Update
 
 * [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
   * [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
