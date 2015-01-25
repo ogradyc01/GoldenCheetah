@@ -1,4 +1,4 @@
-Menu Bar: Edit (Version 3.11)
+Menu Bar: Edit (Version 3.21)
 ***
 
 ![Tools Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Edit.jpg)
