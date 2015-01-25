@@ -1,4 +1,4 @@
-Chart Types: General Information (Version 3.1)
+Chart Types: General Information (Version 3.2)
 ***
 
 This is an overview / link page of the different chart types available in GoldenCheetah. Each chart type will be described regarding it's capabilities and special features. The focus will be on a functional description, not on how-to-use such charts "to evaluate your data / to optimize your training".
