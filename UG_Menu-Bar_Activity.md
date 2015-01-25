@@ -13,6 +13,8 @@ So most of the functions in this menu relate to rides. Here the list:
 
 ***
 
+* `Share Online...` - Opens a dialog box where you can select with which Websites you want to share your ride data, how to name it and which data series are to be shared. For further details, please check [Special Topics: Upload_Download to_from external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Upload_Download to_from external web-sites)
+
 * `Export...` - Opens a dialog box to export the currently selected ride. You can choose the directory and the file format - _Note: The file formats are implemented to best knowledge - but since formats evolve or other software does different interpretation there is a risk, that exported files cannot be interpreted, even if the software claims to be able to read a particular format._
 * `Batch export...` - In addition to "Export..." allows the selection of multiple files to be exported.
 * `Export Metrics as CSV...` - Exports the metric database into a CSV file. _Note: The metric database is a SQLite database - which can also be read by appropriate SQLite tools. Any manipulation of the data from outside GoldenCheetah is not recommended/supported._
