@@ -31,7 +31,7 @@ _Note_: STS and LTS values are stored per athlete._
 
 * `PMC Stress Balance Today` - if checked, the training of a certain day is considered in the SB value of this day already. If not checked, the SB change will take effect on the next day. 
 
-* `Athlete Library` - see detailed description here: [Setting the athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
+* `Athlete Library` - see detailed description here: [Setting the athlete library](UG_Special-Topics_Setting-the-athlete-library)
 
 * `Workout Library` - Directory to store the 'Train' view related files,... 
 

@@ -1,1 +1,1 @@
-Sorry - URL has changed.  Please click here: [User Guide](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main%20Page_Users%20Guide)
+Sorry - URL has changed.  Please click here: [User Guide](UG_Main%20Page_Users%20Guide)

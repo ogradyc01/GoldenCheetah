@@ -15,7 +15,7 @@ When changing your 'Athlete Library' path, GoldenCheetah is not removing your ol
 
 After selecting a new 'Athlete Library', which is recommended to be an EMPTY directory of your system, you need either to manually takeover your data from the previous library. Or you start with a new athlete in your new library.
 
-When pressing `Save` on the info popup after changing the 'Athlete Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlete Library' the 'Choose an Athlete' dialog box appears, allowing you to create a new athlete. Further information see: [First Steps: Your first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First-Steps_Your-first-athlete)
+When pressing `Save` on the info popup after changing the 'Athlete Library', GoldenCheetah will restart for the change to take effect. If you changed to an empty 'Athlete Library' the 'Choose an Athlete' dialog box appears, allowing you to create a new athlete. Further information see: [First Steps: Your first athlete](UG_First-Steps_Your-first-athlete)
 
  _Note: It is recommended to either use only one athlete library OR if you need multiple athlete libraries, to use different athlete names - even across the libraries. Reason is that parts of the preferences of GoldenCheetah is currently stored 'per athlete', but not 'per library/athlete'. If you use the same athlete name in multiple libraries, this athlete will share the athlete dependent preferences, but not the same rides,..._
 
