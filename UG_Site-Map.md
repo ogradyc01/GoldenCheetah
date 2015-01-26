@@ -1,7 +1,7 @@
 ![Logo] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Site Map (Version 3.2)
 ***
 
-[First steps for the new user] (UG_Site-Map#first-steps-for-the-new-user)   
+[First steps for the new user](UG_Site-Map#first-steps-for-the-new-user)   
 [General Layout Structure and Terminology](UG_Site-Map#general-layout-structure-and-terminology)  
 [Chart types and details](UG_Site-Map#chart-types-and-details)  
 [Preferences](UG_Site-Map#preferences)  
@@ -13,16 +13,16 @@
 
 ## [Main Page: Users's Guide](UG_Main-Page_Users-Guide)
 ## First steps for the new user 
-  * [First steps: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_What you need to do)  
+  * [First steps: Overview](UG_First Steps_What you need to do)  
     * [Download GoldenCheetah and install it on your PC](UG_First Steps_Prerequisites)
     * [Set up the first athlete](UG_First Steps_Your first athlete) 
       * [Athlete data fields](UG_Preferences_Athlete)
     * [Download or import rides](UG_First Steps_Download or import) 
       * Downloading a ride from device  
       * Importing from a file  
-    * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library) 
-    * [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General) 
-    * [*** Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)  
+    * [Check and configure your athlete library](UG_Special Topics_Setting the athlete library) 
+    * [Define language and other general settings](UG_Preferences_General) 
+    * [*** Defining your training zones](UG_Preferences_Athlete_Training-Zones)  
 
 ## General Layout Structure and Terminology 
   * [UI: Overview](UG_General_UI Layout and terminology)  
@@ -32,7 +32,7 @@
         * [`Download from device...`](UG_First-Steps_Download-or-import)
         * [`Import from file...`](UG_First-Steps_Download-or-import#importing-from-a-file)
         * `Manual ride entry...`
-        * [`Share Online...`] (UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites) 
+        * [`Share Online...`](UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites) 
         * `Export...`
         * `Batch export...`
         * `Export Metrics as CSV...`
@@ -74,7 +74,7 @@
         * Reset Layout  
         * Tabbed not Tiled  
       * ["Help"](UG_Menu Bar_Help)
-    * [Tool Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Tool Bar_Functions)
+    * [Tool Bar](UG_Tool Bar_Functions)
       * [Search/Filter](UG_Special-Topics_SearchFilter)
     * [Scope Bar](UG_ScopeBar_Views)
       * Trends
@@ -91,7 +91,7 @@
       * Train
 
 ## Chart types and details
-  * [Charts Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Charts Bar_General handling)
+  * [Charts Bar](UG_Charts Bar_General handling)
     * [Add Chart](UG_ChartTypes_General)
       * [Chart Types for Trends](UG_ChartTypes_Trends)
         * [Metric Trends](UG_ChartTypes_Trends#metric-trends)
