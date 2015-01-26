@@ -30,4 +30,4 @@ On the tab `'Colors'` you can do the individual adjustments to the GoldenCheetah
 
 
 
-BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
+BACK: [Preferences: Overview](UG_Preferences_Overview)

@@ -169,5 +169,5 @@ The supported `<metric>` are e.g. `TSS`, and the similar ones.
 * Some technical fields are also not supported - when you enter such a field with the 'Column Chooser' you will get a 'syntax error' e.g. "field not known".
 * Syntax errors - when a query is invalid, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear, telling you why GoldenCheetah failed to parse your query. 
 
-BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Overview)  
-BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
+BACK: [Special Topics: Overview](UG_Special-Topics_Overview)  
+BACK: [Table of contents](UG_Main-Page_Table-of-contents)

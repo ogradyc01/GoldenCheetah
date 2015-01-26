@@ -5,25 +5,25 @@ The 'Diary' view offers 'Chart Types' which work on a range of rides. The rides 
 
 _Note: Both selection criteria like the used date range (from 'Side Bar' settings) and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the general settings done in the 'Side Bar' are ignored in such cases._
 
-* [Metric Trends - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
-* [Collection Tree Map - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
-* [Critical Mean Maximal - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
-* [Distribution - same as 'Trends View'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
-* [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#calendar)
-* [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#navigator)
-* [Summary - same as 'Trends View' ] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
+* [Metric Trends - same as 'Trends View'](UG_ChartTypes_Trends#metric-trends)
+* [Collection Tree Map - same as 'Trends View'](UG_ChartTypes_Trends#collection-tree-map)
+* [Critical Mean Maximal - same as 'Trends View'](UG_ChartTypes_Trends#critical-mean-maximal)
+* [Distribution - same as 'Trends View'](UG_ChartTypes_Trends#distribution)
+* [Calendar](UG_ChartTypes_Diary#calendar)
+* [Navigator](UG_ChartTypes_Diary#navigator)
+* [Summary - same as 'Trends View' ](UG_ChartTypes_Trends#summary)
 
 ## Metric Trends
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
+Same as [Trends View](UG_ChartTypes_Trends#metric-trends)
 
 ## Collection Tree Map
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
+Same as [Trends View](UG_ChartTypes_Trends#collection-tree-map)
 
 ## Critical Mean Maximal
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+Same as [Trends View](UG_ChartTypes_Trends#critical-mean-maximal)
 
 ## Distribution
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
+Same as [Trends View](UG_ChartTypes_Trends#distribution)
 
 ## Calendar
 
@@ -31,7 +31,7 @@ Provides a full page / monthly / calendar view. Each ride you have done is shown
 
 You can choose an entry - which is then highlighted - and switch to the 'Rides' view for detailed analysis. Depending on your preferences, certain data field content is populated as calendar text.
 
-The data fields shown as calendar text are those where the check-box 'Diary' is checked. Configuration is done in [`Preferences -> Data Fields`] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data%20Fields)  
+The data fields shown as calendar text are those where the check-box 'Diary' is checked. Configuration is done in [`Preferences -> Data Fields`](UG_Preferences_Data%20Fields)  
 
 ## Navigator
 
@@ -41,6 +41,6 @@ The way how to add, remove and re-order of columns in the 'Navigator' works the 
 (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Rides%20view#rides---column-header)
 
 ## Summary
-Same as [Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
+Same as [Trends View](UG_ChartTypes_Trends#summary)
 
-BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
+BACK: [Chart Types: General](UG_ChartTypes_General)

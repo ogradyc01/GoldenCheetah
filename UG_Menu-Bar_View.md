@@ -19,7 +19,7 @@ The View menu provides a menu access to the
 * `Tabbed not Tiled` - toggles tabbed or tiled mode for the current view.
 
 
-BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
+BACK: [Menu Bar: Functions](UG_Menu-Bar_Functions)
 
 
 

@@ -5,8 +5,8 @@ Side Bar: Diary view (Version 3.2)
 
 The 'Side Bar' for the 'Diary' view offers two different panes - as illustrated above.
 
-* [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view#calendar)
-* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view#summary)
+* [Calendar](UG_Side-Bar_Diary-view#calendar)
+* [Summary](UG_Side-Bar_Diary-view#summary)
 
 ***
 
@@ -20,7 +20,7 @@ The summary shows a brief summary of your ride data for the time frame selected 
 
 _Note: The setting of day, weekly or monthly in the 'Summary' pane is also used when showing the diagrams in the 'Main View' of the 'Diary' view._
 
-BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_General-handling)
+BACK: [Side Bar: General](UG_Side-Bar_General-handling)
 
 
 

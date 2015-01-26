@@ -5,9 +5,9 @@ Side Bar: Rides view (Version 3.2)
 
 The 'Side Bar' for the 'Rides' view offers three different panes - as illustrated above.
 
-* [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#calendar)
-* [Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#rides)
-* [Intervals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#intervals)
+* [Calendar](UG_Side-Bar_Rides-view#calendar)
+* [Rides](UG_Side-Bar_Rides-view#rides)
+* [Intervals](UG_Side-Bar_Rides-view#intervals)
 
 ***
 
@@ -99,4 +99,4 @@ And you will have set of new intervals (based on your criteria) available.
 
 _Note: Interval information is stored with your ride data. So you need to save your ride if you want to keep you intervals._
 
-BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_General-handling)
+BACK: [Side Bar: General](UG_Side-Bar_General-handling)

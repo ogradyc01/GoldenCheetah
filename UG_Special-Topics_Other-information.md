@@ -19,4 +19,4 @@ The aim of the page is collect links to additional documents,... which are relat
 ...
 
 
-BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
+BACK: [Table of contents](UG_Main-Page_Table-of-contents)

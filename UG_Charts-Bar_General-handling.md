@@ -16,7 +16,7 @@ Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
 * `Menu Bar->View->Add Chart` brings up exactly the same list like the variant before.
 
 The different 'Chart Types', their availability for the different 'Scope Bar' views, and their configuration settings are explained here: 
-[Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
+[Chart Types](UG_ChartTypes_General)
 
 ### Configure Chart / Close Chart
 
@@ -28,7 +28,7 @@ Depending on the type of chart, one or many options available on 'More...". In o
 
 * `Close` - this is available for ANY chart: 'Close' removes the chart from the 'Charts Bar' after asking if you really want to do this.
 * `Export Chart Image...` - for charts which have graphics/plots: 'Export Chart Image...' opens a dialog to export the graphic/plot as a graphics file (in .png) format. The export basically creates an internal screenshot of the VISIBLE area of the 'Main View'. If your chart is bigger than the visible area, only the visible part will be exported.
-* `All Chart Settings` - for charts having specific settings, 'All Chart Settings' opens the chart type specific 'Chart Settings' dialog box. These dialog boxes have the same parameter like those when adding a chart. (See [Chart Types] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)  )
+* `All Chart Settings` - for charts having specific settings, 'All Chart Settings' opens the chart type specific 'Chart Settings' dialog box. These dialog boxes have the same parameter like those when adding a chart. (See [Chart Types](UG_ChartTypes_General)  )
 
 ![Chart Bar More 2](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ChartsBar_Rides_More.jpg)
 
@@ -36,15 +36,15 @@ _Note: For some of the chart types, an accelerated access of their most common c
 
 ### Reset Layout
 
-Last function associated to charts is the `Reset Layout` option. This function is accessed through the 'Menu Bar' only. So please check [Menu Bar: View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_View)
+Last function associated to charts is the `Reset Layout` option. This function is accessed through the 'Menu Bar' only. So please check [Menu Bar: View](UG_Menu-Bar_View)
 
 ### Change Chart Order 
 
-Changing the order of the charts in the 'Charts Bar' is possible. The re-sorting has to take place in the "Tiled" view of the charts. This view can be switched on (as one option) through the [Tool Bar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Tool%20Bar_Functions)
+Changing the order of the charts in the 'Charts Bar' is possible. The re-sorting has to take place in the "Tiled" view of the charts. This view can be switched on (as one option) through the [Tool Bar](UG_Tool%20Bar_Functions)
 
 When being in the 'Tiled' view it's possible to "drag&drop" the charts into a new order. The section to "drag" is the header line / chart name. The section to "drop" is the separator section between the two chart where you want to 'dragged' chart to be moved to.
 
 Changes in the 'Tiled' view are also considered in the 'Charts Bar' view.
 
-BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
+BACK: [General UI](UG_General_UI-Layout-and-terminology)
 

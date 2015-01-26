@@ -35,5 +35,5 @@ _Note_: STS and LTS values are stored per athlete._
 
 * `Workout Library` - Directory to store the 'Train' view related files,... 
 
-BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
+BACK: [Preferences: Overview](UG_Preferences_Overview)
 

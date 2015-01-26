@@ -19,4 +19,4 @@ When pressing `Save` on the info popup after changing the 'Athlete Library', Gol
 
  _Note: It is recommended to either use only one athlete library OR if you need multiple athlete libraries, to use different athlete names - even across the libraries. Reason is that parts of the preferences of GoldenCheetah is currently stored 'per athlete', but not 'per library/athlete'. If you use the same athlete name in multiple libraries, this athlete will share the athlete dependent preferences, but not the same rides,..._
 
-BACK: [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide)
+BACK: [Overview](UG_Main-Page_Users-Guide)
