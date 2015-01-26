@@ -13,22 +13,22 @@ Preferences provide multiple configuration views, which are selected through the
 General setting of Golden Cheetah. More details: 
 
 * [General] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General)
-* [Athlete Library](UG_Special-Topics_Setting-the-athlete-library)
-* [Weight settings](UG_Special-Topics_Weight-settings) 
+* [Athlete Library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
+* [Weight settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
 
 ### Athlete
 
 Athlete specific settings - configured for your currently active athlete. More details: 
 
 * [Athlete] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
-* [Training Zones](UG_Preferences_Athlete_Training-Zones)
+* [Training Zones] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
 
 
 ### Passwords
 
 Athlete specific definition of websites and passwords for data upload and download. More details: 
 
-* [Upload and Download from and to external web-sites](UG_Special-Topics_Upload_Download-to_from-external-web-sites)
+* [Upload and Download from and to external web-sites] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites)
 
 _Note: Data of this view is stored separate per athlete_
 
@@ -56,7 +56,7 @@ Here you maintain your device(s) for the 'Train' view :
 
 * [Train Devices] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Train Devices)
 
-BACK: [Table of contents](UG_Main-Page_Table-of-contents)
+BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
 
 
 

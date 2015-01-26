@@ -5,17 +5,17 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
 The 'Data Fields' preferences cover three different areas:
 
-* [Fields](UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional ride data and to add/overwrite ride data.
+* [Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional ride data and to add/overwrite ride data.
 
-* [Notes Keywords](UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Rides' view.
+* [Notes Keywords] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Rides' view.
 
-* [Processing](UG_Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
+* [Processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
 
 ### Fields
 
 ![Preferences - Datafields - Fields] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Fields.jpg)
 
-The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart](UG_ChartTypes_Rides#details).
+The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details).
 
 * `Screen Tab` - groups the fields on different tabs 
 * `Field` - name of the field - there are 2 cases to consider (1) you to add a completely new field: then make sure that it has a name, which is not used elsewhere in GoldenCheetah (2) you want to make an existing field of GoldenCheetah editable, then please use exactly the field name here and make sure that you assign the correct field type
@@ -48,6 +48,6 @@ new in 3.11
 
 ![Preferences - Datafields - Processing] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
 
-GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Ride processing](UG_Special-Topics_Ride-Processing)
+GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Ride processing] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing)
 
-BACK: [Preferences: Overview](UG_Preferences_Overview)
+BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)

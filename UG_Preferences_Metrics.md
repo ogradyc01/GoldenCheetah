@@ -16,4 +16,4 @@ Here you define which metrics are shown in 'Bests', 'Summary' and 'Interval' met
 
 
 
-BACK: [Preferences: Overview](UG_Preferences_Overview)
+BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)

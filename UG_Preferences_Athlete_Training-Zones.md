@@ -92,7 +92,7 @@ Input fields are:
 
 
 
-Back: [Preferences: Athlete](UG_Preferences_Athlete)
+Back: [Preferences: Athlete] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
 
 
 

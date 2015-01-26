@@ -2,23 +2,23 @@
 
 
 The main focus of this new GoldenCheetah User's Guide is to describe the features and functions provided by Golden Cheetah:
-* [the steps a new user has to do when starting](UG_First Steps_What you need to do)
+* [the steps a new user has to do when starting](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_What you need to do)
 * [general UI structure and concepts]
-(UG_General_UI Layout and terminology)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI Layout and terminology)
 * [what different views are provided]
-(UG_ScopeBar_Views)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ScopeBar_Views)
 * [which chart type(s) which are available per view]
-(UG_ChartTypes_General)
-* [how-to configure / set preferences](UG_Preferences_Overview)
-* [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)](UG_Special Topics_Overview)
-* [country specific information (e.g. related to who things are translated)](UG_Translation_GeneralInformation)
+(https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
+* [how-to configure / set preferences] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
+* [special topics - which either functions used in multiple places or important features worth an own Wiki page (e.g Search/Filter)] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Overview)
+* [country specific information (e.g. related to who things are translated)](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Translation_GeneralInformation)
 * [other sources of information](http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Other information)
 
 And here a link the 'Table of Contents' of this user guide:
 
-* [Table of Contents](UG_Main-Page_Table-of-contents)
+* [Table of Contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
 
-Still can't find it? Try the [Site Map](UG_Site-Map
+Still can't find it? Try the [Site Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map
 )  
 
 There are some assumptions taken regarding what this guides is NOT. It's

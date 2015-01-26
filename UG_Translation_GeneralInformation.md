@@ -32,7 +32,7 @@ _Note: Please be aware that the development framework may create some unexpected
 
 ### Country specifics
 
-* [Deutsch / German](UG_Translation_German)
+* [Deutsch / German] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Translation_German)
 * ...
 
-BACK: [Table on contents](UG_Main-Page_Table-of-contents)
+BACK: [Table on contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)

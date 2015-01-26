@@ -12,8 +12,8 @@ You can see all athletes available in your athlete library when choosing `Open W
 
 You can also create a new ahtlete in the active athlete library here. The other functions (Close, Quit) are self-explanatory. 
 
-For further details on "Athlete library" read [Setting the athlete library](UG_Special-Topics_Setting-the-athlete-library)
+For further details on "Athlete library" read [Setting the athlete library] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
 
-BACK: [Menu Bar: Functions](UG_Menu-Bar_Functions)
+BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
 
 

@@ -8,4 +8,4 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 ... work in progress - will be added based on Version 3.11 ...
 
 
-BACK: [Preferences: Overview](UG_Preferences_Overview)
+BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)

@@ -31,6 +31,6 @@ _Note: Comparison views have been implemented for most of the charts - but only 
 * Trends view - pre-defined columns are 'Athlete', 'From', 'To', 'Duration' and 'Distance'. The other data fields are those metrics defined in `Preferences->Data Fields->Summary`.
 * Rides view - pre-defined columns are 'Athlete', 'Date', 'Time', 'Duration' and 'Distance'. The other data fields are those metrics defined in `Preferences->Data Fields->Intervals`.
 
-BACK: [General UI](UG_General_UI-Layout-and-terminology)
+BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
 
 

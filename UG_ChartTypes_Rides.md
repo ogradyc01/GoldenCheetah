@@ -3,19 +3,19 @@ Chart Types: Rides view (Version 3.1)
 
 The 'Rides' view offers 'Chart Types' which work on a single ride. The ride in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Rides' pane, but also by selecting a ride on the 'Navigator' or 'Calendar' on the 'Diary' view.
 
-* [Ride Summary](UG_ChartTypes_Rides#ride-summary)
-* [Details](UG_ChartTypes_Rides#details)
-* [Summary and Details](UG_ChartTypes_Rides#summary-and-details)
-* [Editor](UG_ChartTypes_Rides#editor)
-* [Performance](UG_ChartTypes_Rides#performance)
-* [Critical Mean Maximals - similar to 'Trends View' - for a single ride](UG_ChartTypes_Trends#critical-mean-maximal)
-* [Histogram](UG_ChartTypes_Rides#histogram)
-* [Pedal Force vs Velocity](UG_ChartTypes_Rides#pedal-force-vs-velocity)
-* [Heartrate vs Power](UG_ChartTypes_Rides#heartrate-vs-power)
-* [Google Map / Bing Map](UG_ChartTypes_Rides#google-map--bing-map)
-* [2d Plot](UG_ChartTypes_Rides#2d-plot)
-* [3d Plot](UG_ChartTypes_Rides#3d-plot)
-* [Aerolab Chung Analysis](UG_ChartTypes_Rides#aerolab-chung-analysis)
+* [Ride Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary)
+* [Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details)
+* [Summary and Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#summary-and-details)
+* [Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
+* [Performance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#performance)
+* [Critical Mean Maximals - similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+* [Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#histogram)
+* [Pedal Force vs Velocity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#pedal-force-vs-velocity)
+* [Heartrate vs Power] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#heartrate-vs-power)
+* [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#google-map--bing-map)
+* [2d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#2d-plot)
+* [3d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#3d-plot)
+* [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#aerolab-chung-analysis)
 
 ## Ride Summary
 A summary chart has a fixed structure, which displays a summary about the current ride you a looking at.
@@ -29,7 +29,7 @@ A summary chart has a fixed structure, which displays a summary about the curren
 
 The ride 'Details' allow to view, change and enter ride specific data. Some of the fields are pre-populated based on the ride file data (e.g. 'Start Date' and 'Start Time').
 
-The fields available in 'Details' are mainly determined by the configuration done in [Preferences->Data Fields](UG_Preferences_Data%20Fields#fields)
+The fields available in 'Details' are mainly determined by the configuration done in [Preferences->Data Fields] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data%20Fields#fields)
 
 Here the 'Workout' Tab as an example to show the relationship between configuration and input fields:
 
@@ -76,7 +76,7 @@ Some important fields are:
 
 ## Summary and Details
 
-Combines [Summary](UG_ChartTypes_Rides#ride-summary) and [Details](UG_ChartTypes_Rides#details) in one chart.
+Combines [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary) and [Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details) in one chart.
 
 ## Editor
 
@@ -237,7 +237,7 @@ _Note: References Lines are not supported for any non-power related chart like e
 
 ## Critical Mean Maximal
 
-[Similar to 'Trends View' - for a single ride](UG_ChartTypes_Trends#critical-mean-maximal)
+[Similar to 'Trends View' - for a single ride] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
 
 ## Histogram
 
@@ -355,4 +355,4 @@ The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation 
 For the theory on this, sample test protocols for the power/ride file you need for an analysis see [Dr Chung's document describing the theory and practice of 'Virtual Elevation'](https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/contrib/ChungVE.pdf?raw=true).
 
 
-BACK: [Chart Types: General](UG_ChartTypes_General)
+BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
