@@ -5,7 +5,7 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
 Here you configure central parameters which are used by GoldenCheetah in different places. 
 
-![Preferences General] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesGeneral.jpg)
+![Preferences General](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesGeneral.jpg)
 
 *  `Language` - this is the language the GoldenCheetah UI comes up. When changing the language this is only taking effect with the next start of GoldenCheetah. When you start GoldenCheetah for the first time on your PC, the system locale (usually the language your operating system is set up) is used as default.
 
@@ -35,5 +35,5 @@ _Note_: STS and LTS values are stored per athlete._
 
 * `Workout Library` - Directory to store the 'Train' view related files,... 
 
-BACK: [Preferences: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
+BACK: [Preferences: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
 

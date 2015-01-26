@@ -3,7 +3,7 @@ Special Topics: Ride Processing (Version 3.2)
 
 GoldenCheetah provides a number of tools to fix/adjust/correct ride data. The adjustments can either be executing manually for a specific ride, or automatically during import of rides.
 
-The configuration of the available tools is done in ['Preferences' -> 'Data Fields'] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing)
+The configuration of the available tools is done in ['Preferences' -> 'Data Fields'](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing)
 
 * If you set a tool to 'Manual' in the preferences, you have to run it manually per ride through `Tools-><name of the tool>`. The values set in preferences then are taken as defaults, which you can still override in a dialog box, when running the tool.
 
@@ -19,7 +19,7 @@ Any changes to the ride data done by the tools explained below, are not immediat
 
 * 'Revert to Saved version' - on the 'Side Bar' -> 'Rides' pane, the context menu changes when ride data has changed - it then also offers a 'Revert to saved version' function.
 
-* 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have an explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which can then be used to get back to the version of data before running the tool. You can also 'Redo' the changes - which re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
+* 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have an explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which can then be used to get back to the version of data before running the tool. You can also 'Redo' the changes - which re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
 
 ## Edit tool: Add Torque
 
@@ -91,4 +91,4 @@ It takes the following parameters:
 * `Absolute Max` - this defines an absolute value for watts, and will smooth any values above this absolute value that have been identified as being anomalies (i.e. at odds with the data surrounding it)
 * `Variance (%)` - this will smooth any values which are higher than this percentage of the rolling average wattage for the 30 seconds leading up to the spike.
 
-BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Overview)
+BACK: [Special Topics: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Overview)

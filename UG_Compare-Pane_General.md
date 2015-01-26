@@ -11,7 +11,7 @@ The handling of the compare pane is the same for both views, here the common con
 
 The selection of data to be compared works in same way for 'Rides', 'Intervals' and 'Date Ranges'. It's a "Drag&Drop" concept - as shown below. You do not even need to open the 'Compare Pane', but just "Drag&Drop" the first item to compare to the bottom of the 'Main View':
 
-![Compare Pane: Drag & Drop] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ComparePane_DragDrop.gif)
+![Compare Pane: Drag & Drop](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ComparePane_DragDrop.gif)
 
 _Note: You can select items ('Rides', 'Intervals' and 'Date Ranges') not only from the athlete you are currently working with, but also from other athletes - for this you need to open the other athlete in a separate window to be able to "drag&drop" items._
 
@@ -24,13 +24,13 @@ _Note: You can select items ('Rides', 'Intervals' and 'Date Ranges') not only fr
 
 _Note: Comparison views have been implemented for most of the charts - but only for those, where a comparison makes sense. E.g. there is no comparison for the Google/Bing map chart._
 
-![Compare Pane] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ComparePane_Pane.jpg)
+![Compare Pane](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ComparePane_Pane.jpg)
 
 ## Columns in the compare pane
 
 * Trends view - pre-defined columns are 'Athlete', 'From', 'To', 'Duration' and 'Distance'. The other data fields are those metrics defined in `Preferences->Data Fields->Summary`.
 * Rides view - pre-defined columns are 'Athlete', 'Date', 'Time', 'Duration' and 'Distance'. The other data fields are those metrics defined in `Preferences->Data Fields->Intervals`.
 
-BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
+BACK: [General UI](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
 
 

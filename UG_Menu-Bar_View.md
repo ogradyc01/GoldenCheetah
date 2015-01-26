@@ -1,7 +1,7 @@
 Menu Bar: View (Version 3.1)
 ***
 
-![View Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_View_TrendsCharts.jpg)
+![View Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_View_TrendsCharts.jpg)
 
 The View menu provides a menu access to the 
 
@@ -19,7 +19,7 @@ The View menu provides a menu access to the
 * `Tabbed not Tiled` - toggles tabbed or tiled mode for the current view.
 
 
-BACK: [Menu Bar: Functions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
+BACK: [Menu Bar: Functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
 
 
 

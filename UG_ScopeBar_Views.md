@@ -1,7 +1,7 @@
 Scope Bar: Views (Version 3.2)
 ***
 
-![Scope Bar] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ScopeBar_Views.jpg)
+![Scope Bar](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ScopeBar_Views.jpg)
 
 The 'Scope Bar' provides access to the 'Main View' variants GoldenCheetah is offering. Each view has a specific purpose and therefore specific capabilities. The general layout and UI for all views is following the same pattern. Still there are differences, which are important to understand when using GoldenCheetah:
 
@@ -13,9 +13,9 @@ _Note: A very useful new feature in 3.1 in 'Trends' is the ability to 'Compare' 
 
 To get more insides in 'Trends' please check:
 
-1. [Side Bar for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view)
-2. [Chart Types for Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
-3. [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
+1. [Side Bar for Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view)
+2. [Chart Types for Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
+3. [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
 
 ## Diary
 
@@ -25,8 +25,8 @@ _Note: Diary does not provide a 'Compare Pane', so the respective menu function 
 
 To get more insides in 'Diary' please check:
 
-1. [Side Bar for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view)
-2. [Chart Types for Diary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary)
+1. [Side Bar for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view)
+2. [Chart Types for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary)
 
 ## Rides
 
@@ -36,12 +36,12 @@ _Note: A very useful new feature in 3.1 in 'Rides' is the ability to 'Compare' t
 
 To get more insides in 'Rides' please check:
 
-1. [Side Bar for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view)
-2. [Chart Types for Rides] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides)
-3. [Compare Pane] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
+1. [Side Bar for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view)
+2. [Chart Types for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides)
+3. [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
 
 ## Train
 
 ... work in progress - will be updated after the planned rework is done ...
 
-BACK: [General UI] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
+BACK: [General UI](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)

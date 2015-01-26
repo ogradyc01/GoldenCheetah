@@ -16,13 +16,13 @@ The input box for 'Search/Filter' functionality contains multiple functions. It 
 
 _Note: Please do always check if you have chosen the right type for your query 'Search' or 'Filter' as they have a slightly different query syntax and purpose._
 
-![Search Filter - UI] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_UI.gif)
+![Search Filter - UI](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_UI.gif)
 
 ### Manage Filters (Manage Queries)
 
 You can create and store 'Search' and 'Filter' queries using the 'Manage Filters' menu. Queries stored here  appear in the drop-down menu for faster access.
 
-![Search Filter - ManageFilters] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_ManageFilters.jpg)
+![Search Filter - ManageFilters](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_ManageFilters.jpg)
 
 * `Add`- adds the query defined in the Name/Filter input field to the list
 * `Update` - updates an existing query with changes from Name/Filter input fields
@@ -34,7 +34,7 @@ _Note: Please be sure to use the correct query type (Search/Filter)._
 
 You can always just enter the query into the text field and press `Enter` to run the query. Or use a pre-defined queries which applies directly and saves the time of typing.
 
-![Search Filter - Apply/Remove] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_Apply_Remove.gif)
+![Search Filter - Apply/Remove](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Search_Filter_Apply_Remove.gif)
 
 _Note:To de-activate a 'Search/Filter' query, just click on the little (x) on the right side of the input field._
 
@@ -169,5 +169,5 @@ The supported `<metric>` are e.g. `TSS`, and the similar ones.
 * Some technical fields are also not supported - when you enter such a field with the 'Column Chooser' you will get a 'syntax error' e.g. "field not known".
 * Syntax errors - when a query is invalid, the query input field text color changes to "red". By clicking at any part of the query text with your mouse and waiting a short moment, an error text will appear, telling you why GoldenCheetah failed to parse your query. 
 
-BACK: [Special Topics: Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Overview)  
-BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
+BACK: [Special Topics: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Overview)  
+BACK: [Table of contents](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)

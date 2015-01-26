@@ -12,39 +12,39 @@ _Note 2: The configuration of a chart is stored (with the chart) when a chart is
 
 ## Trends
 
-* [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
-* [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
-* [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-critical-mean-maximal)
-* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
-* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
+* [Metric Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
+* [Collection Tree Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
+* [Critical Mean Maximal](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-critical-mean-maximal)
+* [Distribution](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
+* [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
 
 
 ## Diary
 
-* [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#metric-trends)
-* [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#collection-tree-map)
-* [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#critical-mean-maximal)
-* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#distribution)
-* [Calendar] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#calendar)
-* [Navigator] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#navigator)
-* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#summary)
+* [Metric Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#metric-trends)
+* [Collection Tree Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#collection-tree-map)
+* [Critical Mean Maximal](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#critical-mean-maximal)
+* [Distribution](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#distribution)
+* [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#calendar)
+* [Navigator](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#navigator)
+* [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#summary)
 
 ## Rides
 
-* [Ride Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary)
-* [Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details)
-* [Summary and Details] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#summary-and-details)
-* [Editor] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
-* [Performance] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#performance)
-* [Critical Mean Maximals] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#critical-mean-maximals)
-* [Histogram] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#histogram)
-* [Pedal Force vs Velocity] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#pedal-force-vs-velocity)
-* [Heartrate vs Power] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#heartrate-vs-power)
-* [Google Map / Bing Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#google-map--bing-map)
-* [2d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#2d-plot)
-* [3d Plot] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#3d-plot)
-* [Aerolab Chung Analysis] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#aerolab-chung-analysis)
+* [Ride Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary)
+* [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details)
+* [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#summary-and-details)
+* [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
+* [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#performance)
+* [Critical Mean Maximals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#critical-mean-maximals)
+* [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#histogram)
+* [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#pedal-force-vs-velocity)
+* [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#heartrate-vs-power)
+* [Google Map / Bing Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#google-map--bing-map)
+* [2d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#2d-plot)
+* [3d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#3d-plot)
+* [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#aerolab-chung-analysis)
 
-BACK: [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
+BACK: [Table of contents](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
 
 

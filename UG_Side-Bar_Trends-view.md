@@ -1,15 +1,15 @@
 Side Bar: Trends view (Version 3.2)
 ***
 
-![SideBar General] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Trends.jpg)
+![SideBar General](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar_Trends.jpg)
 
 The 'Side Bar' for the 'Trends' view offers five different panes - as illustrated above.
 
-* [Date Ranges] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#date-ranges)
-* [Events] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#events)
-* [Filters] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#filters)
-* [Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts)
-* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#summary)
+* [Date Ranges](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#date-ranges)
+* [Events](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#events)
+* [Filters](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#filters)
+* [Charts](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts)
+* [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#summary)
 
 ***
 
@@ -21,19 +21,19 @@ You can add you own data ranges - also called 'Seasons' in multiple ways.
 
 * Pane Header Menu (all options)
 
-![Add Season - Border Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season1.jpg)
+![Add Season - Border Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season1.jpg)
 
 * Context Menu - predefined seasons (only Add is possible)
 
-![Add Season - Border Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season2.jpg)
+![Add Season - Border Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season2.jpg)
 
 * Context Menu - user defined seasons (all options)
 
-![Add Season - Border Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season3.jpg)
+![Add Season - Border Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season3.jpg)
 
 In all cases, `Add Season` opens a popup to define your new season:
 
-![Add Season - Details] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season_Details.jpg)
+![Add Season - Details](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Date_Range-Add_Season_Details.jpg)
 
 * `Name` - your season name
 * `Type` - currently 3 types are possible (Season, Cycle, Ad-hoc) - as of now they are for information purpose only, there is no functionality associated
@@ -58,15 +58,15 @@ Events are single dates which can be races,etc. Events are created and maintaine
 
 * `Pane Header Menu` - allows only to create events - the 'Season' for such an event is the actual selected season in the 'Date Range' pane. The popup does not appear/function is not possible, if the currently selected 'Date Range' is a system pre-defined range. (Events can only be created for user-defined seasons.)
 
-![Add Event - Border Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event-Add.jpg)
+![Add Event - Border Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event-Add.jpg)
 
 * `Context Menu of an existing event` - allows to Delete and Edit the selected event, but also to add a new event.
 
-![Add Event - Border Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event-Menu.jpg)
+![Add Event - Border Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event-Menu.jpg)
 
 In all cases, `Add Event` opens a popup to define your new event:
 
-![Add Event - Details] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event_Details.jpg)
+![Add Event - Details](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Event_Details.jpg)
 
 * `Name` - your event name
 * `Date` - the date of the event
@@ -76,7 +76,7 @@ In all cases, `Add Event` opens a popup to define your new event:
 
 Filtering via the 'Side Bar' is one of multiple ways, how you can select the rides, which are then analysed in the 'Trends View'. The special feature of filtering in the 'Side Bar', compared to other filtering options is, the 'Auto Filter' provided here:
 
-![Filters - Menu] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Filters_Settings.jpg)
+![Filters - Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Filters_Settings.jpg)
 
 * Section 'Filters' - shows the list of your predefined filter queries - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the data of rides which fulfill ALL filter rules is considered in a chart.
 
@@ -90,26 +90,26 @@ _Note: All fields which are of type "ShortText" or "Text" in the 'Preferences->D
 
 * `Manage Filters` - open a dialog box which allows to create your own filter queries (the filter queries created here are available for all GoldenCheetah Filter functions)
 
-![Filters - Manage] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Filters_Manage.jpg)
+![Filters - Manage](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Filters_Manage.jpg)
 
-Further information on filtering can be found under: [Filtering/Searching] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter)
+Further information on filtering can be found under: [Filtering/Searching](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter)
 
 
 ## Charts
 
 The 'Charts' section is new with 3.1. It provides a different way to access the charts which are shown in the 'Main View' without having the need to add every single chart to the 'Charts Bar'.
 
-![SideBar - Charts] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar-Charts.jpg)
+![SideBar - Charts](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/SideBar-Charts.jpg)
 
 The 'Side Bar - Charts' only take effect if you use a special chart (Default - "Library") on the main view. If you display any other chart on the 'Main View', selection of a chart in the 'Side Bar - Charts' has no effect.
 
 Here the configuration of the 'Library' Chart:
 
-![SideBar - Library] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Sidebar-Chart-Library.jpg)
+![SideBar - Library](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Sidebar-Chart-Library.jpg)
 
 
 ## Summary
 
-This pane is a simple display pane, providing a summary view of the rides selected. The data shown honors both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Metrics)
+This pane is a simple display pane, providing a summary view of the rides selected. The data shown honors both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Metrics)
 
-BACK: [Side Bar: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_General-handling)
+BACK: [Side Bar: General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_General-handling)

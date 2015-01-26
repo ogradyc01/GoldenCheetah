@@ -1,7 +1,7 @@
 Special Topics: Setting the athlete library (Version 3.2)
 ***
 
-Overall GoldenCheetah configuration is explained here: [Preferences: Overview] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
+Overall GoldenCheetah configuration is explained here: [Preferences: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
 
 A special setting when starting with GoldenCheetah is setting your 'Athlete Library'. This library is actually a directory in your file system. You can either enter a directory name manually in the entry field next to 'Athlete Library' or you use `Browse` to select one.
 
@@ -9,7 +9,7 @@ When changing your library, the athlete(s) of your current library (in case of a
 
 _Select:_ `Menu Bar -> Help -> About GoldenCheetah` - this opens a dialog box similar to the one below, which shows the path of your currently active 'Athlete Library'
 
-![Help - About] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Help_About.JPG)
+![Help - About](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Help_About.JPG)
 
 When changing your 'Athlete Library' path, GoldenCheetah is not removing your old 'Athlete Library' or deleting any athlete data stored in it. After changing your 'Athlete Library' you can always switch back to the previous one, but there is currently no feature to move or copy athletes from one library to another.
 
@@ -19,4 +19,4 @@ When pressing `Save` on the info popup after changing the 'Athlete Library', Gol
 
  _Note: It is recommended to either use only one athlete library OR if you need multiple athlete libraries, to use different athlete names - even across the libraries. Reason is that parts of the preferences of GoldenCheetah is currently stored 'per athlete', but not 'per library/athlete'. If you use the same athlete name in multiple libraries, this athlete will share the athlete dependent preferences, but not the same rides,..._
 
-BACK: [Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide)
+BACK: [Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide)

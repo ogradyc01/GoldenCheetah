@@ -5,11 +5,11 @@ The 'Trends' view offers 'Chart Types' which work on a range of rides. The rides
 
 _Note: Both selection criteria 'Date Range' and 'Search/Filter' can also be configured within a concrete chart of the 'Chart' bar. This means the more general settings of the 'Side Bar' are ignored in such cases._
 
-* [Metric Trends] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
-* [Collection Tree Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
-* [Critical Mean Maximal] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
-* [Distribution] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
-* [Summary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
+* [Metric Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#metric-trends)
+* [Collection Tree Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#collection-tree-map)
+* [Critical Mean Maximal](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+* [Distribution](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#distribution)
+* [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
 
 ## Metric Trends
 
@@ -19,10 +19,10 @@ The long term metrics provided by the 'Metrics Trends' covers all pre-defined me
 
 The first screen of the dialog box to add a 'Metric Trends' chart are the basic settings. To ease the configuration, you will see the results of your configuration already in the 'Preview' section on the left side of the dialog box. This simplifies configuration without a lot navigation between the settings and the resulting chart.
 
-![Metric Trends - New Basic] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Basic.jpg)
+![Metric Trends - New Basic](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Basic.jpg)
 
-* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
-* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+* [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+* [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * `Group by` - defines the default grouping setting of the metrics - you can interactively change the grouping when displaying the chart
 * `Data Table` - if checked, not curves, but a table with the data / curve values used is shown
 * `Show Stack` - if checked, the different curves are shown separately one above the other (see also 'Stack Zoom')
@@ -35,7 +35,7 @@ The first screen of the dialog box to add a 'Metric Trends' chart are the basic 
 
 GoldenCheetah comes with a number of 'Presets' for your charts - when creating a new 'Athlete' the presets are taken over to the athlete's library - and from that point on, any changes, enhancements of this presets are athlete specific.
 
-![Metric Trends - New Basic] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
+![Metric Trends - New Basic](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Preset.jpg)
 
 The 'Presets' view of the dialog box is multi-functional, so besides using a 'Preset' to configure a new chart, the dialog box offers a full set of 'Preset' administration functions.
 
@@ -48,7 +48,7 @@ The 'Presets' view of the dialog box is multi-functional, so besides using a 'Pr
   * `Move Up` - moves the selected preset 'up' in the list
   * `Move Down` - moves the selected preset 'down' in the list
 
-_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your personal list of presets / charts for this view. (see [Side Bar - Trends View] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))_
+_Note: Since the presets available here are also used in the 'Library' chart, these functions can be helpful to setup your personal list of presets / charts for this view. (see [Side Bar - Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))_
 
 * Get more presets
   * `Import...` - imports an XML File with presets - the imported presets are ADDED to the current preset - the import does not check of duplicates,... (_Note: since the file format of the XML is specific to GoldenCheetah and also contains "serialized" for certain configuration settings, manual creation of a valid XML file is not recommended (and will most likely not work)_)
@@ -59,13 +59,13 @@ _Note: Since the presets available here are also used in the 'Library' chart, th
 
 The curves are what is actually shown on the charts. The curves can either come from presets, or are defined here by adding them. Also editing / adjustments of existing curves is possible.
 
-![Metric Trends - New Curves] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve.jpg)
+![Metric Trends - New Curves](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve.jpg)
 
 * `Edit` - changes the settings of the selected curve
 * `+` - opens the dialog to add a new curve
 * `-` - removes a curve
 * `Up`, `Down` (or `Arrows`) - move the metric up/down within the list - this is useful mainly in "Stack" view, since the sequence of metrics in this list determines the sequence in the stack
-* `User sidebar chart settings` - if checked, any curve settings are ignored, and the created chart serves as a proxy for the [Side Bar - Charts] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))
+* `User sidebar chart settings` - if checked, any curve settings are ignored, and the created chart serves as a proxy for the [Side Bar - Charts](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view#charts))
 
 ### Curves Details
 
@@ -73,40 +73,40 @@ The curves are what is actually shown on the charts. The curves can either come 
 
 'Metric's are pre-defined in GoldenCheetah. Each metric determines the data to be shown in the curve/diagram.
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
+![Metric Trends - New Curve - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit.jpg)
 
-For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
 ### Curves - Details - Best
 
 'Best's are user-defined metrics. 'Best' delivers curves which show the best value / for a defined period in time / for a defined data series.
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
+![Metric Trends - New Curve - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Best.jpg)
 
 Supported data series are visible in the drop-down list - starting with `Power`,...
 
-For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
 
 ### Curves - Details - Estimates
 
 'Estimate's are metric curves derived based on the CP models.
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
+![Metric Trends - New Curve - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Estimates.jpg)
 
 As parameter you need to choose the CP model to use and the data series to estimate on that model. Since not all models support all data series, depending on the selected model, some data series cannot be selected.
 
-For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
 ### Curves - Details - Stress
 
 'Stress' metrics allows to have user defined stress metric (like Long Term Stress, Short Term Stress, Stress Balance and Stress Ramp Rate) depending on any other metric as an input parameter. So you can e.g. define a Stress Metric which only considers "Duration" if you training as an input parameter - (probably not the best example - but just to illustrate the option). 
 
-![Metric Trends - New Curve - Metric] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Stress.jpg)
+![Metric Trends - New Curve - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Edit_Stress.jpg)
 
 As parameter you need to choose the metric for which the Stress shall be calculated and the `Stress Type` which shall be calculated for the selected metric.
 
-For the further settings see: [Curve Settings] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
+For the further settings see: [Curve Settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
 ## Collection Tree Map
 
@@ -124,27 +124,27 @@ _Note2: Unlike 'Search/Filter' the field content is treated as 'Case Sensitive'_
 
 The example summarizes 'TSS' values, first by 'Workout Code' and second by 'Keywords' (which in the example data was to defined the bicycle used for a workout).
 
-![Collection Tree Map - First] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
+![Collection Tree Map - First](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_First.jpg)
 
-![Collection Tree Map - Second] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_Second.jpg)
+![Collection Tree Map - Second](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_Second.jpg)
 
 ***
 
 If you do a 'Mouse-Click' on one of the tiles, the list of rides which added up to this tile are shown - together with their metric values. You can scroll through the list to get some ride detail information displayed.
 
-![Collection Tree Map - Rides] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
+![Collection Tree Map - Rides](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
 
 
 ## Critical Mean Maximal
 
 This curve, also called 'MMP' curve is again one of the central and assumed 'Standard' ways for analyzing power. Here only the handling / available option are described.
 
-![CP] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
+![CP](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_Basic.jpg)
 
 As in most other charts, also here you have several options, and the options partly relate to each other. Knowing which combinations are supported (and also which not) - is important to maximize the use of the chart.
 
-* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
-* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+* [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+* [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Date Range' which are then considered in the 'Bests' calculation._
 * `Data series `- here you have multiple sets of data which can be analyzed in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series').
 * `Power Shading `- if checked, shows the power zones, along the curve. Only has effect for 'Data Series' = 'Power'.
@@ -155,7 +155,7 @@ _Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, wher
 * `Show curve heat by date` - ...
 * `Shade Intervals` - only for single rides on the 'Rides' view - shows separate curves for an interval, if you select it on the 'Side Bar' - multiple selection of intervals is possible
 
-![CP Model] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
+![CP Model](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
 You can show the theoretical CP curve, based on one of GoldenCheetah's models, by going to the `CP Model` tab in the configuration, selecting one of the available models and either using the default parameters (of the model) or adjusting them to your needs.
 
@@ -163,12 +163,12 @@ You can show the theoretical CP curve, based on one of GoldenCheetah's models, b
 
 This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' in different dimensions. 
 
-![Distribution - Ride Data] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
+![Distribution - Ride Data](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
 
 When choosing 'Ride Data Samples' the selected data series applies to the X-Axis, where the time is shown on the Y-Axis:
 
-* [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
-* [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+* [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+* [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * 'Plot' section 
   * `Ride Data Samples` has to be checked for this variant
   * `Data Series Box` - Selection of available ride data series
@@ -186,7 +186,7 @@ _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the 
 
 ***
 
-![Distribution - Ride Metrics] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
+![Distribution - Ride Metrics](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
 
 When choosing 'Ride Metrics' you can select both X-Axis and Y-Axis metrics from the provided lists. Besides the metrics the only other parameter is the `Color` for drawing and the `Bin width` (like before).
 
@@ -202,13 +202,13 @@ A summary chart is chart with fixed structure, which displays a summary about th
   * "##" Rides - ride list - the fields shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
 
 * Configuration of 'Summary' chart itself offers:
-  * [Filter] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
-  * [Date Range] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
+  * [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
+  * [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 
 
 ## Date Range Selection
 
-![Date Range] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
+![Date Range](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/ChartsGeneral_DateRange.jpg)
 
 * `Current selection` - uses the date range active in the 'Date Ranges' pane of the 'Side Bar'
 * `Current selection thru today` - uses the date range active, (like the one before), but limits the 'to-date' to the current date
@@ -222,7 +222,7 @@ A summary chart is chart with fixed structure, which displays a summary about th
 
 The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' curve is plotted in your diagram. 
 
-![Curve - Settings] (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Details.jpg)
+![Curve - Settings](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MetricTrends_New_Curve_Details.jpg)
 
 * General
   * `Name` - is a user defined name for the curve 
@@ -246,4 +246,4 @@ The 'Curve' settings configure how a 'Metric', 'Best', or 'Estimate' curve is pl
 
 ***
 
-BACK: [Chart Types: General] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
+BACK: [Chart Types: General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)

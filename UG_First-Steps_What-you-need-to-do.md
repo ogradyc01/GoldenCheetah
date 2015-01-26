@@ -11,7 +11,7 @@ In addition to minimum there is some configuration you should look at and config
 ### Important settings to look at before going into details
 
 1. [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library) 
-2. [Define language and other general settings] (http://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General) 
+2. [Define language and other general settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General) 
 3. [Defining your training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
 
-BACK: [To the Overview] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide)
+BACK: [To the Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide)
