@@ -78,4 +78,4 @@
 
 ## Troubleshooting
 
-* [3.11 Folder Structure Upgrade reports Errors - what to do now?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.11_Troubleshooting_Guide)
+* [3.2 Folder Structure Upgrade reports Errors - what to do now?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/Upgrade_v3.2_Troubleshooting_Guide)
