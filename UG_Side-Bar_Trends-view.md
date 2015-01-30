@@ -74,13 +74,13 @@ In all cases, `Add Event` opens a popup to define your new event:
 
 ## Filters
 
-Filtering via the 'Side Bar' is one of multiple ways, how you can select the rides, which are then analysed in the 'Trends View'. The special feature of filtering in the 'Side Bar', compared to other filtering options is, the 'Auto Filter' provided here:
+Filtering via the 'Side Bar' is one of multiple ways, how you can select the activities, which are then analysed in the 'Trends View'. The special feature of filtering in the 'Side Bar', compared to other filtering options is, the 'Auto Filter' provided here:
 
 ![Filters - Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Filters_Settings.jpg)
 
-* Section 'Filters' - shows the list of your predefined filter queries - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the data of rides which fulfill ALL filter rules is considered in a chart.
+* Section 'Filters' - shows the list of your predefined filter queries - you can select one or multiple filters (using Windows, the multi-select is done via "Shift" or "CRTL" and "mouse-click. Other OS might work differently, but offer the same feature). Multiple filters here are applied with an logical "AND", so that only the data of activities which fulfill ALL filter rules is considered in a chart.
 
-* Sections 'Workout Code', 'Sport',... are the 'Autofilter's. The values shown for each 'Autofilter' is the list of values used in that particular 'Autofilter' field of your rides. You can select one or many of these values which then limit the rides to those where one of the selected values is assigned (logical "OR").
+* Sections 'Workout Code', 'Sport',... are the 'Autofilter's. The values shown for each 'Autofilter' is the list of values used in that particular 'Autofilter' field of your activities. You can select one or many of these values which then limit the activities to those where one of the selected values is assigned (logical "OR").
 
 _Note: All fields which are of type "ShortText" or "Text" in the 'Preferences->Data Fields->Field' list and are assigned to a "Screen Tab", are available as 'Autofilters'._
 
@@ -110,6 +110,6 @@ Here the configuration of the 'Library' Chart:
 
 ## Summary
 
-This pane is a simple display pane, providing a summary view of the rides selected. The data shown honors both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Metrics)
+This pane is a simple display pane, providing a summary view of the activities selected. The data shown honors both filters and date ranges. The sections 'Totals', 'Averages' and 'Maximums' have fixed content. The section 'Metrics' is configurable and defined in the GoldenCheetah preferences. See also `Menu Bar -> Tools -> Options...` [Metrics->Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Metrics)
 
 BACK: [Side Bar: General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_General-handling)

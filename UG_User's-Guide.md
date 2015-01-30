@@ -10,8 +10,8 @@
 * [[Powertap USB cradle permissions on Linux]]
 * [[Installing Golden Cheetah on Debian Linux]] using packages directly from the repositories.
 * [[PCV on Mac OS X]]
-* [[Running GC off of a USB drive so you can take GC (and your rides) with you.]]
-* [[How do I configure GC so I can "Tweet my ride" ?]]
+* [[Running GC off of a USB drive so you can take GC (and your activities) with you.]]
+* [[How do I configure GC so I can "Tweet my activity" ?]]
 * [[Metadata in Golden Cheetah v3]] screencast
 
 ### Ride files help
@@ -19,8 +19,8 @@
 * [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]] screencast
 * [[How do I import files from a Garmin Edge device?]]
 * [[How do I import files from my cycleops Joule?]]
-* [[Where are my ride files located?]] 
-* [[How to modify the date of your ride?]]
+* [[Where are my activity files located?]] 
+* [[How to modify the date of your activity?]]
 * [[How can I set different colors in the calendar boxes?]]
 * [[Can't read .cpi file error - after importing .cpi files]].
 * [[The Ride Plot tab in Golden Cheetah 2.0 HOWTO]] screencast
@@ -32,7 +32,7 @@
 * [[How is the value of CP calculated in the Critical Power plot]]?
 * [[How do I define custom date ranges in long term metrics analysis?]]
 * [[How do I setup the fields and tabs for fields like workout code or sport?]]
-* [[How do I override metrics when I didn't use a power meter or HR monitor| How do I override metrics in the ride summary?]]
+* [[How do I overactivity metrics when I didn't use a power meter or HR monitor| How do I overactivity metrics in the activity summary?]]
 * [[SettingPowerZones | Why doesn't anything show up in Performance Manager]]?
 
 
@@ -74,6 +74,6 @@
 * [[Garmin Edge file import into Golden Cheetah 2.0 HOWTO]]
 * [[The Ride Plot tab in Golden Cheetah 2.0 HOWTO]]
 * [[The Metrics tab in Golden Cheetah 2.0 HOWTO]]
-* [[3D|Using the 3D ride view in Golden Cheetah 2.0 HOWTO]]
-* [[Editor|Using the ride editor in Golden Cheetah 2.0 HOWTO]]
+* [[3D|Using the 3D activity view in Golden Cheetah 2.0 HOWTO]]
+* [[Editor|Using the activity editor in Golden Cheetah 2.0 HOWTO]]
 * [[Metadata in Golden Cheetah v3]] screencast

@@ -14,7 +14,7 @@ Whilst it is possible to configure these values in preferences or within an indi
 Details in the fields can be found on [Options: Athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Options_Athlete)
 
 _Note: Since GoldenCheetah 3.1 it is possible to define an explicite "Athlete Directory" in which all the data of the created athletes are stored. When starting GoldenCheetah for the first time, your first athlete is created in the "default directory". If you consider using a different athlete directory than the default one, please follow the guide [Special Topics: Setting the athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library) 
-after your have created and saved your first athlete and before importing any rides and changing any other configuration of GoldenCheetah. (As of today GoldenCheetah does not provide a feature to copy athlete data between different directories - this would be a manual step for which you need to understand to data storage concepts of GoldenCheetah. So selecting the correct athlete directory before adding any rides is an important step.)_
+after your have created and saved your first athlete and before importing any activities and changing any other configuration of GoldenCheetah. (As of today GoldenCheetah does not provide a feature to copy athlete data between different directories - this would be a manual step for which you need to understand to data storage concepts of GoldenCheetah. So selecting the correct athlete directory before adding any activities is an important step.)_
 
 Once you're happy with the athlete settings click `Save`. You will then be able to select your new athlete in that initial dialog (where your new athlete is listed now). Go ahead and open that athlete and you will be greeted with GoldenCheetah, but a splash page.
 
@@ -22,7 +22,7 @@ Once you're happy with the athlete settings click `Save`. You will then be able 
 
 This page is shown because there is no data associated with this athlete. We need to go ahead and download some data from your bike computer or import some data from disk or USB.
 
-NEXT STEP: [Get you first ride(s) downloaded from device or imported from files](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
+NEXT STEP: [Get you first activity(s) downloaded from device or imported from files](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
 
 
 

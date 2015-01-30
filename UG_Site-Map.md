@@ -17,8 +17,8 @@
     * [Download GoldenCheetah and install it on your PC](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Prerequisites)
     * [Set up the first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Your first athlete) 
       * [Athlete data fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
-    * [Download or import rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
-      * Downloading a ride from device  
+    * [Download or import activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
+      * Downloading a activity from device  
       * Importing from a file  
     * [Check and configure your athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library) 
     * [Define language and other general settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General) 
@@ -31,17 +31,17 @@
       * ["Activity"](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Activity)
         * [`Download from device...`](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First-Steps_Download-or-import)
         * [`Import from file...`](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First-Steps_Download-or-import#importing-from-a-file)
-        * `Manual ride entry...`
+        * `Manual activity entry...`
         * [`Share Online...`] (UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites) 
         * `Export...`
         * `Batch export...`
         * `Export Metrics as CSV...`
         * [`Upload to TrainingPeaks](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
         * [`Synchronise TrainingPeaks...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Upload_Download%20to_from%20external%20web-sites)
-        * `Save ride`
-        * `Delete ride...`
-        * `Split ride...`
-        * `Combine rides...`
+        * `Save activity`
+        * `Delete activity...`
+        * `Split activity...`
+        * `Combine activities...`
       * ["Tools"](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Tools)
         * `Options...` 
         * `CP and W' Estimator...` 
@@ -119,12 +119,12 @@
         * [Navigator](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#navigator)
         * [Summary - same as 'Trends View' ](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
       * [Chart Types for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities)
-        * [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary)
+        * [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#activity-summary)
         * [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details)
         * [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#summary-and-details)
         * [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
         * [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#performance)
-        * [Critical Mean Maximals - similar to 'Trends View' - for a single ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+        * [Critical Mean Maximals - similar to 'Trends View' - for a single activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
         * [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#histogram)
         * [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#pedal-force-vs-velocity)
         * [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#heartrate-vs-power)
@@ -152,8 +152,8 @@
     * [Side Bar: Activities View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Activities view)
       * [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#calendar)
         * Colours
-      * [Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#rides)
-        * [Main functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#rides---main-functions)
+      * [Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#activities)
+        * [Main functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#activities---main-functions)
           * Delete Activity 
           * Split Activity 
           * Upload Activity to Calendar
@@ -161,8 +161,8 @@
           * Show Column Chooser
           * Group By 
           * Expand All
-          * Collapse All  - this function hides all rides for the different groups and you will only see the group headers
-        * [Column Header](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#rides---column-header)
+          * Collapse All  - this function hides all activities for the different groups and you will only see the group headers
+        * [Column Header](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#activities---column-header)
           * Remove Column
           * Show in groups
           * Column Chooser  
@@ -197,7 +197,7 @@
     * Units (metric/imperial)
     * [Weight](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings)
       * [Athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General)
-      * [Activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_FAQ-METRICS#how-do-i-add-a-metric-to-the-details-screen-so-i-can-override-it-)
+      * [Activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_FAQ-METRICS#how-do-i-add-a-metric-to-the-details-screen-so-i-can-overactivity-it-)
       * Withings
   * [Athlete: Training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training Zones)
     * Critical Power 
@@ -268,8 +268,8 @@
       * Why is elevation different in GoldenCheetah to my other training software / website?
       * Why is a metric e.g. TSS or average power different in GoldenCheetah to Garmin Connect?
       * How do I set the metrics shown for intervals in the various summaries?
-      * How do I add a metric to the details screen (so I can override it) ?
-      * Can you calculate gradient, virtual power or other derived series from the ride data?
+      * How do I add a metric to the details screen (so I can overactivity it) ?
+      * Can you calculate gradient, virtual power or other derived series from the activity data?
       * Can I export metrics or access the metric database GC uses?
 
 
@@ -292,7 +292,7 @@
 ## FAQ  
 * [FAQ](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
   * [Most Common](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#most-common-questions-of-all)
-    * [How do I override / manually enter TSS for a ride?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-override--manually-enter-TSS-for-a-ride)
+    * [How do I overactivity / manually enter TSS for a activity?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-overactivity--manually-enter-TSS-for-a-activity)
     * [How do I add or remove a chart?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-add-or-remove-a-chart)
     * [Can I enter my weight and track/plot it?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Can-I-enter-my-weight-and-trackplot-it)
     * [How do I plot x sec power best?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-plot-x-sec-power-best)
@@ -300,7 +300,7 @@
     * [What happened to weekly summary?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#What-happened-to-weekly-summary)
     * [Where are all the chart settings?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-are-all-the-chart-settings)
     * [Where is the preferences / options panel?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-is-the-preferences--options-panel)
-    * [How do I change the colour of the rides on the calendar/list?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-change-the-colour-of-the-rides-on-the-calendarlist)
+    * [How do I change the colour of the activities on the calendar/list?](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-change-the-colour-of-the-activities-on-the-calendarlist)
     * [GoldenCheetah doesn't find my PowerTap on Ubuntu Linux.](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetah-doesnt-find-my-PowerTap-on-Ubuntu-Linux)
     * [GoldenCheetah.dmg installation didn't seem to work.](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetahdmg-installation-didnt-seem-to-work)
   * [General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ#general)

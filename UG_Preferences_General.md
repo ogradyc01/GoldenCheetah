@@ -21,7 +21,7 @@ _Note: As of today the Crank Length is defined for all athletes and not individu
 
 _Note: A recommendation is NOT too use any of such smart-recording features. Constant recording is the best way to obtain proper analysis results - not only on GoldenCheetah, but also in other analysis tools_
 
-* `Elevation hysteresis (meters)` - this value is used to smooth the small changes in altitude. The default value is 3m. Since different programs use different hysteresis values, the elevation calculated by GoldenCheetah and other programs most likely deviate. If such differences are important for you, you can adjust the hysteresis and try to reach the value of the other program. _Note: Since other programs might also deviate in the algorithm used, there is no guarantee to find a value which delivers the same result for all rides._
+* `Elevation hysteresis (meters)` - this value is used to smooth the small changes in altitude. The default value is 3m. Since different programs use different hysteresis values, the elevation calculated by GoldenCheetah and other programs most likely deviate. If such differences are important for you, you can adjust the hysteresis and try to reach the value of the other program. _Note: Since other programs might also deviate in the algorithm used, there is no guarantee to find a value which delivers the same result for all activities._
 
 _Note: The value is defined for all athletes_
 

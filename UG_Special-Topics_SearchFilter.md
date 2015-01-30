@@ -1,7 +1,7 @@
 Special Topics: Search & Filter (Version 3.11) 
 ****
 
-Searching and Filtering are ways to find rides which fulfill specific criteria (e.g. to limit the number of rides shown in the ride navigator - or to find a particular ride). But also to only consider specific rides in summary and cumulative charts, like on the 'Trends' view.
+Searching and Filtering are ways to find activities which fulfill specific criteria (e.g. to limit the number of activities shown in the activity navigator - or to find a particular activity). But also to only consider specific activities in summary and cumulative charts, like on the 'Trends' view.
 
 ## Search & Filter - Common Functions
 
@@ -40,7 +40,7 @@ _Note:To de-activate a 'Search/Filter' query, just click on the little (x) on th
 
 ## Search
 
-The 'Search' function in GoldenCheetah is pretty straight forward. All texts in rides are automatically indexed when a ride is imported or changed. If 'Search' is active (check if the correct icon - "magnifying glass" is shown) and just enter the text you are search for. The ride list will be reduced/filtered to those rides where the text appears in any of the text fields.
+The 'Search' function in GoldenCheetah is pretty straight forward. All texts in activities are automatically indexed when a activity is imported or changed. If 'Search' is active (check if the correct icon - "magnifying glass" is shown) and just enter the text you are search for. The activity list will be reduced/filtered to those activities where the text appears in any of the text fields.
 
 ### Search Query Syntax
 
@@ -53,8 +53,8 @@ The search engine used by GoldenCheetah offers more options. Some of them which 
 _Note: Using a wildcard charater as first character of a search query is not possible._
 
 * Boolean operators
-  * `AND` or `&&` - to find rides where both term exists
-  * `OR` or `||` - to find rides where any of the terms exist
+  * `AND` or `&&` - to find activities where both term exists
+  * `OR` or `||` - to find activities where any of the terms exist
 
 _Note: Here AND, resp. OR have to be in UPPER CASE - otherwise they are interpreted as search terms_
 
@@ -64,7 +64,7 @@ _Note3: Since the search engine has more capabilities - there may be more usable
   
 ## Filter
 
-Filtering is like searching, a way to find rides which fulfill specific criteria. Where searching mainly works on text fields, filtering can do a lot more. But this 'more' also means you have to make yourself familiar with the query syntax for filtering.
+Filtering is like searching, a way to find activities which fulfill specific criteria. Where searching mainly works on text fields, filtering can do a lot more. But this 'more' also means you have to make yourself familiar with the query syntax for filtering.
 
 ### Filter Query Syntax 
 
@@ -74,7 +74,7 @@ In a simplified way, a filter query is a bit like a database query - (which is d
   * a rule how to look at that field (Operator)
   * a comparison value (Value)
 
-Easy example: The query `TSS >= 100` - finds all rides where TSS is 100 or more. This example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You cannot define a search which can do this (in GoldenCheetah). (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes most sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
+Easy example: The query `TSS >= 100` - finds all activities where TSS is 100 or more. This example already illustrates the major point of what a 'Filter' can do better than a 'Search'. You cannot define a search which can do this (in GoldenCheetah). (But, also 'Filter' queries cannot do it all and easy. E.g. 'Search' makes most sense for text fields and is perfect if e.g. you do not even know in which field you have stored your text - 'Search' will find it.)
 
 _Note: You need to separate field names, operator, keywords, function as well as values or string by " " (Space) so that the query parser can recognize them - otherwise you will see the query text color changing to "red". To see the error text, just click into the query text and wait until an error text appears._
 
@@ -134,31 +134,31 @@ In addition to the quite common operators before, GoldenCheetah has some build-i
   * `\` - divide
   * `^` - power
 
-The syntax is `<value_or_field> <calculation_operator> <value_or_field>`. With this you can create queries like: "show me all rides where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that duration fields (here 2h) are always assumed to contain their value in "seconds" (here 7200 seconds).
+The syntax is `<value_or_field> <calculation_operator> <value_or_field>`. With this you can create queries like: "show me all activities where the sum of L2_Time and L3_Time is more than 2 hours: `( L2_Time_in_Zone  + L3_Time_in_Zone ) > 7200`. Please note that duration fields (here 2h) are always assumed to contain their value in "seconds" (here 7200 seconds).
 
 ## Special Functions
 
-GoldenCheetah provides two functions which return rides specific metrics very easily:
+GoldenCheetah provides two functions which return activities specific metrics very easily:
 
- * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the chosen data series for the ride to filter. This value then can be used in a query e.g. to compare to a <`value>`.
+ * `BEST` - syntax is `BEST ( <data_series>, <duration)` and returns the MEAN MAX value of the chosen data series for the activity to filter. This value then can be used in a query e.g. to compare to a <`value>`.
 
 The supported `<data_series>` are: "apower", "power", "hr", "cadence", "speed", "torque", "vam", "xpower", "np", "wpk" 
 
-Example: You want to select all rides, where your 5min mean max power was higher than 200 watts. This query then looks: `BEST ( power, 300) > 200`. Again the duration (5min) has to be entered in seconds (300sec) into the query.
+Example: You want to select all activities, where your 5min mean max power was higher than 200 watts. This query then looks: `BEST ( power, 300) > 200`. Again the duration (5min) has to be entered in seconds (300sec) into the query.
 
- * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the rides to filter. This value then needs to be used in the complete query e.g. to compare to a `<value>`.
+ * `TIZ` - (Time in Zone) - syntax is `TIZ ( <tiz_series>, <zone>)` and returns the time you have spend in a particular zone for the activities to filter. This value then needs to be used in the complete query e.g. to compare to a `<value>`.
 
 The supported `<tiz_series>` are: "power" and "hr"
 
-Example: You want to select all rides, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
+Example: You want to select all activities, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
 
 ### NEW with 3.11
 
- * `SB` - (Stress Balance) - syntax is `SB(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+ * `SB` - (Stress Balance) - syntax is `SB(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
- * `LTS` - (Long Term Stress) - syntax is `LTS(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+ * `LTS` - (Long Term Stress) - syntax is `LTS(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
- * `STS` - (Short Term Stress) - syntax is `STS(<metric>)` and returns the PMC value for the metric in question for the date of the ride and therefore allows to select rides based upon PMC data.
+ * `STS` - (Short Term Stress) - syntax is `STS(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
 The supported `<metric>` are e.g. `TSS`, and the similar ones.
 

@@ -1,14 +1,14 @@
 Chart Types: Activities view (Version 3.1)
 ***
 
-The 'Activities' view offers 'Chart Types' which work on a single ride. The ride in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Activities' pane, but also by selecting a ride on the 'Navigator' or 'Calendar' on the 'Diary' view.
+The 'Activities' view offers 'Chart Types' which work on a single activity. The activity in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Activities' pane, but also by selecting a activity on the 'Navigator' or 'Calendar' on the 'Diary' view.
 
-* [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary)
+* [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#activity-summary)
 * [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details)
 * [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#summary-and-details)
 * [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
 * [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#performance)
-* [Critical Mean Maximals - similar to 'Trends View' - for a single ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+* [Critical Mean Maximals - similar to 'Trends View' - for a single activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
 * [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#histogram)
 * [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#pedal-force-vs-velocity)
 * [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#heartrate-vs-power)
@@ -18,16 +18,16 @@ The 'Activities' view offers 'Chart Types' which work on a single ride. The ride
 * [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#aerolab-chung-analysis)
 
 ## Activity Summary
-A summary chart has a fixed structure, which displays a summary about the current ride you a looking at.
+A summary chart has a fixed structure, which displays a summary about the current activity you a looking at.
 
 * Contents Section are:
   * Totals, Average, Maximums, Metrics, Model information - the 'Metrics' shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
-* Power Zones - the power zones used are those valid for the date the ride took place - they are configured in 'Preferences' -> 'Athlete'
-* Heart Rate Zones - the heart rate zones used are those valid for the date the ride took place - they are configured in 'Preferences' -> 'Athlete'
+* Power Zones - the power zones used are those valid for the date the activity took place - they are configured in 'Preferences' -> 'Athlete'
+* Heart Rate Zones - the heart rate zones used are those valid for the date the activity took place - they are configured in 'Preferences' -> 'Athlete'
 
 ## Details
 
-The ride 'Details' allow to view, change and enter ride specific data. Some of the fields are pre-populated based on the ride file data (e.g. 'Start Date' and 'Start Time').
+The activity 'Details' allow to view, change and enter activity specific data. Some of the fields are pre-populated based on the activity file data (e.g. 'Start Date' and 'Start Time').
 
 The fields available in 'Details' are mainly determined by the configuration done in [Preferences->Data Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data%20Fields#fields)
 
@@ -39,7 +39,7 @@ Here the 'Workout' Tab as an example to show the relationship between configurat
 
 _Note: The sequence of the 'Tab's on the 'Details' screen and the sequence of the fields per 'Tab' is exactly the sequence of the field and tabs in the configuration. When adding a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's internal structures and to re-create the screens (by adding the new field)._
 
-_Note: GoldenCheetah comes with a set of field preferences, which already contain a number of additional fields for ride specific data, as well as a proposal on fields for the 'Metric' tab. Since for some of these field specific logic is implemented in GoldenCheetah, it is NOT recommended to remove any of the pre-defined fields, as it might cause unexpected behavior._
+_Note: GoldenCheetah comes with a set of field preferences, which already contain a number of additional fields for activity specific data, as well as a proposal on fields for the 'Metric' tab. Since for some of these field specific logic is implemented in GoldenCheetah, it is NOT recommended to remove any of the pre-defined fields, as it might cause unexpected behavior._
 
 ## 'Metric' Tab
 
@@ -47,7 +47,7 @@ The 'Metric' tab is pre-populated with a number of metrics (as defined in the 'P
 
 ![Activity Details - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Details-Metric.jpg)
 
-To enter or overwrite a 'Metric' value, please check the check-box next to the metric to open the input field for this metric. Only if you then input a value different to '0', this value will be taken as the metric value for this ride (and overwrite any value coming from your ride data).
+To enter or overwrite a 'Metric' value, please check the check-box next to the metric to open the input field for this metric. Only if you then input a value different to '0', this value will be taken as the metric value for this activity (and overwrite any value coming from your activity data).
 
 ## 'Extra' Tab
 
@@ -57,8 +57,8 @@ The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generate
  
 Some important fields are:
 * 'Calendar Text' - generated text which also appears in the 'Diary' view - 'Calendar' chart
-* 'Change History' - log of changes done to the ride file
-* 'Data' - info which data series are available for the ride (each character represents a data series)
+* 'Change History' - log of changes done to the activity file
+* 'Data' - info which data series are available for the activity (each character represents a data series)
   * 'T' - time
   * 'D' - distance
   * 'S' - speed
@@ -76,11 +76,11 @@ Some important fields are:
 
 ## Summary and Details
 
-Combines [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary) and [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details) in one chart.
+Combines [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#activity-summary) and [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details) in one chart.
 
 ## Editor
 
-The 'Editor' chart provides all the ride file data in a spreadsheet/list format. The default view contains columns for all data series captured from your head-unit, as well as any data series derived.
+The 'Editor' chart provides all the activity file data in a spreadsheet/list format. The default view contains columns for all data series captured from your head-unit, as well as any data series derived.
 
 As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
 
@@ -90,8 +90,8 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ![Editor - Icons](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-Icons.jpg)
 
-* `Save` - saves the ride data (with all changes/adjustments done)
-* `Undo` - if active, there have been changes done to the ride series data (shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by pressing 'Undo' multiple times
+* `Save` - saves the activity data (with all changes/adjustments done)
+* `Undo` - if active, there have been changes done to the activity series data (shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by pressing 'Undo' multiple times
 * `Redo` - if active, you have been 'Undo'ing changes before - they can be re-applied be 'Redo'
 * `Find` - opens a 'Search' dialog box - which allows to find specific values or value ranges in the series data - you can define search rules, the values to search and the data series to search in. As a result you get a list of search hits in the dialog box and the values fulfilling the search criteria are marked (with a different background color) in the 'Editor' data list. "Mouse-Click" on a result line in the dialog box, moves the data view to the specific search hit.
 * `Anomalies` - when choosing, GoldenCheetah does a number consistency analysis on the available data points / data series. The analysis performed and their messages are:
@@ -159,14 +159,14 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Performance
 
-This chart type provides all the graphs for your ride data series. In addition to data series which are captured by the head-unit directly, GoldenCheetah also delivers some derived series like 'Delta' series.
+This chart type provides all the graphs for your activity data series. In addition to data series which are captured by the head-unit directly, GoldenCheetah also delivers some derived series like 'Delta' series.
 
 ![Performance](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Performance-Overview.jpg)
 
 ## Performance Basic
 * Basic Settings
   * `Shading` - here you select if, and how your power data curve is shown
-  * `X-Axis `- choose if your ride X-Axis is plotted 'by time' or 'by distance'
+  * `X-Axis `- choose if your activity X-Axis is plotted 'by time' or 'by distance'
   * `Smooth` - smooths the graphs - the value set here is used for all curves 
 
 * View Settings
@@ -176,7 +176,7 @@ This chart type provides all the graphs for your ride data series. In addition t
       * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is stretched over multiple lines
  
   * `Stack Zoom `- zooms the Y-Axis sizes for all diagrams (only takes effect if 'Show Stack' is checked)
-  * `Full Plot` - if checked, in addition to the curves, an additional diagram (containing all the curves of the ride data series) is displayed at the lower border of the 'Activities' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
+  * `Full Plot` - if checked, in addition to the curves, an additional diagram (containing all the curves of the activity data series) is displayed at the lower border of the 'Activities' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
   * `Overlay` - if checked, it adds a small overlay window to the diagram, in which selected interval data is displayed
   * `Grid` - if checked, it adds a grid to the chart
 
@@ -185,7 +185,7 @@ This chart type provides all the graphs for your ride data series. In addition t
   * `Delta Series `- predefined delta series (calculated as '(Current_data_point_Value - Previous_data_point_Value) / (Time_between_the_data_points)')
   * `Left/Right `- Left leg / Right leg dependent data series (only provided by some power meter / head-unit combinations today)
   * `Data Series `- you can check the data series available from your head unit
-  * `Metrics` - predefined metrics which use the data series and calculate data along the complete ride
+  * `Metrics` - predefined metrics which use the data series and calculate data along the complete activity
 
 ## Special Features of the 'Performance' chart
 
@@ -237,13 +237,13 @@ _Note: References Lines are not supported for any non-power related chart like e
 
 ## Critical Mean Maximal
 
-[Similar to 'Trends View' - for a single ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
+[Similar to 'Trends View' - for a single activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
 
 ## Histogram
 
 ![Activity Histogram](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Histogram.jpg)
 
-* `Data Series Box` - selection of ride data series to be analysed
+* `Data Series Box` - selection of activity data series to be analysed
 * `Time` - choose between 'Absolute Time' or 'Percentage Time'
 * `Log Y` - if checked, shows the time axis (here Y) in log scale
 * `With zeros` - if checked, also zeros are considered in the plot
@@ -272,16 +272,16 @@ This chart provides a so called 'Quadrant Analysis' of Pedal Force vs Pedal Velo
 
 ## Heartrate vs Power
 
-This chart shows the distribution of HR and the distribution of power for the whole ride (on X-Axis (Power) / on Y-Axis (Heart Rate) - along with the HR/Power data points during the ride.
+This chart shows the distribution of HR and the distribution of power for the whole activity (on X-Axis (Power) / on Y-Axis (Heart Rate) - along with the HR/Power data points during the activity.
 
 ![HR vs Power](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power.jpg)
 
 The distribution of HR and Power is shown proportional, but not with a specific scale. The mouse-over information on the bars is only relevant for the dimension (Power or Heart rate) of the axis. The seconds value is of no means.
 
-The set of colored points / the colored line in the center of the chart shows the development of the Power/Heart rate relationship over the time of the ride. The determination approach and the relation to the chart parameters is outlined here:
+The set of colored points / the colored line in the center of the chart shows the development of the Power/Heart rate relationship over the time of the activity. The determination approach and the relation to the chart parameters is outlined here:
 
 * Power/Heart rate data points for the plot are
-  * `Smooth` the ride data points (every second) are first "smoothed" by calculating the moving average value over the time period (in seconds) defined in this parameter
+  * `Smooth` the activity data points (every second) are first "smoothed" by calculating the moving average value over the time period (in seconds) defined in this parameter
   * Only data points where the heart rate is above 50 and power is between 50 and 500 watts are further considered
   * `HR Delay` shifts the heart rate by the given value (in seconds) - that means for a data point recorded at second in the rade "X" the heart rate from second 'X+HR Delay" is assigned
   * To reduce the number of data points shown on the plot, only every 10th point is plotted
@@ -289,17 +289,17 @@ The set of colored points / the colored line in the center of the chart shows th
 * Other chart parameters are:
   * `Join Points` - if checked, instead of single data points they are plotted as a complete line
   * `Shade Zones` - if checked, adds the power zone shading
-  * `Show Full Plot` - if checked, also the ride (power and heart rate curves only) are shown at the bottom of the view
+  * `Show Full Plot` - if checked, also the activity (power and heart rate curves only) are shown at the bottom of the view
 
-* The coloring of the power/heart rate plot (along the ride time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from an HSV color code. The HSV coloring covers all colors in a "circle style". Each segment of the ride data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and moving by an angle of 10 degrees (direction see 'Arrow') to determine the color for each new segment.
+* The coloring of the power/heart rate plot (along the activity time) follows a special logic. The available data points are segmented into 36 subsequent groups. Each group is assigned a separate color, which is determined from an HSV color code. The HSV coloring covers all colors in a "circle style". Each segment of the activity data points segment is plotted in a color of the circle (see HSV colors) - starting at 'Yellow' and moving by an angle of 10 degrees (direction see 'Arrow') to determine the color for each new segment.
 
 ![HR vs Power Colors](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/HR_vs_Power_Colors.jpg)
 
-The Power@150 value is estimation of your PWC150 value based on ride data. PWC150 (Physical Work Capacity at HR 150) is a measure in diagnostics - it follows a tiered test protocol but ends with the HR of its name (here 150). For further details, please use the search engine of your choice with the given key words.
+The Power@150 value is estimation of your PWC150 value based on activity data. PWC150 (Physical Work Capacity at HR 150) is a measure in diagnostics - it follows a tiered test protocol but ends with the HR of its name (here 150). For further details, please use the search engine of your choice with the given key words.
 
 ## Google Map / Bing Map
 
-If GPS data is available, the ride is shown on a Google Map, or a Bing Map. _Note: You need to be connected to the internet._
+If GPS data is available, the activity is shown on a Google Map, or a Bing Map. _Note: You need to be connected to the internet._
 
 The functionality provided on the maps differs on what Google or Bing is offering (e.g. multiple views, zoom, rotate). GoldenCheetah itself adds capabilities to:
 
@@ -309,7 +309,7 @@ The functionality provided on the maps differs on what Google or Bing is offerin
 
 ## 2d Plot
 
-The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
+The '2d Plot' - also called 'Scatter Plot' - displays the activity data as a collection of points, each having the value of data series determining the position on the X-Axis and the value of the other data series determining the position on the Y-Axis.
 
 ![2d Plot](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/2d_Plot.jpg)
 
@@ -322,7 +322,7 @@ The '2d Plot' - also called 'Scatter Plot' - displays the ride data as a collect
 
 ## 3d Plot
 
-The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and rotate.
+The '3d Plot' displays the activity data in a 3d graphics - which you can zoom and rotate.
 
 ![3d Plot](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/3d_Plot.jpg)
 
@@ -352,7 +352,7 @@ The 'Aerolab' chart provides a tool to use the Robert Chung's Virtual Elevation 
 
 ![Aerolab](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Aerolab.jpg)
 
-For the theory on this, sample test protocols for the power/ride file you need for an analysis see [Dr Chung's document describing the theory and practice of 'Virtual Elevation'](https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/contrib/ChungVE.pdf?raw=true).
+For the theory on this, sample test protocols for the power/activity file you need for an analysis see [Dr Chung's document describing the theory and practice of 'Virtual Elevation'](https://github.com/GoldenCheetah/GoldenCheetah/blob/master/doc/contrib/ChungVE.pdf?raw=true).
 
 
 BACK: [Chart Types: General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)

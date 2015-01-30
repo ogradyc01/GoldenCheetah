@@ -1,7 +1,7 @@
 First Steps: Download or import (Version 3.2)
 ***
 
-### Downloading a ride from device
+### Downloading a activity from device
 
 If you use a Powertap, SRM, Joule, Joule GPS or Macro-X device you will be able to download from it directly. Please make sure the device is connected and plugged in correctly. For example, if you are downloading from a Powertap please make sure the computer is firmly connected and displays 'HOST' on its screen.
 
@@ -9,11 +9,11 @@ If you use a Powertap, SRM, Joule, Joule GPS or Macro-X device you will be able 
 
 (Screeshot: Download Dialog)
 
-To start the download go ahead and click the download from device button. This will open up the download dialog. Select the right kind of device and serial port before clicking on the `Download` button. If no serial port is listed, or the port is not correct you can click on the `Rescan` button to look again for your device. This is sometimes required if you click on `Download` before the device is connected. Any ride files will then be downloaded and imported into GoldenCheetah and the splash screen will disappear to reveal the 'Activities' view of GoldenCheetah. Congratulations - you can now start using GoldenCheetah to analyse and track your performance.
+To start the download go ahead and click the download from device button. This will open up the download dialog. Select the right kind of device and serial port before clicking on the `Download` button. If no serial port is listed, or the port is not correct you can click on the `Rescan` button to look again for your device. This is sometimes required if you click on `Download` before the device is connected. Any activity files will then be downloaded and imported into GoldenCheetah and the splash screen will disappear to reveal the 'Activities' view of GoldenCheetah. Congratulations - you can now start using GoldenCheetah to analyse and track your performance.
 
 ### Importing from a file
 
-To import files into GoldenCheetah you have a couple of options. You can drag and drop them from a file explorer or from the desktop into the main GoldenCheetah window, or you can select them via the import files button on the splash screen. Once you have done either the import rides wizard will appear to process the selected files.
+To import files into GoldenCheetah you have a couple of options. You can drag and drop them from a file explorer or from the desktop into the main GoldenCheetah window, or you can select them via the import files button on the splash screen. Once you have done either the import activities wizard will appear to process the selected files.
 
 ![Import Dialog](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/FirstSteps_ImportFilesDialog.JPG)
 

@@ -1,23 +1,23 @@
 Special Topics: Activity Processing (Version 3.2)
 ***
 
-GoldenCheetah provides a number of tools to fix/adjust/correct ride data. The adjustments can either be executing manually for a specific ride, or automatically during import of rides.
+GoldenCheetah provides a number of tools to fix/adjust/correct activity data. The adjustments can either be executing manually for a specific activity, or automatically during import of activities.
 
 The configuration of the available tools is done in ['Preferences' -> 'Data Fields'](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing)
 
-* If you set a tool to 'Manual' in the preferences, you have to run it manually per ride through `Tools-><name of the tool>`. The values set in preferences then are taken as defaults, which you can still override in a dialog box, when running the tool.
+* If you set a tool to 'Manual' in the preferences, you have to run it manually per activity through `Tools-><name of the tool>`. The values set in preferences then are taken as defaults, which you can still overactivity in a dialog box, when running the tool.
 
-* If you set a tool to 'Auto' in the preferences, the tool is executed with the parameter settings from 'Preferences' for each ride import you are doing. You can still run the tool manually with different parameters after the import is done.
+* If you set a tool to 'Auto' in the preferences, the tool is executed with the parameter settings from 'Preferences' for each activity import you are doing. You can still run the tool manually with different parameters after the import is done.
 
-_Note: The fixes/changes are only done to the ride file stored in GoldenCheetah format (.json) - GoldenCheetah does not manipulate any of original data files._
+_Note: The fixes/changes are only done to the activity file stored in GoldenCheetah format (.json) - GoldenCheetah does not manipulate any of original data files._
 
 ## General: Undo/Redo
 
-Any changes to the ride data done by the tools explained below, are not immediately stored. There are basically three ways to 'Undo' then changes of processing tools:
+Any changes to the activity data done by the tools explained below, are not immediately stored. There are basically three ways to 'Undo' then changes of processing tools:
 
-* 'Leave without Saving' - you can always end GoldenCheetah without saving your ride data - (depending on your settings GoldenCheetah will ask / or not, if you have done any changes). When going this way ALL changes done since last saving of the ride file is lost.
+* 'Leave without Saving' - you can always end GoldenCheetah without saving your activity data - (depending on your settings GoldenCheetah will ask / or not, if you have done any changes). When going this way ALL changes done since last saving of the activity file is lost.
 
-* 'Revert to Saved version' - on the 'Side Bar' -> 'Activities' pane, the context menu changes when ride data has changed - it then also offers a 'Revert to saved version' function.
+* 'Revert to Saved version' - on the 'Side Bar' -> 'Activities' pane, the context menu changes when activity data has changed - it then also offers a 'Revert to saved version' function.
 
 * 'Undo/Redo' - in the 'Activities' view - 'Editor' chart, you have an explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which can then be used to get back to the version of data before running the tool. You can also 'Redo' the changes - which re-applies the changes (only if you did an 'Undo' before. See also [Activities - Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
 
@@ -78,7 +78,7 @@ It takes a single parameter:
 
 ## Edit tool: Set SmO2/tHb from Speed and Cadence
 
-When recording from the Moxy in Speed and cadence mode the SmO2 and tHb data is sent as cadence and speed respectively. This tool will update the ride file to move the values from speed and cadence into the Moxy series.
+When recording from the Moxy in Speed and cadence mode the SmO2 and tHb data is sent as cadence and speed respectively. This tool will update the activity file to move the values from speed and cadence into the Moxy series.
 
 * No parameters.
 

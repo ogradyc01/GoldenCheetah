@@ -5,9 +5,9 @@ _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
 The 'Data Fields' preferences cover three different areas:
 
-* [Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional ride data and to add/overwrite ride data.
+* [Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional activity data and to add/overwrite activity data.
 
-* [Notes Keywords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Activities' view.
+* [Notes Keywords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your activities are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the activities section of the 'Activities' view.
 
 * [Processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
 
@@ -26,13 +26,13 @@ _Important Note: For case (1) - a completely new field, it is recommended to use
 * `Values` - is a way to restrict and simplify the input into fields of type 'Text' and 'Short Text' - by adding a list of values, seperated by "," for a specific field, only those values can be entered into that particular field
 * `Diary` - if checked, the concatenated contents of all checked fields is show in the 'Activities' view - 'Side Bar' -> 'Activities Pane' and also in the 'Diary' view - 'Calendar' chart.
 
-_Note: You can use this to enter data for rides, where certain data was not captured at all, or to overwrite/correct certain values_
+_Note: You can use this to enter data for activities, where certain data was not captured at all, or to overwrite/correct certain values_
 
 ### Notes Keywords
 
 ![Preferences - Datafields - NotesKeywords](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_NotesKeywords.jpg)
 
-The section 'Notes Keywords' defines which field / field content is used to determine the color shown for a ride in e.g. the calendar view.
+The section 'Notes Keywords' defines which field / field content is used to determine the color shown for a activity in e.g. the calendar view.
 
 * `Field` - you need to select ONE text field, which will contain the keywords relevant to set the colors - the drop-down list offers all Text, Short Text and Textbox field maintained under 'Fields'.
 * `Use for Background` - if checked, the color is not applied to the text, but to the text background (this provides a behavior similar to GoldenCheetah 3.0x).

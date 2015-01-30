@@ -48,7 +48,7 @@ More information on the 'Side Bar' in general and the variants per view is provi
 
 ### Compare Pane
 
-The 'Compare Pane' appears at the lower border of the 'Main View' - if activated. It allows comparison of date ranges or rides and intervals (dependent whether you are on 'Trends' or 'Activities'). In 'Diary' and 'Train' the 'Compare Pane' is not available.
+The 'Compare Pane' appears at the lower border of the 'Main View' - if activated. It allows comparison of date ranges or activities and intervals (dependent whether you are on 'Trends' or 'Activities'). In 'Diary' and 'Train' the 'Compare Pane' is not available.
 
 More information on the 'Compare Pane' in general and the variants per view is provided here: [Compare Pane: General handling](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
 

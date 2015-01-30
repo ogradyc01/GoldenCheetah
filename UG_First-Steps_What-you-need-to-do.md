@@ -4,7 +4,7 @@ The minimum (without this you will not even reach the main screen of GoldenCheet
 
 1. [Download GoldenCheetah and install it on your PC ](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Prerequisites)
 2. [Set up the first athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Your first athlete) 
-3. [Get you first ride(s) downloaded from device or imported from files](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
+3. [Get you first activity(s) downloaded from device or imported from files](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_First Steps_Download or import) 
 
 In addition to minimum there is some configuration you should look at and configure it to your needs before starting loading lots of data into GoldenCheetah. Even though GoldenCheetah handles later changes in configuration, doing some of this in the beginning will give you a better metrics on your data from the start:
 

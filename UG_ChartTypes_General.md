@@ -31,7 +31,7 @@ _Note 2: The configuration of a chart is stored (with the chart) when a chart is
 
 ## Activities
 
-* [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary)
+* [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#activity-summary)
 * [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details)
 * [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#summary-and-details)
 * [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)

@@ -19,7 +19,7 @@ To get more insides in 'Trends' please check:
 
 ## Diary
 
-The 'Diary' view is a kind of bridge between 'Trends' - where you analyse mid- and long-term aspects of your training, and the analysis of a single ride in 'Activities'. In 'Diary' you find different types of summaries, an configurable Activity/Activity Log and a 'big' calendar. You can use some chart types which are also available on 'Trends' view.
+The 'Diary' view is a kind of bridge between 'Trends' - where you analyse mid- and long-term aspects of your training, and the analysis of a single activity in 'Activities'. In 'Diary' you find different types of summaries, an configurable Activity/Activity Log and a 'big' calendar. You can use some chart types which are also available on 'Trends' view.
 
 _Note: Diary does not provide a 'Compare Pane', so the respective menu function and tool bar button has no effect._
 
@@ -30,9 +30,9 @@ To get more insides in 'Diary' please check:
 
 ## Activities
 
-The 'Activities' view - as it's name says - deals with a SINGLE ride. The 'Side Bar' for the 'Activities' view provides necessary navigation functions to select a ride. The analysis of the ride is done in the 'Main View'. Here you find also charts like 'Maps' showing where you have been riding (if your data contains GPS information) and a number of analysis charts for your ride data. In addition to the analysis of the full ride, many of the functions are prepared to also analyse 'Intervals' of your ride. 
+The 'Activities' view - as it's name says - deals with a SINGLE activity. The 'Side Bar' for the 'Activities' view provides necessary navigation functions to select a activity. The analysis of the activity is done in the 'Main View'. Here you find also charts like 'Maps' showing where you have been riding (if your data contains GPS information) and a number of analysis charts for your activity data. In addition to the analysis of the full activity, many of the functions are prepared to also analyse 'Intervals' of your activity. 
 
-_Note: A very useful new feature in 3.1 in 'Activities' is the ability to 'Compare' the multiple rides and/or intervals for single or multiple rides._
+_Note: A very useful new feature in 3.1 in 'Activities' is the ability to 'Compare' the multiple activities and/or intervals for single or multiple activities._
 
 To get more insides in 'Activities' please check:
 

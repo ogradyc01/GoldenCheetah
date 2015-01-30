@@ -40,7 +40,7 @@ General settings on font, colors and style GoldenCheetah is using for the UI. Mo
 
 ### Data Fields
 
-Here you defined additional ride data fields and other data related preferences. More details: 
+Here you defined additional activity data fields and other data related preferences. More details: 
 
 * [Data Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data Fields)
 
