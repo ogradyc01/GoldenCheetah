@@ -18,7 +18,7 @@ The 'Side Bar' contains important tools to influence what is shown in the 'Main 
 Here you find the details per view:
 * [Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Trends-view)
 * [Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view)
-* [Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view)
+* [Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view)
 * Train ... work in progress ...
 
 BACK: [General UI](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI%20Layout%20and%20terminology)

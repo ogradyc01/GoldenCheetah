@@ -132,7 +132,7 @@ The example summarizes 'TSS' values, first by 'Workout Code' and second by 'Keyw
 
 If you do a 'Mouse-Click' on one of the tiles, the list of rides which added up to this tile are shown - together with their metric values. You can scroll through the list to get some ride detail information displayed.
 
-![Collection Tree Map - Rides](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_RidePopup.jpg)
+![Collection Tree Map - Activities](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CollectionTree_ActivityPopup.jpg)
 
 
 ## Critical Mean Maximal
@@ -145,15 +145,15 @@ As in most other charts, also here you have several options, and the options par
 
 * [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
-_Note: On the 'Rides View' the 'Date Range' parameter are a drop-down list, where you can select 'Date Range' which are then considered in the 'Bests' calculation._
+_Note: On the 'Activities View' the 'Date Range' parameter are a drop-down list, where you can select 'Date Range' which are then considered in the 'Bests' calculation._
 * `Data series `- here you have multiple sets of data which can be analyzed in the 'MMP' curve style. Important to know is that you also need to check 'Show Bests' to show the curve for any of the 'Data Series' - otherwise you might see only the 'CP Model' curve (for 'Data Series' = 'Power', or an empty chart for any other 'Data Series').
 * `Power Shading `- if checked, shows the power zones, along the curve. Only has effect for 'Data Series' = 'Power'.
 * `Show Grid`- if checked, the plot area get's a grid for easier analysis
 * `Show Bests `- if checked, shows the 'MMP' curve (the best value for point of duration of the X-Axis) for the 'Data Series' selected
-* `Show as percentage` - only for single rides on the 'Rides' view - if checked, it shows not the absolute values, but the percentage of the actual ride value in relation to 'Bests'
+* `Show as percentage` - only for single rides on the 'Activities' view - if checked, it shows not the absolute values, but the percentage of the actual ride value in relation to 'Bests'
 * `Show curve heat` - shows the number of rides, whose maximal power duration is within 10% of the best
 * `Show curve heat by date` - ...
-* `Shade Intervals` - only for single rides on the 'Rides' view - shows separate curves for an interval, if you select it on the 'Side Bar' - multiple selection of intervals is possible
+* `Shade Intervals` - only for single rides on the 'Activities' view - shows separate curves for an interval, if you select it on the 'Side Bar' - multiple selection of intervals is possible
 
 ![CP Model](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/CriticalMeanMaximal_CP_Model_Extended.jpg)
 
@@ -161,22 +161,22 @@ You can show the theoretical CP curve, based on one of GoldenCheetah's models, b
 
 ## Distribution
 
-This chart type allows to show the distribution of either 'Ride Data Samples' or 'Ride Metric' in different dimensions. 
+This chart type allows to show the distribution of either 'Activity Data Samples' or 'Activity Metric' in different dimensions. 
 
-![Distribution - Ride Data](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Data Samples.jpg)
+![Distribution - Activity Data](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Activity Data Samples.jpg)
 
-When choosing 'Ride Data Samples' the selected data series applies to the X-Axis, where the time is shown on the Y-Axis:
+When choosing 'Activity Data Samples' the selected data series applies to the X-Axis, where the time is shown on the Y-Axis:
 
 * [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 
 * [Date Range](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#date-range-selection) - define chart specific 'Date Range' settings
 * 'Plot' section 
-  * `Ride Data Samples` has to be checked for this variant
+  * `Activity Data Samples` has to be checked for this variant
   * `Data Series Box` - Selection of available ride data series
 * 'Show' section
   * `Time` - select between 'Absolute Time' or 'Percentage Time'
   * `Log Y` - if checked, shows the time axis (here Y) in logarithmic scale
   * `With zeros` - if checked, also zeros are considered in the plot
-  * `Shade zones` - only for single rides on the 'Rides' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heart rate') 
+  * `Shade zones` - only for single rides on the 'Activities' view - if checked, the power and HR zones are shown (available for data series: 'Power', 'Watts per Kilogram' and 'Heart rate') 
   * `Show in zones` - if checked shows the data according to your zone settings (available for data series: 'Power', 'Watts per Kilogram' and 'Heart rate')
   * `Use polarized zones` - you need to have 'Show in zones' checked as well - if checked, shows for 'Power' and 'Watts per Kilogram' series the distribution to 3 fix defined zones (I = 0 to 85% of CP, II = 85 to 100% of CP and III > 100% of CP)
 
@@ -186,9 +186,9 @@ _Note: 'Bin width', 'Shade Zones' and 'Show in Zones' are also available in the 
 
 ***
 
-![Distribution - Ride Metrics](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Ride Metrics.jpg)
+![Distribution - Activity Metrics](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Distribution - Activity Metrics.jpg)
 
-When choosing 'Ride Metrics' you can select both X-Axis and Y-Axis metrics from the provided lists. Besides the metrics the only other parameter is the `Color` for drawing and the `Bin width` (like before).
+When choosing 'Activity Metrics' you can select both X-Axis and Y-Axis metrics from the provided lists. Besides the metrics the only other parameter is the `Color` for drawing and the `Bin width` (like before).
 
 ## Summary
 
@@ -199,7 +199,7 @@ A summary chart is chart with fixed structure, which displays a summary about th
   * Athlete Best - the fields shown are configurable through 'Preferences' 
   * Power Zones - the power zones as configured in 'Preferences', considering the 'Date Range' settings (as far as they fit to the date ranges in your power zone settings)
   * Heart Rate Zones - the heart rate zones as configured in 'Preferences', considering the 'Date Range' settings (as far as they fit to the date ranges in your power zone settings)
-  * "##" Rides - ride list - the fields shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
+  * "##" Activities - ride list - the fields shown are configurable through 'Preferences' -> 'Metrics' -> 'Summary'
 
 * Configuration of 'Summary' chart itself offers:
   * [Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter) - define chart specific 'Search/Filter' criteria 

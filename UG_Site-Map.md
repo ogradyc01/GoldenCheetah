@@ -52,24 +52,24 @@
         * `Download workouts from ErgDB...` 
         * `Import workouts or videos ...` 
         * `Scan disk for videos and workouts...`
-        * `Upload Ride to Calendar` 
+        * `Upload Activity to Calendar` 
         * `Refresh Calendar` 
         * `Find intervals...` 
       * ["Edit"](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_Edit)
-        * [Add Torque Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-add-torque)
-        * [Adjust Torque Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-torque)
-        * [Adjust Power Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-adjust-power)
-        * [Estimate Power Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-estimate-power)
-        * [Fix Elevation errors...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-elevation-errors)
-        * [Fix GPS errors...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gps-errors)
-        * [Fix Gaps in Recording...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-gaps-in-recording)
-        * [Fix HR Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-hr-spikes)
-         * [Set SmO2/tHb from Speed and Cadence](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#edit-tool-set-smo2thb-from-speed-and-cadence)
-        * [Fix Power Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing#tool-fix-power-spikes)
+        * [Add Torque Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-add-torque)
+        * [Adjust Torque Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-adjust-torque)
+        * [Adjust Power Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-adjust-power)
+        * [Estimate Power Values...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-estimate-power)
+        * [Fix Elevation errors...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-elevation-errors)
+        * [Fix GPS errors...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-gps-errors)
+        * [Fix Gaps in Recording...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-gaps-in-recording)
+        * [Fix HR Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-hr-spikes)
+         * [Set SmO2/tHb from Speed and Cadence](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#edit-tool-set-smo2thb-from-speed-and-cadence)
+        * [Fix Power Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-power-spikes)
       * ["View"](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu Bar_View)
         * Toggle Full Screen  
         * Show: 'Side Bar' / 'Compare Pane' / 'Tool Bar' / 'Athlete Tabs'
-        * Scope: Trends / Diary / Rides / Train
+        * Scope: Trends / Diary / Activities / Train
         * [Add Chart](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
         * Reset Layout  
         * Tabbed not Tiled  
@@ -84,9 +84,9 @@
       * Diary
         * [Side Bar for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view)
         * [Chart Types for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary)
-      * Rides
-        * [Side Bar for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view)
-        * [Chart Types for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides)
+      * Activities
+        * [Side Bar for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view)
+        * [Chart Types for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities)
         * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare-Pane_General)
       * Train
 
@@ -118,20 +118,20 @@
         * [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#calendar)
         * [Navigator](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary#navigator)
         * [Summary - same as 'Trends View' ](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#summary)
-      * [Chart Types for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides)
-        * [Ride Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary)
-        * [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details)
-        * [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#summary-and-details)
-        * [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
-        * [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#performance)
+      * [Chart Types for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities)
+        * [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary)
+        * [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details)
+        * [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#summary-and-details)
+        * [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
+        * [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#performance)
         * [Critical Mean Maximals - similar to 'Trends View' - for a single ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
-        * [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#histogram)
-        * [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#pedal-force-vs-velocity)
-        * [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#heartrate-vs-power)
-        * [Google Map / Bing Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#google-map--bing-map)
-        * [2d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#2d-plot)
-        * [3d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#3d-plot)
-        * [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#aerolab-chung-analysis)
+        * [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#histogram)
+        * [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#pedal-force-vs-velocity)
+        * [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#heartrate-vs-power)
+        * [Google Map / Bing Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#google-map--bing-map)
+        * [2d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#2d-plot)
+        * [3d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#3d-plot)
+        * [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#aerolab-chung-analysis)
     * Configure Chart / Close Chart
       * Close
       * Export Chart Image
@@ -149,25 +149,25 @@
     * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Diary view)
       * [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view#calendar)
       * [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Diary-view#summary)
-    * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Rides view)
-      * [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#calendar)
+    * [Side Bar: Activities View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Activities view)
+      * [Calendar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#calendar)
         * Colours
-      * [Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#rides)
-        * [Main functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Rides%20view#rides---main-functions)
-          * Delete Ride 
-          * Split Ride 
-          * Upload Ride to Calendar
+      * [Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#rides)
+        * [Main functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#rides---main-functions)
+          * Delete Activity 
+          * Split Activity 
+          * Upload Activity to Calendar
           * Find Intervals
           * Show Column Chooser
           * Group By 
           * Expand All
           * Collapse All  - this function hides all rides for the different groups and you will only see the group headers
-        * [Column Header](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Rides%20view#rides---column-header)
+        * [Column Header](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#rides---column-header)
           * Remove Column
           * Show in groups
           * Column Chooser  
-      * [Intervals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Rides-view#intervals)
-        * [Find Intervals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Rides%20view#intervals---find-intervals)
+      * [Intervals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side-Bar_Activities-view#intervals)
+        * [Find Intervals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side%20Bar_Activities%20view#intervals---find-intervals)
         * Sort Intervals  
         * Zoom to interval
         * Edit Interval 
@@ -197,7 +197,7 @@
     * Units (metric/imperial)
     * [Weight](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings)
       * [Athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General)
-      * [Ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_FAQ-METRICS#how-do-i-add-a-metric-to-the-details-screen-so-i-can-override-it-)
+      * [Activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_FAQ-METRICS#how-do-i-add-a-metric-to-the-details-screen-so-i-can-override-it-)
       * Withings
   * [Athlete: Training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training Zones)
     * Critical Power 
@@ -216,7 +216,7 @@
   * Twitter
   * Strava
   * Cycling Analytics
-  * RideWithGPS
+  * ActivityWithGPS
   * Withings Wifi Scales
   * Zeo Sleep Data
   * Web Calendar
@@ -229,8 +229,8 @@
   * Fonts and Font Sizes  
   * Line Width  
   * Antialias 
-  * Ride Scrollbar 
-  * Ride Headings  
+  * Activity Scrollbar 
+  * Activity Headings  
   * Styling  
   * Theme  
   * Colors  
@@ -248,7 +248,7 @@
     * Keyword 
     * Color
     * Related Notes Words  
-  * [Processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing)
+  * [Processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing)
     * General: Undo/Redo
     * Adjust Torque
     * Fix GPS errors
@@ -281,7 +281,7 @@
 * [Athlete Library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library)
 * [Upload/Download from/to external web-sites](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites)
 * [Search/Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter)
-* [Ride processing - Fix/Correct/Adjust](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing)
+* [Activity processing - Fix/Correct/Adjust](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing)
 * [Weight Setting Options](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings)
 * [Other information sources](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Other information)
 

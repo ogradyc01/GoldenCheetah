@@ -3,7 +3,7 @@ Menu Bar: Activity (Version 3.2)
 
 ![Activity Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_Activity.jpg)
 
-GoldenCheetah uses the term "Activity" and "Ride" in a mostly similar way. This is because the main functionality of GoldenCheetah is aimed to analyse ride data (with power). One more term to introduce here is "Workout" - a workout is a prescribed activity plan (e.g. 3x5 minutes at L5).
+GoldenCheetah uses the term "Activity" and "Activity" in a mostly similar way. This is because the main functionality of GoldenCheetah is aimed to analyse ride data (with power). One more term to introduce here is "Workout" - a workout is a prescribed activity plan (e.g. 3x5 minutes at L5).
 
 So most of the functions in this menu relate to rides. Here the list:
 
@@ -22,7 +22,7 @@ So most of the functions in this menu relate to rides. Here the list:
 
 * `Upload to TrainingPeaks` - Upload the selected ride to TrainingPeaks
 * `Synchronize with TrainingPeaks ...` - Opens a dialog box to synchronize data with TrainingPeaks
-* `Tweet Ride` - Open a dialog box to select the data to be tweeted
+* `Tweet Activity` - Open a dialog box to select the data to be tweeted
 
 For further details, please check [Special Topics: Upload_Download to_from external web-sites](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Upload_Download to_from external web-sites)
 

@@ -9,11 +9,11 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 * Golden Cheetah Racing - currently without function
 
-* Twitter - `Tweet Ride`
+* Twitter - `Tweet Activity`
 
-* Strava, Cycling Analytics, RideWithGPS, Selfloops - `Activity -> Share(...)`
+* Strava, Cycling Analytics, ActivityWithGPS, Selfloops - `Activity -> Share(...)`
 
-![Share](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Share_Ride.jpg)
+![Share](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Share_Activity.jpg)
 
 * Withings Wifi Scales - `Tools -> Get Withings Data`
 
@@ -43,7 +43,7 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 
 * Cycling Analytics
 
-* RideWithGPS
+* ActivityWithGPS
 
 * Withings Wifi Scales
 

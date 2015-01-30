@@ -31,7 +31,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 * [Side Bar](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_General handling)
   * [Side Bar: Trends View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Trends view)
   * [Side Bar: Diary View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Diary view)
-  * [Side Bar: Rides View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Rides view)
+  * [Side Bar: Activities View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Activities view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare Pane_General)
 
 ## Chart types and details - here to proceed with 3.2 Update
@@ -39,7 +39,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 * [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
   * [Chart Types for Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
   * [Chart Types for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary)
-  * [Chart Types for Rides](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides)
+  * [Chart Types for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities)
 
 ## Preferences
 
@@ -59,7 +59,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 * [Athlete Library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Setting the athlete library)
 * [Upload/Download from/to external web-sites](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to_from-external-web-sites)
 * [Search/Filter](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_SearchFilter)
-* [Ride processing - Fix/Correct/Adjust](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing)
+* [Activity processing - Fix/Correct/Adjust](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing)
 * [Weight Setting Options](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings)
 * [Other information sources](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Other information)
 

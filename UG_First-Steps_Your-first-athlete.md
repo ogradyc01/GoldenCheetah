@@ -18,7 +18,7 @@ after your have created and saved your first athlete and before importing any ri
 
 Once you're happy with the athlete settings click `Save`. You will then be able to select your new athlete in that initial dialog (where your new athlete is listed now). Go ahead and open that athlete and you will be greeted with GoldenCheetah, but a splash page.
 
-![Analysis view splash screen](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/FirstSteps_YourFirstAthlete_RidesViewSplashScreen.JPG)
+![Analysis view splash screen](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/FirstSteps_YourFirstAthlete_ActivitiesViewSplashScreen.JPG)
 
 This page is shown because there is no data associated with this athlete. We need to go ahead and download some data from your bike computer or import some data from disk or USB.
 

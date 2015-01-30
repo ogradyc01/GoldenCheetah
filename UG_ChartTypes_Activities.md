@@ -1,23 +1,23 @@
-Chart Types: Rides view (Version 3.1)
+Chart Types: Activities view (Version 3.1)
 ***
 
-The 'Rides' view offers 'Chart Types' which work on a single ride. The ride in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Rides' pane, but also by selecting a ride on the 'Navigator' or 'Calendar' on the 'Diary' view.
+The 'Activities' view offers 'Chart Types' which work on a single ride. The ride in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Activities' pane, but also by selecting a ride on the 'Navigator' or 'Calendar' on the 'Diary' view.
 
-* [Ride Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary)
-* [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details)
-* [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#summary-and-details)
-* [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
-* [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#performance)
+* [Activity Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary)
+* [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details)
+* [Summary and Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#summary-and-details)
+* [Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
+* [Performance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#performance)
 * [Critical Mean Maximals - similar to 'Trends View' - for a single ride](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#critical-mean-maximal)
-* [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#histogram)
-* [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#pedal-force-vs-velocity)
-* [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#heartrate-vs-power)
-* [Google Map / Bing Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#google-map--bing-map)
-* [2d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#2d-plot)
-* [3d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#3d-plot)
-* [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#aerolab-chung-analysis)
+* [Histogram](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#histogram)
+* [Pedal Force vs Velocity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#pedal-force-vs-velocity)
+* [Heartrate vs Power](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#heartrate-vs-power)
+* [Google Map / Bing Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#google-map--bing-map)
+* [2d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#2d-plot)
+* [3d Plot](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#3d-plot)
+* [Aerolab Chung Analysis](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#aerolab-chung-analysis)
 
-## Ride Summary
+## Activity Summary
 A summary chart has a fixed structure, which displays a summary about the current ride you a looking at.
 
 * Contents Section are:
@@ -33,9 +33,9 @@ The fields available in 'Details' are mainly determined by the configuration don
 
 Here the 'Workout' Tab as an example to show the relationship between configuration and input fields:
 
-![Ride Details - Workout Tab](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Workout.jpg)
+![Activity Details - Workout Tab](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Details-Workout.jpg)
 
-![Ride Details - Workout Settings](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Workout-Config.jpg)
+![Activity Details - Workout Settings](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Details-Workout-Config.jpg)
 
 _Note: The sequence of the 'Tab's on the 'Details' screen and the sequence of the fields per 'Tab' is exactly the sequence of the field and tabs in the configuration. When adding a field to the configuration, GoldenCheetah needs a few seconds to re-check / adjust it's internal structures and to re-create the screens (by adding the new field)._
 
@@ -45,7 +45,7 @@ _Note: GoldenCheetah comes with a set of field preferences, which already contai
 
 The 'Metric' tab is pre-populated with a number of metrics (as defined in the 'Preferences->Data Fields'). 
 
-![Ride Details - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Metric.jpg)
+![Activity Details - Metric](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Details-Metric.jpg)
 
 To enter or overwrite a 'Metric' value, please check the check-box next to the metric to open the input field for this metric. Only if you then input a value different to '0', this value will be taken as the metric value for this ride (and overwrite any value coming from your ride data).
 
@@ -53,7 +53,7 @@ To enter or overwrite a 'Metric' value, please check the check-box next to the m
 
 The 'Extra' Tab is a set of 'Read Only' fields, which are automatically generated based on your configuration. You do not find the 'Extra' Tab in the list of 'Tabs' in 'Preferences->Data Fields', but you find fields like 'Calendar Text' or 'Data' in the list (without an specific 'Tab' assigned).
 
-![Ride Details - Extra](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Details-Extra.jpg)
+![Activity Details - Extra](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Details-Extra.jpg)
  
 Some important fields are:
 * 'Calendar Text' - generated text which also appears in the 'Diary' view - 'Calendar' chart
@@ -76,7 +76,7 @@ Some important fields are:
 
 ## Summary and Details
 
-Combines [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#ride-summary) and [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details) in one chart.
+Combines [Summary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#ride-summary) and [Details](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details) in one chart.
 
 ## Editor
 
@@ -84,11 +84,11 @@ The 'Editor' chart provides all the ride file data in a spreadsheet/list format.
 
 As the name states, it does not only display the data, but you can also 'Edit' the data here. The multiple options available in the 'Editor' chart are described here:
 
-![Editor - Complete View]  (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-View.jpg)
+![Editor - Complete View]  (https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-View.jpg)
 
 ### Icon Functions
 
-![Editor - Icons](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Icons.jpg)
+![Editor - Icons](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-Icons.jpg)
 
 * `Save` - saves the ride data (with all changes/adjustments done)
 * `Undo` - if active, there have been changes done to the ride series data (shown in the editor), those changes are reverted - if there are multiple changes done separately - then can be undone separately by pressing 'Undo' multiple times
@@ -108,7 +108,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## First Column - Context Menu
 
-![Editor - First Column Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_1st_Column.jpg)
+![Editor - First Column Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-Context_1st_Column.jpg)
 
 * `Undo`, `Redo` - see above
 
@@ -127,7 +127,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Column Header - Context Menu
 
-![Editor - Column Header Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Header_Row.jpg)
+![Editor - Column Header Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-Context_Header_Row.jpg)
 
 * `Undo`, `Redo` - see above
 
@@ -143,7 +143,7 @@ As the name states, it does not only display the data, but you can also 'Edit' t
 
 ## Data area - Context Menu
 
-![Editor - Data area Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Editor-Context_Data.jpg)
+![Editor - Data area Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Editor-Context_Data.jpg)
 
 
 * `Undo`, `Redo` - see above
@@ -176,7 +176,7 @@ This chart type provides all the graphs for your ride data series. In addition t
       * if 'Stack' is checked and 'By Series' is NOT checked - all curves are plotted in one diagram, and the X-Axis is stretched over multiple lines
  
   * `Stack Zoom `- zooms the Y-Axis sizes for all diagrams (only takes effect if 'Show Stack' is checked)
-  * `Full Plot` - if checked, in addition to the curves, an additional diagram (containing all the curves of the ride data series) is displayed at the lower border of the 'Rides' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
+  * `Full Plot` - if checked, in addition to the curves, an additional diagram (containing all the curves of the ride data series) is displayed at the lower border of the 'Activities' view - with this you also get the ability to zoom into the X-Axis - the button for zooming are below the 'Full Plot' curve
   * `Overlay` - if checked, it adds a small overlay window to the diagram, in which selected interval data is displayed
   * `Grid` - if checked, it adds a grid to the chart
 
@@ -241,7 +241,7 @@ _Note: References Lines are not supported for any non-power related chart like e
 
 ## Histogram
 
-![Ride Histogram](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_Histogram.jpg)
+![Activity Histogram](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_Histogram.jpg)
 
 * `Data Series Box` - selection of ride data series to be analysed
 * `Time` - choose between 'Absolute Time' or 'Percentage Time'
@@ -340,11 +340,11 @@ The '3d Plot' displays the ride data in a 3d graphics - which you can zoom and r
 
 You can rotate the 3d graphics in all 3 directions with you mouse. As well as adding an 'layer' to the 'Z-Axis':
 
-![Rotate](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_3d-rotate.gif)
+![Rotate](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_3d-rotate.gif)
 
 You can add an analysis layer to the 'Z-Axis':
 
-![Layer](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Ride_3d-analyis-layer.gif)
+![Layer](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Activity_3d-analyis-layer.gif)
 
 ## Aerolab Chung Analysis
 

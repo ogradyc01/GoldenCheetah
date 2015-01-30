@@ -10,8 +10,8 @@ Here you can define UI appearance of GoldenCheetah.
 * `Fonts and Font Sizes` - self-explanatory
 * `Line Width` - used in diagramm plotting
 * `Antialias` - if checked, quality of plotting is enhanced
-* `Ride Scrollbar` - check to show the scrollbar in the 'Rides' pane of 'Rides View' -> 'Side Bar'
-* `Ride Headings` - check to show the column header in the 'Rides' pane of 'Rides View' -> 'Side Bar'
+* `Activity Scrollbar` - check to show the scrollbar in the 'Activities' pane of 'Activities View' -> 'Side Bar'
+* `Activity Headings` - check to show the column header in the 'Activities' pane of 'Activities View' -> 'Side Bar'
 * `Styling` - offers currently 2 choices - try to find what suits you best (idea is to be similar to the styling of the used operating systems)
 ***
 * `Theme` - themes are predefined sets of color settings for GoldenCheetah - you can't add/remove any of themes. To use them, select a theme by marking the row with a "mouse-click" and press `Apply Theme`. After that, don't forget to press `Save` to make the change work.

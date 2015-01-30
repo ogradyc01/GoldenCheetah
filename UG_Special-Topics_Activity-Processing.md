@@ -1,4 +1,4 @@
-Special Topics: Ride Processing (Version 3.2)
+Special Topics: Activity Processing (Version 3.2)
 ***
 
 GoldenCheetah provides a number of tools to fix/adjust/correct ride data. The adjustments can either be executing manually for a specific ride, or automatically during import of rides.
@@ -17,9 +17,9 @@ Any changes to the ride data done by the tools explained below, are not immediat
 
 * 'Leave without Saving' - you can always end GoldenCheetah without saving your ride data - (depending on your settings GoldenCheetah will ask / or not, if you have done any changes). When going this way ALL changes done since last saving of the ride file is lost.
 
-* 'Revert to Saved version' - on the 'Side Bar' -> 'Rides' pane, the context menu changes when ride data has changed - it then also offers a 'Revert to saved version' function.
+* 'Revert to Saved version' - on the 'Side Bar' -> 'Activities' pane, the context menu changes when ride data has changed - it then also offers a 'Revert to saved version' function.
 
-* 'Undo/Redo' - in the 'Rides' view - 'Editor' chart, you have an explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which can then be used to get back to the version of data before running the tool. You can also 'Redo' the changes - which re-applies the changes (only if you did an 'Undo' before. See also [Rides - Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#editor)
+* 'Undo/Redo' - in the 'Activities' view - 'Editor' chart, you have an explicit 'Undo/Redo' feature available. Every run of a tool is collected into an 'Undo' stack, which can then be used to get back to the version of data before running the tool. You can also 'Redo' the changes - which re-applies the changes (only if you did an 'Undo' before. See also [Activities - Editor](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#editor)
 
 ## Edit tool: Add Torque
 

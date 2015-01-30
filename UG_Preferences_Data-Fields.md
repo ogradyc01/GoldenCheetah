@@ -7,7 +7,7 @@ The 'Data Fields' preferences cover three different areas:
 
 * [Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional ride data and to add/overwrite ride data.
 
-* [Notes Keywords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Rides' view.
+* [Notes Keywords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your rides are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the rides section of the 'Activities' view.
 
 * [Processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
 
@@ -15,7 +15,7 @@ The 'Data Fields' preferences cover three different areas:
 
 ![Preferences - Datafields - Fields](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Fields.jpg)
 
-The data fields are structured by 'Screen Tab's which then appear on the 'Rides' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Rides#details).
+The data fields are structured by 'Screen Tab's which then appear on the 'Activities' view in the 'Details' and 'Summary and Details' charts. Please do also read the description of the ['Details' Chart](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities#details).
 
 * `Screen Tab` - groups the fields on different tabs 
 * `Field` - name of the field - there are 2 cases to consider (1) you to add a completely new field: then make sure that it has a name, which is not used elsewhere in GoldenCheetah (2) you want to make an existing field of GoldenCheetah editable, then please use exactly the field name here and make sure that you assign the correct field type
@@ -24,7 +24,7 @@ _Important Note: For case (1) - a completely new field, it is recommended to use
 
 * `Type` - technical type of a field - in case of existing GoldenCheetah fields, please use the correct field type (to understand the field types, please have a look at the standard examples GoldenCheetah is providing).
 * `Values` - is a way to restrict and simplify the input into fields of type 'Text' and 'Short Text' - by adding a list of values, seperated by "," for a specific field, only those values can be entered into that particular field
-* `Diary` - if checked, the concatenated contents of all checked fields is show in the 'Rides' view - 'Side Bar' -> 'Rides Pane' and also in the 'Diary' view - 'Calendar' chart.
+* `Diary` - if checked, the concatenated contents of all checked fields is show in the 'Activities' view - 'Side Bar' -> 'Activities Pane' and also in the 'Diary' view - 'Calendar' chart.
 
 _Note: You can use this to enter data for rides, where certain data was not captured at all, or to overwrite/correct certain values_
 
@@ -48,6 +48,6 @@ new in 3.11
 
 ![Preferences - Datafields - Processing](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Processing.jpg)
 
-GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Ride processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Ride-Processing)
+GoldenCheetah provides a number of fix/adjust/correct tools which are configured here. For further details, please read [Special Topics: Activity processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing)
 
 BACK: [Preferences: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
