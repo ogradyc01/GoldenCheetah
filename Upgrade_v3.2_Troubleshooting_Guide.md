@@ -44,11 +44,21 @@ Why does this happen: We have seen cases where deletion of files did not work if
 
 What to do: Check if the file exists in the respective sub-directory - if yes, delete the source file manuall
 
-## Ride/Activity files fail to convert to GoldenCheetah .JSON
+## Activity files fail to convert to GoldenCheetah .JSON
 
 The Upgrade process uses the same conversion procedure which is used by all other part of GoldenCheetah. Still we found cases where a file could not be converted during upgrade - which converted perfectly fine when using the manual "Import from ..." feature of GoldenCheetah.
 
 What to do: Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just move the file manually to /imports or /downloads sub-directory (to keep the original).
+
+## Activity files - Invalid Filename for upgrade conversion
+
+When importing / downloading a file to GoldenCheetah (before 3.2) the original file type was kept, but the file name was converted following the convention "YYYY_MM_DD_HH_MM_SS.***". Since not all original file types do not contain day/time of the activity in their data, this is the way to have a consistent source for this important information across all activity files on GoldenCheetah. And it makes sure that the file names are distinct and do not conflict/overlap.
+
+If - for whatever historic reason - still activities file(s) exist in the athlete's activity folder which DO NOT follow this convention they are NOT considered in the conversion to .JSON + stored in /activities but are reported as erroneous and will stay unchanged in the athlete directory.
+
+What you can do is:
+a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process
+b) Try to import the file into GoldenCheetah again - the import creates the .JSON in /activities and creates a copy of the original file in /imports. If the import is SUCCESSFUL you then need to delete the source file in the athlete directory to avoid further error messages when starting GoldenCheetah.
 
 ## Files cannot not be moved to the sub-folders
 
