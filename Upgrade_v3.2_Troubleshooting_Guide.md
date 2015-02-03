@@ -42,13 +42,13 @@ A frequent problem is that source files in the athlete directory cannot be delet
 
 Why does this happen: We have seen cases where deletion of files did not work if the athlete directory was on dropbox, we have seen single files which could not be deleted (without any clear reason). There might also be authorization problems, etc. - so various reasons possible.
 
-What to do: Check if the file exists in the respective sub-directory - if yes, delete the source file manuall
+What to do: Check if the file exists in the respective sub-directory - if yes, delete the source file manually
 
 ## Activity files fail to convert to GoldenCheetah .JSON
 
 The Upgrade process uses the same conversion procedure which is used by all other part of GoldenCheetah. Still we found cases where a file could not be converted during upgrade - which converted perfectly fine when using the manual "Import from ..." feature of GoldenCheetah.
 
-What to do: Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just move the file manually to /imports or /downloads sub-directory (to keep the original).
+What to do: Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
 
 ## Activity files - Invalid Filename for upgrade conversion
 
@@ -56,9 +56,9 @@ When importing / downloading a file to GoldenCheetah (before 3.2) the original f
 
 If - for whatever historic reason - still activities file(s) exist in the athlete's activity folder which DO NOT follow this convention they are NOT considered in the conversion to .JSON + stored in /activities but are reported as erroneous and will stay unchanged in the athlete directory.
 
-What you can do is:
+What to do:
 a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process
-b) Try to import the file into GoldenCheetah again - the import creates the .JSON in /activities and creates a copy of the original file in /imports. If the import is SUCCESSFUL you then need to delete the source file in the athlete directory to avoid further error messages when starting GoldenCheetah.
+b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
 
 ## Files cannot not be moved to the sub-folders
 
