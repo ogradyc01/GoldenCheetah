@@ -42,7 +42,7 @@ A frequent problem is that source files in the athlete directory cannot be delet
 
 Why does this happen: We have seen cases where deletion of files did not work if the athlete directory was on dropbox, we have seen single files which could not be deleted (without any clear reason). There might also be authorization problems, etc. - so various reasons possible.
 
-_What to do: _
+_What to do:_
 
 _Check if the file exists in the respective sub-directory - if yes, delete the source file manually._
 
