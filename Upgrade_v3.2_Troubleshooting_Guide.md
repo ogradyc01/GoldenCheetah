@@ -48,7 +48,7 @@ What to do: Check if the file exists in the respective sub-directory - if yes, d
 
 The Upgrade process uses the same conversion procedure which is used by all other part of GoldenCheetah. Still we found cases where a file could not be converted during upgrade - which converted perfectly fine when using the manual "Import from ..." feature of GoldenCheetah.
 
-**What to do: **
+_What to do:_
 
 Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
 
