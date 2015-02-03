@@ -70,9 +70,9 @@ _Variant b) Try to import the file into GoldenCheetah again using manual "Import
 
 Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder, or the file can be moved, but the source file cannot be deleted - so the upgrade process reports errors.
 
-_What to do: _
+_What to do:_
 
-_Check the files and errors - as they are reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file / or it was a file not required by GoldenCheetah any more (make a backup copy as well) and delete. _
+_Check the files and errors - as they are reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file / or it was a file not required by GoldenCheetah any more (make a backup copy as well) and delete._
 
 _Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
