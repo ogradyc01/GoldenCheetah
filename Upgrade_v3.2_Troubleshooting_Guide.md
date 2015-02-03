@@ -57,8 +57,10 @@ When importing / downloading a file to GoldenCheetah (before 3.2) the original f
 If - for whatever historic reason - still activities file(s) exist in the athlete's activity folder which DO NOT follow this convention they are NOT considered in the conversion to .JSON + stored in /activities but are reported as erroneous and will stay unchanged in the athlete directory.
 
 What to do:
-a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process
-b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
+
+Variant a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process
+
+Variant b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
 
 ## Files cannot not be moved to the sub-folders
 
