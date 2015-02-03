@@ -42,7 +42,9 @@ A frequent problem is that source files in the athlete directory cannot be delet
 
 Why does this happen: We have seen cases where deletion of files did not work if the athlete directory was on dropbox, we have seen single files which could not be deleted (without any clear reason). There might also be authorization problems, etc. - so various reasons possible.
 
-What to do: Check if the file exists in the respective sub-directory - if yes, delete the source file manually
+_What to do: _
+
+_Check if the file exists in the respective sub-directory - if yes, delete the source file manually._
 
 ## Activity files fail to convert to GoldenCheetah .JSON
 
@@ -50,25 +52,27 @@ The Upgrade process uses the same conversion procedure which is used by all othe
 
 _What to do:_
 
-Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
+_Import the non-converted files manually through "Import from ..." - if this import works fine and the ride/activity get visible in your rides list, just MOVE the file manually to /imports or /downloads sub-directory (to keep the original)._
 
-## Activity files - Invalid Filename for upgrade conversion
+## Activity files - Invalid File name for upgrade conversion
 
 When importing / downloading a file to GoldenCheetah (before 3.2) the original file type was kept, but the file name was converted following the convention "YYYY_MM_DD_HH_MM_SS.***". Since not all original file types do not contain day/time of the activity in their data, this is the way to have a consistent source for this important information across all activity files on GoldenCheetah. And it makes sure that the file names are distinct and do not conflict/overlap.
 
 If - for whatever historic reason - still activities file(s) exist in the athlete's activity folder which DO NOT follow this convention they are NOT considered in the conversion to .JSON + stored in /activities but are reported as erroneous and will stay unchanged in the athlete directory.
 
-What to do:
+_What to do:_
 
-Variant a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process
+_Variant a) Rename the file name to follow the required convention (here you have to make sure that date/time are correct) and restart GoldenCheetah to re-check/re-run the upgrade process_
 
-Variant b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original).
+_Variant b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original)._
 
 ## Files cannot not be moved to the sub-folders
 
 Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder, or the file can be moved, but the source file cannot be deleted - so the upgrade process reports errors.
 
-What to do: Check the files and errors - as they are reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file / or it was a file not required by GoldenCheetah any more (make a backup copy as well) and delete. 
+_What to do: _
+
+_Check the files and errors - as they are reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file / or it was a file not required by GoldenCheetah any more (make a backup copy as well) and delete. _
 
 _Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
