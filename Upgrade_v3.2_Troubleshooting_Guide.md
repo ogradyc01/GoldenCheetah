@@ -76,4 +76,12 @@ _Check the files and errors - as they are reported in the upgrade log. In case a
 
 _Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
+## Files cannot not be moved to the sub-folders - special case e.g. after restore of parts of the system
+
+If GoldenCheetah had problems to move in the first run of the upgrade - but was able to create a copy of the file to the respective subfolder, the athlete is marked to be successfully upgraded - and the log reports the files for your information only. You can check the reported files / re-check if they exist in the target subdirectory and can delete them (from the athlete root folder).
+
+If - for whatever reason (e.g. a partial restore of your system) - the upgrade flag of the athlete is removed (on OSX that flag its stored in a .PLIST file, on Windows it's stored in the registry), with the next start GoldenCheetah retries to do the upgrade. Any existing / orphan files in the athlete root directory, are processed by the upgrade - and will lead to "cannot move file" errors - since the files already exist in the target directory. (By intend the Upgrade procedure is NOT overwriting any files in the subdirectories - which may already contain changes which happened after the upgrade.)
+
+You now need to remove the files which are reported as errors as described in the previous section - 'What to do'
+
 ...
