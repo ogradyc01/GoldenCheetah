@@ -50,7 +50,17 @@ _What to do:_
 
 _You need to verify if the reported files "really" exist in the target sub-directory and should then delete them manually (**from the athlete root folder**). Also here please backup any file you plan to delete to another place in case you later find out the the deletion was a mistake._
 
-## Activity files fail to convert to GoldenCheetah .JSON
+## Files cannot not be moved/copied to the sub-folders
+
+Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder, or the file can be moved, but the source file cannot be deleted (see previous section). Such cases are reported as errors in the upgrade log.
+
+_What to do:_
+
+_Check the files and errors reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file find the root-cause why the file cannot be moved or copied and re-run the upgrade process. If it is a file not required by GoldenCheetah any more (make a backup copy as well) and delete._
+
+_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
+
+## Activity files - Fail to convert to GoldenCheetah .JSON
 
 The Upgrade process uses the same conversion procedure which is used by all other part of GoldenCheetah. Still we found cases where a file could not be converted during upgrade - which converted perfectly fine when using the manual "Import from ..." feature of GoldenCheetah.
 
@@ -70,39 +80,5 @@ _Variant a) Rename the file name to follow the required convention (here you hav
 
 _Variant b) Try to import the file into GoldenCheetah again using manual "Import from ..." - the import creates the .JSON in /activities. If the import is SUCCESSFUL we recommend to MOVE the file manually to /imports or /downloads sub-directory (to keep the original)._
 
-## Files cannot not be moved/copied to the sub-folders
-
-Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder, or the file can be moved, but the source file cannot be deleted - so the upgrade process reports errors.
-
-_What to do:_
-
-_Check the files and errors - as they are reported in the upgrade log. In case a file is properly moved, but cannot be deleted - make a backup copy of the file to another place (just in case) and remove the file manually. If the file could neither be copied nor moved - check the file properties - and the type of file. Depending if you still need the file / or it is a file not required by GoldenCheetah any more (make a backup copy as well) and delete._
-
-_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
-
-## Files cannot not be moved to the sub-folders
-
-Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder. We try first to "move" the file, if this does not work we try to "copy" the file. If both steps fail, the upgrade process reports this as an error. Since GoldenCheetah expects all files being stored in their respective sub-directory, this is a CRITICAL problem and needs to be resolved if you want to have you data complete and consistent.
-
-_What to do:_
-
-_Check the files and errors - as they are reported in the upgrade log. Check the file on it's relevance and the type. You can move configuration files, logs, backup files manually to their respective sub-directory. For activity files which are not .JSON type, please check if the conversion to .JSON was successful, then you can move the file as well to /imports - otherwise try to import the file manually to GoldenCheetah.
-
-In all cases (especially if you delete files) be sure to have a backup of the file stored in another place in case you later find out that the deletion was a mistake._
-
-_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
-
-## Deletion of copied files failed
-
-There are cases where the upgrade procedure is successful in copying a file to the sub-directory (if moving fails) - but the deletion of the source file fails. This case is also reported as an error and needs to be fixed. You need to verify if the reported files "really" exist in the target sub-directory and should then delete them (**from the athlete root folder**). Also here please backup any file you plan to delete to another place in case you later find out the the deletion was a mistake.
-
-_What to do:_
-
-_You need to verify if the reported files "really" exist in the target sub-directory and should then delete them (**from the athlete root folder**). Also here please backup any file you plan to delete to another place in case you later find out the the deletion was a mistake._
-
-You now need to remove the files which are reported as errors as described in the previous section - 'What to do'
-
-
-_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
 ...
