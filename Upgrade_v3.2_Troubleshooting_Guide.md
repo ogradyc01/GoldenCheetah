@@ -28,7 +28,11 @@ We assume that you have backed up your athlete data before you started the upgra
 
 # Troubleshooting
 
-Please be aware that upgrades process is done for an athlete until it finally reports success, which is that the upgrade reports ZERO errors (there still may be some information messages). This is to ensure that you take care on the problems and fixed them actively instead of just putting them aside and at a later stage find out that portions of your training data has not been upgraded - and therefore is not visible in GoldenCheetah any more.
+Please be aware that upgrades process is done for an athlete UNTIL IT FINALLY REPORTS SUCCESS, which means that the upgrade reports ZERO errors (there still may be some information messages). This is to ensure that you take care on the problems and fixed them actively instead of just putting them aside and at a later stage find out that portions of your training data has not been upgraded - and therefore is not visible in GoldenCheetah any more.
+
+At the end of an successful upgrade your athlete directory should look like this the one below (and ONLY contain sub-directories, but no files any more:
+
+![Upgraded Folder](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Upgrade_Folder_Target.JPG)
 
 We saw multiple issues while moving and converting the data and want to give some hints how to fix the problems.
 
@@ -76,12 +80,29 @@ _Check the files and errors - as they are reported in the upgrade log. In case a
 
 _Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
-## Files cannot not be moved to the sub-folders - special case e.g. after restore of parts of the system
+## Files cannot not be moved to the sub-folders
 
-If GoldenCheetah had problems to move a file when doing the upgrade first time - but was able to create a copy of the file to the respective sub-directory, the athlete is marked to be successfully upgraded - and the log reports the files for your information only. You can check the reported files / re-check if they exist in the target sub-directory and can delete them (**from the athlete root folder**).
+Depending on OS/File Source/... there are cases where a file cannot be moved the the sub-folder. We try first to "move" the file, if this does not work we try to "copy" the file. If both steps fail, the upgrade process reports this as an error. Since GoldenCheetah expects all files being stored in their respective sub-directory, this is a CRITICAL problem and needs to be resolved if you want to have you data complete and consistent.
 
-If - for whatever reason (e.g. a partial restore of your system) - the upgrade flag of the athlete is removed (on OSX that flag its stored in a .PLIST file, on Windows it's stored in the registry), with the next start GoldenCheetah will run the upgrade process again. Any existing / orphan files in the athlete root directory are processed by the upgrade - and will lead to "cannot move file" errors - since the files already exist in the target directory (from the previous successful upgrade). (By intend the Upgrade procedure is NOT overwriting any files in the target sub-directories - because they may already contain changes which happened after the first upgrade.)
+_What to do:_
+
+_Check the files and errors - as they are reported in the upgrade log. Check the file on it's relevance and the type. You can move configuration files, logs, backup files manually to their respective sub-directory. For activity files which are not .JSON type, please check if the conversion to .JSON was successful, then you can move the file as well to /imports - otherwise try to import the file manually to GoldenCheetah.
+
+In all cases (especially if you delete files) be sure to have a backup of the file stored in another place in case you later find out that the deletion was a mistake._
+
+_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
+
+## Deletion of copied files failed
+
+There are cases where the upgrade procedure is successful in copying a file to the sub-directory (if moving fails) - but the deletion of the source file fails. This case is also reported as an error and needs to be fixed. You need to verify if the reported files "really" exist in the target sub-directory and should then delete them (**from the athlete root folder**). Also here please backup any file you plan to delete to another place in case you later find out the the deletion was a mistake.
+
+_What to do:_
+
+_You need to verify if the reported files "really" exist in the target sub-directory and should then delete them (**from the athlete root folder**). Also here please backup any file you plan to delete to another place in case you later find out the the deletion was a mistake._
 
 You now need to remove the files which are reported as errors as described in the previous section - 'What to do'
+
+
+_Note: The responsibility if a file is required or not / if you delete it is totally yours. - Sorry - please use the information given here to make your decision_
 
 ...
