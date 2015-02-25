@@ -11,11 +11,11 @@ Here you configure central parameters which are used by GoldenCheetah in differe
 
 _Note: GoldenCheetah is translated into multiple languages, which you find on the drop-down list. In case texts are not translated for a certain language GoldenCheetah uses the 'English' default texts._
 
-* `Crank Length` - is an important parameter for some of the metrics calculated in GoldenCheetah. So maintain correctly.
+* `Crank Length` - is an important parameter for some of the metrics calculated in GoldenCheetah. So maintain correctly. Known use is to calculate AEPF and CPV both in Scatter Plot and PfPv Plot. In PfPv Plot you can overwrite the value used to plot as required, in the Scatter Plot the preference is used.
 
 _Note: As of today the Crank Length is defined for all athletes and not individual per athlete._
 
-* `Wheelsize` - is the default value for the wheel size in GoldenCheetah used in the 'Train' view (e.g. if not a device specific wheel size is configured) - and the wheel size used in 'Train' view in areas where not specific wheel size can be maintained
+* `Wheelsize` - is the default value for the wheel size in GoldenCheetah used in the 'Train' view (e.g. if not a device specific wheel size is configured) - and the wheel size used in 'Train' view in (some) for which no explicite wheel size can be maintained
 
 * `Use Garmin Smart Recording / Smart Recording Threshold (sec)` - Garmin devices have a feature called 'Smart Recording', where data points are not stored per second, but in variable intervals. In order to read such files and understand how to handle the gaps, GoldenCheetah can fill such gaps (by interpolating the missing data points). To enable this you need to activate 'Use Garmin Smart Recording' and defined the threshold (in seconds) upto which GoldenCheetah shall consider a data gap to be a smart recording gap - which then is filled. If 'Use Garmin Smart Recording' is off - gaps are filled with 'Zero' values.
 
