@@ -1,4 +1,4 @@
-Special Topics: Search & Filter (Version 3.11) 
+Special Topics: Search & Filter (Version 3.2) 
 ****
 
 Searching and Filtering are ways to find activities which fulfill specific criteria (e.g. to limit the number of activities shown in the activity navigator - or to find a particular activity). But also to only consider specific activities in summary and cumulative charts, like on the 'Trends' view.
@@ -40,27 +40,7 @@ _Note:To de-activate a 'Search/Filter' query, just click on the little (x) on th
 
 ## Search
 
-The 'Search' function in GoldenCheetah is pretty straight forward. All texts in activities are automatically indexed when a activity is imported or changed. If 'Search' is active (check if the correct icon - "magnifying glass" is shown) and just enter the text you are search for. The activity list will be reduced/filtered to those activities where the text appears in any of the text fields.
-
-### Search Query Syntax
-
-The search engine used by GoldenCheetah offers more options. Some of them which seem to be helpful (and which appear to work in GoldenCheetah's implementation to use the search engine) are:
-
-* Wildcard searches 
-  * Single character wildcard is "?"
-  * Multiple character wildcard is "*"
-
-_Note: Using a wildcard charater as first character of a search query is not possible._
-
-* Boolean operators
-  * `AND` or `&&` - to find activities where both term exists
-  * `OR` or `||` - to find activities where any of the terms exist
-
-_Note: Here AND, resp. OR have to be in UPPER CASE - otherwise they are interpreted as search terms_
-
-_Note2: The search engines operators are considered as "reserved" words, so that they cannot be found if you are looking for them - known cases are - "NOT", "AND", "OR", "TO" as well as "*", "?", "+", "-", but there may be more.
-
-_Note3: Since the search engine has more capabilities - there may be more usable, but since the documentation on the query snytax is quite basic, you need to find out on your own. A usefull search term to get further information is the name of the search engine used: 'Lucene' and the implementation GoldenCheetah is using is 'CLucene'._
+The 'Search' function in GoldenCheetah is pretty straight forward. If 'Search' is active (check if the correct icon - "magnifying glass" is shown) and just enter the text you are search for. The activity list will be reduced/filtered to those activities where the text appears in any of the text fields.
   
 ## Filter
 
@@ -84,9 +64,9 @@ A simple query is structured: `<field_name> <operator> <value_or_string>`
 
 ### `<field_name>`
 
-GoldenCheetah uses a "semi"technical field name for the queries - which is basically the english metric or field name, where all 'spaces' are substited by '_' to get the `<field>` as one textstring. Since it's difficult to remember all the field names, and (for longer field names) to type the name correctly, you can "Drag&Drop" field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
+GoldenCheetah uses a "semi"technical field name for the queries - which is basically the English metric or field name, where all 'spaces' are substituted by '_' to get the `<field>` as one text string. Since it's difficult to remember all the field names, and (for longer field names) to type the name correctly, you can "Drag&Drop" field name in the required format using the 'Column Chooser' tool. (It's in the filter menu - next to 'Manage Filter').
 
-_Note: In releases before 3.1 the field names were partly translated into your "preferences - language". Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent of any translation, from 3.1 on, only the english fieldnames (as described above) are valid <field_name>s for 'Filter' queries._
+_Note: In releases before 3.1 the field names were partly translated into your "preferences - language". Depending on the use of "special characters" in the translated field names, the filtering on such field partly worked, partly not. In order to be independent of any translation, from 3.1 on, only the English field names (as described above) are valid <field_name>s for 'Filter' queries._
 
 ### `<operator>`
 
@@ -152,13 +132,13 @@ The supported `<tiz_series>` are: "power" and "hr"
 
 Example: You want to select all activities, where you have spend 60min or more in power zone 4. This query then looks: `TIZ ( power, 4 ) > 3600`. Again the duration (60min) has to be entered in seconds (3600sec) into the query.
 
-### NEW with 3.11
+### NEW with 3.2
 
- * `SB` - (Stress Balance) - syntax is `SB(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
+ * `SB` or `TSB`- (Stress Balance / Training Stress Balance) - syntax is `SB(<metric>)` or `TSB(<metric>)`  and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
- * `LTS` - (Long Term Stress) - syntax is `LTS(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
+ * `LTS` or `CTL`- (Long Term Stress / Continuous Training Load ) - syntax is `LTS(<metric>)` or `CTS(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
- * `STS` - (Short Term Stress) - syntax is `STS(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
+ * `STS` or `ATL` - (Short Term Stress / Acute Training Load) - syntax is `STS(<metric>)` `ATL(<metric>)` and returns the PMC value for the metric in question for the date of the activity and therefore allows to select activities based upon PMC data.
 
 The supported `<metric>` are e.g. `TSS`, and the similar ones.
 
