@@ -1,4 +1,4 @@
-Chart Types: Diary view (Version 3.1)
+Chart Types: Diary view (Version 3.2)
 ***
 
 The 'Diary' view offers 'Chart Types' which work on a range of activities. The activities which are considered when opening a chart (which works on a date range) is the setting in your 'Side Bar' -> 'Summary' -> (Monthly, Weekly or Daily summary) - as well as the actual 'Search/Filter' settings. With the 'Side Bar' -> 'Calendar' pane you change the 'Date Range' considered.
