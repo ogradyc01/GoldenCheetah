@@ -1,4 +1,4 @@
-Special Topics: Weight settings (Version 3.1)
+Special Topics: Weight settings (Version 3.2)
 ***
 
 Weight can be maintained in 3 ways:
