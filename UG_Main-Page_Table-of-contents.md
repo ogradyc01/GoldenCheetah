@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Main Page: Table of contents (Version 3.1)
+![Logo](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Main Page: Table of contents (Version 3.2)
 ***
 Here you find all Wiki pages of the 'User's Guide' section in a TOC style:  
 For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map)  
@@ -34,7 +34,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
   * [Side Bar: Activities View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Side Bar_Activities view)
 * [Compare Pane](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Compare Pane_General)
 
-## Chart types and details - here to proceed with 3.2 Update
+## Chart types and details
 
 * [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)
   * [Chart Types for Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
