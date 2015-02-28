@@ -1,4 +1,4 @@
-Special Topics: Overview (Version 3.1)
+Special Topics: Overview (Version 3.2)
 ***
 
 Special topics is a collection of Wiki pages, which describe features, which do not belong to a single view in GoldenCheetah (like 'Search/Find'), or which just did not perfectly fit into one of the the other sections.
