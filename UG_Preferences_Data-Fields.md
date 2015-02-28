@@ -1,4 +1,4 @@
-Preferences: Data Fields (Version 3.1)
+Preferences: Data Fields (Version 3.2)
 ***
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
@@ -8,6 +8,8 @@ The 'Data Fields' preferences cover three different areas:
 * [Fields](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#fields) - here you define the list of additional fields available to either store additional activity data and to add/overwrite activity data.
 
 * [Notes Keywords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#notes-keywords) - defines the rules, how your activities are "colored" in the calendar(s), in the activity list of the 'Diary' view and in the activities section of the 'Activities' view.
+
+* [Defaults](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#defaults) - defines rules, how a field is filled in depending on the content in another field.
 
 * [Processing](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Data-Fields#processing) - allows the configuration of the 'Fix/adjust/correct' tools build into GoldenCheetah.
 
@@ -42,7 +44,9 @@ The section 'Notes Keywords' defines which field / field content is used to dete
 
 ### Defaults
 
-new in 3.11 
+![Preferences - Datafields - Defaults](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesDataFields_Defaults.jpg)
+
+The processing logic is - if `Field` is filled with `Value`, then `Linked Field` is filled with `Default Value` 
 
 ### Processing
 
