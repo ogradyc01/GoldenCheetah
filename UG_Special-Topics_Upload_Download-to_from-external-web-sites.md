@@ -9,7 +9,7 @@ Most of the execution (Upload or Download) functions are self-explanatory. Here 
 
 * Twitter - `Activity -> Tweet Activity`
 
-* Strava, Cycling Analytics, RideWithGPS, Selfloops, Trainingstagebuch, Velohero - `Activity -> Share Online...`
+* Strava, Cycling Analytics, RideWithGPS, Selfloops, Trainingstagebuch, Velo Hero - `Activity -> Share Online...`
 
 ![Share](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Share_Activity.jpg)
 
@@ -31,27 +31,25 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 
 * Trainingpeaks
 
-* Golden Cheetah Racing - currently without function
-
 * Twitter
 
 * Strava
 
 * Cycling Analytics
 
-* ActivityWithGPS
+* RideWithGPS
 
 * Withings Wifi Scales
 
-* Zeo Sleep Data
-
 * Web Calendar
 
-* CALDAV Calendar
+* CALDAV Calendar / Google Calendar
 
 * Trainingstagebuch
 
 * Selfloops
+
+* Velo Hero
 
 
 BACK: [Special Topics: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special%20Topics_Overview)
