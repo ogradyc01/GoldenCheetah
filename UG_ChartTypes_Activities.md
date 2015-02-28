@@ -1,4 +1,4 @@
-Chart Types: Activities view (Version 3.1)
+Chart Types: Activities view (Version 3.2)
 ***
 
 The 'Activities' view offers 'Chart Types' which work on a single activity. The activity in focus can be selected in various ways, e.g. through the 'Side Bar' -> 'Activities' pane, but also by selecting a activity on the 'Navigator' or 'Calendar' on the 'Diary' view.
