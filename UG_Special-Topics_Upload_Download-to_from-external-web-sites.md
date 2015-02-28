@@ -5,25 +5,21 @@ Special Topics: Upload/Download to/from external web sites (Version 3.1)
 
 Most of the execution (Upload or Download) functions are self-explanatory. Here only the menu path is provided. More info is only given for 'special cases' which need extra explanations.
 
-* Trainingpeaks - `Activity -> Upload to Trainingpeaks`, `Activity -> Downlaod from Trainingpeaks`
+* Trainingpeaks - `Activity -> Upload to Trainingpeaks`, `Activity -> Synchronise Trainingpeaks`
 
-* Golden Cheetah Racing - currently without function
+* Twitter - `Activity -> Tweet Activity`
 
-* Twitter - `Tweet Activity`
-
-* Strava, Cycling Analytics, ActivityWithGPS, Selfloops - `Activity -> Share(...)`
+* Strava, Cycling Analytics, RideWithGPS, Selfloops, Trainingstagebuch, Velohero - `Activity -> Share Online...`
 
 ![Share](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Share_Activity.jpg)
 
 * Withings Wifi Scales - `Tools -> Get Withings Data`
 
-* Zeo Sleep Data - `Tools -> Get Zeo Data`
-
 * Web Calendar - ...
 
 * CALDAV Calendar - ...
 
-* Trainingstagebuch - `Activity -> Upload to Trainingstagebuch`
+
 
 ## Configuration
 
