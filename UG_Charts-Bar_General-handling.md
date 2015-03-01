@@ -7,6 +7,8 @@ The 'Charts Bar' is a quick access to the different data charts / metrics charts
 
 _Note: For each different view of GoldenCheetah (Trends/Diary/Activities/Train) the 'Charts Bar' is different and also any change in configuration of the 'Charts Bar' only takes effect for the respective view._
 
+_Note2: GoldenCheetah comes with a set of pre-defined Charts for the different views. At the first time you add/change/delete a chart the default charts are copied and are now your personal / athlete specific set of charts. Any further change is done on your personal version. If you want to go back to the default settings - you can do this via `Reset Layout` for each view (Trends/Diary/Activities/Train) separately._
+
 ### Add Chart
 
 Adding a new chart to the 'Charts Bar' of a view can be done in 2 ways:
@@ -26,7 +28,7 @@ Configuration and closing (= removing from 'Chart Bar') of a chart is done using
 
 Depending on the type of chart, one or many options available on 'More...". In our example you have:
 
-* `Close` - this is available for ANY chart: 'Close' removes the chart from the 'Charts Bar' after asking if you really want to do this.
+* `Close` - this is available for ANY chart: 'Close' removes the chart from the 'Charts Bar' after asking if you really want to do this. You can remove any of the charts - whether they are origi
 * `Export Chart Image...` - for charts which have graphics/plots: 'Export Chart Image...' opens a dialog to export the graphic/plot as a graphics file (in .png) format. The export basically creates an internal screenshot of the VISIBLE area of the 'Main View'. If your chart is bigger than the visible area, only the visible part will be exported.
 * `All Chart Settings` - for charts having specific settings, 'All Chart Settings' opens the chart type specific 'Chart Settings' dialog box. These dialog boxes have the same parameter like those when adding a chart. (See [Chart Types](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_General)  )
 
@@ -47,4 +49,3 @@ When being in the 'Tiled' view it's possible to "drag&drop" the charts into a ne
 Changes in the 'Tiled' view are also considered in the 'Charts Bar' view.
 
 BACK: [General UI](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_General_UI-Layout-and-terminology)
-
