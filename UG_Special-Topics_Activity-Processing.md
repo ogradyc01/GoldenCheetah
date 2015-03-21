@@ -48,6 +48,9 @@ Derive estimated power data based on speed/elevation/weight etc.
 ## Edit tool: Fix Elevation errors
 
 Fix or add elevation data. If elevation data is present it will be removed and overwritten.
+The elevation data is required from the MapQuest OpenElevation API: http://open.mapquestapi.com/elevation/
+
+_Note: The web-site does not provide exact information which elevation source data is used. Some texts refer to SRTM data - so it's quite probably that this data is used. Accuracy of the service is not documented._
 
 INTERNET CONNECTION REQUIRED.
 
