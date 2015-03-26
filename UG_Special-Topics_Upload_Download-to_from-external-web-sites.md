@@ -53,11 +53,7 @@ For a generic CALDAV Calendar you need to enter the URL (please check with your 
 
 The Google Calendar (CALDAV access) requires the Google Calendar ID - which you find in your Google Calendar settings - the 'default' CalID is your Google e-mail address.
 
-After entering a proper CalID you need to authorize GoldenCheetah to access this Calendar - by pressing "Authorize", login on to Google with your User/PW and granting GoldenCheetah the right to access your calendar.
-
-
-
-
+After entering a proper CalID you need to authorize GoldenCheetah to access this Calendar - by pressing `Authorize`, login on to Google with your User/PW and granting GoldenCheetah the right to access your calendar.
 
 
 
