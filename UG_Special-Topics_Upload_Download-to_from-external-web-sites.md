@@ -45,11 +45,11 @@ Most of the configuration is self-explanatory (like defining User/Password). The
 
 * CALDAV Calendar / Google Calendar
 
-** CALDAV Calendar
+### CALDAV Calendar
 
 For a generic CALDAV Calendar you need to enter the URL (please check with your CALDAV provider) and Username/Password for the authorization. If you CALDAV Calender has a different authorization approach than Username/Password it can't be accessed by GoldenCheetah (only exception is the Google Calendar).
 
-** Google Calendar
+### Google Calendar
 
 The Google Calendar (CALDAV access) requires the Google Calendar ID - which you find in your Google Calendar settings - the 'default' CalID is your Google e-mail address.
 
