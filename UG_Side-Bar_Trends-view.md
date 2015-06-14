@@ -42,6 +42,9 @@ In all cases, `Add Season` opens a popup to define your new season:
 * `Starting LTS` - sets both the Long Term Stress (LTS) and Short Term Stress (STS) starting value for the PMC charts (independent of the PMC metrics used). 
 
 _Note: Please observe, that the 'Starting LTS' value set in a season, is also considered when selecting a different 'Date Range' - so make sure that seasons, which shall not influence the overall PMC calculations, have the 'Starting LTS' set to '0' (so they are not considered in PMC calculation)_
+
+_Note2: You may need to close / restart Golden Cheetah so that the `Starting LTS` set in a Season is considered._
+
 * `Lowest SB` -  currently for information purposes only, no functionality associated 
 
 _Note: Please observe that some charts can have their own date range defined in the chart specific settings. In such cases the 'Date Range' in the 'Side Bar' does not have any effect on the chart data._
