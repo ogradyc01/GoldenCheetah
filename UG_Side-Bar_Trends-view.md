@@ -43,7 +43,7 @@ In all cases, `Add Season` opens a popup to define your new season:
 
 _Note: Please observe, that the 'Starting LTS' value set in a season, is also considered when selecting a different 'Date Range' - so make sure that seasons, which shall not influence the overall PMC calculations, have the 'Starting LTS' set to '0' (so they are not considered in PMC calculation)_
 
-_Note2: You may need to close / restart Golden Cheetah so that the `Starting LTS` set in a Season is considered._
+_Important Hint: You may need to close / restart Golden Cheetah so that the `Starting LTS` set in a Season is considered in the PMC calculation of your charts._
 
 * `Lowest SB` -  currently for information purposes only, no functionality associated 
 
