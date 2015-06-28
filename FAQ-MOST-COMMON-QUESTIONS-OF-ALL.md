@@ -122,7 +122,7 @@ If you're using the USB cradle (as opposed to the older, serial one), the FTDI d
 conflicts with the braille terminal in the default Ubuntu installation. Try unplugging the PT cradle
 from the computer and uninstalling brltty: 
 ```
-sudo apt-get remove brltty
+$ sudo apt-get remove brltty
 ```
 Then plug the device back in and it should work.
 
