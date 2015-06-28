@@ -9,7 +9,7 @@
 * [Where are all the chart settings?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-are-all-the-chart-settings)
 * [Where is the preferences / options panel?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-is-the-preferences--options-panel)
 * [How do I change the colour of the rides on the calendar/list?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-change-the-colour-of-the-rides-on-the-calendarlist)
-* [GoldenCheetah doesn't find my PowerTap on Ubuntu Linux.] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetah-doesnt-find-my-PowerTap-on-Ubuntu-Linux)
+* [GoldenCheetah doesn't find my PowerTap/Joule/SRM on Ubuntu Linux.] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetah-doesnt-find-my-PowerTap-on-Ubuntu-Linux)
 * [GoldenCheetah.dmg installation didn't seem to work.] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#GoldenCheetahdmg-installation-didnt-seem-to-work)
 
 ## GENERAL
