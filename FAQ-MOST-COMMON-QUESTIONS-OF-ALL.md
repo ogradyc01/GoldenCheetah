@@ -116,7 +116,7 @@ They are processed in the order they are defined with the first match being retu
 care when using values such as 'TT' and 'race' since these can also be part of an English
 word (e.g. ATTEMPT contains 'TT' and graceful contains 'race'.
 
-### GoldenCheetah doesn't find my PowerTap on Ubuntu Linux.
+### GoldenCheetah doesn't find my PowerTap/Joule/SRM on Ubuntu Linux.
 
 If you're using the USB cradle (as opposed to the older, serial one), the FTDI driver sometimes
 conflicts with the braille terminal in the default Ubuntu installation. Try unplugging the PT cradle
