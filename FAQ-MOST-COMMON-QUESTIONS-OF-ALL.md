@@ -120,7 +120,10 @@ word (e.g. ATTEMPT contains 'TT' and graceful contains 'race'.
 
 If you're using the USB cradle (as opposed to the older, serial one), the FTDI driver sometimes
 conflicts with the braille terminal in the default Ubuntu installation. Try unplugging the PT cradle
-from the computer and uninstalling brltty: sudo apt-get remove brltty
+from the computer and uninstalling brltty: 
+```
+sudo apt-get remove brltty
+```
 Then plug the device back in and it should work.
 
 ### GoldenCheetah.dmg installation didn't seem to work.
