@@ -57,7 +57,7 @@ _Note: Please observe that some charts can have their own date range defined in 
 
 ## Events
 
-Events are single dates which can be races,etc. Events are created and maintained for a user defined 'Date Range/Season', but are shown in the PMC charts independent of the selected 'Date Range'.
+Events are single dates which can be races,etc. Events are created and maintained for a user defined 'Date Range/Season'. When selecting a user created season, only the events created for that season are shown in the Long Term Metrics (LTM) charts. When selecting a pre-defined 'Date Range/Season' all user defined events which fall into that range are shown on the charts.
 
 * `Pane Header Menu` - allows only to create events - the 'Season' for such an event is the actual selected season in the 'Date Range' pane. The popup does not appear/function is not possible, if the currently selected 'Date Range' is a system pre-defined range. (Events can only be created for user-defined seasons.)
 
