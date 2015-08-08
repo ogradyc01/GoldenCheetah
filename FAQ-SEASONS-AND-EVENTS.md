@@ -24,5 +24,5 @@ Seasons and Events are created and edited in the sidebar for the Home view. Seas
 listed under date ranges, whilst events are listed under the events sidebar item. In
 both cases they can be created and deleted from the sidebar item's drop down menu.
 
-Please note that in v3.1 events can only be created when a user season is selected, since
-events are associated with a particular season. This constraint will be removed in v3.2.
+Please note that events can only be created when a user season is selected, since
+events are associated with a particular season.
