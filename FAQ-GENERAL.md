@@ -38,14 +38,9 @@ The GoldenCheetah source code is hosted on github and can be cloned using the fo
 
 
 
-### I am a triathlete is GoldenCheetah appropriate for me?
+### I am a triathlete. Is GoldenCheetah appropriate for me?
 
-GoldenCheetah is not a multi-sport program. For tracking cycling performance it is a good
-choice. But if you are looking for running and swimming metrics and tracking then these
-features are not available at present. It is an excellent choice for analysing cycling
-aspects of triathlon, or working on the trainer.
-
-
+While the majority of features in GoldenCheetah are cycling-related, since v3.2, the application has basic support for tracking running and swimming performance: aerobic decoupling, GOVSS, SwimScore, normalized pace etc. 
 
 ### Is there a mailing list?
 
