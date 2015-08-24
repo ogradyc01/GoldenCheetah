@@ -10,7 +10,7 @@ to your search and Google will only search the Wiki. I assume other search engin
  
 ## WIKI Documents
 
-### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide) based on version 3.2 (which is not yet officially released)
+### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Users-Guide) based on version 3.2
   
   * [Site Map] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map)
   * [Table of contents] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents) 
