@@ -22,7 +22,7 @@ Still can't find it? Try the [Site Map](https://github.com/GoldenCheetah/GoldenC
 )  
 
 There are some assumptions taken regarding what this guides is NOT. It's
-* not a developer's or build guide for GoldenCheetah / it assumes you are using a stable version of the software with minimum release level 3.1
+* not a developer's or build guide for GoldenCheetah / it assumes you are using a stable version of the software with minimum release level 3.2
 * not an introduction into power based training / it assumes that you have a basic understanding on power based training together with knowledge on the common terminology
 * not an full introduction into all GoldenCheetah metrics / it will deliver information on the metrics which are important to understand the software, but not provide detailed background on all the metrics provided
 
