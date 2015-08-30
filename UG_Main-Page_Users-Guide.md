@@ -19,7 +19,9 @@ And here a link the 'Table of Contents' of this user guide:
 * [Table of Contents](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
 
 Still can't find it? Try the [Site Map](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Site-Map
-)  
+) 
+
+Even not you can't find it? Then it's most probably not documented yet. Since the functionality of GoldenCheetah is growing fast - and many feature have been added in version 3.2 - the Wiki documentation is partly behind. So anyone finding a missing section is invited to help out and enhance the Wiki accordingly. Thanks.
 
 There are some assumptions taken regarding what this guides is NOT. It's
 * not a developer's or build guide for GoldenCheetah / it assumes you are using a stable version of the software with minimum release level 3.2
