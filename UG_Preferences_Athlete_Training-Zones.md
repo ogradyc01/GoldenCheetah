@@ -7,7 +7,7 @@ Setting up the training zones for 'Power', 'Heartrate' and 'Pace" is done a a ve
 
 _Note: To make sure that all data is correctly assigned to a specific Zone, start your Zones always with "Zero/0". Otherwise any data record who does not "find" a Zone will be added to the highest available Zone - giving wrong results._
 
-_Note2: Please make sure that you have valid Zone definitions available for any point in time (activity date) for which you have uploaded activities into GoldenCheetah. Recommendation is to start you first Zone definition (Power, Heartrate, Pace) with your oldest training activity - or even go some further date back in case you want to add more activities in the past. Why? The Zone definitions are master data for GoldenCheetah - the definitions are not transferred into the activity files - giving you the freedom to adjust in the past - with direct effect on the respective activities in the affected period._
+_Note2: Please make sure that you have valid Zone definition available for any point in time (activity date) for which you have uploaded activities into GoldenCheetah. Recommendation is to start you first Zone definition (Power, Heartrate, Pace) with your oldest training activity - or even go some further date back in case you want to add more activities in the past. Why? The Zone definitions are master data for GoldenCheetah - the definitions are not transferred into the activity files - giving you the freedom to adjust in the past - with direct effect on the respective activities in the affected period._
 
 ![Athlete - Power - Overview](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Power_Overview.jpg)
 
