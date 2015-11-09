@@ -1,4 +1,4 @@
-Menu Bar: View (Version 3.1)
+Menu Bar: View (Version 3.3)
 ***
 
 ![View Menu](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/MenuBar_View_TrendsCharts.jpg)
