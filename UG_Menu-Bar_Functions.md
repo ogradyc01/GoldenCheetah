@@ -1,4 +1,4 @@
-Menu Bar: Functions (Version 3.2)
+Menu Bar: Functions (Version 3.3)
 ***
 
 The GoldenCheetah 'Menu Bar' is similar to any other application. So please find the details on the different menus and menu options below.
@@ -7,6 +7,7 @@ _Note: There is one difference between Windows or Linux builds and MacOS builds.
 
 * [Athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Athlete)
 * [Activity](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Activity)
+* [Share](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Share)
 * [Tools](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Tools)
 * [Edit](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Edit)
 * [View](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_View)
