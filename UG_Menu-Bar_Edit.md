@@ -17,6 +17,6 @@ The edit menu contains functions which manipulate (fix, adjust, add) series data
 * [Fix HR Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-hr-spikes)
 * [Set SmO2/tHb from Speed and Cadence](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#edit-tool-set-smo2thb-from-speed-and-cadence)
 * [Fix Power Spikes...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-power-spikes)
-* [Fix Speed from Distance...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-speed-from-distance)
+* [Fix Speed from Distance...](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing#tool-fix-speed)
 
 BACK: [Menu Bar:Functions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Menu-Bar_Functions)
