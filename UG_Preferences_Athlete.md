@@ -38,14 +38,20 @@ For 'Weight' please also check: [Special Topics: Weight settings](https://github
 
 The next three tabs `Power Zones`, `Heartrate Zones`, and `Pace Zones` allow you to setup the training zones for the athlete. GoldenCheetah allows a time dependent and very flexible definition of zones for 'Power' and 'Heartrate' as well as the definition of 'Pace Zones' separate for 'Run' and 'Swim' activities. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
 
-Details see [Athlete: Training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training Zones)
+* [How-to: Configure Training Zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
 
 ***
 
 ![Preferences: Athlete - Auto Import](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesAthlete_Autoimport.jpg)
 
-The last tab `Auto Import` allows the configuration of a number of directory which are scan for activity/activity files when Golden Cheetah is started. When found, showing the list and automatically importing new activities to GoldenCheetah.
+The last tab `Auto Import` allows the configuration of a number of directories which are scan for activity/activity files when Golden Cheetah is started. There are 2 different types of import rules associated.
 
-* [How-to: Configure Training Zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
+* `Autoimport with dialog` - with this rule a dialog window opens and for the files the standard GoldenCheetah import dialog is executed.
+* `Autoimport in background` - by using this rule the import takes place without a visible import dialog window. Only in case you need to manually add activity date/time data the import dialog windows shows up. 
+
+_Note: As long as the background import is active, you cannot close the athlete window for which the import is done. After finishing a background import task, a popup informs you that the import is completed._
+
+
+Both types of import rules do also exist with extension `- past <xxx> days` - this variant limits the number of activity files considered during the import phase to those which have been "LAST CHANGED" within the given time period. As date the last file change tracked by your operating system is used.
 
 BACK: [Preferences: Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
