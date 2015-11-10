@@ -14,13 +14,14 @@ General setting of Golden Cheetah. More details:
 
 * [General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General)
 * [Athlete Library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
-* [Weight settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
+
 
 ### Athlete
 
 Athlete specific settings - configured for your currently active athlete. More details: 
 
 * [Athlete](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
+* [Weight settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
 * [Training Zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones)
 
 
