@@ -3,7 +3,7 @@ Preferences: General (Version 3.2)
 
 _Select:_ `Menu Bar -> Tools -> Options...` to get to the 'Options' Popup.
 
-Here you configure central parameters which are used by GoldenCheetah in different places. 
+Here you configure central parameters which are used by GoldenCheetah in different places and which are valid for ALL ATHLETES:
 
 ![Preferences General](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/PreferencesGeneral.jpg)
 
@@ -18,8 +18,6 @@ _Note: GoldenCheetah is translated into multiple languages, which you find on th
 _Note: A recommendation is NOT too use any of such smart-recording features. Constant recording is the best way to obtain proper analysis results - not only on GoldenCheetah, but also in other analysis tools_
 
 * `Elevation hysteresis (meters)` - this value is used to smooth the small changes in altitude. The default value is 3m. Since different programs use different hysteresis values, the elevation calculated by GoldenCheetah and other programs most likely deviate. If such differences are important for you, you can adjust the hysteresis and try to reach the value of the other program. _Note: Since other programs might also deviate in the algorithm used, there is no guarantee to find a value which delivers the same result for all activities._
-
-_Note: The value is defined for all athletes_
 
 * `Athlete Library` - see detailed description here: [Setting the athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
 
