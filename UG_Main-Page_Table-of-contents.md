@@ -46,7 +46,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 
 * [Overview](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Overview)
 * [General](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_General)
-* [Athlete: About](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
+* [Athlete: About/Measures/Auto Import](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete)
   * [Athlete: Training zones](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training Zones)
 * [Passwords](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Passwords)
 * [Appearance](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Appearance)
