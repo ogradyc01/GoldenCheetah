@@ -21,12 +21,6 @@ _Note: A recommendation is NOT too use any of such smart-recording features. Con
 
 _Note: The value is defined for all athletes_
 
-* `STS average (days) / LTS average (days)` - STS (Short Term Stress) and LTS (Long Term Stress) days are the time constants used in the calculation of STS and LTS in the PMC charts 
-
-_Note_: STS and LTS values are stored per athlete._
-
-* `PMC Stress Balance Today` - if checked, the training of a certain day is considered in the SB value of this day already. If not checked, the SB change will take effect on the next day. 
-
 * `Athlete Library` - see detailed description here: [Setting the athlete library](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Setting-the-athlete-library)
 
 * `Workout Library` - Directory to store the 'Train' view related files,... 
