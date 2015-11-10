@@ -1,4 +1,4 @@
-Preferences: Overview (Version 3.2)
+Preferences: Overview (Version 3.3)
 ***
 
 _Choose:_ `Menu Bar->Tools->Options...` to open the main configuration screen of GoldenCheetah.
@@ -49,6 +49,12 @@ Here you defined additional activity data fields and other data related preferen
 Here you can select the metrics as well as the sequence in which the selected metrics are shown in specific screens and summaries of GoldenCheetah: 
 
 * [Metrics](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Metrics)
+
+### Intervals
+
+Here you can enable and select the active types of automatic interval discovery for your activities: 
+
+* [Metrics](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Intervals)
 
 ### Train Devices
 
