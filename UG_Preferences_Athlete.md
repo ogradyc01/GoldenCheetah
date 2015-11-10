@@ -17,10 +17,23 @@ In the `About` tab you can change some basic settings, and add a picture for the
 
 Fields which you have to maintain on this view are:
 
-* `Unit` - set the correct Unit of Measurement, which is used in metrics calculation and display
 * `Weight` - set the default weight, which is used in metrics calculation and display
 
 For 'Weight' please also check: [Special Topics: Weight settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
+
+
+* `Crank Length` - is an important parameter for some of the metrics calculated in GoldenCheetah. So maintain correctly. Known use is to calculate AEPF and CPV both in Scatter Plot and PfPv Plot. In PfPv Plot you can overwrite the value used to plot as required, in the Scatter Plot the preference is used.
+
+_Note: As of today the Crank Length is defined for all athletes and not individual per athlete._
+
+* `Wheelsize` - is the default value for the wheel size in GoldenCheetah used in the 'Train' view (e.g. if not a device specific wheel size is configured) - and the wheel size used in 'Train' view in (some) for which no explicite wheel size can be maintained
+
+
+* `STS average (days) / LTS average (days)` - STS (Short Term Stress) and LTS (Long Term Stress) days are the time constants used in the calculation of STS and LTS in the PMC charts 
+
+_Note_: STS and LTS values are stored per athlete._
+
+* `PMC Stress Balance Today` - if checked, the training of a certain day is considered in the SB value of this day already. If not checked, the SB change will take effect on the next day. 
 
 The next three tabs `Power Zones`, `Heartrate Zones`, and `Pace Zones` allow you to setup the training zones for the athlete. GoldenCheetah allows a time dependent and very flexible definition of zones for 'Power' and 'Heartrate' as well as the definition of 'Pace Zones' separate for 'Run' and 'Swim' activities. In this documentation we assume that you are familiar with the concepts behind training zones and will just explain how zones are configured.
 
