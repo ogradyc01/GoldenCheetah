@@ -54,7 +54,7 @@ Here you can select the metrics as well as the sequence in which the selected me
 
 Here you can enable and select the active types of automatic interval discovery for your activities: 
 
-* [Metrics](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Intervals)
+* [Intervals](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Intervals)
 
 ### Train Devices
 
