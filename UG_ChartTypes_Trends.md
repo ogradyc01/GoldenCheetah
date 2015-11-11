@@ -108,6 +108,11 @@ As parameter you need to choose the metric for which the Stress shall be calcula
 
 For the further settings see: [Curve Settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends#curve-settings)
 
+### User Data
+
+... to be completed ...
+
+
 ## Collection Tree Map
 
 The 'Collection Tree Map' is an very useful tool to analyse how your activities distribute - e.g. regarding your "Workout Codes", or equipment (if you maintain it).
