@@ -32,6 +32,9 @@ In the `Measures`tab you maintain athlete specific measures:
 * `STS average (days) / LTS average (days)` - STS (Short Term Stress) and LTS (Long Term Stress) days are the time constants used in the calculation of STS and LTS in the PMC charts 
 * `PMC Stress Balance Today` - if checked, the training of a certain day is considered in the SB value of this day already. If not checked, the SB change will take effect on the next day. 
 
+ ** if checked the calculation is : `TSB of today = CTL of yesterday - ATL of yesterday`
+ ** if NOT checked the calculation is : `TSB of today = CTL of yesterday - ATL of yesterday`
+
 For 'Weight' please also check: [Special Topics: Weight settings](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings) 
 
 ***
