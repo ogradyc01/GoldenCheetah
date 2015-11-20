@@ -47,7 +47,16 @@ back to the default value for the athlete.
 The weight from withings and weight from the activity can both be plotted separately in
 the LTM plots.
 
+### How do I fix tiny text on high-DPI Windows displays?
 
+From v3.2 we publish binaries using QT5, from v3.3 we only publish binaries using QT5. You must use a QT5 based build on a high resolution display since it has builtin support for such devices. 
+
+When you start GoldenCheetah from the command line you need to pass a parameter to it to force text and graphics to be scaled to the higher resolution you have available. This means running:
+```
+$ GoldenCheetah -platform windows:dpiawareness=0
+```
+
+Text will now be scaled to match the resolution of the display. There are other settings that you can use that are documented here: (http://doc.qt.io/qt-5/highdpi.html).
 
 ### How do I plot x sec power best?
 
