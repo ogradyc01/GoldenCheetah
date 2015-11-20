@@ -5,7 +5,7 @@
 * [Can I enter my weight and track/plot it?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Can-I-enter-my-weight-and-trackplot-it)
 * [How do I plot x sec power best?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-plot-x-sec-power-best)
 * [I can't find Aerolab / Performance Manager?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#I-cant-find-Aerolab--Performance-Manager)
-* [How do I fix tiny text on high-DPI Windows displays?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-fix-tiny-text-on high-DPI-Windows-displays)
+* [How do I fix tiny text on high-DPI Windows displays?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-fix-tiny-text-on-high-DPI-Windows-displays?)
 * [What happened to weekly summary?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#What-happened-to-weekly-summary)
 * [Where are all the chart settings?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-are-all-the-chart-settings)
 * [Where is the preferences / options panel?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Where-is-the-preferences--options-panel)
