@@ -54,7 +54,8 @@ You'll arrive at the old interface with the Share option
 Please note that this interface is no longer supported so we would not be able to account for any potential software bugs. We are working to migrate as many features of this interface as possible over to the new interface, though I do not have a timeline that I am able to provide at the moment.
 
 
-Withings Customer Service | Inspire Health```
+Withings Customer Service | Inspire Health
+```
 
 If you click on 'share on my website' you will be greeted with a number of code
 snippets you can embed in a web page. If you look closely in the top right hand
