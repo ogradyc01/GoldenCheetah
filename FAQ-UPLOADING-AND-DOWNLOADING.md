@@ -48,9 +48,9 @@ You should still be able to access it by following these steps:
 
 1) Login to https://healthmate.withings.com
 2) Click on your email address in the upper right corner of screen
-4) Select Settings from the dropdown menu
-5) Under Devices click the button to Configure a WBS01
-6) On the next screen click My Dashboard
+3) Select Settings from the dropdown menu
+4) Under Devices click the button to Configure a WBS01
+5) On the next screen click My Dashboard
 
 You'll arrive at the old interface with the Share option
 
