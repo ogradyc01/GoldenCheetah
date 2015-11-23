@@ -46,15 +46,19 @@ This is the advice provided by Withings to get to the old functionality you need
 ```
 You should still be able to access it by following these steps:
 
-Login to https://healthmate.withings.com
-Click on your email address in the upper right corner of screen and select Settings from the dropdown menu
-Under Devices click the button to Configure a WBS01
-On the next screen click My Dashboard
+1) Login to https://healthmate.withings.com
+2) Click on your email address in the upper right corner of screen
+4) Select Settings from the dropdown menu
+5) Under Devices click the button to Configure a WBS01
+6) On the next screen click My Dashboard
+
 You'll arrive at the old interface with the Share option
-Please note that this interface is no longer supported so we would not be able to account for any potential software bugs. We are working to migrate as many features of this interface as possible over to the new interface, though I do not have a timeline that I am able to provide at the moment.
 
-
-Withings Customer Service | Inspire Health
+Please note that this interface is no longer supported so we would 
+not be able to account for any potential software bugs. We are working 
+to migrate as many features of this interface as possible over to the 
+new interface, though I do not have a timeline that I am able to 
+provide at the moment.
 ```
 
 If you click on 'share on my website' you will be greeted with a number of code
