@@ -27,12 +27,15 @@ The exp() functions returns e raised to the power of p1. Lastly, isinf returns t
 * isnan(p1)
 
 **LIST / VECTOR REDUCE FUNCTIONS**
-* sum(...)
-* mean(...)
-* max(...)
-* min(...)
-* count(...)
-* which(...) 
+
+Each of the reduce functions operate on a variable list of inputs; sum(1,2,3) would return 6. You can also supply a vector or list of vectors to reduce them.
+
+* sum(...) - evaluate a sum of all supplied values
+* mean(...) - evaluate the mean average of all supplied values
+* max(...) - return the maximal value in the supplied values
+* min(...) - return the minimal value in the supplied values
+* count(...) - return a count of values supplied
+* which(cond, ...) - filter the values returning a vector containing values that meet the condition cond. The condition references 'x' to evaluate for each supplied value e.g. which(x>0, 1,2,-1) would return a vector containing the values 1 and 2, but not -1 since it is not greater than zero.
 
 **MODEL FUNCTIONS**
 * estimate(model, (cp|ftp|w'|pmax|x))
