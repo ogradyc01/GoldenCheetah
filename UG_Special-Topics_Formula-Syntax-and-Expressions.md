@@ -1,5 +1,9 @@
 **MATHS FUNCTIONS**
 
+Each of the maths functions returns a high precision value (double), where acos, atan et al return the arc cosine, tan etc and the acosh, atanh return the arc cosine of the hypoteneuse etc.
+
+The exp() functions returns e raised to the power of p1. Lastly, isinf returns true if the expression evaluates to an infinite value and isnan if the expression evaluates to an undefined value (not a number).
+
 * cos(p1)
 * tan(p1)
 * sin(p1)
