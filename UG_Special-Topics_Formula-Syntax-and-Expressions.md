@@ -450,7 +450,7 @@ _PEAK DURATION METRICS_
 * 90_min_Peak_Pace_Swim
 * 90_min_Peak_Power
 
-** OPERATORS **
+**OPERATORS**
 
 Operators are the glue to building meaningful expressions
 * + - / * ^ arithmetic operators evaluate an expression to a numeric value
