@@ -455,7 +455,7 @@ _PEAK DURATION METRICS_
 Operators are the glue to building meaningful expressions
 * + - / * ^ arithmetic operators evaluate an expression to a numeric value
 * && || logical operators to evaluate an expression to true or false
-* < <= > >= <> numeric comparison evaluates to true or false
+* < <= > >= <> = comparison evaluates to true or false. Note '=' is used to compare not assign.
 * matches contains startsWith endsWith string comparison evaluates to true or false
 * x ? a : b evaluates to a if x is non-zero, otherwise b
 * x ?: y evaluates to y if x is non-zero otherwise x
