@@ -1,6 +1,7 @@
 ## MOST COMMON QUESTIONS OF ALL
 
 * [How do I override / manually enter TSS for a ride?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-override--manually-enter-TSS-for-a-ride)
+* [Google/Bing Maps crash on Mac OSX?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Google-Bing-Maps-crash-on-Mac-OSX)
 * [How do I add or remove a chart?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-add-or-remove-a-chart)
 * [Can I enter my weight and track/plot it?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Can-I-enter-my-weight-and-trackplot-it)
 * [How do I plot x sec power best?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-plot-x-sec-power-best)
