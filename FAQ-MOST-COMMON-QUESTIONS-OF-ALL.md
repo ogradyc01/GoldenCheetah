@@ -15,6 +15,8 @@ to the Metric tab if it was not already there.
 
 The most common cause for this is badly written plugins that are not compatible with QT. Of note are Facebook plugins for photo sharing, but there are others too. We would recommend you avoid installing browser plugins unless they are well written.
 
+Browser Plugins on OSX are typically installed in the directory ~/Library/Internet Plug-Ins/ 
+
 ### How do I add or remove a chart?
 
 To add a new chart to the view you can select from the hamburger menu on the right hand side of
