@@ -449,3 +449,13 @@ _PEAK DURATION METRICS_
 * 90_min_Peak_Pace
 * 90_min_Peak_Pace_Swim
 * 90_min_Peak_Power
+
+** OPERATORS **
+
+Operators are the glue to building meaningful expressions
+* + - / * ^ arithmetic operators evaluate an expression to a numeric value
+* && || logical operators to evaluate an expression to true or false
+* < <= > >= <> numeric comparison evaluates to true or false
+* matches contains startsWith endsWith string comparison evaluates to true or false
+* x ? a : b evaluates to a if x is non-zero, otherwise b
+* x ?: y evaluates to y if x is non-zero otherwise x
