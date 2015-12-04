@@ -458,4 +458,5 @@ Operators are the glue to building meaningful expressions
 * < <= > >= <> = comparison operators evaluate to true or false. _Note:_ '=' is used to compare not assign.
 * matches contains startsWith endsWith string comparisons evaluate to true or false
 * x ? a : b evaluates to a if x is non-zero, otherwise b
-* x ?: y evaluates to y if x is non-zero otherwise x
+* **Coming Soon V4 ONLY** x ?: y evaluates to y if x is non-zero otherwise x
+* **Coming Soon V4 ONLY** !expr logical not, evaluates false if expr true, true if expr false
