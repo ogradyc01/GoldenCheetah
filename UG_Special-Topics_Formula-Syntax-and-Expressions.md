@@ -464,4 +464,6 @@ Operators are the glue to building meaningful expressions
 * !expr logical not, evaluates false if expr true, true if expr false
 * symbol <- expr user symbols to hold assigned values, evaluate to the value assigned
 * { expr; .. expr; } compound statements that evaluate to last expression
+* if (cond) stmt; else stmt; if/else logic where statement can also be a compound statement
+
 
