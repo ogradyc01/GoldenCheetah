@@ -461,4 +461,5 @@ Operators are the glue to building meaningful expressions
 * **Coming Soon V4 ONLY** x ?: y evaluates to y if x is non-zero otherwise x
 * **Coming Soon V4 ONLY** !expr logical not, evaluates false if expr true, true if expr false
 * **Coming Soon V4 ONLY** <- to assign values to a user symbol
+* **Coming Soon V4 ONLY** { expr; .. expr; } compound statements that evaluate to last expression
 
