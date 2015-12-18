@@ -463,15 +463,15 @@ Operators are the glue to building meaningful expressions
 
 *User Metrics*
 
-We have introduced the ability to define your own metrics, but providing code to perform calculations against a workout. The user defines some named expressions (user functions) that are called on certain conditions:
+We have introduced the ability to define your own metrics, by writing code to perform calculations against a workout. The user defines some named expressions (user functions) that are called on certain conditions:
 
-* init { } is called to initialised any variables before working with the ride
+* init { } is called to initialise any variables before working with the ride
 * relevant { } is called to check if  this metric is relevant for the ride
 * sample { } is called for every sample in the ride
 * value { } is called at the end to get the metric value
 * count { } is called at the end to get the count to use when aggregating averages
 
-All the named functions are optional, but if no value { } function is defined the metric will always be zero
+All the named functions are optional, but if no value { } function is defined the metric will always be zero.
 
 *New language syntax*
 
