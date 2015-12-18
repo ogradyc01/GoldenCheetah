@@ -460,10 +460,23 @@ Operators are the glue to building meaningful expressions
 * x ? a : b evaluates to a if x is non-zero, otherwise b
 
 **VERSION 4 UPDATES**
+
+*User Metrics*
+We have introduced the ability to define your own metrics, but providing code to perform calculations against a workout. The user defines some named expressions (user functions) that are called on certain conditions:
+* init { } is called to initialised any variables before working with the ride
+* relevant { } is called to check if  this metric is relevant for the ride
+* sample { } is called for every sample in the ride
+* value { } is called at the end to get the metric value
+* count { } is called at the end to get the count to use when aggregating averages
+
+All the named functions are optional, but if no value { } function is defined the metric will always be zero
+
+*New language syntax*
 * x ?: y evaluates to y if x is non-zero otherwise x
 * !expr logical not, evaluates false if expr true, true if expr false
 * symbol <- expr user symbols to hold assigned values, evaluate to the value assigned
 * { expr; .. expr; } compound statements that evaluate to last expression
 * if (cond) stmt; else stmt; if/else logic where statement can also be a compound statement
+* name { ... } a named expression that can be called e.g. fn { p <- 1; } called as fn()
 
 
