@@ -1,5 +1,19 @@
 ## MOST COMMON QUESTIONS OF ALL
 
+### Why are my charts blank or data is missing?
+
+The layouts and chart configuration is constantly evolving as we add new features and functions
+to the program. This means that configuration settings saved in the latest version will not
+work with earlier versions.
+
+If you install a release candidate or the latest version and then switch back to an earlier version
+you will need to restore the configuration otherwise settings will be lost.
+
+If you do not restore then you will find charts are blank or data is missing in both the trends charts
+and the library sidebar.
+
+To resolve this issue in trends view you can reset the layout from the menu item View > Reset Layout and
+the sidebar chart library can be reset to default from the chart sidebar menu > Reset to default.
 
 ### How do I override / manually enter TSS for a ride?
 
