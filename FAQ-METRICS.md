@@ -19,11 +19,12 @@ CP represents the power an athlete can sustain for a very long time, without fat
 
 In practice, CP and FTP are usually close to each other. But since it is very difficult for an athlete to maintain the desired intensity FTP 'reality' tends to result in a number that is much lower than CP 'theory'. Often users will consider the two as the same.
 
-In GC we compute TSS and BikeScore using your 'CP' value. If you set it to your FTP value
-TSS will be accurate, BikeScore is likely to be lower. And if you set it to your CP value
-BikeScore will be accurate, but TSS will be overstated.
+In GC we compute TSS and BikeScore using your 'CP' value, but from v3.3 you can maintain separate
+values for CP and FTP in the athlete power zones settings. If you do that, the 'Coggan' metrics will use
+FTP and not CP to calculate.
 
-
+If you are running a version prior to v3.3 your CP value will be used to calculate 'Coggan' and all
+other metrics. 
 
 ### Why does my CP chart show higher watts for a longer duration?
 
