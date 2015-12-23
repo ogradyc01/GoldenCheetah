@@ -125,8 +125,5 @@ metrics can be defined too (based upon all ride data).
 
 ### Can I export metrics or access the metric database GC uses?
 
-The metrics are stored within a Sqlite 3 Database called 'metricDBv3' that can be found
-in the athlete directory. You can use any Sqlite 3 tools to query and work with the db.
-
-Alternatively you can export the db in its entirety using the Activity->Export Metrics
-as CSV to export to a format you can use in a spreadsheet program.
+Yes. From v3.3 we have an API to access almost all data within GC, see the special
+topic on the Restful API. (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_REST-API-documentation)
