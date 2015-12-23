@@ -1,3 +1,13 @@
+In Preferences you can enable a restful web service api that will be available whilst GC is running.
+This provides URLs that you can call from Matlab, R et al to retrieve data. You can also access
+these URLs using a standard browser too.
+
+Data is made available for all athletes regardless of who GC is currently working with (i.e. which
+athlete you selected). Alternatively, you can start GoldenCheetah with the command line option --server
+and it will run as a service without a GUI. 
+
+**SUPPORTED ENDPOINTS**
+
 ```
 http://localhost:12021              
 ```
