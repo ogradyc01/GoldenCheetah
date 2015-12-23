@@ -1,5 +1,6 @@
 ## MOST COMMON QUESTIONS OF ALL
 
+* [Why are my charts blank or data is missing?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Why-are-my-charts-blank-or-data-is-missing)
 * [How do I override / manually enter TSS for a ride?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-override--manually-enter-TSS-for-a-ride)
 * [Google/Bing Maps crash on Mac OSX?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#Google-Bing-Maps-crash-on-Mac-OSX)
 * [How do I add or remove a chart?] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ-MOST-COMMON-QUESTIONS-OF-ALL#How-do-I-add-or-remove-a-chart)
