@@ -1,4 +1,4 @@
-Special Topics: Other information (Version 3.1)
+Special Topics: Other information (Version 3.x)
 ***
 
 The aim of the page is collect links to additional documents,... which are related to GoldenCheetah:
@@ -11,5 +11,6 @@ The aim of the page is collect links to additional documents,... which are relat
 
 * [Tutorial Videos](http://www.goldencheetah.org/#section-tutorials) 
 
+* [Sufferfest Video ERG Spreadsheet](https://docs.google.com/spreadsheets/d/1ehIbV4Kldv_k82JtadNavpeZaI7o9JGHoWghDitrM-4/)
 
 BACK: [Table of contents](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents)
