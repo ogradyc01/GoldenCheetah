@@ -14,7 +14,7 @@ entry D2XX_INCLUDE in  src/gcconfig.pri
     D2XX_INCLUDE =  /usr/include  
     D2XX_LIBS    =  /usr/local/lib/libftd2xx.so
 
-and recomile GC
+and recompile GC
 
 
 
