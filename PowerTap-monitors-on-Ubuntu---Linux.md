@@ -45,8 +45,9 @@ and restart udev for change
 
 
 unload ftdi_sio and usbserial and restart GC
-    witold@dom:~$ sudo rmmod ftdi_sio
-    witold@dom:~$ sudo rmmod usbserial
+
+    witold@dom:~$ sudo rmmod ftdi_sio    
+    witold@dom:~$ sudo rmmod usbserial    
 
 
 Tested on ubuntu 14.04 LTS
