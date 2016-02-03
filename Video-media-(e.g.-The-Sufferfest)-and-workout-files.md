@@ -2,7 +2,7 @@
 
 * You have set up one or more devices such as ANT+ sensors (HR, power, speed, cadence), Computrainer, Tacx Fortius, etc.
 * You have installed [VLC Player](http://www.videolan.org/vlc/index.html) and checked that this can play your video files.
-* You have ERG files for your workouts (ERG files for The Sufferfest videos are available [here](http://viewsoftheroad.com/powerfiles/Sufferfest_Erg_Files.xls) - make sure to set the start time to 00:00:00 when generating them)
+* You have ERG files for your workouts (ERG files for The Sufferfest videos are available [here](https://docs.google.com/spreadsheets/d/1ehIbV4Kldv_k82JtadNavpeZaI7o9JGHoWghDitrM-4/edit#gid=145494434).
 
 # Setting up your video & workout library
 Tools -> Scan disk for videos and workouts...
