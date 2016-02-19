@@ -1,13 +1,11 @@
 ![Logo](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/GC_logo_small.png) Main Page: Glossary (Version 3.3)
 ***
 
-`Glossary Term` : Explanation of the glossary term.
+`CP`: Critical Power. A power that theoretically can be maintained for a indefinetely long time without fatigue.
 
-`CP`: Critical Power.
+`FTP` : Functional Threshold Power. The highest power that a rider can maintain in a quasi-steady state without fatiguing for approximately one hour.
 
-`FTP` : Functional Threshold Power.
-
-`W'` :
+`W'` : Formerly known as Anaerobic Work Capacity (AWC)
 
 `ATL` : Acute Training Load.
 
