@@ -11,9 +11,9 @@
 
 `TSS®` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training load, TRIMP).
 
-`ATL` : Acute Training Load. The dose of training that you accumulated over a short period of time. From 3 to 10 days in general. It relates to your fatigue.
+`ATL` : Acute Training Load®. The dose of training that you accumulated over a short period of time. From 3 to 10 days in general. It relates to your fatigue.
 
-`CTL` : Chronic Training Load. The cumulative training dose that builds up over a longer period of time, from a couple of months to years. It relates to your fitness.
+`CTL` : Chronic Training Load®. The cumulative training dose that builds up over a longer period of time, from a couple of months to years. It relates to your fitness.
 
 `RR` : Ramp Rate. The ramp rate of your Chronic Training Load (CTL). It's expressed in TSS/day.
 
