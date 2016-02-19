@@ -19,7 +19,7 @@
 
 `TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). It relates to your form or freshness.
 
-`TRIMP`: a method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise. 
+`TRIMP`: Training Impulse. A method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise. 
 
 `P-max` : maximal power over one full rotation of the cranks.
 
