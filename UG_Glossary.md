@@ -29,3 +29,4 @@
 
 `xPower` : 
 
+`TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
