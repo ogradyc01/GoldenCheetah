@@ -7,11 +7,11 @@
 
 `W'` : Formerly known as Anaerobic Work Capacity (AWC)
 
-`ATL` : Acute Training Load.
+`ATL` : Acute Training Load. The dose of training that you accumulated over a short period of time. From 3 to 10 days in general (relates to your fatigue).
 
-`CTL` : Chronic Training Load. A rolling daily average of how much training load, measured by each workouts Training Stress Score (TSS), an athlete is managing. 
+`CTL` : Chronic Training Load. The cumulative training dose that builds up over a longer period of time, from a couple of months to years (relates to your fitness).
 
-`TSB®` : Training Stress Balance.
+`TSB®` : Training Stress Balance. (it relates to your form or freshness)
 
 `TSS®` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training.
 
