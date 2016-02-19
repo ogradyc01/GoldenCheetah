@@ -29,6 +29,6 @@
 
 `xPower` : 
 
-`TISS` : it's metric to quantify training strain, as opposed to the training load or stress (like TSS and TRIMP).
+`TISS` : it's a metric to quantify the training strain, as opposed to the training load/stress (like TSS and TRIMP).
 
 `TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
