@@ -31,7 +31,7 @@
 
 `TISS` : it's a metric to quantify the training strain, as opposed to the training load/stress (like TSS and TRIMP).
 
-`Relative intensity` : 
+`Relative intensity` : This is how your xPower relates to your FTP. When xPower = FTP, the intensity is 1.
 
 `BikeScore` :  A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session. See TSS, Trimp.
 
