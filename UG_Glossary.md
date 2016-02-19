@@ -7,13 +7,13 @@
 
 `W'` : Formerly known as Anaerobic Work Capacity (AWC)
 
-`ATL` : Acute Training Load.
+`ATL®` : Acute Training Load.
 
-`CTL` : Chronic Training Load. A rolling daily average of how much training load, measured by each workouts Training Stress Score® (TSS®), an athlete is managing. 
+`CTL®` : Chronic Training Load. A rolling daily average of how much training load, measured by each workouts Training Stress Score (TSS), an athlete is managing. 
 
-`TSB` : Training Stress Balance.
+`TSB®` : Training Stress Balance.
 
-`TSS` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training.
+`TSS®` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training.
 
 `P-max` : maximal power over one full rotation of the cranks.
 
