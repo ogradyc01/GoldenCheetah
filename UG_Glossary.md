@@ -3,24 +3,24 @@
 
 `Glossary Term` : Explanation of the glossary term.
 
-'CP' : Critical Power.
+`CP`: Critical Power.
 
-'FTP' : Functional Threshold Power.
+`FTP` : Functional Threshold Power.
 
-'W'' :
+`W'` :
 
-'ATL' : Acute Training Load.
+`ATL` : Acute Training Load.
 
-'CTL' : Chronic Training Load. 
+`CTL` : Chronic Training Load. 
 
-'TSB' : Training Stress Balance.
+`TSB` : Training Stress Balance.
 
-'TSS' : Training Stress Score.
+`TSS` : Training Stress Score.
 
-'P-max' : 
+`P-max` : 
 
-'RR' : Ramp Rate.
+`RR` : Ramp Rate.
 
-'Endurance index' : CP/W'
+`Endurance index` : CP/W'
 
 
