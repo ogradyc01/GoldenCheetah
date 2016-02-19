@@ -37,4 +37,6 @@
 
 `TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
 
- `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight
+ `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight.
+
+`tHb` : total hemoglobin. It's part of your SmO2% measurement, and in simple terms it represents the existing volume of blood, where measured.
