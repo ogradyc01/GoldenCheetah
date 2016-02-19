@@ -21,7 +21,7 @@
 
 `P-max` : maximal power over one full rotation of the cranks.
 
-`Endurance index` : CP/W'
+`Endurance index` : the ratio of W' to CP.
 
 `QA` : Quadrant Analysis. It's a way to measure the neuromuscular power demands of cycling. Quadrant 1 (upper right: high force and high cadence. Quadrant 2 (upper left): high force and low cadence. Quadrant 3 (lower left): low force and low cadence. Quadrant 4 (lower right): low force and high cadence
 
