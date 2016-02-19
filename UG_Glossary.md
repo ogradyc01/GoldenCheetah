@@ -15,7 +15,7 @@
 
 `CTL` : Chronic Training Load®. The the dose of training you accumulated over a longer period of time, from a couple of months to years. It relates to your fitness.
 
-`RR` : Ramp Rate. The ramp rate of your Chronic Training Load (CTL). It's expressed in TSS/day.
+`RR` : Ramp Rate. The ramp rate of your Chronic Training Load (CTL). Joel Friel considers that a CTL ramp rate of 5 to 8 points per week is about right for most.
 
 `TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). In general terms, if it's negative,  you're fatigued, and if it's positive you're fresh. It relates to your form or freshness.
 
