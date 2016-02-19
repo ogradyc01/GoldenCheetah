@@ -36,3 +36,5 @@
 `BikeScore` :  A quantification of the training session that takes into account the duration and intensity of the training (it's based on the power data). It's intended to estimate the training load and physiological stress created by that session. See TSS, Trimp.
 
 `TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
+
+ `SmO2` : the abbreviation for Muscle Oxygen Saturation, measured by the MOxy Muscle Oxygen Monitor.
