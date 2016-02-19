@@ -21,6 +21,6 @@
 
 `Endurance index` : CP/W'
 
-`QA` : Quadrant Analysis.
+`QA` : Quadrant Analysis. It's a way to measure the neuromuscular power demands of cycling. QI (upper right: High Force and High Cadence. QII (upper left): High Force and Low Cadence. QIII (lower left): Low Force and Low Cadence. QIV (lower right): Low Force and High Cadence
 
 
