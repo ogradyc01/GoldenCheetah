@@ -96,6 +96,7 @@ Each of the reduce functions operate on a variable list of inputs; sum(1,2,3) wo
 * TORQUED
 * POWER
 * POWERD
+* NP
 * ALTITUDE
 * LON
 * LAT
