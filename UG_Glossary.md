@@ -5,7 +5,9 @@
 
 `FTP` : Functional Threshold Power. The highest power that a rider can maintain in a quasi-steady state without fatiguing for approximately one hour.
 
-`W'` : Formerly known as Anaerobic Work Capacity (AWC)
+`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power.
+
+`Tau` : your rate of replenishing your W' stores.
 
 `ATL` : Acute Training Load. The dose of training that you accumulated over a short period of time. From 3 to 10 days in general (relates to your fatigue).
 
@@ -13,7 +15,7 @@
 
 `TSB®` : Training Stress Balance. (it relates to your form or freshness)
 
-`TSS®` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training.
+`TSS®` : Training Stress Score. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training impulse, TRIMP).
 
 `P-max` : maximal power over one full rotation of the cranks.
 
