@@ -25,7 +25,7 @@
 
 `Endurance index` : the ratio of W' to CP.
 
-`QA` : Quadrant Analysis. It tells you how you created the watts, since the same quantinty of watts can be created by a different percentage of force and cadence. Quadrant 1 (upper right: high force and high cadence. Quadrant 2 (upper left): high force and low cadence. Quadrant 3 (lower left): low force and low cadence. Quadrant 4 (lower right): low force and high cadence.
+`QA` : Quadrant Analysis. It tells you how you created the watts, since the same quantinty of watts can be created by a different percentage of force and cadence. It helps to give you an understanding of the muscular and cardiovascular demands created by each ride. It can also help you determine if in training you are creating wattage in the same quadrants that you would in a race. If not, you can change the way you create the wattage so you’re training just as specifically as you race.  Quadrant 1 (upper right: high force and high cadence. Quadrant 2 (upper left): high force and low cadence. Quadrant 3 (lower left): low force and low cadence. Quadrant 4 (lower right): low force and high cadence.
 
 `NP` : Normalized Power. It's an estimate of the power an athlete could have maintained for the same physiological cost if power had been perfectly constant instead of highly variable. In general, it's not valid during shorter efforts in which contribution of anaerobic capacity is significant.
 
