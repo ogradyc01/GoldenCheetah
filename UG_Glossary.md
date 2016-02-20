@@ -27,9 +27,11 @@
 
 `QA` : Quadrant Analysis. It's a way to measure the neuromuscular power demands of cycling. Quadrant 1 (upper right: high force and high cadence. Quadrant 2 (upper left): high force and low cadence. Quadrant 3 (lower left): low force and low cadence. Quadrant 4 (lower right): low force and high cadence
 
+`NP` : Normalized Power. It's an estimate of the power an athlete could have maintained for the same physiological cost if power had been perfectly constant instead of highly variable.
+
 `xPower` : 
 
-`TISS` : it's a metric to quantify the training strain, as opposed to the training load/stress (like TSS and TRIMP).
+`TISS` : Training Impact Scoring System. It's a metric to quantify the training strain or response, as opposed to the training load/stress (like TSS and TRIMP).
 
 `Relative intensity` : This is how your xPower relates to your FTP. When xPower = FTP, the intensity is 1.
 
