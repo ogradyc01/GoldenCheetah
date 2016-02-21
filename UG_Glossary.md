@@ -42,3 +42,5 @@
  `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight.
 
 `tHb` : total hemoglobin. It's part of your SmO2% measurement, and in simple terms it represents the existing volume of blood, where measured.
+
+`Aerobic Decoupling` : When power output and heart rate are no longer parallel in a workout where one variable remains steady while the other drifts, the relationship is said to have "decoupled" (e.g. when power remains constant but heart rate goes up, or when heart rate remains constant and power drops). Excessive decoupling (much higher than 5%) would indicate a lack of aerobic endurance fitness.
