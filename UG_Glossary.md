@@ -29,7 +29,7 @@
 
 `NP` : Normalized Power. It's an estimate of the power an athlete could have maintained for the same physiological cost if power had been perfectly constant instead of highly variable. In general, it's not valid during shorter efforts in which contribution of anaerobic capacity is significant.
 
-`xPower` : 
+`xPower` : In practice, NP and xPower are largely the same, whilst Daniels EqP place much higher emphasis on upper intensity work. For more info on xPower see Dr Skiba's paper on BikeScore http://perfprostudio.com/webhelp/studio/scr/BikeScore.htm
 
 `TISS` : Training Impact Scoring System. It's a metric to quantify the training strain or response, as opposed to the training load/stress (like TSS and TRIMP).
 
@@ -44,3 +44,5 @@
 `tHb` : total hemoglobin. It's part of your SmO2% measurement, and in simple terms it represents the existing volume of blood, where measured.
 
 `Aerobic Decoupling` : When power output and heart rate are no longer parallel in a workout where one variable remains steady while the other drifts, the relationship is said to have "decoupled" (e.g. when power remains constant but heart rate goes up, or when heart rate remains constant and power drops). Excessive decoupling (much higher than 5%) would indicate a lack of aerobic endurance fitness.
+
+
