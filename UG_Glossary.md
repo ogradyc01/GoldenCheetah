@@ -45,4 +45,18 @@
 
 `Aerobic Decoupling` : When power output and heart rate are no longer parallel in a workout where one variable remains steady while the other drifts, the relationship is said to have "decoupled" (e.g. when power remains constant but heart rate goes up, or when heart rate remains constant and power drops). Excessive decoupling (much higher than 5%) would indicate a lack of aerobic endurance fitness.
 
+`VDOT` : VDOT is an adjusted V02max (which may or may not match a laboratory-generated V02max), which tells you how you might race for other distances (in the row, associated with the same VDOT), and also tells you how first to perform different types of training
 
+`Response Index` :
+
+`RTP` :
+
+`Session RPE` :
+
+`SRI` :
+
+`STP` :
+
+`VI` : Variability Index. The ratio of NP divided by average power is called Variability Index (VI). The closer your VI is to 1.0, or the more similar your NP and average power, or the "smoother" your power output was.
+
+`IF` : Intensity Factor. IF is calculated as NP divided by FTP, or in other words, it's the percentage of your individual FTP that you maintained, on a normalized basis.
