@@ -84,5 +84,13 @@ TRIATHLON-SPECIFIC VOCABULARY
 
 `SwimScore`: Based on speed data channel, athletes weight and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis). Calculated according to http://www.physfarm.com/swimscore.pdf
 
+`Vmax` : 
+
+`FTV`: 
+
+`D` : 
+
+`CV` : 
+
 
 
