@@ -49,15 +49,19 @@
 
 `Response Index` :
 
-`RTP` :
+`RTP` : Running Threshold Power. based on athlete's CV
 
 `Session RPE` : Rate of perceived exertion. A very useful metric because it is a measure of "rider feeling" of an effort. HR is a measure of internal load, power is a measure of external load, in this manner you can also calculate "perceived effort load" using session RPE. Very easy to compute because session RPE is RPE value multiplied time in minutes. Normally you can use Borg scale (patented) or a custom effort scale (for example from 0 to 10 define your effort) and you easily can compute also another useful training load metrics. For example if HR training load is stable and RPE training load is going up this mean you feel more fatigue with same internal load (or at the same HR you felt more fatigued). Can help to prevent/confirm overreaching or overtraining situation. 
 
 `SRI` :
 
-`IWF` :
+`IWF` : Intensity Weighting Factor (IWF=LNP/RTP), similar to IF/Relative Intensity
+
+`GOVSS` : Gravity Ordered Velocity Stress Score, similar to TSS/BikeScore for running
 
 `STP` :
+
+`LNP` : Lactate Normalized Power: similar to NP/xPower for running
 
 `VI` : Variability Index. The ratio of NP divided by average power is called Variability Index (VI). The closer your VI is to 1.0, or the more similar your NP and average power, or the "smoother" your power output was.
 
