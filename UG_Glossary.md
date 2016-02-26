@@ -88,7 +88,7 @@ TRIATHLON-SPECIFIC VOCABULARY
 
 `FTV`: 
 
-`D` : 
+`D'` : 
 
 `CV` : 
 
