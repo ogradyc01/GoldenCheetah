@@ -74,3 +74,5 @@
 `VI` : Variability Index. The ratio of NP divided by average power is called Variability Index (VI). The closer your VI is to 1.0, or the more similar your NP and average power, or the "smoother" your power output was.
 
 `IF` : Intensity Factor. IF is calculated as NP divided by FTP, or in other words, it's the percentage of your individual FTP that you maintained, on a normalized basis.
+
+`VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100)
