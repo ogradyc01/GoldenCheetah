@@ -39,6 +39,8 @@
 
 `TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
 
+'SwimScore': calculated according to http://www.physfarm.com/swimscore.pdf based on speed data channel, athletes weigth and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis)
+
  `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight.
 
 `tHb` : total hemoglobin. It's part of your SmO2% measurement, and in simple terms it represents the existing volume of blood, where measured.
@@ -53,13 +55,19 @@
 
 `Session RPE` : Rate of perceived exertion. A very useful metric because it is a measure of "rider feeling" of an effort. HR is a measure of internal load, power is a measure of external load, in this manner you can also calculate "perceived effort load" using session RPE. Very easy to compute because session RPE is RPE value multiplied time in minutes. Normally you can use Borg scale (patented) or a custom effort scale (for example from 0 to 10 define your effort) and you easily can compute also another useful training load metrics. For example if HR training load is stable and RPE training load is going up this mean you feel more fatigue with same internal load (or at the same HR you felt more fatigued). Can help to prevent/confirm overreaching or overtraining situation. 
 
-`SRI` :
+`SRI` : Swimming Relative Intensity = xPower Swim / STP
+
+`STP` : Swimming power at CV/threshold pace
+
+`xPower Swim` : normalized swimming power
+
+'Pace Swim': based on average speed with zeros and expressed in min/100m or min/100yd, acording to seting
+
+'xPace Swim': the constant swim pace which would give the same SwimScore when sustained for the same duration, same units as above
 
 `IWF` : Intensity Weighting Factor (IWF=LNP/RTP), similar to IF/Relative Intensity
 
 `GOVSS` : Gravity Ordered Velocity Stress Score, similar to TSS/BikeScore for running
-
-`STP` :
 
 `LNP` : Lactate Normalized Power: similar to NP/xPower for running
 
