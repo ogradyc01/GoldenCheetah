@@ -39,7 +39,7 @@
 
 `TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
 
-'SwimScore': calculated according to http://www.physfarm.com/swimscore.pdf based on speed data channel, athletes weigth and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis)
+`SwimScore`: calculated according to http://www.physfarm.com/swimscore.pdf based on speed data channel, athletes weigth and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis)
 
  `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight.
 
@@ -61,9 +61,9 @@
 
 `xPower Swim` : normalized swimming power
 
-'Pace Swim': based on average speed with zeros and expressed in min/100m or min/100yd, acording to seting
+`Pace Swim`: based on average speed with zeros and expressed in min/100m or min/100yd, according to setting
 
-'xPace Swim': the constant swim pace which would give the same SwimScore when sustained for the same duration, same units as above
+`xPace Swim`: the constant swim pace which would give the same SwimScore when sustained for the same duration, same units as above
 
 `IWF` : Intensity Weighting Factor (IWF=LNP/RTP), similar to IF/Relative Intensity
 
