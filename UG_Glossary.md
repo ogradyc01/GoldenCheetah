@@ -37,9 +37,6 @@
 
 `BikeScore` :  A quantification of the training session that takes into account the duration and intensity of the training (it's based on the power data). It's intended to estimate the training load and physiological stress created by that session. See TSS, Trimp.
 
-`TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
-
-`SwimScore`: calculated according to http://www.physfarm.com/swimscore.pdf based on speed data channel, athletes weigth and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis)
 
  `SmO2` : the abbreviation for Muscle Oxygen Saturation, that is, the percentage of hemoglobin that is carrying oxygen within the muscle tissue. Essentially you’re looking at how your body, specifically your muscles, responds to exertion over time. It's measured by some devices like MOxy Muscle Oxygen Monitor and BXSinsight.
 
@@ -47,32 +44,43 @@
 
 `Aerobic Decoupling` : When power output and heart rate are no longer parallel in a workout where one variable remains steady while the other drifts, the relationship is said to have "decoupled" (e.g. when power remains constant but heart rate goes up, or when heart rate remains constant and power drops). Excessive decoupling (much higher than 5%) would indicate a lack of aerobic endurance fitness.
 
-`VDOT` : VDOT is an adjusted V02max (which may or may not match a laboratory-generated V02max), which tells you how you might race for other distances (in the row, associated with the same VDOT), and also tells you how first to perform different types of training
 
 `Response Index` :
 
-`RTP` : Running Threshold Power. based on athlete's CV
-
-`Session RPE` : Rate of perceived exertion. A very useful metric because it is a measure of "rider feeling" of an effort. HR is a measure of internal load, power is a measure of external load, in this manner you can also calculate "perceived effort load" using session RPE. Very easy to compute because session RPE is RPE value multiplied time in minutes. Normally you can use Borg scale (patented) or a custom effort scale (for example from 0 to 10 define your effort) and you easily can compute also another useful training load metrics. For example if HR training load is stable and RPE training load is going up this mean you feel more fatigue with same internal load (or at the same HR you felt more fatigued). Can help to prevent/confirm overreaching or overtraining situation. 
-
-`SRI` : Swimming Relative Intensity = xPower Swim / STP
-
-`STP` : Swimming power at CV/threshold pace
-
-`xPower Swim` : normalized swimming power
-
-`Pace Swim`: based on average speed with zeros and expressed in min/100m or min/100yd, according to setting
-
-`xPace Swim`: the constant swim pace which would give the same SwimScore when sustained for the same duration, same units as above
-
-`IWF` : Intensity Weighting Factor (IWF=LNP/RTP), similar to IF/Relative Intensity
-
-`GOVSS` : Gravity Ordered Velocity Stress Score, similar to TSS/BikeScore for running
-
-`LNP` : Lactate Normalized Power: similar to NP/xPower for running
+`Session RPE` : Rate of perceived exertion. A very useful metric because it is a measure of "rider feeling" of an effort. HR is a measure of internal load, power is a measure of external load, in this manner you can also calculate "perceived effort load" using session RPE. Very easy to compute because session RPE is RPE value multiplied time in minutes. Normally you can use Borg scale (patented) or a custom effort scale (for example from 0 to 10 define your effort) and you easily can compute also another useful training load metrics. For example if HR training load is stable and RPE training load is going up this mean you feel more fatigue with same internal load (or at the same HR you felt more fatigued). Can help to prevent/confirm overreaching or overtraining situation.
 
 `VI` : Variability Index. The ratio of NP divided by average power is called Variability Index (VI). The closer your VI is to 1.0, or the more similar your NP and average power, or the "smoother" your power output was.
 
 `IF` : Intensity Factor. IF is calculated as NP divided by FTP, or in other words, it's the percentage of your individual FTP that you maintained, on a normalized basis.
 
-`VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100)
+`VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100) 
+
+
+THRIATLON SPECIFIC METRICS
+
+`RTP` : Running Threshold Power. Based on athlete's CV.
+
+`SRI` : Swimming Relative Intensity = xPower Swim / STP.
+
+`STP` : Swimming power at CV/threshold pace.
+
+`xPower Swim` : normalized swimming power.
+
+`Pace Swim`: based on average speed with zeros and expressed in min/100m or min/100yd, according to setting.
+
+`xPace Swim`: the constant swim pace which would give the same SwimScore when sustained for the same duration, same units as above.
+
+`IWF` : Intensity Weighting Factor (IWF=LNP/RTP), similar to IF/Relative Intensity.
+
+`GOVSS` : Gravity Ordered Velocity Stress Score, similar to TSS/BikeScore for running.
+
+`LNP` : Lactate Normalized Power: similar to NP/xPower for running.
+
+`VDOT` : VDOT is an adjusted V02max (which may or may not match a laboratory-generated V02max), which tells you how you might race for other distances (in the row, associated with the same VDOT), and also tells you how first to perform different types of training.
+
+`TriScore` : a combined stress score computed according to sport: BikeScore for cycling, GOVSS for running and SwimScore for swimming.
+
+`SwimScore`: Based on speed data channel, athletes weight and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis). Calculated according to http://www.physfarm.com/swimscore.pdf
+
+
+
