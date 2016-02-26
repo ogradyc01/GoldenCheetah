@@ -55,6 +55,8 @@
 
 `SRI` :
 
+`IWF` :
+
 `STP` :
 
 `VI` : Variability Index. The ratio of NP divided by average power is called Variability Index (VI). The closer your VI is to 1.0, or the more similar your NP and average power, or the "smoother" your power output was.
