@@ -22,7 +22,7 @@ to your search and Google will only search the Wiki. I assume other search engin
   * [Special Topics] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents#special-topics)
   * [Translation/Localization] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Main-Page_Table-of-contents#translationlocalization)
 
-### [Glossary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Glossary)
+### [Glossary] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Glossary) Abbreviations and Terms used
 ### [Frequently Asked Questions] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/FAQ)
 ### [User's Guide] (https://github.com/GoldenCheetah/GoldenCheetah/wiki/User%27s-Guide) User Guide, How-to and Help Pages
 ### [[Developers Guide]] How-to and Help Pages
