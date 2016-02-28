@@ -55,6 +55,7 @@
 
 `VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100) 
 
+`Alt/Slope` : 
 
 
 TRIATHLON-SPECIFIC VOCABULARY
