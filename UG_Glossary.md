@@ -53,9 +53,7 @@
 
 `IF` : Intensity Factor. IF is calculated as NP divided by FTP, or in other words, it's the percentage of your individual FTP that you maintained, on a normalized basis.
 
-`VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100) 
-
-`Alt/Slope` : 
+`VAM` : average ascent speed. VAM = (metres ascended x 60) / Minutes it took to ascend. A standard unit term with the same meaning is Vm/h, vertical metres per hour; the two are used interchangeably.The relationship between VAM and relative power output is expressed as follows:Relative power (Watts/kg) = VAM (metres/hour) / (Gradient factor x 100).
 
 
 TRIATHLON-SPECIFIC VOCABULARY
