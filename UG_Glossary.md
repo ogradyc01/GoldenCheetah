@@ -9,6 +9,8 @@
 
 `Tau` : your rate of replenishing your W' stores.
 
+`Endurance index` : the ratio of W' to CP.
+
 `P-max` : maximal power over one full rotation of the cranks.
 
 `TSS` : Training Stress Score®. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training load, TRIMP).
@@ -25,8 +27,6 @@
 `TRIMP Points`: the original Morton/Banister with Green et al coefficient.
 `TRIMP(100) Points`: same as above but scaled so 1 hour at LTHR gives 100 points to "align" it with TSS/BikeScore.
 `TRIMP Zonal Points`: points are accumulated according to time in zone weighted by a zone coefficient, which is defined in HR Zones: https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones
-
-`Endurance index` : the ratio of W' to CP.
 
 `QA` : Quadrant Analysis. It tells you how you created the watts, since the same quantinty of watts can be created by a different percentage of force and cadence. It helps to give you an understanding of the muscular and cardiovascular demands created by each ride. It can also help you determine if in training you are creating wattage in the same quadrants that you would in a race. If not, you can change the way you create the wattage so you’re training just as specifically as you race.  Quadrant 1 (upper right: high force and high cadence. Quadrant 2 (upper left): high force and low cadence. Quadrant 3 (lower left): low force and low cadence. Quadrant 4 (lower right): low force and high cadence.
 
