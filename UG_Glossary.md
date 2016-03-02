@@ -83,13 +83,13 @@ TRIATHLON-SPECIFIC VOCABULARY
 
 `SwimScore`: Based on speed data channel, athletes weight and CV setting from Swim Pace Zones (both weight and CV can be overriden on activity basis). Calculated according to http://www.physfarm.com/swimscore.pdf
 
-`Vmax` : 
+`Vmax` :  the equivalent Pmax when modelling speed-vs-duration instead of power-vs-duration
 
-`FTV`: 
+`FTV`:  the equivalent to FTP when modelling speed-vs-duration instead of power-vs-duration
 
-`D'` : 
+`D'` :  the equivalent to W' when modelling speed-vs-duration instead of power-vs-duration
 
-`CV` : 
+`CV` :  the equivalents CP when modelling speed-vs-duration instead of power-vs-duration
 
 
 
