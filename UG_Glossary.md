@@ -59,8 +59,6 @@
 **TRIATHLON-SPECIFIC VOCABULARY**
 
 
-`RTP` : Running Threshold Power. Based on athlete's CV.
-
 `SRI` : Swimming Relative Intensity = xPower Swim / STP.
 
 `STP` : Swimming power at CV/threshold pace.
@@ -90,6 +88,8 @@
 `D'` :  the equivalent to W' when modelling speed-vs-duration instead of power-vs-duration
 
 `CV` :  the equivalents CP when modelling speed-vs-duration instead of power-vs-duration
+
+`RTP` : Running Threshold Power. Based on athlete's CV.
 
 
 
