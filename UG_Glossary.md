@@ -7,9 +7,9 @@
 
 `W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. W'=FRC(functional reserve capacity) W`bal=dFRC in Training Peaks. https://www.youtube.com/watch?v=86Sw3vOCq9U
 
-`P-max` : maximal power over one full rotation of the cranks.
-
 `Tau` : your rate of replenishing your W' stores.
+
+`P-max` : maximal power over one full rotation of the cranks.
 
 `TSS` : Training Stress Score®. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training load, TRIMP).
 
@@ -100,8 +100,7 @@
 
 `Stress (TISS)` :
 
-`PMC (Coggan) ` : 
-
-`PMC (Skiba) ` :
-
-`PMC (Trimp) ` :
+`PMC` : Performance manager chart. 
+`(Coggan) `: 
+`(Skiba)` : 
+`(Trimp) ` :
