@@ -5,7 +5,7 @@
 
 `FTP` : Functional Threshold Power. The highest power that a rider can maintain in a quasi-steady state without fatiguing for approximately one hour.
 
-`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. W'=FRC(functional reserve capacity) W`bal=dFRC in Training Peaks. https://www.youtube.com/watch?v=86Sw3vOCq9U
+`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. See this explainer video: https://www.youtube.com/watch?v=86Sw3vOCq9U
 
 `Tau` : your rate of replenishing your W' stores.
 
@@ -15,13 +15,13 @@
 
 `TSS` : Training Stress Score®. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training load, TRIMP).
 
-`ATL` : Acute Training Load®. The dose of training that you accumulated over a short period of time, from 3 to 10 days in general. It relates to your fatigue.
+`ATL` : Acute Training Load®. The dose of training that you accumulated over a short period of time, from 3 to 10 days in general. It is claimed to relate to your fatigue.
 
-`CTL` : Chronic Training Load®. The the dose of training you accumulated over a longer period of time, from a couple of months to years. It relates to your fitness.
+`CTL` : Chronic Training Load®. The the dose of training you accumulated over a longer period of time, typically from 4-8 weeks. It is claimed to relate to your fitness.
 
-`RR` : Ramp Rate. The ramp rate of your Chronic Training Load (CTL). Joel Friel considers that a CTL ramp rate of 5 to 8 points per week is about right for most.
+`RR` : Ramp Rate. The rate at which CTL increases over a given time period. Large values up and down indicate a risk of injury and aggressive taper respectively.
 
-`TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). In general terms, if it's negative,  you're fatigued, and if it's positive you're fresh. It relates to your form or freshness.
+`TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). In general terms, if it's negative,  you're fatigued, and if it's positive you're fresh. It is claimed to relate to your form or freshness.
 
 `TRIMP`: Training Impulse. A method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise (Strava's Suffer Score is a modified TRIMP score)
 `TRIMP Points`: the original Morton/Banister with Green et al coefficient.
