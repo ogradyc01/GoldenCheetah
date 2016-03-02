@@ -7,6 +7,8 @@
 
 `W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power.
 
+`P-max` : maximal power over one full rotation of the cranks.
+
 `Tau` : your rate of replenishing your W' stores.
 
 `TSS` : Training Stress Score®. A quantification of the training session that takes into account the duration and intensity of the training based on the power data. It's intended to estimate the training load and physiological stress created by that session (it's conceptually modeled after the heart rate-based training load, TRIMP).
@@ -20,8 +22,6 @@
 `TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). In general terms, if it's negative,  you're fatigued, and if it's positive you're fresh. It relates to your form or freshness.
 
 `TRIMP`: Training Impulse. A method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise (Strava's Suffer Score is a modified TRIMP score).
-
-`P-max` : maximal power over one full rotation of the cranks.
 
 `Endurance index` : the ratio of W' to CP.
 
