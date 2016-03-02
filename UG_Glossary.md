@@ -5,7 +5,7 @@
 
 `FTP` : Functional Threshold Power. The highest power that a rider can maintain in a quasi-steady state without fatiguing for approximately one hour.
 
-`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power.
+`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. W'=FRC(functional reserve capacity) W`bal=dFRC in Coggan/Training Peaks.
 
 `P-max` : maximal power over one full rotation of the cranks.
 
@@ -21,7 +21,10 @@
 
 `TSB` : Training Stress Balance®. It’s the result of subtracting today’s Acute Training Load (“fatigue”) from today’s Chronic Training Load (“fitness”). In general terms, if it's negative,  you're fatigued, and if it's positive you're fresh. It relates to your form or freshness.
 
-`TRIMP`: Training Impulse. A method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise (Strava's Suffer Score is a modified TRIMP score).
+`TRIMP`: Training Impulse. A method to quantify training load. It takes into consideration the intensity of exercise as calculated by the heart rate (HR) and the duration of exercise (Strava's Suffer Score is a modified TRIMP score)
+`TRIMP Points`: the original Morton/Banister with Green et al coefficient.
+`TRIMP(100) Points`: same as above but scaled so 1 hour at LTHR gives 100 points to "align" it with TSS/BikeScore.
+`TRIMP Zonal Points`: points are accumulated according to time in zone weighted by a zone coefficient, which is defined in HR Zones: https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Preferences_Athlete_Training-Zones
 
 `Endurance index` : the ratio of W' to CP.
 
@@ -91,5 +94,14 @@
 
 `RTP` : Running Threshold Power. Based on athlete's CV.
 
+**Charts**
 
+`KPI tracker` :
 
+`Stress (TISS)` :
+
+`PMC (Coggan) ` : 
+
+`PMC (Skiba) ` :
+
+`PMC (Trimp) ` :
