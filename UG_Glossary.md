@@ -5,7 +5,7 @@
 
 `FTP` : Functional Threshold Power. The highest power that a rider can maintain in a quasi-steady state without fatiguing for approximately one hour.
 
-`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. W'=FRC(functional reserve capacity) W`bal=dFRC in Coggan/Training Peaks.
+`W'` or `W'bal` : Formerly known as Anaerobic Work Capacity (AWC). A fixed amount of work, expressed in kJ, that you can do above Critical Power. W'=FRC(functional reserve capacity) W`bal=dFRC in Training Peaks. https://www.youtube.com/watch?v=86Sw3vOCq9U
 
 `P-max` : maximal power over one full rotation of the cranks.
 
