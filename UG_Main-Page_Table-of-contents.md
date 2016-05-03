@@ -63,6 +63,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 * [Activity processing - Fix/Correct/Adjust](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Activity-Processing)
 * [Weight Setting Options](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Weight-settings)
 * [Formula Syntax and Expressions](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Formula-Syntax-and-Expressions)
+* [Working with R](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Working-with-R)
 * [REST API documentation](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_REST-API-documentation)
 * [Other information sources](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Other information)
 
