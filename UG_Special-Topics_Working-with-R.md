@@ -286,7 +286,7 @@ Dotted pair list of 2
 > 
 ```
 
-###GC.activity.meanmax(compare=)
+###GC.activity.meanmax(compare=FALSE)
 
 Mean maximal data is returned in a data.frame, with a column for each data series that has mean max data computed. This is a subset of all the data that can be made available (the cache size is expensive and we don't want to cache data that is never or very, very rarely used).
 
