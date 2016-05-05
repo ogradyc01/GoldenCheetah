@@ -25,7 +25,7 @@ Similarly, in trend view, to plot a simple time series of average power for the 
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
 
-##GC methods available in an R chart
+## Base GC methods
 
 All methods to access and work with GC objects and data within an R chart are prefixed with "GC." this is to ensure there is no namespace clash with other packages you may have installed. There are a number of methods available as listed below.
 
@@ -54,6 +54,10 @@ e.g.
 [1] "/home/markl/Athletes/Mark Liversedge"
 > 
 ```
+
+## Working in Activity View
+
+In the activity view you will work primarily with activities. The functions listed below return data related to the currently selected activity or are directly related to that context.
 
 ###GC.activities()
 
@@ -310,6 +314,9 @@ e.g. Mean-max for an activity:
 > 
 ```
 
+## Working in the Trends View
+
+When plotting in the trends view you are looking at data across a date range or season (as selected in the sidebar). These functions return data in that context.
 
 ### GC.metrics(all=FALSE, compare=FALSE)
 
