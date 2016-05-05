@@ -42,7 +42,7 @@ e.g:
 > 
 ```
 
-###GC.athlete() amd GC.athlete.home()
+###GC.athlete() and GC.athlete.home()
 
 GC.athlete() will return a character string representing the current athlete, whilst GC.athlete.home() will return the full path to the athlete home directory, so you can read/write files stored there or add your own subdirectory or data files to use within a chart.
 
