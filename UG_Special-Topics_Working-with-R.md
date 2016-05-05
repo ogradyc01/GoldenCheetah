@@ -1,5 +1,7 @@
 #Using the R Chart
 
+![R chart screenshot](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/RChart.png)
+
 The R chart is introduced with v4.0 of GoldenCheetah. The chart can be added to the activity view and the trend view. 
 
 This 10 minute tutorial video introduces the R chart and setup and shows it in use.
