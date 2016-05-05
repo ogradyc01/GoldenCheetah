@@ -258,8 +258,58 @@ for (compare in d) {
 ```
 **As you may have guessed the script in an R chart will be re-run when an activity is selected or compare pane changes (you add or deselect an activity etc).**
 
-##TODO
-GC.activity.meanmax(compare=)
-GC.activity.wbal(compare=)
+###GC.activity.wbal(compare=FALSE)
+
+Because the W'bal data series is always calculated in 1 second intervals it is not returned with the activity data data.frame -- it would cause problems when data is recorded in 0.5 seconds from a track PM or 1.26s by an old Powertap.
+
+Instead, we return it a simple vector of values, and when using compare mode is in a list in the same way as the other activity data.
+
+e.g. plain, no compare active:
+```
+> wbal <- GC.activity.wbal()
+> str(wbal)
+ num [1:4227] 19000 19000 19000 19000 19000 19000 19000 19000 19000 19000 ...
+> 
+```
+
+e.g. with compare:
+```
+> wc <- GC.activity.wbal(compare=TRUE)
+> str(wc)
+Dotted pair list of 2
+ $ :Dotted pair list of 2
+  ..$ activity: num [1:4226] 19000 19000 19000 19000 19000 19000 19000 19000 19000 19000 ...
+  ..$ color   : chr "#ff00ff"
+ $ :Dotted pair list of 2
+  ..$ activity: num [1:4534] 19000 19000 19000 19000 19000 19000 19000 19000 19000 19000 ...
+  ..$ color   : chr "#00ffff"
+> 
+```
+
+###GC.activity.meanmax(compare=)
+
+Mean maximal data is returned in a data.frame, with a column for each data series that has mean max data computed. This is a subset of all the data that can be made available (the cache size is expensive and we don't want to cache data that is never or very, very rarely used).
+
+As with the other activity functions it will return a list of a single data.frame of mean maximal series for the ride.
+
+The series is always computed to 1 second intervals, so the returned data contains peak values from 1s through to the end of the activity
+
+e.g. Mean-max for an activity:
+```
+> mm <- GC.activity.meanmax()
+> str(mm)
+'data.frame':	4228 obs. of  8 variables:
+ $ power  : num  557 529 517 504 ...
+ $ wpk    : num  6.24 5.93 5.79 5.64 ...
+ $ cadence: num  97 97 95 93 ...
+ $ speed  : num  53.5 53.2 53 52.6 ...
+ $ vam    : num  3600 3600 2400 2700 ...
+ $ NP     : num  393 392 391 390 ...
+ $ apower : num  559 531 519 506 ...
+ $ xpower : num  340 339 338 338 ...
+> 
+```
+
+**TODO**
 GC.metrics(all, compare)
 GC.pmc(all, metric)
