@@ -321,6 +321,7 @@ Putting metrics and pmc together and using some R base graphics, here is an exam
 
 Note how the PMC and Metric data is merged, this is using stock R functionality and relies on the common 'date' field in the metrics and pmc data.frames.
 
+![PMC a Bubble Chart](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Special_R_bubble.png)
 
 Its an interesting way of reviewing PMC data, especially when you compare the makeup of one training block with another.
 
