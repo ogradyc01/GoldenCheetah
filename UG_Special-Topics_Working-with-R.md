@@ -313,3 +313,80 @@ e.g. Mean-max for an activity:
 **TODO**
 GC.metrics(all, compare)
 GC.pmc(all, metric)
+
+
+### PMC and Metric Plotting together
+
+Putting metrics and pmc together and using some R base graphics, here is an example plot that plots each activity in term of the intensity (IF) and training freshness (TSB) with each dot in the scatter plot representing overall stress of the ride (TSS).
+
+Note how the PMC and Metric data is merged, this is using stock R functionality and relies on the common 'date' field in the metrics and pmc data.frames.
+
+
+Its an interesting way of reviewing PMC data, especially when you compare the makeup of one training block with another.
+
+```
+##
+## TSB v IF with TSS
+##
+## How fresh were we and how hard did we go
+## and how much stress did we elicit.
+## A more meaningful way of reviewing the
+## PMC data in terms of managing load/intensity
+
+## get data
+compares <- GC.metrics(compare=TRUE)
+
+## all pmc data
+pmc <- GC.pmc(all=TRUE, metric="TSS")
+
+# bigger margins please
+par(mar=c(6,6,6,6))
+
+plot(x=c(-30), y=c(0), 
+     ylim=c(0.6,1.1), xlim=c(-25,+25),
+     xlab="", main="", ylab="")
+
+## grid lines
+grid(col="#404040", lty="solid", lwd=1)
+
+## title
+title(main="TSB v IF", 
+      xlab="TSB",
+      ylab="IF")
+
+## abline
+abline(h=0.85, slope=0, lty="dashed", col="white")
+abline(v=0, slope=1, lty="dashed", col="white")
+
+for (compare in compares) {
+
+    # combine pmc and metric data
+    z <- merge(compare$metrics, pmc, by="date")
+
+    # area of circle should be proportional
+    radius <- sqrt( z$TSS/ 31.415927 )
+
+    # plot using ride colors if not comparing
+    # or only one date range selected
+    if (length(compares) == 1) {
+
+        symbols(z$"4", z$IF, 
+                circles=radius,
+                inches=0.2,
+                add=TRUE,
+                bg=z$color,fg=z$color,
+                xlab="", ylab="")
+    } else {
+
+        symbols(z$"4", z$IF, 
+                circles=radius,
+                inches=0.25,
+                add=TRUE,
+                bg=compare$color,
+                fg=compare$color,
+                xlab="", ylab="")
+
+
+    }
+}
+```
