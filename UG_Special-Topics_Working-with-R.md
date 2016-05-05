@@ -1,6 +1,10 @@
 #Using the R Chart
 
-The R chart is introduced with v4.0 of GoldenCheetah. The chart can be added to the activity view and the trend view.
+The R chart is introduced with v4.0 of GoldenCheetah. The chart can be added to the activity view and the trend view. 
+
+This 10 minute tutorial video introduces the R chart and setup and shows it in use.
+
+[![Tutorial](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Rvideo.png)](https://vimeo.com/164812094)
 
 In trend view the chart is refreshed when a date range or season is selected, or if the compare pane is updated. Whilst in the activity view the chart is refreshed when an activity is selected or, again, if the compare pane for intervals is updated.
 
