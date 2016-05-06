@@ -73,7 +73,7 @@ NOTE: the page size is reset to 500x500 before every script run, so be sure to s
 
 e.g. to set page size to 800x600
 ```
-> page(width=800, height=600)
+> GC.page(width=800, height=600)
 integer(0)
 >
 ```
