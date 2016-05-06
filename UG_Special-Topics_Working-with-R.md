@@ -65,9 +65,9 @@ e.g.
 
 If you are familiar with the R device model (dev.cur, dev.list, dev.set) and frequently switch between graphics devices then you can create a new GC graphics device (to plot within the chart) by using GC.display(). If you are not familiar with the R device model then you should probably avoid using this function.
 
-If you want to change the page size used for plotting you can set it with GC.page() you express the page size in pixels (72dpi). If you choose a very large size (e.g. 2500x1200) then be sure to have a large screen, since when scaled it will make the fonts very small indeed!
+If you want to change the page size used for plotting you can set it with GC.page(). You express the page size in 72 dpi pixels. If you choose a very large size (e.g. 2500x1200) then be sure to have a large screen, since when scaled it will make the fonts very small indeed.
 
-We typically use 500x500, 800x600 and 1200x800 for scatter, histogram and time series plots. Be sure to set he page size before any plotting takes place. If you change page size mid-plot you will likely have issues. The command always returns 0.
+We typically use 500x500, 800x600 and 900x600 for scatter, histogram and time series plots. Be sure to set he page size before any plotting takes place. If you change page size mid-plot you will likely have issues. The command always returns 0.
 
 NOTE: the page size is reset to 500x500 before every script run, so be sure to set it specifically in each plot. 
 
