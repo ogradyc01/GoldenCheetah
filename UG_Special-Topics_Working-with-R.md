@@ -378,6 +378,52 @@ e.g. list all seasons
 > 
 ```
 
+### GC.season.meanmax(all=FALSE, compare=FALSE)
+
+As for activity above this will return a data.frame of mean maximals for data series. Since vectors in a data.frame must all have the same length they will be zero padded to the longest series.
+
+If you use all and compare together you will get mean maximals for all activities in a list.
+
+e.g. mean maximal for current season:
+```
+> mm <- GC.season.meanmax()
+> str(mm)
+'data.frame':	4228 obs. of  8 variables:
+ $ power  : num  557 529 517 504 ...
+ $ wpk    : num  6.24 5.93 5.79 5.64 ...
+ $ cadence: num  97 97 95 93 ...
+ $ speed  : num  53.5 53.2 53 52.6 ...
+ $ vam    : num  3600 3600 2400 2700 ...
+ $ NP     : num  393 392 391 390 ...
+ $ apower : num  559 531 519 506 ...
+ $ xpower : num  340 339 338 338 ...
+> 
+```
+
+e.g. plotting comparisons of mean maximal power
+```
+## plot meanmax
+GC.page(width=800,height=600)
+
+## get data
+compares <- GC.season.meanmax(compare=TRUE)
+
+plot(compares[[1]]$meanmax$power, 
+     type="n",
+     log="xy",
+     ylab="Watts",
+     xlab="Seconds",
+     ylim=c(100,1000), xlim=c(1,10000))
+
+for(compare in compares) {
+   points(compare$meanmax$power,
+          col=compare$color,
+          pch=20)
+}
+``` 
+
+NOTE: when plotting with log scales you cannot set the scales (ylim/xlim) from 0 since log(0) is infinite. Instead in the example above the data is limited to 100 and 1 for Y and X scales respectively.
+
 ### GC.season.metrics(all=FALSE, compare=FALSE)
 
 Will fetch the metrics for rides in the currently selected date range, or all dates if all=TRUE. As you would expect the compare parameter will return a list.
