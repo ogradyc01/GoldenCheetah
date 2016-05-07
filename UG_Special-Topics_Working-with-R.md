@@ -341,7 +341,44 @@ e.g. Mean-max for an activity:
 
 When plotting in the trends view you are looking at data across a date range or season (as selected in the sidebar). These functions return data in that context.
 
-### GC.metrics(all=FALSE, compare=FALSE)
+### GC.season(all=FALSE, compare=FALSE)
+
+Will return a data.frame of seasons, by default it contains one item for the currently selected season but if all is TRUE it will return all seasons configured, and if compare is TRUE will return all seasons being compared. If compare is TRUE and compare is not active it will return the currently selected season.
+
+NOTE: season colors are always set to gray unless in compare mode, in which case they are the compare mode
+color, to enable use in a plot legend using legend(legend=season$name, fill=season$color ...).
+
+e.g. list all seasons
+```
+> GC.season(all=TRUE)
+             name      start        end   color
+1    2016 Cycling 2016-04-04 2016-09-01 #7f7f7f
+2            2015 2014-07-29 2015-01-11 #7f7f7f
+3            2014 2014-07-12 2015-01-23 #7f7f7f
+4            2010 2010-01-01 2011-01-01 #7f7f7f
+5       Late 2009 2009-04-01 2009-08-01 #7f7f7f
+6        Mid 2009 2009-01-01 2009-04-01 #7f7f7f
+7      Early 2009 2008-08-01 2009-01-01 #7f7f7f
+8            2009 2008-08-01 2009-09-01 #7f7f7f
+9            2007 2006-07-01 2007-08-01 #7f7f7f
+10      All Dates 1966-05-07 2066-05-07 #7f7f7f
+11      This Year 2016-01-01 2016-12-31 #7f7f7f
+12     This Month 2016-05-01 2016-05-31 #7f7f7f
+13     Last Month 2016-04-01 2016-04-30 #7f7f7f
+14      This Week 2016-05-02 2016-05-08 #7f7f7f
+15      Last Week 2016-04-25 2016-05-01 #7f7f7f
+16    Last 7 days 2016-05-01 2016-05-07 #7f7f7f
+17   Last 14 days 2016-04-24 2016-05-07 #7f7f7f
+18   Last 21 days 2016-04-17 2016-05-07 #7f7f7f
+19   Last 28 days 2016-04-10 2016-05-07 #7f7f7f
+20  Last 2 months 2016-03-07 2016-05-07 #7f7f7f
+21  Last 3 months 2016-02-07 2016-05-07 #7f7f7f
+22  Last 6 months 2015-11-07 2016-05-07 #7f7f7f
+23 Last 12 months 2015-05-07 2016-05-07 #7f7f7f
+> 
+```
+
+### GC.season.metrics(all=FALSE, compare=FALSE)
 
 Will fetch the metrics for rides in the currently selected date range, or all dates if all=TRUE. As you would expect the compare parameter will return a list.
 
@@ -351,7 +388,7 @@ It is common to use the color column to control coloring on the plots.
 
 e.g. fetching metrics for the current date range:
 ```
-> metrics <- GC.metrics()
+> metrics <- GC.season.metrics()
 > str(metrics)
 'data.frame':	245 obs. of  301 variables:
  $ date                                 : Date, format: "2008-08-14" "2008-08-16" ...
@@ -529,7 +566,7 @@ e.g. looking at the color series, and Workout_Code metadata
 [241] ""       ""       ""       "1L2"    "2HILLS"
 > 
 ```
-### GC.pmc(all=FALSE, metric="TSS")
+### GC.season.pmc(all=FALSE, metric="TSS")
 
 To fetch PMC metrics for the currently selected date range, or all dates if all=TRUE, this method returns a data.frame containing columns for all the PMC metrics series and additionally a date column.
 
@@ -537,7 +574,7 @@ You can specify a metric to use (TSS is used by default).
 
 e.g. PMC data using Work (Joules) as the input:
 ```
-> pmc<-GC.pmc(metric="Work")
+> pmc<-GC.season.pmc(metric="Work")
 > str(pmc)
 'data.frame':	397 obs. of  6 variables:
  $ date  : Date, format: "2008-08-01" "2008-08-02" ...
@@ -554,6 +591,8 @@ e.g. PMC data using Work (Joules) as the input:
 Putting metrics and pmc together and using some R base graphics, here is an example plot that plots each activity in term of the intensity (IF) and training freshness (TSB) with each dot in the scatter plot representing overall stress of the ride (TSS).
 
 Note how the PMC and Metric data is merged, this is using stock R functionality and relies on the common 'date' field in the metrics and pmc data.frames.
+
+Also note how the shorthand functions GC.metrics() and GC.pmc() are being used instead of GC.season.metrics() and GC.season.pmc()
 
 ![PMC a Bubble Chart](https://raw.githubusercontent.com/GoldenCheetah/GoldenCheetah/master/doc/wiki/Special_R_bubble.png)
 
