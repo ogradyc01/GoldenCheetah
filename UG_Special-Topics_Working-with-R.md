@@ -61,7 +61,7 @@ e.g.
 > 
 ```
 
-## GC.display() and GC.page(width=500, height=500)
+### GC.display() and GC.page(width=500, height=500)
 
 If you are familiar with the R device model (dev.cur, dev.list, dev.set) and frequently switch between graphics devices then you can create a new GC graphics device (to plot within the chart) by using GC.display(). If you are not familiar with the R device model then you should probably avoid using this function.
 
