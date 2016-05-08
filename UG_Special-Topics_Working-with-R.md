@@ -35,23 +35,23 @@ Where applicable the data access routines will offer a 'compare' parameter to ac
 
 Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
 
-__[Basics](#Basics)__
+__[Basics](#basics)__
 * GC.version() to get a version string
 * GC.build() to get a build number
 * GC.display() to create a new graphics device
 * GC.page(width=500, height=500) to set the page size
 
-__Athlete__
+__[Athlete](#athlete)__
 * GC.athlete() to get the athlete name
 * GC.athlete.home() to the athlete home directory
 
-__Activity__
+__[Activity](#activity)__
 * GC.activities() to get a list of activities (as dates)
 * GC.activity(compare=FALSE) to get the activity data
 * GC.activity.wbal(compare=FALSE) to get wbal series data
 * GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
 
-__Trends__
+__[Trends](#trends)__
 * GC.season(all=FALSE, compare=FALSE) to get season details
 * GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
 * GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
