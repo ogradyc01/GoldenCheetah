@@ -56,6 +56,7 @@ __[Trends](#trends)__
 * GC.season(all=FALSE, compare=FALSE) to get season details
 * GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
 * GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
+* GC.season.peaks(all=FALSE, series, duration) to get activity peaks for a given series and duration 
 * GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
 R Script Examples
@@ -759,6 +760,28 @@ e.g. looking at the color series, and Workout_Code metadata
 [241] ""       ""       ""       "1L2"    "2HILLS"
 > 
 ```
+### GC.season.peaks(all=FALSE,series,duration)
+
+To get the peaks for all activities in a season, the series should be a name for which mean maximal data is available ("power", "heart.rate", "speed" et al) and the duration should be the duration is seconds.
+
+It will return a data.frame with vectors for each series+duration combination as well as a datetime vector for the datetime the peak was recorded. Bear in mind there will be one peak for every activity, rather than per day.
+
+e.g. get some heartrate and power peaks:
+```
+> peaks <- GC.season.peaks(series=c("power", "heart.rate"), duration=c(1,10,100,1000))
+> str(peaks)
+'data.frame':	74 obs. of  9 variables:
+ $ time                : POSIXct, format: "2008-08-14 16:45:52" "2008-08-16 12:00:26" ...
+ $ peak_power_1        : num  692 804 760 647 0 582 731 607 0 692 ...
+ $ peak_power_10       : num  509 668 606 595 0 ...
+ $ peak_power_100      : num  245 322 296 267 0 ...
+ $ peak_power_1000     : num  158 223 229 194 0 ...
+ $ peak_heart.rate_1   : num  0 177 170 163 0 170 169 177 171 175 ...
+ $ peak_heart.rate_10  : num  0 176 169 163 0 ...
+ $ peak_heart.rate_100 : num  0 174 165 148 0 ...
+ $ peak_heart.rate_1000: num  0 154 149 131 0 ...
+> ```
+
 ### GC.season.pmc(all=FALSE, metric="TSS")
 
 To fetch PMC metrics for the currently selected date range, or all dates if all=TRUE, this method returns a data.frame containing columns for all the PMC metrics series and additionally a date column.
