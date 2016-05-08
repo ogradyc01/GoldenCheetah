@@ -48,6 +48,7 @@ __[Athlete](#athlete)__
 __[Activity](#activity)__
 * GC.activities() to get a list of activities (as dates)
 * GC.activity(compare=FALSE) to get the activity data
+* GC.activity.metrics(compare=FALSE) to get the activity metrics and metadata
 * GC.activity.wbal(compare=FALSE) to get wbal series data
 * GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
 
@@ -319,6 +320,117 @@ for (compare in d) {
 ```
 **As you may have guessed the script in an R chart will be re-run when an activity is selected or compare pane changes (you add or deselect an activity etc).**
 
+###GC.activity.metrics(compare=FALSE)
+
+Will retrieve a data.frame of the metric and metadata fields for the current activity. This also includes the ride color according to the current config. If compare is true it will return a list.
+
+e.g. metrics for the current activity:
+```
+> metrics <- GC.activity.metrics()
+> str(metrics)
+'data.frame':	1 obs. of  301 variables:
+ $ date                                 : Date, format: "2016-05-05"
+ $ time                                 : POSIXct, format: "2016-05-05 11:57:18"
+ $ axPower                              : num 160
+ $ aPower_Relative_Intensity            : num 0.711
+ $ aBikeScore                           : num 53.2
+ $ Skiba_aVI                            : num 1.18
+ $ aPower_Response_Index                : num 1.43
+ $ aNP                                  : num 175
+ $ aIF                                  : num 0.777
+ $ aTSS                                 : num 61.7
+ $ aVI                                  : num 1.29
+ $ aPower_Efficiency_Factor             : num 1.57
+ $ aTSS_per_hour                        : num 58.3
+ $ Aerobic_Decoupling                   : num 0
+ $ Activities                           : num 1
+ $ To_Exhaustion                        : num 0
+ $ Duration                             : num 3812
+ $ Time_Moving                          : num 3673
+ $ Time_Carrying                        : num 4
+ $ Elevation_Gain_Carrying              : num 0
+ $ Distance                             : num 25.6
+ $ Distance_Swim                        : num 25573
+ $ Climb_Rating                         : num 1.69
+ $ Athlete_Weight                       : num 91.1
+ $ Athlete_Bodyfat                      : num 0
+ $ Athlete_Lean_Weight                  : num 0
+ $ Athlete_Bodyfat_Percent              : num 0
+ $ Elevation_Gain                       : num 208
+ $ Elevation_Loss                       : num 202
+ $ Work                                 : num 497
+ $ Average_Speed                        : num 25.1
+ $ Pace                                 : num 2.39
+ $ Pace_Swim                            : num 0.239
+ $ Average_Power                        : num 135
+ $ Average_SmO2                         : num 0
+ $ Average_tHb                          : num 0
+ $ Average_aPower                       : num 136
+ $ Nonzero_Average_Power                : num 159
+ $ Average_Heart_Rate                   : num 112
+ $ Average_Core_Temperature             : num 36
+ $ Heartbeats                           : num 7.45
+ $ HrPw_Ratio                           : num 1.21
+ $ Workbeat_stress                      : num 0.037
+ $ Watts:RPE_Ratio                      : num 0
+ $ Power_Percent_of_Max                 : num 17.3
+ $ HrNp_Ratio                           : num 1.55
+ $ Average_Cadence                      : num 76
+ $ Average_Temp                         : num 21.9
+ $ Max_Power                            : num 601
+ $ Max_SmO2                             : num 0
+ $ Max_tHb                              : num 0
+ $ Min_SmO2                             : num 0
+ $ Min_tHb                              : num 0
+ $ Max_Heartrate                        : num 112
+ $ Min_Heartrate                        : num 111
+ $ Max_Core_Temperature                 : num 37
+ $ Max_Speed                            : num 55.7
+ $ Max_Cadence                          : num 139
+ $ Max_Temp                             : num 25
+ $ Min_Temp                             : num 21
+ $ 95%_Heartrate                        : num 0
+ $ VAM                                  : num 196
+ $ EOA                                  : num 0.692
+ $ Gradient                             : num 0.813
+ $ Average_Power_Variance               : num 57.9
+ $ Max_Power_Variance                   : num 601
+ $ Average_Left_Torque_Effectiveness    : num 0
+ $ Average_Right_Torque_Effectiveness   : num 0
+ $ Average_Left_Pedal_Smoothness        : num 0
+ $ Average_Right_Pedal_Smoothness       : num 0
+ $ Average_Left_Pedal_Center_Offset     : num 0
+ $ Average_Right_Pedal_Center_Offset    : num 0
+ $ Average_Left_Power_Phase_Start       : num 0
+ $ Average_Right_Power_Phase_Start      : num 0
+ $ Average_Left_Power_Phase_End         : num 0
+ $ Average_Right_Power_Phase_End        : num 0
+ $ Average_Left_Peak_Power_Phase_Start  : num 0
+ $ Average_Right_Peak_Power_Phase_Start : num 0
+ $ Average_Left_Peak_Power_Phase_End    : num 0
+ $ Average_Right_Peak_Power_Phase_End   : num 0
+ $ Average_Left_Power_Phase_Length      : num 0
+ $ Average_Right_Power_Phase_Length     : num 0
+ $ Average_Peak_Left_Power_Phase_Length : num 0
+ $ Average_Right_Peak_Power_Phase_Length: num 0
+ $ Calories                             : num 635
+ $ Aerobic_TISS                         : num 55.5
+ $ Anaerobic_TISS                       : num 1.95
+ $ CP_setting                           : num 225
+ $ xPower                               : num 159
+ $ Relative_Intensity                   : num 0.706
+ $ BikeScore&#8482;                     : num 52.5
+ $ Skiba_VI                             : num 1.17
+ $ TISS_Aerobicity                      : num 96.6
+ $ Response_Index                       : num 1.42
+ $ NP                                   : num 174
+ $ IF                                   : num 0.772
+ $ TSS                                  : num 60.8
+ $ VI                                   : num 1.28
+ $ Efficiency_Factor                    : num 1.55
+  [list output truncated]
+> 
+```
 ###GC.activity.wbal(compare=FALSE)
 
 Because the W'bal data series is always calculated in 1 second intervals it is not returned with the activity data data.frame -- it would cause problems when data is recorded in 0.5 seconds from a track PM or 1.26s by an old Powertap.
