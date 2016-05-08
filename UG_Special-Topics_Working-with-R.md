@@ -35,7 +35,7 @@ Where applicable the data access routines will offer a 'compare' parameter to ac
 
 Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
 
-__Basics__
+__[Basics](#Basics)__
 * GC.version() to get a version string
 * GC.build() to get a build number
 * GC.display() to create a new graphics device
