@@ -31,7 +31,7 @@ Similarly, in trend view, to plot a simple time series of average power for the 
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
 
-** Reference list**
+## Reference list
 
 Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
 
