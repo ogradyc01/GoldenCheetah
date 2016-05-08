@@ -15,16 +15,16 @@ When the chart is refreshed the user supplied R script is executed, and it shoul
 A simple example to plot HR might be:
 
 ```
-> ride <- GC.activity()
-> plot(ride$heart.rate)
+ride <- GC.activity()
+plot(ride$heart.rate)
 ```
 This basically calls a GC function to fetch the data for the current ride and then uses the base R plot function to plot heart rate as a time series.
 
 Similarly, in trend view, to plot a simple time series of average power for the current season:
 
 ```
-> metrics <- GC.metrics()
-> plot(metrics$Average_Power)
+metrics <- GC.metrics()
+plot(metrics$Average_Power)
 ```
 
 **Compare Mode**
