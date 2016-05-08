@@ -52,10 +52,10 @@ __Activity Details__
 * GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
 
 __Trends / Season Details__
-GC.season(all=FALSE, compare=FALSE) to get season details
-GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
-GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
-GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
+* GC.season(all=FALSE, compare=FALSE) to get season details
+* GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
+* GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
+* GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
 ## Base GC methods
 
