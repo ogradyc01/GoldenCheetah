@@ -57,6 +57,11 @@ __[Trends](#trends)__
 * GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
 * GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
+R Script Examples
+* [Power Distribution Plot](#power-density-plot)
+* [Compare Mean Maximal Power](#compare-mean-maximal-power)
+* [PMC Scatter Plot](#pmc-and-metric-plotting-together)
+
 ##Basics
 
 All methods to access and work with GC objects and data within an R chart are prefixed with "GC." this is to ensure there is no namespace clash with other packages you may have installed. There are a number of methods available as listed below.
@@ -257,6 +262,7 @@ Dotted pair list of 2
 
 In this way, if you want to remain compatible with compare mode when charting you should always use 'compare=TRUE' and loop through the results to plot, taking care to overplot using 'lines', 'points' or 'curve'.
 
+####Power Density Plot
 Here is a script that plots density distributions for power and is compatible with compare mode:
 ```
 ## R script will run on selection.
@@ -428,6 +434,7 @@ e.g. mean maximal for current season:
 > 
 ```
 
+####Compare Mean Maximal Power
 e.g. plotting comparisons of mean maximal power
 ```
 ## plot meanmax
