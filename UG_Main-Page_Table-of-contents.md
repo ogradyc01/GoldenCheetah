@@ -41,6 +41,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
   * [Chart Types for Trends](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Trends)
   * [Chart Types for Diary](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Diary)
   * [Chart Types for Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_ChartTypes_Activities)
+  * [R Chart for Trends and Activities](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Working-with-R)
 
 ## Preferences
 
