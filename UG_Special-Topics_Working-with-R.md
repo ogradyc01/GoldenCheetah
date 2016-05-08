@@ -35,29 +35,29 @@ Where applicable the data access routines will offer a 'compare' parameter to ac
 
 Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
 
-__Base__
+__Basics__
 * GC.version() to get a version string
 * GC.build() to get a build number
 * GC.display() to create a new graphics device
 * GC.page(width=500, height=500) to set the page size
 
-__Athlete Details__
+__Athlete__
 * GC.athlete() to get the athlete name
 * GC.athlete.home() to the athlete home directory
 
-__Activity Details__
+__Activity__
 * GC.activities() to get a list of activities (as dates)
 * GC.activity(compare=FALSE) to get the activity data
 * GC.activity.wbal(compare=FALSE) to get wbal series data
 * GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
 
-__Trends / Season Details__
+__Trends__
 * GC.season(all=FALSE, compare=FALSE) to get season details
 * GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
 * GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
 * GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
-## Base GC methods
+##Basics
 
 All methods to access and work with GC objects and data within an R chart are prefixed with "GC." this is to ensure there is no namespace clash with other packages you may have installed. There are a number of methods available as listed below.
 
@@ -74,20 +74,7 @@ e.g:
 > 
 ```
 
-###GC.athlete() and GC.athlete.home()
-
-GC.athlete() will return a character string representing the current athlete, whilst GC.athlete.home() will return the full path to the athlete home directory, so you can read/write files stored there or add your own subdirectory or data files to use within a chart.
-
-e.g.
-```
-> GC.athlete()
-[1] "Mark Liversedge"
-> GC.athlete.home()
-[1] "/home/markl/Athletes/Mark Liversedge"
-> 
-```
-
-### GC.display() and GC.page(width=500, height=500)
+###GC.display() and GC.page(width=500, height=500)
 
 If you are familiar with the R device model (dev.cur, dev.list, dev.set) and frequently switch between graphics devices then you can create a new GC graphics device (to plot within the chart) by using GC.display(). If you are not familiar with the R device model then you should probably avoid using this function.
 
@@ -104,7 +91,22 @@ integer(0)
 >
 ```
 
-## Working in Activity View
+##Athlete
+
+###GC.athlete() and GC.athlete.home()
+
+GC.athlete() will return a character string representing the current athlete, whilst GC.athlete.home() will return the full path to the athlete home directory, so you can read/write files stored there or add your own subdirectory or data files to use within a chart.
+
+e.g.
+```
+> GC.athlete()
+[1] "Mark Liversedge"
+> GC.athlete.home()
+[1] "/home/markl/Athletes/Mark Liversedge"
+> 
+```
+
+##Activity
 
 In the activity view you will work primarily with activities. The functions listed below return data related to the currently selected activity or are directly related to that context.
 
@@ -363,7 +365,7 @@ e.g. Mean-max for an activity:
 > 
 ```
 
-## Working in the Trends View
+##Trends
 
 When plotting in the trends view you are looking at data across a date range or season (as selected in the sidebar). These functions return data in that context.
 
