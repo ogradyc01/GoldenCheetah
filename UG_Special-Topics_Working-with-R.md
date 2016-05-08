@@ -33,7 +33,7 @@ Where applicable the data access routines will offer a 'compare' parameter to ac
 
 ## Contents
 
-Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
+Below you will find details of each of the GC functions available to use within the R chart.
 
 __[Basics](#basics)__
 * GC.version() to get a version string
