@@ -56,7 +56,7 @@ __[Trends](#trends)__
 * GC.season(all=FALSE, compare=FALSE) to get season details
 * GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
 * GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
-* GC.season.peaks(all=FALSE, series, duration) to get activity peaks for a given series and duration 
+* GC.season.peaks(all=FALSE, compare=FALSE, series, duration) to get activity peaks for a given series and duration 
 * GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
 R Script Examples
@@ -760,11 +760,13 @@ e.g. looking at the color series, and Workout_Code metadata
 [241] ""       ""       ""       "1L2"    "2HILLS"
 > 
 ```
-### GC.season.peaks(all=FALSE,series,duration)
+### GC.season.peaks(all=FALSE,compare=FALSE,series,duration)
 
 To get the peaks for all activities in a season, the series should be a name for which mean maximal data is available ("power", "heart.rate", "speed" et al) and the duration should be the duration is seconds.
 
 It will return a data.frame with vectors for each series+duration combination as well as a datetime vector for the datetime the peak was recorded. Bear in mind there will be one peak for every activity, rather than per day.
+
+As with most of the methods compare=TRUE will return a list for each date range being compared or the current date range if compare is not active.
 
 e.g. get some heartrate and power peaks:
 ```
