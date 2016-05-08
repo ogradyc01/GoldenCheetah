@@ -31,6 +31,32 @@ Similarly, in trend view, to plot a simple time series of average power for the 
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
 
+** Reference list**
+
+Below you will find details of each of the GC functions available to use within the R chart, as listed in the table below.
+
+__Base__
+* GC.version() to get a version string
+* GC.build() to get a build number
+* GC.display() to create a new graphics device
+* GC.page(width=500, height=500) to set the page size
+
+__Athlete Details__
+* GC.athlete() to get the athlete name
+* GC.athlete.home() to the athlete home directory
+
+__Activity Details__
+* GC.activities() to get a list of activities (as dates)
+* GC.activity(compare=FALSE) to get the activity data
+* GC.activity.wbal(compare=FALSE) to get wbal series data
+* GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
+
+__Trends / Season Details__
+GC.season(all=FALSE, compare=FALSE) to get season details
+GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
+GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
+GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
+
 ## Base GC methods
 
 All methods to access and work with GC objects and data within an R chart are prefixed with "GC." this is to ensure there is no namespace clash with other packages you may have installed. There are a number of methods available as listed below.
