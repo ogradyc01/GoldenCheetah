@@ -780,7 +780,8 @@ e.g. get some heartrate and power peaks:
  $ peak_heart.rate_10  : num  0 176 169 163 0 ...
  $ peak_heart.rate_100 : num  0 174 165 148 0 ...
  $ peak_heart.rate_1000: num  0 154 149 131 0 ...
-> ```
+> 
+```
 
 ### GC.season.pmc(all=FALSE, metric="TSS")
 
