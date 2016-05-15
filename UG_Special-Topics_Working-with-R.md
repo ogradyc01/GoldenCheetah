@@ -42,8 +42,7 @@ __[Basics](#basics)__
 * GC.page(width=500, height=500) to set the page size
 
 __[Athlete](#athlete)__
-* GC.athlete() to get the athlete name
-* GC.athlete.home() to the athlete home directory
+* GC.athlete() to get the athlete details
 
 __[Activity](#activity)__
 * GC.activities() to get a list of activities (as dates)
@@ -100,16 +99,31 @@ integer(0)
 
 ##Athlete
 
-###GC.athlete() and GC.athlete.home()
+###GC.athlete()
 
-GC.athlete() will return a character string representing the current athlete, whilst GC.athlete.home() will return the full path to the athlete home directory, so you can read/write files stored there or add your own subdirectory or data files to use within a chart.
+GC.athlete() will return a list of athlete details including name, home directory, gender, height, weight and date of birth.
 
 e.g.
 ```
 > GC.athlete()
+$name
 [1] "Mark Liversedge"
-> GC.athlete.home()
-[1] "/home/markl/Athletes/Mark Liversedge"
+
+$home
+[1] "/Users/markliversedge/Athletes/Mark Liversedge"
+
+$dob
+[1] "1967-07-03"
+
+$weight
+[1] 80
+
+$height
+[1] 1.83
+
+$gender
+[1] "male"
+
 > 
 ```
 
