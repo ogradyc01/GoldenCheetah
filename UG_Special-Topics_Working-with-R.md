@@ -325,6 +325,8 @@ for (compare in d) {
 
 Will retrieve a data.frame of the metric and metadata fields for the current activity. This also includes the ride color according to the current config. If compare is true it will return a list.
 
+**NOTE** there is a metric called ```Checksum``` which is a CRC generated for the activity. It is based upon the activity raw data, metadata and start date and time. It will change when the activity data changes and is therefore a useful value to use with the ```R.cache``` and ```memoise``` R packages for caching previously computed values.
+
 e.g. metrics for the current activity:
 ```
 > metrics <- GC.activity.metrics()
