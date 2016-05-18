@@ -49,7 +49,7 @@ __[Athlete](#athlete)__
 * GC.athlete() to get the athlete details
 
 __[Activity](#activity)__
-* GC.activities() to get a list of activities (as dates)
+* GC.activities(filter="") to get a list of activities (as dates)
 * GC.activity(compare=FALSE) to get the activity data
 * GC.activity.metrics(compare=FALSE) to get the activity metrics and metadata
 * GC.activity.wbal(compare=FALSE) to get wbal series data
