@@ -31,6 +31,10 @@ plot(metrics$Average_Power)
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
 
+**Search/Filtering**
+
+If a search or data filter is active then this will be applied to the results returned by the API methods described below. Even when all=TRUE is set to override season date ranges the filter will be applied. Ultimately, if the user doesn't want a filter to be applied they should clear it. We work this way to ensure consistency across all charts.
+
 ## Contents
 
 Below you will find details of each of the GC functions available to use within the R chart.
