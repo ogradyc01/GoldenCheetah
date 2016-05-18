@@ -135,7 +135,7 @@ $gender
 
 In the activity view you will work primarily with activities. The functions listed below return data related to the currently selected activity or are directly related to that context.
 
-###GC.activities()
+###GC.activities(filter="")
 
 Will return a vector of POSIXct datetimes representing the start time for each activity. As the API matures it is expected that you will be able to reference a specific athletes activity via its start time.
 
@@ -144,6 +144,16 @@ e.g.
 > d <- GC.activities()
 > str(d)
  POSIXct[1:705], format: "2005-06-25 14:26:00" "2005-06-27 08:39:00" ...
+> 
+```
+
+The filter parameter will be applied as a datafilter to limit the results, enabling you to select specific types of rides. You can pass multiple filters as a string vector.
+
+e.g.
+```
+> l <- GC.activities(filter='Workout_Code="1L2"')
+> str(l)
+ POSIXct[1:65], format: "2008-12-29 12:33:49" "2009-02-12 12:00:00" ...
 > 
 ```
 
