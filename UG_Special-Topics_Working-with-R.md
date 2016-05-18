@@ -294,7 +294,8 @@ In this way, if you want to remain compatible with compare mode when charting yo
 
 You can specify the activity (or activities) you want to fetch by using the parameter ```activity```. It should be set to a POSIXct datetime, or a vector. Remember that GC.activities() will return a vector of POSIXct representing each activity.
 
-To retreive raw sample data, in a dataframe for all rides where the 'Test' metadata flag is non-zero:
+The example below retrieves raw sample data, in a dataframe for 13 rides where the 'Test' metadata flag is non-zero, e.g:
+
 ```
 > list <- GC.activities(filter="Test <> 0")
 > list
