@@ -27,6 +27,25 @@ metrics <- GC.metrics()
 plot(metrics$Average_Power)
 ```
 
+**Local Data, $$ and avoiding data refresh**
+
+All data objects are shared across charts. If you create a vector 'x' in one chart it will be available in all the others. Usually, this is not a problem since you fetch the data manipulate it and plot it. But in some cases, where perhaps you prepare data from across the ride data you may want to avoid refreshing it to save time. 
+
+If you prefix variable names with $$ then they will get a prefix added to them internally that makes them local to the chart. e.g. $$d internally becomes 'gc0d' on the first chart, 'gc1d' on the second and so on.
+
+We recommend you always prefix variables with $$ to ensure there is not conflict across charts.
+
+If you want to check if a variable exists and already contains values you can use the following code snippet:
+```
+> if (!exists("$$p")) print("doesn't exist")
+[1] "doesn't exist"
+> $$p <- 1
+> if (exists("$$p")) print("does exist")
+[1] "does exist"
+```
+
+If part of your code prepares large volumes of data, but doesn't need to refresh once its been created then this technique will help speed up your scripts.
+
 **Compare Mode**
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
