@@ -46,6 +46,19 @@ If you want to check if a variable exists and already contains values you can us
 
 If part of your code prepares large volumes of data, but doesn't need to refresh once its been created then this technique will help speed up your scripts.
 
+Here is an example to get a vector containing all power data across hilly rides, taking care not to repeat on re-run and ignore rides with no power:
+
+```
+## Get one big activity
+if (!exists("$$allhills")) {
+    $$allhills <- numeric(0)
+    for(activity in GC.activity(activity=GC.activities('Workout_Code contains "HILLS"'))) {
+        if(length(activity$power) >0 && !anyNA(activity$power))
+            $$allhills <- c($$allhills, activity$power)
+    }
+}
+```
+
 **Compare Mode**
 
 Where applicable the data access routines will offer a 'compare' parameter to access data; if FALSE it just returns the currently selected ride, if TRUE it will return a list. If compare mode is not active then the list will contain only one set of data for the currently selected ride. If compare is active it returns a list of all things being compared. See GC.activity(compare=TRUE) below for an example.
