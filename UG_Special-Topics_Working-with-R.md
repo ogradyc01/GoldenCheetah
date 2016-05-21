@@ -89,9 +89,9 @@ __[Activity](#activity)__
 
 __[Trends](#trends)__
 * GC.season(all=FALSE, compare=FALSE) to get season details
-* GC.season.metrics(all=FALSE, compare=FALSE) to get season metrics
-* GC.season.meanmax(all=FALSE, compare=FALSE) to get best mean maximals for a season
-* GC.season.peaks(all=FALSE, compare=FALSE, series, duration) to get activity peaks for a given series and duration 
+* GC.season.metrics(all=FALSE, filter="", compare=FALSE) to get season metrics
+* GC.season.meanmax(all=FALSE, filter="", compare=FALSE) to get best mean maximals for a season
+* GC.season.peaks(all=FALSE, filter="", compare=FALSE, series, duration) to get activity peaks for a given series and duration 
 * GC.season.pmc(all=FALSE, metric="TSS") to get PMC data for any given metric
 
 R Script Examples
@@ -873,11 +873,13 @@ e.g. list all seasons
 > 
 ```
 
-### GC.season.meanmax(all=FALSE, compare=FALSE)
+### GC.season.meanmax(all=FALSE, filter="", compare=FALSE)
 
 As for activity above this will return a data.frame of mean maximals for data series. Since vectors in a data.frame must all have the same length they will be zero padded to the longest series.
 
 If you use all and compare together you will get mean maximals for all activities in a list.
+
+As for GC.activities() you can pass a datafilter to get results for activities that pass a specific rule e.g. 'Data contains "P"' to get results only for rides with power.
 
 e.g. mean maximal for current season:
 ```
@@ -920,9 +922,11 @@ for(compare in compares) {
 
 NOTE: when plotting with log scales you cannot set the scales (ylim/xlim) from 0 since log(0) is infinite. Instead in the example above the data is limited to 100 and 1 for Y and X scales respectively.
 
-### GC.season.metrics(all=FALSE, compare=FALSE)
+### GC.season.metrics(all=FALSE, filter="", compare=FALSE)
 
 Will fetch the metrics for rides in the currently selected date range, or all dates if all=TRUE. As you would expect the compare parameter will return a list.
+
+As for GC.season.metrics() you can pass a datafilter to get results for activities that pass a specific rule e.g. 'Data contains "P"' to get results only for rides with power.
 
 Of note here are the metadata fields are also returned in the data.frame, a date field as well as a datetime field and the ride color as applied using the GC coloring rules. Color is a text string in "#rrggbb" format.
 
@@ -1108,11 +1112,13 @@ e.g. looking at the color series, and Workout_Code metadata
 [241] ""       ""       ""       "1L2"    "2HILLS"
 > 
 ```
-### GC.season.peaks(all=FALSE,compare=FALSE,series,duration)
+### GC.season.peaks(all=FALSE, filter="", compare=FALSE, series, duration)
 
 To get the peaks for all activities in a season, the series should be a name for which mean maximal data is available ("power", "heart.rate", "speed" et al) and the duration should be the duration is seconds.
 
 It will return a data.frame with vectors for each series+duration combination as well as a datetime vector for the datetime the peak was recorded. Bear in mind there will be one peak for every activity, rather than per day.
+
+As for GC.season.metrics() you can pass a datafilter to get results for activities that pass a specific rule e.g. 'Data contains "P"' to get results only for rides with power.
 
 As with most of the methods compare=TRUE will return a list for each date range being compared or the current date range if compare is not active.
 
