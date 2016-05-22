@@ -170,7 +170,6 @@ Will return a dataframe of the zone configuration by sport in chronological orde
 
 e.g.
 ```
-R Console ()
 > GC.athlete.zones()
          date sport  cp wprime pmax ftp lthr rhr hrmax cv
 1  1900-01-01   run   0      0    0   0    0   0     0 12
