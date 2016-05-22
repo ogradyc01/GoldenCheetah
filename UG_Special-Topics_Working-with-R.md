@@ -79,6 +79,7 @@ __[Basics](#basics)__
 
 __[Athlete](#athlete)__
 * GC.athlete() to get the athlete details
+* GC.athlete.zones() to get zone config for all sports
 
 __[Activity](#activity)__
 * GC.activities(filter="") to get a list of activities (as dates)
@@ -160,6 +161,39 @@ $height
 $gender
 [1] "male"
 
+> 
+```
+
+###GC.athlete.zones()
+
+Will return a dataframe of the zone configuration by sport in chronological order. The pace, heartrate and power settings are folded together by sport.
+
+e.g.
+```
+R Console ()
+> GC.athlete.zones()
+         date sport  cp wprime pmax ftp lthr rhr hrmax cv
+1  1900-01-01   run   0      0    0   0    0   0     0 12
+2  1900-01-01  bike 250  17000  900 250    0   0     0  0
+3  2000-01-01  bike 200  22000  900 200  163  50   188  0
+4  2001-01-01  bike 200  22000  900 200  160  57   188  0
+5  2007-01-01  bike 275  20000  900 275  160  57   188  0
+6  2008-01-01  bike 250  20000  900 250  160  57   188  0
+7  2009-01-01  bike 265  20000  900 265  160  57   188  0
+8  2009-02-01  bike 275  20000  900 275  160  57   188  0
+9  2009-08-01  bike 270  20000  900 270  160  57   188  0
+10 2010-01-01  bike 240  20000  900 240  160  57   188  0
+11 2010-07-26  bike 180  20000  900 180  160  57   188  0
+12 2010-08-11  bike 200  20000  900 200  160  57   188  0
+13 2010-09-01  bike 255  22000  900 235  160  57   188  0
+14 2012-08-01  bike 220  20000  900 220  160  57   188  0
+15 2012-09-08  bike 225  20000  900 225  160  57   188  0
+16 2013-04-24  bike 235  20000  900 235  160  57   188  0
+17 2013-11-03  bike 250  21000  900 250  160  57   188  0
+18 2014-04-01  bike 210  21000  800 210  160  57   188  0
+19 2014-11-01  bike 220  22000  800 220  160  57   188  0
+20 2015-07-02  bike 220  22000  800 220  165  45   173  0
+21 2015-08-01  bike 225  19000  780 250  165  45   173  0
 > 
 ```
 
