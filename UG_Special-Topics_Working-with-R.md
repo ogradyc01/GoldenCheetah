@@ -79,7 +79,7 @@ __[Basics](#basics)__
 
 __[Athlete](#athlete)__
 * GC.athlete() to get the athlete details
-* GC.athlete.zones() to get zone config for all sports
+* GC.athlete.zones(date=0, sport="") to get zone config
 
 __[Activity](#activity)__
 * GC.activities(filter="") to get a list of activities (as dates)
@@ -164,11 +164,13 @@ $gender
 > 
 ```
 
-###GC.athlete.zones()
+###GC.athlete.zones(date=0, sport="")
 
 Will return a dataframe of the zone configuration by sport in chronological order. The pace, heartrate and power settings are folded together by sport.
 
-e.g.
+You can specify a date you want to get configuration for, or limit to zone config for a specific sport.
+
+Gettting all zone config e.g.
 ```
 > GC.athlete.zones()
          date sport  cp wprime pmax ftp lthr rhr hrmax cv
@@ -193,6 +195,25 @@ e.g.
 19 2014-11-01  bike 220  22000  800 220  160  57   188  0
 20 2015-07-02  bike 220  22000  800 220  165  45   173  0
 21 2015-08-01  bike 225  19000  780 250  165  45   173  0
+> 
+```
+
+And here we get the CP value for the currently selected activity, along the way looking at the values we are using e.g:
+
+```
+> date <- GC.activity.metrics()$date
+> date
+[1] "2016-05-05"
+> GC.athlete.zones(date=date)
+        date sport  cp wprime pmax ftp lthr rhr hrmax cv
+1 2016-05-05  bike 225  19000  780 250  165  45   173  0
+2 2016-05-05   run   0      0    0   0  160  57   190 12
+> GC.athlete.zones(date=date, sport="bike")
+        date sport  cp wprime pmax ftp lthr rhr hrmax cv
+1 2016-05-05  bike 225  19000  780 250  165  45   173  0
+> cp <- GC.athlete.zones(date=date, sport="bike")$cp[1]
+> cp
+[1] 225
 > 
 ```
 
