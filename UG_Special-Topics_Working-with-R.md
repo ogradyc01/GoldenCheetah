@@ -1235,24 +1235,26 @@ Its an interesting way of reviewing PMC data, especially when you compare the ma
 ## A more meaningful way of reviewing the
 ## PMC data in terms of managing load/intensity
 
+GC.page(width=800, height=600)
+
 ## get data
-compares <- GC.metrics(compare=TRUE)
+compares <- GC.season.metrics(compare=TRUE)
 
 ## all pmc data
-pmc <- GC.pmc(all=TRUE, metric="TSS")
+pmc <- GC.season.pmc(all=TRUE, metric="cTSS")
 
 # bigger margins please
 par(mar=c(6,6,6,6))
 
 plot(x=c(-30), y=c(0), 
-     ylim=c(0.6,1.1), xlim=c(-25,+25),
+     ylim=c(0.6,1.1), xlim=c(-60,+60),
      xlab="", main="", ylab="")
 
 ## grid lines
 grid(col="#404040", lty="solid", lwd=1)
 
 ## title
-title(main="TSB v IF", 
+title(main="", 
       xlab="TSB",
       ylab="IF")
 
@@ -1266,29 +1268,44 @@ for (compare in compares) {
     z <- merge(compare$metrics, pmc, by="date")
 
     # area of circle should be proportional
-    radius <- sqrt( z$TSS/ 31.415927 )
+    radius <- sqrt( z$cTSS/ 3.1415927 )
 
     # plot using ride colors if not comparing
     # or only one date range selected
     if (length(compares) == 1) {
 
-        symbols(z$"4", z$IF, 
+        # make transparent for overlapping
+        colors <- adjustcolor(z$color, 0.6)
+
+        symbols(z$sb, z$IF, 
                 circles=radius,
-                inches=0.2,
+                inches=0.4,
                 add=TRUE,
-                bg=z$color,fg=z$color,
+                bg=colors,fg=colors,
                 xlab="", ylab="")
     } else {
 
-        symbols(z$"4", z$IF, 
+        # make transparent for overlapping
+        color <- adjustcolor(compare$color, 0.6)
+
+        symbols(z$sb, z$IF, 
                 circles=radius,
-                inches=0.25,
+                inches=0.4,
                 add=TRUE,
-                bg=compare$color,
-                fg=compare$color,
+                bg=color,
+                fg=color,
                 xlab="", ylab="")
 
 
     }
+
+    # labels for each bubble
+    ##text(z$"4", z$IF, z$Workout_Code, col="gray", cex=0.5)
 }
+
+## name the quadrants
+text(-30,0.6, "Maintain", col="darkgray", cex=1)
+text(30,1.09, "Race", col="darkgray", cex=1)
+text(-30,1.09, "Overload", col="darkgray", cex=1)
+text(30,0.6, "Junk", col="darkgray", cex=1)
 ```
