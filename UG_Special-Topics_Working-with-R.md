@@ -67,6 +67,11 @@ Where applicable the data access routines will offer a 'compare' parameter to ac
 
 If a search or data filter is active then this will be applied to the results returned by the API methods described below. Even when all=TRUE is set to override season date ranges the filter will be applied. Ultimately, if the user doesn't want a filter to be applied they should clear it. We work this way to ensure consistency across all charts.
 
+
+**Stopping long running scripts**
+
+Hitting the ```ESC``` key will terminate any long running scripts. This can be useful when processing large volumes of data or an errant script runs into an infinite loop. In general, we would recommend letting long running processes complete, but ```ESC``` will terminate them safely.
+
 ## Contents
 
 Below you will find details of each of the GC functions available to use within the R chart.
