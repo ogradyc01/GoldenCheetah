@@ -287,7 +287,7 @@ Depending upon the data you have available in the activity you may see more colu
 
 **GC.activity(split=n)**
 
-To get the results split into separate activities when there is a gap in recording you can specify ```split``` in seconds. This will split the activity at points where there is a gap greater than or equal to the value specified,
+You can specify the minimum gap that will cause the activity returned to be split into separate activities (as a list). ```split``` is passed in seconds, where a value of 0 (the default) will disable splitting.
 
 **GC.activity(compare=TRUE)**
 
