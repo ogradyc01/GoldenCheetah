@@ -88,7 +88,7 @@ __[Athlete](#athlete)__
 
 __[Activity](#activity)__
 * GC.activities(filter="") to get a list of activities (as dates)
-* GC.activity(activity=0,compare=FALSE) to get the activity data
+* GC.activity(activity=0,compare=FALSE,split=0) to get the activity data
 * GC.activity.metrics(compare=FALSE) to get the activity metrics and metadata
 * GC.activity.wbal(compare=FALSE) to get wbal series data
 * GC.activity.meanmax(compare=FALSE) to get mean maximals for all activity data
@@ -248,7 +248,7 @@ e.g.
 > 
 ```
 
-###GC.activity(activity=0, compare=FALSE)
+###GC.activity(activity=0, compare=FALSE, split=0)
 
 By default (compare=FALSE) it will return a data.frame representing the data for the currently selected ride. The column names have been selected to remain compatible with the trackeR package from UCL for analysing GPS based sports data.
 
@@ -284,6 +284,10 @@ R Console (3.3.0)
 ```
 
 Depending upon the data you have available in the activity you may see more columns, for example pedal based power meters and muscle oxygen devices will return additional data. In this example above you will see that heartrate and torque data is not recorded but still present in the data.frame -- the columns listed above will always be made available but will contan R's NA value if not actually recorded in the activity.
+
+**GC.activity(split=n)**
+
+To get the results split into separate activities when there is a gap in recording you can specify ```split`` in seconds. This will split the activity at points where there is a gap greater than or equal to the value specified,
 
 **GC.activity(compare=TRUE)**
 
