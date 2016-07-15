@@ -483,4 +483,6 @@ All the named functions are optional, but if no value { } function is defined th
 * if (cond) stmt; else stmt; if/else logic where statement can also be a compound statement
 * name { ... } a named expression that can be called e.g. fn { p <- 1; } called as fn()
 
+bestime(x) returns the fastest time (seconds) to cover distance x (km)
+
 
