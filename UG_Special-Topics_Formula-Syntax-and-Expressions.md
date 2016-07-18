@@ -476,13 +476,17 @@ All the named functions are optional, but if no value { } function is defined th
 
 *New language syntax*
 
+* INDEX when iterating samples (user metrics/data) its the current index
+* symbol[x] treats symbol as an array and returns xth item (zero if out of bounds)
+* POWER[x] when iterating samples get xth sample value for POWER
+* POWER[INDEX-x] example using [] and INDEX to access the datapoint values by index
+* symbol[x] <- y update xth sample in symbol with the value y (will not work on ride data like POWER)
 * x ?: y evaluates to y if x is non-zero otherwise x
 * !expr logical not, evaluates false if expr true, true if expr false
 * symbol <- expr user symbols to hold assigned values, evaluate to the value assigned
 * { expr; .. expr; } compound statements that evaluate to last expression
 * if (cond) stmt; else stmt; if/else logic where statement can also be a compound statement
 * name { ... } a named expression that can be called e.g. fn { p <- 1; } called as fn()
-
-bestime(x) returns the fastest time (seconds) to cover distance x (km)
+* bestime(x) returns the fastest time (seconds) to cover distance x (km)
 
 
