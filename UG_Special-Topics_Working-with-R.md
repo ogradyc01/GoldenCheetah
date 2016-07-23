@@ -344,7 +344,8 @@ Here is an example of an activity with rowing xdata:
  $ ROW_CURVEDATA        : num  0 0 0 0 0 0 0 0 0 0 ...
  $ ROW_STROKENUMINTERVAL: num  1 2 3 4 5 6 7 8 9 10 ...
  $ ROW_AVGPOWER         : num  7.01 9.98 13.38 16.62 19.8 ...
-> ```
+>
+```
  
 **GC.activity(compare=TRUE)**
 
