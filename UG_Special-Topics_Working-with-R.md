@@ -289,7 +289,7 @@ Depending upon the data you have available in the activity you may see more colu
 
 You can specify the minimum gap that will cause the activity returned to be split into separate activities (as a list). ```split``` is passed in seconds, where a value of 0 (the default) will disable splitting.
 
-** GC.activity(join="repeat")**
+**GC.activity(join="repeat")**
 
 When an activity contains XDATA (extensible data) then all the xdata series are returned with the standard sample data. The join can be specified, it defaults to repeat, but can be one of:
 
