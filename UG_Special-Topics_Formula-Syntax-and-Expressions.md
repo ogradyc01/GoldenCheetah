@@ -55,9 +55,9 @@ Each of the reduce functions operate on a variable list of inputs; sum(1,2,3) wo
 * atl
 
 **SET/UNSET FUNCTIONS**
-* set(...)
-* unset(...)
-* isset(p1)
+* set(symbol, value, filter) - set 'symbol' to 'value' for activities that match 'filter', e.g. set(Sport, "Bike", "Data contains 'P'")
+* unset(symbol, filter) - clear 'symbol' for activities that match 'filter'
+* isset(symbol) - if 'symbol' is set to nonzero or non-blank returns true
 
 **CONFIGURED PARAMETERS**
 * config(cranklength)
