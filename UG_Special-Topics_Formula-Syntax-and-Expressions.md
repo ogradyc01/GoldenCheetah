@@ -124,312 +124,314 @@ Each of the reduce functions operate on a variable list of inputs; sum(1,2,3) wo
 * LEFTPPPE
 * RIGHTPPPE
 
-* 1_min_Peak_Pace	-	1 min Peak Pace
-* 1_min_Peak_Pace_Swim	-	1 min Peak Pace Swim
-* 1_min_Peak_Power	-	1 min Peak Power
-* 1_min_Peak_Power_HR	-	Average Heart Rate for 1 min Peak Power interval
-* 1_min_Peak_WPK	-	1 min Peak Power relative to Athlete Weight.
-* 1_sec_Peak_Power	-	1 sec Peak Power
-* 1_sec_Peak_WPK	-	1 sec Peak Power relative to Athlete Weight.
-* 10_min_Peak_Pace	-	10 min Peak Pace
-* 10_min_Peak_Pace_Swim	-	10 min Peak Pace Swim
-* 10_min_Peak_Power	-	10 min Peak Power
-* 10_min_Peak_Power_HR	-	Average Heart Rate for 10 min Peak Power interval
-* 10_min_Peak_WPK	-	10 min Peak Power relative to Athlete Weight.
-* 10_sec_Peak_Pace	-	10 sec Peak Pace
-* 10_sec_Peak_Pace_Swim	-	10 sec Peak Pace Swim
-* 10_sec_Peak_Power	-	10 sec Peak Power
-* 10_sec_Peak_WPK	-	10 sec Peak Power relative to Athlete Weight.
-* 15_sec_Peak_Pace	-	15 sec Peak Pace
-* 15_sec_Peak_Pace_Swim	-	15 sec Peak Pace Swim
-* 15_sec_Peak_Power	-	15 sec Peak Power
-* 15_sec_Peak_WPK	-	15 sec Peak Power relative to Athlete Weight.
-* 2_min_Peak_Pace	-	2 min Peak Pace
-* 2_min_Peak_Pace_Swim	-	2 min Peak Pace Swim
-* 2_min_Peak_Power	-	2 min Peak Power
-* 20_min_Peak_Pace	-	20 min Peak Pace
-* 20_min_Peak_Pace_Swim	-	20 min Peak Pace Swim
-* 20_min_Peak_Power	-	20 min Peak Power
-* 20_min_Peak_Power_HR	-	Average Heart Rate for 20 min Peak Power interval
-* 20_min_Peak_WPK	-	20 min Peak Power relative to Athlete Weight.
-* 20_sec_Peak_Pace	-	20 sec Peak Pace
-* 20_sec_Peak_Pace_Swim	-	20 sec Peak Pace Swim
-* 20_sec_Peak_Power	-	20 sec Peak Power
-* 20_sec_Peak_WPK	-	20 sec Peak Power relative to Athlete Weight.
-* 3_min_Peak_Pace	-	3 min Peak Pace
-* 3_min_Peak_Pace_Swim	-	3 min Peak Pace Swim
-* 3_min_Peak_Power	-	3 min Peak Power
-* 30_min_Peak_Pace	-	30 min Peak Pace
-* 30_min_Peak_Pace_Swim	-	30 min Peak Pace Swim
-* 30_min_Peak_Power	-	30 min Peak Power
-* 30_min_Peak_Power_HR	-	Average Heart Rate for 30 min Peak Power interval
-* 30_min_Peak_WPK	-	30 min Peak Power relative to Athlete Weight.
-* 30_sec_Peak_Pace	-	30 sec Peak Pace
-* 30_sec_Peak_Pace_Swim	-	30 sec Peak Pace Swim
-* 30_sec_Peak_Power	-	30 sec Peak Power
-* 30_sec_Peak_WPK	-	30 sec Peak Power relative to Athlete Weight.
-* 5_min_Peak_Pace	-	5 min Peak Pace
-* 5_min_Peak_Pace_Swim	-	5 min Peak Pace Swim
-* 5_min_Peak_Power	-	5 min Peak Power
-* 5_min_Peak_Power_HR	-	Average Heart Rate for 5 min Peak Power interval
-* 5_min_Peak_WPK	-	5 min Peak Power relative to Athlete Weight.
-* 5_sec_Peak_Power	-	5 sec Peak Power
-* 5_sec_Peak_WPK	-	5 sec Peak Power relative to Athlete Weight.
-* 60_min_Peak_Pace	-	60 min Peak Pace
-* 60_min_Peak_Pace_Swim	-	60 min Peak Pace Swim
-* 60_min_Peak_Power	-	60 min Peak Power
-* 60_min_Peak_Power_HR	-	Average Heart Rate for 60 min Peak Power interval
-* 60_min_Peak_WPK	-	60 min Peak Power relative to Athlete Weight.
-* 8_min_Peak_Pace	-	8 min Peak Pace
-* 8_min_Peak_Pace_Swim	-	8 min Peak Pace Swim
-* 8_min_Peak_Power	-	8 min Peak Power
-* 90_min_Peak_Pace	-	90 min Peak Pace
-* 90_min_Peak_Pace_Swim	-	90 min Peak Pace Swim
-* 90_min_Peak_Power	-	90 min Peak Power
-* 95%_Heartrate	-	Heart Rate for which 95% of activity samples has lower HR values
-* aBikeScore	-	Skiba's altitude adjusted stress score taking into account both the intensity and the duration of the training session plus the altitude effect, similar to aTSS it can be computed as 100 * hours * (aPower Relative Intensity)^2
-* Activities	-	Activity Count
-* Aerobic_Decoupling	-	Aerobic decoupling is a measure of how much heart rate rises or how much power/pace falls off during the course of a long ride/run.
-* Aerobic_TISS	-	Aerobic Training Impact Scoring System. It's a metric to quantify the training strain or response on the aerobic system
-* aIF	-	Altitude Adjusted Intensity Factor is the ratio between aNP and the Critical Power (CP) configured in Power Zones.
-* Anaerobic_TISS	-	Anaerobic Training Impact Scoring System. It's a metric to quantify the training strain or response on the anaerobic system
-* aNP	-	Altitude Adjusted Normalized Power is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant accounting for altitude.
-* aPower_Efficiency_Factor	-	The ratio between aNP and Average HR
-* aPower_Relative_Intensity	-	Altitude Adjusted Relative Intensity is the ratio between axPower and the Critical Power (CP) configured in Power Zones, similar to aIF.
-* aPower_Response_Index	-	The ratio between axPower and Average HR, similar to aPower Efficiency Factor
-* Athlete_Bodyfat	-	Bodyfat in kg or lbs from Withings data
-* Athlete_Bodyfat_Percent	-	Bodyfat Percent from Withings data
-* Athlete_Lean_Weight	-	Lean Weight in kg or lbs from Withings data
-* Athlete_Weight	-	Weight in kg or lbs: first from Withings data, then from Activity metadaa and last from Athlete configuration with 75kg default
-* aTSS	-	Altitude Adjusted Training Stress Score takes into account both the intensity and the duration of the training session plus the altitude effect, it can be computed as 100 * hours * aIF^2
-* aTSS_per_hour	-	Altitude Adjusted Training Stress Score divided by Duration in hours
-* Average_aPower	-	Average altitude power. Recorded power ajusted to take into account the effect of altitude on vo2max and thus power output.
-* Average_Cadence	-	Average Cadence, computed when Cadence > 0
-* Average_Core_Temperature	-	Average Core Temperature. The core body temperature estimate is based on HR data
-* Average_Ground_Contact_Time	-	Average Ground Contact Time
-* Average_Heart_Rate	-	Average Heart Rate computed for samples when hr is greater than zero
-* Average_Left_Peak_Power_Phase_End	-	It is the left pedal stroke angle where you end producing peak power, on average.
-* Average_Left_Peak_Power_Phase_Length	-	It is the left pedal stroke region length where you produce peak power, on average.
-* Average_Left_Peak_Power_Phase_Start	-	It is the left pedal stroke angle where you start producing peak power, on average.
-* Average_Left_Pedal_Center_Offset	-	Platform center offset is the location on the left pedal platform where you apply force, on average.
-* Average_Left_Pedal_Smoothness	-	It measures how smoothly power is delivered to the left pedal throughout the revolution, on average.
-* Average_Left_Power_Phase_End	-	It is the left pedal stroke angle where you end producing positive power, on average.
-* Average_Left_Power_Phase_Length	-	It is the left pedal stroke region length where you produce positive power, on average.
-* Average_Left_Power_Phase_Start	-	It is the left pedal stroke angle where you start producing positive power, on average.
-* Average_Left_Torque_Effectiveness	-	It measures how much of the power delivered to the left pedal is pushing it forward, on average.
-* Average_Power	-	Average Power from all samples with power greater than or equal to zero
-* Average_Power_Variance	-	Mean Power Deviation with respect to 30sec Moving Average
-* Average_Right_Peak_Power_Phase_End	-	It is the right pedal stroke angle where you end producing peak power, on average.
-* Average_Right_Peak_Power_Phase_Length	-	It is the right pedal stroke region length where you produce peak power, on average.
-* Average_Right_Peak_Power_Phase_Start	-	It is the right pedal stroke angle where you start producing peak power, on average.
-* Average_Right_Pedal_Center_Offset	-	Platform center offset is the location on the right pedal platform where you apply force, on average.
-* Average_Right_Pedal_Smoothness	-	It measures how smoothly power is delivered to the right pedal throughout the revolution, on average.
-* Average_Right_Power_Phase_End	-	It is the right pedal stroke angle where you end producing positive power, on average.
-* Average_Right_Power_Phase_Length	-	It is the right pedal stroke region length where you produce positive power, on average.
-* Average_Right_Power_Phase_Start	-	It is the right pedal stroke angle where you start producing positive power, on average.
-* Average_Right_Torque_Effectiveness	-	It measures how much of the power delivered to the right pedal is pushing it forward, on average.
-* Average_Running_Cadence	-	Average Running Cadence, computed when Cadence > 0
-* Average_SmO2	-	Average Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
-* Average_Speed	-	Average Speed in kph or mph, computed from distance over time when speed not zero
-* Average_Temp	-	Average Temp from activity data
-* Average_tHb	-	Average total hemoglobin concentration. The total grams of hemoglobin per deciliter.
-* Average_Vertical_Oscillation	-	Average Vertical Oscillation
-* aVI	-	Altitude Adjusted Variability Index is the ratio between aNP and Average aPower.
-* axPower	-	Altitude Adjusted xPower is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant at altitude, similar to aNP.
-* Below_CP_Work	-	Below CP Work is the amount of kJ produced while power is below CP.
-* Best_1000m	-	Best 1000m
-* Best_100m	-	Best 100m
-* Best_10km	-	Best 10km
-* Best_1500m	-	Best 1500m
-* Best_15km	-	Best 15km
-* Best_2000m	-	Best 2000m
-* Best_200m	-	Best 200m
-* Best_20km	-	Best 20km
-* Best_3000m	-	Best 3000m
-* Best_30km	-	Best 30km
-* Best_4000m	-	Best 4000m
-* Best_400m	-	Best 400m
-* Best_40km	-	Best 40km
-* Best_5000m	-	Best 5000m
-* Best_500m	-	Best 500m
-* Best_50m	-	Best 50m
-* Best_800m	-	Best 800m
-* Best_Half_Marathon	-	Best Half Marathon
-* Best_Marathon	-	Best Marathon
-* BikeScore&#8482;	-	Skiba's stress score taking into account both the intensity and the duration of the training session, similar to TSS it can be computed as 100 * hours * (Relative Intensity)^2
-* Calories_(HR)	-	Total Calories estimated from Time Moving, Heart Rate, Weight, Sex and Age
-* Checksum	-	A checksum for the activity, can be used to trigger cache refresh in R scripts.
-* Climb_Rating	-	According to Dan Conelly: Elevation Gain ^2 / Distance / 1000, 100 is HARD
-* Critical_Power	-	Critical Power (CP) configured in Power Zones.
-* Daniels_EqP	-	Daniels EqP is the constant power which would produce equivalent Daniels Points.
-* Daniels_Points	-	Daniels Points adapted for cycling using power instead of pace and assuming VO2max-power=1.2*CP, normalized to assign 100 points to 1 hour at CP.
-* Distance	-	Total Distance in km or miles
-* Distance_Swim	-	Total Distance in meters or yards
-* Duration	-	Total Duration
-* Effect_of_Altitude	-	Relationship between altitude adjusted power and recorded power
-* Efficiency_Factor	-	The ratio between NP and Average HR for Cycling and xPace (in yd/min) and Average HR for Running
-* Efficiency_Index	-	Efficiency Index : average speed by average power
-* Elevation_Gain	-	Elevation Gain in meters of feets
-* Elevation_Gain_Carrying_(Est)	-	Elevation gained at low speed with no power nor cadence
-* Elevation_Loss	-	Elevation Loss in meters of feets
-* Estimated_VO2MAX	-	Estimated VO2max from 5 min Peak Power relative to Athlete Weight using new ACSM formula: 10.8 * Watts / KG + 7 (3.5 per leg).
-* Exhaustion_Best_R	-	Best value for R in differential model for exhaustion point.
-* Fatigue_Index	-	Fatigue Index is power decay from Max Power to Min Power as a percent of Max Power.
-* GOVSS	-	Gravity Ordered Velocity Stress Score, the TSS like metric defined by Dr. Skiba for Running, accounts for variations in speed, slope and relative intensity and duration
-* Gradient	-	Elevation Gain to Total Distance percent ratio
-* H1_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 1.
-* H1_Time_in_Zone	-	Time in Heart Rate Zone 1.
-* H10_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 10.
-* H10_Time_in_Zone	-	Time in Heart Rate Zone 10.
-* H2_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 2.
-* H2_Time_in_Zone	-	Time in Heart Rate Zone 2.
-* H3_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 3.
-* H3_Time_in_Zone	-	Time in Heart Rate Zone 3.
-* H4_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 4.
-* H4_Time_in_Zone	-	Time in Heart Rate Zone 4.
-* H5_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 5.
-* H5_Time_in_Zone	-	Time in Heart Rate Zone 5.
-* H6_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 6.
-* H6_Time_in_Zone	-	Time in Heart Rate Zone 6.
-* H7_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 7.
-* H7_Time_in_Zone	-	Time in Heart Rate Zone 7.
-* H8_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 8.
-* H8_Time_in_Zone	-	Time in Heart Rate Zone 8.
-* H9_Percent_in_Zone	-	Percent of Time in Heart Rate Zone 9.
-* H9_Time_in_Zone	-	Time in Heart Rate Zone 9.
-* Heartbeats	-	Total Heartbeats
-* HrNp_Ratio	-	Normalized Power to Average Heart Rate ratio in watts/bpm
-* HrPw_Ratio	-	Power to Heart Rate Ratio in watts/bpm
-* IF	-	Intensity Factor is the ratio between NP and the Functional Threshold Power (FTP) configured in Power Zones.
-* IWF	-	Intensity Weigthting Factor, part of GOVSS calculation, defined as LNP/RTP
-* L1_Percent_in_Zone	-	Percent of Time in Power Zone 1.
-* L1_Sustained_Time	-	Sustained Time in Power Zone 1, based on (sustained) EFFORT intervals.
-* L1_Time_in_Zone	-	Time in Power Zone 1.
-* L10_Percent_in_Zone	-	Percent of Time in Power Zone 10.
-* L10_Sustained_Time	-	Sustained Time in Power Zone 10, based on (sustained) EFFORT intervals.
-* L10_Time_in_Zone	-	Time in Power Zone 10.
-* L2_Percent_in_Zone	-	Percent of Time in Power Zone 2.
-* L2_Sustained_Time	-	Sustained Time in Power Zone 2, based on (sustained) EFFORT intervals.
-* L2_Time_in_Zone	-	Time in Power Zone 2.
-* L3_Percent_in_Zone	-	Percent of Time in Power Zone 3.
-* L3_Sustained_Time	-	Sustained Time in Power Zone 3, based on (sustained) EFFORT intervals.
-* L3_Time_in_Zone	-	Time in Power Zone 3.
-* L4_Percent_in_Zone	-	Percent of Time in Power Zone 4.
-* L4_Sustained_Time	-	Sustained Time in Power Zone 4, based on (sustained) EFFORT intervals.
-* L4_Time_in_Zone	-	Time in Power Zone 4.
-* L5_Percent_in_Zone	-	Percent of Time in Power Zone 5.
-* L5_Sustained_Time	-	Sustained Time in Power Zone 5, based on (sustained) EFFORT intervals.
-* L5_Time_in_Zone	-	Time in Power Zone 5.
-* L6_Percent_in_Zone	-	Percent of Time in Power Zone 6.
-* L6_Sustained_Time	-	Sustained Time in Power Zone 6, based on (sustained) EFFORT intervals.
-* L6_Time_in_Zone	-	Time in Power Zone 6.
-* L7_Percent_in_Zone	-	Percent of Time in Power Zone 7.
-* L7_Sustained_Time	-	Sustained Time in Power Zone 7, based on (sustained) EFFORT intervals.
-* L7_Time_in_Zone	-	Time in Power Zone 7.
-* L8_Percent_in_Zone	-	Percent of Time in Power Zone 8.
-* L8_Sustained_Time	-	Sustained Time in Power Zone 8, based on (sustained) EFFORT intervals.
-* L8_Time_in_Zone	-	Time in Power Zone 8.
-* L9_Percent_in_Zone	-	Percent of Time in Power Zone 9.
-* L9_Sustained_Time	-	Sustained Time in Power Zone 9, based on (sustained) EFFORT intervals.
-* L9_Time_in_Zone	-	Time in Power Zone 9.
-* Left/Right_Balance	-	Left/Right Balance shows the proportion of power coming from each pedal.
-* LNP	-	Lactate Normalized Power as defined by Dr. Skiba in GOVSS algorithm
-* Max_Cadence	-	Maximum Cadence
-* Max_Core_Temperature	-	Maximum Core Temperature. The core body temperature estimate is based on HR data
-* Max_Heartrate	-	Maximum Heart Rate.
-* Max_Power	-	Maximum Power
-* Max_Power_Variance	-	Maximum Power Deviation with respect to 30sec Moving Average
-* Max_Running_Cadence	-	Maximum Running Cadence
-* Max_SmO2	-	Maximum Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
-* Max_Speed	-	Maximum Speed
-* Max_Temp	-	Maximum Cadence
-* Max_tHb	-	Maximum total hemoglobin concentration. The total grams of hemoglobin per deciliter.
-* Max_W'_Expended	-	Maximum W' bal Expended expressed as percentage of W', W' bal tracks the level of W' according to CP model during intermitent exercise.
-* Maximum_W'bal_Match	-	Maximum W' bal Match, W' bal tracks the level of W' according to CP model during intermitent exercise.
-* Min_Heartrate	-	Minimum Heart Rate.
-* Min_SmO2	-	Minimum Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
-* Min_Temp	-	Minimum Temperature
-* Min_tHb	-	Minimum total hemoglobin concentration. The total grams of hemoglobin per deciliter.
-* Minimum_W'_bal	-	Minimum W' bal, W' bal tracks the level of W' according to CP model during intermitent exercise.
-* MMP_Percentage	-	Average Power as Percent of Mean Maximal Power for Duration.
-* Nonzero_Average_Power	-	Average Power without zero values, it gives inflated values when frecuent coasting is present
-* NP	-	Normalized Power is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant.
-* P1_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 1.
-* P1_Time_in_Pace_Zone	-	Time in Pace Zone 1.
-* P10_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 10.
-* P10_Time_in_Pace_Zone	-	Time in Pace Zone 10.
-* P2_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 2.
-* P2_Time_in_Pace_Zone	-	Time in Pace Zone 2.
-* P3_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 3.
-* P3_Time_in_Pace_Zone	-	Time in Pace Zone 3.
-* P4_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 4.
-* P4_Time_in_Pace_Zone	-	Time in Pace Zone 4.
-* P5_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 5.
-* P5_Time_in_Pace_Zone	-	Time in Pace Zone 5.
-* P6_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 6.
-* P6_Time_in_Pace_Zone	-	Time in Pace Zone 6.
-* P7_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 7.
-* P7_Time_in_Pace_Zone	-	Time in Pace Zone 7.
-* P8_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 8.
-* P8_Time_in_Pace_Zone	-	Time in Pace Zone 8.
-* P9_Percent_in_Pace_Zone	-	Percent of Time in Pace Zone 9.
-* P9_Time_in_Pace_Zone	-	Time in Pace Zone 9.
-* Pace	-	Average Speed expressed in pace units: min/km or min/mile
-* Pace_Swim	-	Average Speed expressed in swim pace units: min/100m or min/100yd
-* Pacing_Index	-	Pacing Index is Average Power as a percent of Maximal Power
-* Power_Percent_of_Max	-	Power as percent of Pmax according to Power Zones
-* Power_Zone	-	Power Zone fractional number determined from Average Power.
-* Relative_Intensity	-	Relative Intensity is the ratio between xPower and the Critical Power (CP) configured in Power Zones, similar to IF.
-* Response_Index	-	The ratio between xPower and Average HR, similar to Efficiency Factor
-* RTP	-	Run Threshold Power, computed from Critical Velocity using the GOVSS related algorithm
-* Session_RPE	-	Session RPE is the product of RPE * minutes, where RPE is the rate of perceived exercion (10 point modified borg scale) and minutes is Time Moving if available or Duration otherwise.
-* Skiba_aVI	-	Skiba Altitude Adjusted Variability Index is the ratio between axPower and Average aPower.
-* Skiba_VI	-	Skiba Variability Index is the ratio between xPower and Average Power.
-* SRI	-	Swimming Relative Intensity, used for SwimScore calculation, defined as xPowerSwim/STP
-* STP	-	Swimming Threshold Power based on Swimming Critical Velocity, used for SwimScore calculation
-* Stroke_Rate	-	Stroke Rate in strokes/min, counting both arms for freestyle/backstroke, corrected by 3m push-off length for pool swims
-* Strokes_Per_Length	-	Strokes per length, counting the arm using the watch, Pool Length defaults to 50m for open water swims
-* Swim_Pace	-	Average Swim Pace, computed only when Cadence > 0 to avoid kick/drill lengths
-* SwimScore	-	SwimScore swimming stress metric as defined by Dr. Skiba
-* SWolf	-	Strokes per length, counting the arm using the watch plus time in seconds, Pool Length defaults to 50m for open water swims
-* Time_Carrying_(Est)	-	Time with low speed and elevation gain but no power nor cadence
-* Time_Moving	-	Time with speed or cadence different from zero
-* TISS_Aerobicity	-	TISS Aerobicity is a percentage of Aerobic TISS of the total TISS
-* To_Exhaustion	-	Count of exhaustion points marked by the user in an activity
-* TPace	-	Daniels' TPace, computed as 90%vVDOT from VDOT metric, in min/km or min/mile
-* TRIMP_Points	-	Training Impulse according to Morton/Banister with Green et al coefficient.
-* TRIMP_Zonal_Points	-	Training Impulse with time in zones weighted according to coefficients defined in Heart Rate Zones.
-* TRIMP(100)_Points	-	TRIMP Points normalized to assign 100 points to 1 hour at threshold heart rate.
-* TriScore	-	TriScore combined stress metric based on Dr. Skiba stress metrics, defined as BikeScore for cycling, GOVSS for running and SwimScore for swimming
-* TSS	-	Training Stress Score takes into account both the intensity and the duration of the training session, it can be computed as 100 * hours * IF^2
-* TSS_per_hour	-	Training Stress Score divided by Duration in hours
-* VAM	-	Velocita Ascensionale Media, average ascent speed in vertical meters per hour
-* VDOT	-	Daniels' VDOT computed from best average pace for durations from 4 min 4 hr
-* VI	-	Variability Index is the ratio between NP and Average Power.
-* W'_Power	-	W' Power is the average power produce while power is above CP.
-* W'_Work	-	W' Work is the amount of kJ produced while power is above CP.
-* W'bal_Matches	-	Number of W' balance Matches higher than 2kJ, W' bal tracks the level of W' according to CP model during intermitent exercise.
-* W'bal_TAU	-	W' bal TAU is the recovery time constant for W' bal, W' bal tracks the level of W' according to CP model during intermitent exercise.
-* W1_Above_CP_W'bal_Low_Fatigue	-	Time expended when Power is above CP and W' bal is below 25% of W'.
-* W1_W'bal_Low_Fatigue	-	Time expended when W' bal is below 25% of W'.
-* W1_W'bal_Work_Low_Fatigue	-	Work produced when W' bal is below 25% of W'.
-* W2_Above_CP_W'bal_Moderate_Fatigue	-	Time expended when Power is above CP and W' bal is between 25% and 50% of W'.
-* W2_W'bal_Moderate_Fatigue	-	Time expended when W' bal is between 25% and 50% of W'.
-* W2_W'bal_Work_Moderate_Fatigue	-	Work produced when W' bal is between 25% and 50% of W'.
-* W3_Above_CP_W'bal_Heavy_Fatigue	-	Time expended when Power is above CP and W' bal is between 50% and 75% of W'.
-* W3_W'bal_Heavy_Fatigue	-	Time expended when W' bal is between 50% and 75% of W'.
-* W3_W'bal_Work_Heavy_Fatigue	-	Work produced when W' bal is between 50% and 75% of W'.
-* W4_W'bal_Severe_Fatigue	-	Time expended when W' bal is above 75% of W'.
-* W4_W'bal_Severe_Fatigue	-	Time expended when Power is above CP and W' bal is above 75% of W'.
-* W4_W'bal_Work_Severe_Fatigue	-	Work produced when Power is above CP and W' bal is above 75% of W'.
-* Watts_Per_Kilogram	-	Average Power relative to Athlete Weight.
-* Watts:RPE_Ratio	-	Watts to RPE ratio
-* Work	-	Total Work in kJ computed from power data
-* Workbeat_stress	-	Work * Heartbeats / 100000
-* xPace	-	Normalized pace in min/km or min/mile, defined as the constant pace in flat surface which requires the same LNP
-* xPace_Swim	-	Normalized Swim Pace in min/100m or min/100yd, defined as the constant pace which requires the same xPowerSwim
-* xPower	-	xPower is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant, similar to NP.
-* xPower_Swim	-	Swimming power normalized for variations in speed as defined by Dr. Skiba in the SwimScore algorithm
+**BUILT-IN METRICS**
+
+* __1_min_Peak_Pace__ -	1 min Peak Pace
+* __1_min_Peak_Pace_Swim__ -	1 min Peak Pace Swim
+* __1_min_Peak_Power__ -	1 min Peak Power
+* __1_min_Peak_Power_HR__ -	Average Heart Rate for 1 min Peak Power interval
+* __1_min_Peak_WPK__ -	1 min Peak Power relative to Athlete Weight.
+* __1_sec_Peak_Power__ -	1 sec Peak Power
+* __1_sec_Peak_WPK__ -	1 sec Peak Power relative to Athlete Weight.
+* __10_min_Peak_Pace__ -	10 min Peak Pace
+* __10_min_Peak_Pace_Swim__ -	10 min Peak Pace Swim
+* __10_min_Peak_Power__ -	10 min Peak Power
+* __10_min_Peak_Power_HR__ -	Average Heart Rate for 10 min Peak Power interval
+* __10_min_Peak_WPK__ -	10 min Peak Power relative to Athlete Weight.
+* __10_sec_Peak_Pace__ -	10 sec Peak Pace
+* __10_sec_Peak_Pace_Swim__ -	10 sec Peak Pace Swim
+* __10_sec_Peak_Power__ -	10 sec Peak Power
+* __10_sec_Peak_WPK__ -	10 sec Peak Power relative to Athlete Weight.
+* __15_sec_Peak_Pace__ -	15 sec Peak Pace
+* __15_sec_Peak_Pace_Swim__ -	15 sec Peak Pace Swim
+* __15_sec_Peak_Power__ -	15 sec Peak Power
+* __15_sec_Peak_WPK__ -	15 sec Peak Power relative to Athlete Weight.
+* __2_min_Peak_Pace__ -	2 min Peak Pace
+* __2_min_Peak_Pace_Swim__ -	2 min Peak Pace Swim
+* __2_min_Peak_Power__ -	2 min Peak Power
+* __20_min_Peak_Pace__ -	20 min Peak Pace
+* __20_min_Peak_Pace_Swim__ -	20 min Peak Pace Swim
+* __20_min_Peak_Power__ -	20 min Peak Power
+* __20_min_Peak_Power_HR__ -	Average Heart Rate for 20 min Peak Power interval
+* __20_min_Peak_WPK__ -	20 min Peak Power relative to Athlete Weight.
+* __20_sec_Peak_Pace__ -	20 sec Peak Pace
+* __20_sec_Peak_Pace_Swim__ -	20 sec Peak Pace Swim
+* __20_sec_Peak_Power__ -	20 sec Peak Power
+* __20_sec_Peak_WPK__ -	20 sec Peak Power relative to Athlete Weight.
+* __3_min_Peak_Pace__ -	3 min Peak Pace
+* __3_min_Peak_Pace_Swim__ -	3 min Peak Pace Swim
+* __3_min_Peak_Power__ -	3 min Peak Power
+* __30_min_Peak_Pace__ -	30 min Peak Pace
+* __30_min_Peak_Pace_Swim__ -	30 min Peak Pace Swim
+* __30_min_Peak_Power__ -	30 min Peak Power
+* __30_min_Peak_Power_HR__ -	Average Heart Rate for 30 min Peak Power interval
+* __30_min_Peak_WPK__ -	30 min Peak Power relative to Athlete Weight.
+* __30_sec_Peak_Pace__ -	30 sec Peak Pace
+* __30_sec_Peak_Pace_Swim__ -	30 sec Peak Pace Swim
+* __30_sec_Peak_Power__ -	30 sec Peak Power
+* __30_sec_Peak_WPK__ -	30 sec Peak Power relative to Athlete Weight.
+* __5_min_Peak_Pace__ -	5 min Peak Pace
+* __5_min_Peak_Pace_Swim__ -	5 min Peak Pace Swim
+* __5_min_Peak_Power__ -	5 min Peak Power
+* __5_min_Peak_Power_HR__ -	Average Heart Rate for 5 min Peak Power interval
+* __5_min_Peak_WPK__ -	5 min Peak Power relative to Athlete Weight.
+* __5_sec_Peak_Power__ -	5 sec Peak Power
+* __5_sec_Peak_WPK__ -	5 sec Peak Power relative to Athlete Weight.
+* __60_min_Peak_Pace__ -	60 min Peak Pace
+* __60_min_Peak_Pace_Swim__ -	60 min Peak Pace Swim
+* __60_min_Peak_Power__ -	60 min Peak Power
+* __60_min_Peak_Power_HR__ -	Average Heart Rate for 60 min Peak Power interval
+* __60_min_Peak_WPK__ -	60 min Peak Power relative to Athlete Weight.
+* __8_min_Peak_Pace__ -	8 min Peak Pace
+* __8_min_Peak_Pace_Swim__ -	8 min Peak Pace Swim
+* __8_min_Peak_Power__ -	8 min Peak Power
+* __90_min_Peak_Pace__ -	90 min Peak Pace
+* __90_min_Peak_Pace_Swim__ -	90 min Peak Pace Swim
+* __90_min_Peak_Power__ -	90 min Peak Power
+* __95%_Heartrate__ -	Heart Rate for which 95% of activity samples has lower HR values
+* __aBikeScore__ -	Skiba's altitude adjusted stress score taking into account both the intensity and the duration of the training session plus the altitude effect, similar to aTSS it can be computed as 100 * hours * (aPower Relative Intensity)^2
+* __Activities__ -	Activity Count
+* __Aerobic_Decoupling__ -	Aerobic decoupling is a measure of how much heart rate rises or how much power/pace falls off during the course of a long ride/run.
+* __Aerobic_TISS__ -	Aerobic Training Impact Scoring System. It's a metric to quantify the training strain or response on the aerobic system
+* __aIF__ -	Altitude Adjusted Intensity Factor is the ratio between aNP and the Critical Power (CP) configured in Power Zones.
+* __Anaerobic_TISS__ -	Anaerobic Training Impact Scoring System. It's a metric to quantify the training strain or response on the anaerobic system
+* __aNP__ -	Altitude Adjusted Normalized Power is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant accounting for altitude.
+* __aPower_Efficiency_Factor__ -	The ratio between aNP and Average HR
+* __aPower_Relative_Intensity__ -	Altitude Adjusted Relative Intensity is the ratio between axPower and the Critical Power (CP) configured in Power Zones, similar to aIF.
+* __aPower_Response_Index__ -	The ratio between axPower and Average HR, similar to aPower Efficiency Factor
+* __Athlete_Bodyfat__ -	Bodyfat in kg or lbs from Withings data
+* __Athlete_Bodyfat_Percent__ -	Bodyfat Percent from Withings data
+* __Athlete_Lean_Weight__ -	Lean Weight in kg or lbs from Withings data
+* __Athlete_Weight__ -	Weight in kg or lbs: first from Withings data, then from Activity metadaa and last from Athlete configuration with 75kg default
+* __aTSS__ -	Altitude Adjusted Training Stress Score takes into account both the intensity and the duration of the training session plus the altitude effect, it can be computed as 100 * hours * aIF^2
+* __aTSS_per_hour__ -	Altitude Adjusted Training Stress Score divided by Duration in hours
+* __Average_aPower__ -	Average altitude power. Recorded power ajusted to take into account the effect of altitude on vo2max and thus power output.
+* __Average_Cadence__ -	Average Cadence, computed when Cadence > 0
+* __Average_Core_Temperature__ -	Average Core Temperature. The core body temperature estimate is based on HR data
+* __Average_Ground_Contact_Time__ -	Average Ground Contact Time
+* __Average_Heart_Rate__ -	Average Heart Rate computed for samples when hr is greater than zero
+* __Average_Left_Peak_Power_Phase_End__ -	It is the left pedal stroke angle where you end producing peak power, on average.
+* __Average_Left_Peak_Power_Phase_Length__ -	It is the left pedal stroke region length where you produce peak power, on average.
+* __Average_Left_Peak_Power_Phase_Start__ -	It is the left pedal stroke angle where you start producing peak power, on average.
+* __Average_Left_Pedal_Center_Offset__ -	Platform center offset is the location on the left pedal platform where you apply force, on average.
+* __Average_Left_Pedal_Smoothness__ -	It measures how smoothly power is delivered to the left pedal throughout the revolution, on average.
+* __Average_Left_Power_Phase_End__ -	It is the left pedal stroke angle where you end producing positive power, on average.
+* __Average_Left_Power_Phase_Length__ -	It is the left pedal stroke region length where you produce positive power, on average.
+* __Average_Left_Power_Phase_Start__ -	It is the left pedal stroke angle where you start producing positive power, on average.
+* __Average_Left_Torque_Effectiveness__ -	It measures how much of the power delivered to the left pedal is pushing it forward, on average.
+* __Average_Power__ -	Average Power from all samples with power greater than or equal to zero
+* __Average_Power_Variance__ -	Mean Power Deviation with respect to 30sec Moving Average
+* __Average_Right_Peak_Power_Phase_End__ -	It is the right pedal stroke angle where you end producing peak power, on average.
+* __Average_Right_Peak_Power_Phase_Length__ -	It is the right pedal stroke region length where you produce peak power, on average.
+* __Average_Right_Peak_Power_Phase_Start__ -	It is the right pedal stroke angle where you start producing peak power, on average.
+* __Average_Right_Pedal_Center_Offset__ -	Platform center offset is the location on the right pedal platform where you apply force, on average.
+* __Average_Right_Pedal_Smoothness__ -	It measures how smoothly power is delivered to the right pedal throughout the revolution, on average.
+* __Average_Right_Power_Phase_End__ -	It is the right pedal stroke angle where you end producing positive power, on average.
+* __Average_Right_Power_Phase_Length__ -	It is the right pedal stroke region length where you produce positive power, on average.
+* __Average_Right_Power_Phase_Start__ -	It is the right pedal stroke angle where you start producing positive power, on average.
+* __Average_Right_Torque_Effectiveness__ -	It measures how much of the power delivered to the right pedal is pushing it forward, on average.
+* __Average_Running_Cadence__ -	Average Running Cadence, computed when Cadence > 0
+* __Average_SmO2__ -	Average Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
+* __Average_Speed__ -	Average Speed in kph or mph, computed from distance over time when speed not zero
+* __Average_Temp__ -	Average Temp from activity data
+* __Average_tHb__ -	Average total hemoglobin concentration. The total grams of hemoglobin per deciliter.
+* __Average_Vertical_Oscillation__ -	Average Vertical Oscillation
+* __aVI__ -	Altitude Adjusted Variability Index is the ratio between aNP and Average aPower.
+* __axPower__ -	Altitude Adjusted xPower is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant at altitude, similar to aNP.
+* __Below_CP_Work__ -	Below CP Work is the amount of kJ produced while power is below CP.
+* __Best_1000m__ -	Best 1000m
+* __Best_100m__ -	Best 100m
+* __Best_10km__ -	Best 10km
+* __Best_1500m__ -	Best 1500m
+* __Best_15km__ -	Best 15km
+* __Best_2000m__ -	Best 2000m
+* __Best_200m__ -	Best 200m
+* __Best_20km__ -	Best 20km
+* __Best_3000m__ -	Best 3000m
+* __Best_30km__ -	Best 30km
+* __Best_4000m__ -	Best 4000m
+* __Best_400m__ -	Best 400m
+* __Best_40km__ -	Best 40km
+* __Best_5000m__ -	Best 5000m
+* __Best_500m__ -	Best 500m
+* __Best_50m__ -	Best 50m
+* __Best_800m__ -	Best 800m
+* __Best_Half_Marathon__ -	Best Half Marathon
+* __Best_Marathon__ -	Best Marathon
+* __BikeScore&#8482;__ -	Skiba's stress score taking into account both the intensity and the duration of the training session, similar to TSS it can be computed as 100 * hours * (Relative Intensity)^2
+* __Calories_(HR)__ -	Total Calories estimated from Time Moving, Heart Rate, Weight, Sex and Age
+* __Checksum__ -	A checksum for the activity, can be used to trigger cache refresh in R scripts.
+* __Climb_Rating__ -	According to Dan Conelly: Elevation Gain ^2 / Distance / 1000, 100 is HARD
+* __Critical_Power__ -	Critical Power (CP) configured in Power Zones.
+* __Daniels_EqP__ -	Daniels EqP is the constant power which would produce equivalent Daniels Points.
+* __Daniels_Points__ -	Daniels Points adapted for cycling using power instead of pace and assuming VO2max-power=1.2*CP, normalized to assign 100 points to 1 hour at CP.
+* __Distance__ -	Total Distance in km or miles
+* __Distance_Swim__ -	Total Distance in meters or yards
+* __Duration__ -	Total Duration
+* __Effect_of_Altitude__ -	Relationship between altitude adjusted power and recorded power
+* __Efficiency_Factor__ -	The ratio between NP and Average HR for Cycling and xPace (in yd/min) and Average HR for Running
+* __Efficiency_Index__ -	Efficiency Index : average speed by average power
+* __Elevation_Gain__ -	Elevation Gain in meters of feets
+* __Elevation_Gain_Carrying_(Est)__ -	Elevation gained at low speed with no power nor cadence
+* __Elevation_Loss__ -	Elevation Loss in meters of feets
+* __Estimated_VO2MAX__ -	Estimated VO2max from 5 min Peak Power relative to Athlete Weight using new ACSM formula: 10.8 * Watts / KG + 7 (3.5 per leg).
+* __Exhaustion_Best_R__ -	Best value for R in differential model for exhaustion point.
+* __Fatigue_Index__ -	Fatigue Index is power decay from Max Power to Min Power as a percent of Max Power.
+* __GOVSS__ -	Gravity Ordered Velocity Stress Score, the TSS like metric defined by Dr. Skiba for Running, accounts for variations in speed, slope and relative intensity and duration
+* __Gradient__ -	Elevation Gain to Total Distance percent ratio
+* __H1_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 1.
+* __H1_Time_in_Zone__ -	Time in Heart Rate Zone 1.
+* __H10_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 10.
+* __H10_Time_in_Zone__ -	Time in Heart Rate Zone 10.
+* __H2_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 2.
+* __H2_Time_in_Zone__ -	Time in Heart Rate Zone 2.
+* __H3_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 3.
+* __H3_Time_in_Zone__ -	Time in Heart Rate Zone 3.
+* __H4_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 4.
+* __H4_Time_in_Zone__ -	Time in Heart Rate Zone 4.
+* __H5_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 5.
+* __H5_Time_in_Zone__ -	Time in Heart Rate Zone 5.
+* __H6_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 6.
+* __H6_Time_in_Zone__ -	Time in Heart Rate Zone 6.
+* __H7_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 7.
+* __H7_Time_in_Zone__ -	Time in Heart Rate Zone 7.
+* __H8_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 8.
+* __H8_Time_in_Zone__ -	Time in Heart Rate Zone 8.
+* __H9_Percent_in_Zone__ -	Percent of Time in Heart Rate Zone 9.
+* __H9_Time_in_Zone__ -	Time in Heart Rate Zone 9.
+* __Heartbeats__ -	Total Heartbeats
+* __HrNp_Ratio__ -	Normalized Power to Average Heart Rate ratio in watts/bpm
+* __HrPw_Ratio__ -	Power to Heart Rate Ratio in watts/bpm
+* __IF__ -	Intensity Factor is the ratio between NP and the Functional Threshold Power (FTP) configured in Power Zones.
+* __IWF__ -	Intensity Weigthting Factor, part of GOVSS calculation, defined as LNP/RTP
+* __L1_Percent_in_Zone__ -	Percent of Time in Power Zone 1.
+* __L1_Sustained_Time__ -	Sustained Time in Power Zone 1, based on (sustained) EFFORT intervals.
+* __L1_Time_in_Zone__ -	Time in Power Zone 1.
+* __L10_Percent_in_Zone__ -	Percent of Time in Power Zone 10.
+* __L10_Sustained_Time__ -	Sustained Time in Power Zone 10, based on (sustained) EFFORT intervals.
+* __L10_Time_in_Zone__ -	Time in Power Zone 10.
+* __L2_Percent_in_Zone__ -	Percent of Time in Power Zone 2.
+* __L2_Sustained_Time__ -	Sustained Time in Power Zone 2, based on (sustained) EFFORT intervals.
+* __L2_Time_in_Zone__ -	Time in Power Zone 2.
+* __L3_Percent_in_Zone__ -	Percent of Time in Power Zone 3.
+* __L3_Sustained_Time__ -	Sustained Time in Power Zone 3, based on (sustained) EFFORT intervals.
+* __L3_Time_in_Zone__ -	Time in Power Zone 3.
+* __L4_Percent_in_Zone__ -	Percent of Time in Power Zone 4.
+* __L4_Sustained_Time__ -	Sustained Time in Power Zone 4, based on (sustained) EFFORT intervals.
+* __L4_Time_in_Zone__ -	Time in Power Zone 4.
+* __L5_Percent_in_Zone__ -	Percent of Time in Power Zone 5.
+* __L5_Sustained_Time__ -	Sustained Time in Power Zone 5, based on (sustained) EFFORT intervals.
+* __L5_Time_in_Zone__ -	Time in Power Zone 5.
+* __L6_Percent_in_Zone__ -	Percent of Time in Power Zone 6.
+* __L6_Sustained_Time__ -	Sustained Time in Power Zone 6, based on (sustained) EFFORT intervals.
+* __L6_Time_in_Zone__ -	Time in Power Zone 6.
+* __L7_Percent_in_Zone__ -	Percent of Time in Power Zone 7.
+* __L7_Sustained_Time__ -	Sustained Time in Power Zone 7, based on (sustained) EFFORT intervals.
+* __L7_Time_in_Zone__ -	Time in Power Zone 7.
+* __L8_Percent_in_Zone__ -	Percent of Time in Power Zone 8.
+* __L8_Sustained_Time__ -	Sustained Time in Power Zone 8, based on (sustained) EFFORT intervals.
+* __L8_Time_in_Zone__ -	Time in Power Zone 8.
+* __L9_Percent_in_Zone__ -	Percent of Time in Power Zone 9.
+* __L9_Sustained_Time__ -	Sustained Time in Power Zone 9, based on (sustained) EFFORT intervals.
+* __L9_Time_in_Zone__ -	Time in Power Zone 9.
+* __Left/Right_Balance__ -	Left/Right Balance shows the proportion of power coming from each pedal.
+* __LNP__ -	Lactate Normalized Power as defined by Dr. Skiba in GOVSS algorithm
+* __Max_Cadence__ -	Maximum Cadence
+* __Max_Core_Temperature__ -	Maximum Core Temperature. The core body temperature estimate is based on HR data
+* __Max_Heartrate__ -	Maximum Heart Rate.
+* __Max_Power__ -	Maximum Power
+* __Max_Power_Variance__ -	Maximum Power Deviation with respect to 30sec Moving Average
+* __Max_Running_Cadence__ -	Maximum Running Cadence
+* __Max_SmO2__ -	Maximum Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
+* __Max_Speed__ -	Maximum Speed
+* __Max_Temp__ -	Maximum Cadence
+* __Max_tHb__ -	Maximum total hemoglobin concentration. The total grams of hemoglobin per deciliter.
+* __Max_W'_Expended__ -	Maximum W' bal Expended expressed as percentage of W', W' bal tracks the level of W' according to CP model during intermitent exercise.
+* __Maximum_W'bal_Match__ -	Maximum W' bal Match, W' bal tracks the level of W' according to CP model during intermitent exercise.
+* __Min_Heartrate__ -	Minimum Heart Rate.
+* __Min_SmO2__ -	Minimum Muscle Oxygen Saturation, the percentage of hemoglobin that is carrying oxygen.
+* __Min_Temp__ -	Minimum Temperature
+* __Min_tHb__ -	Minimum total hemoglobin concentration. The total grams of hemoglobin per deciliter.
+* __Minimum_W'_bal__ -	Minimum W' bal, W' bal tracks the level of W' according to CP model during intermitent exercise.
+* __MMP_Percentage__ -	Average Power as Percent of Mean Maximal Power for Duration.
+* __Nonzero_Average_Power__ -	Average Power without zero values, it gives inflated values when frecuent coasting is present
+* __NP__ -	Normalized Power is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant.
+* __P1_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 1.
+* __P1_Time_in_Pace_Zone__ -	Time in Pace Zone 1.
+* __P10_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 10.
+* __P10_Time_in_Pace_Zone__ -	Time in Pace Zone 10.
+* __P2_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 2.
+* __P2_Time_in_Pace_Zone__ -	Time in Pace Zone 2.
+* __P3_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 3.
+* __P3_Time_in_Pace_Zone__ -	Time in Pace Zone 3.
+* __P4_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 4.
+* __P4_Time_in_Pace_Zone__ -	Time in Pace Zone 4.
+* __P5_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 5.
+* __P5_Time_in_Pace_Zone__ -	Time in Pace Zone 5.
+* __P6_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 6.
+* __P6_Time_in_Pace_Zone__ -	Time in Pace Zone 6.
+* __P7_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 7.
+* __P7_Time_in_Pace_Zone__ -	Time in Pace Zone 7.
+* __P8_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 8.
+* __P8_Time_in_Pace_Zone__ -	Time in Pace Zone 8.
+* __P9_Percent_in_Pace_Zone__ -	Percent of Time in Pace Zone 9.
+* __P9_Time_in_Pace_Zone__ -	Time in Pace Zone 9.
+* __Pace__ -	Average Speed expressed in pace units: min/km or min/mile
+* __Pace_Swim__ -	Average Speed expressed in swim pace units: min/100m or min/100yd
+* __Pacing_Index__ -	Pacing Index is Average Power as a percent of Maximal Power
+* __Power_Percent_of_Max__ -	Power as percent of Pmax according to Power Zones
+* __Power_Zone__ -	Power Zone fractional number determined from Average Power.
+* __Relative_Intensity__ -	Relative Intensity is the ratio between xPower and the Critical Power (CP) configured in Power Zones, similar to IF.
+* __Response_Index__ -	The ratio between xPower and Average HR, similar to Efficiency Factor
+* __RTP__ -	Run Threshold Power, computed from Critical Velocity using the GOVSS related algorithm
+* __Session_RPE__ -	Session RPE is the product of RPE * minutes, where RPE is the rate of perceived exercion (10 point modified borg scale) and minutes is Time Moving if available or Duration otherwise.
+* __Skiba_aVI__ -	Skiba Altitude Adjusted Variability Index is the ratio between axPower and Average aPower.
+* __Skiba_VI__ -	Skiba Variability Index is the ratio between xPower and Average Power.
+* __SRI__ -	Swimming Relative Intensity, used for SwimScore calculation, defined as xPowerSwim/STP
+* __STP__ -	Swimming Threshold Power based on Swimming Critical Velocity, used for SwimScore calculation
+* __Stroke_Rate__ -	Stroke Rate in strokes/min, counting both arms for freestyle/backstroke, corrected by 3m push-off length for pool swims
+* __Strokes_Per_Length__ -	Strokes per length, counting the arm using the watch, Pool Length defaults to 50m for open water swims
+* __Swim_Pace__ -	Average Swim Pace, computed only when Cadence > 0 to avoid kick/drill lengths
+* __SwimScore__ -	SwimScore swimming stress metric as defined by Dr. Skiba
+* __SWolf__ -	Strokes per length, counting the arm using the watch plus time in seconds, Pool Length defaults to 50m for open water swims
+* __Time_Carrying_(Est)__ -	Time with low speed and elevation gain but no power nor cadence
+* __Time_Moving__ -	Time with speed or cadence different from zero
+* __TISS_Aerobicity__ -	TISS Aerobicity is a percentage of Aerobic TISS of the total TISS
+* __To_Exhaustion__ -	Count of exhaustion points marked by the user in an activity
+* __TPace__ -	Daniels' TPace, computed as 90%vVDOT from VDOT metric, in min/km or min/mile
+* __TRIMP_Points__ -	Training Impulse according to Morton/Banister with Green et al coefficient.
+* __TRIMP_Zonal_Points__ -	Training Impulse with time in zones weighted according to coefficients defined in Heart Rate Zones.
+* __TRIMP(100)_Points__ -	TRIMP Points normalized to assign 100 points to 1 hour at threshold heart rate.
+* __TriScore__ -	TriScore combined stress metric based on Dr. Skiba stress metrics, defined as BikeScore for cycling, GOVSS for running and SwimScore for swimming
+* __TSS__ -	Training Stress Score takes into account both the intensity and the duration of the training session, it can be computed as 100 * hours * IF^2
+* __TSS_per_hour__ -	Training Stress Score divided by Duration in hours
+* __VAM__ -	Velocita Ascensionale Media, average ascent speed in vertical meters per hour
+* __VDOT__ -	Daniels' VDOT computed from best average pace for durations from 4 min 4 hr
+* __VI__ -	Variability Index is the ratio between NP and Average Power.
+* __W'_Power__ -	W' Power is the average power produce while power is above CP.
+* __W'_Work__ -	W' Work is the amount of kJ produced while power is above CP.
+* __W'bal_Matches__ -	Number of W' balance Matches higher than 2kJ, W' bal tracks the level of W' according to CP model during intermitent exercise.
+* __W'bal_TAU__ -	W' bal TAU is the recovery time constant for W' bal, W' bal tracks the level of W' according to CP model during intermitent exercise.
+* __W1_Above_CP_W'bal_Low_Fatigue__ -	Time expended when Power is above CP and W' bal is below 25% of W'.
+* __W1_W'bal_Low_Fatigue__ -	Time expended when W' bal is below 25% of W'.
+* __W1_W'bal_Work_Low_Fatigue__ -	Work produced when W' bal is below 25% of W'.
+* __W2_Above_CP_W'bal_Moderate_Fatigue__ -	Time expended when Power is above CP and W' bal is between 25% and 50% of W'.
+* __W2_W'bal_Moderate_Fatigue__ -	Time expended when W' bal is between 25% and 50% of W'.
+* __W2_W'bal_Work_Moderate_Fatigue__ -	Work produced when W' bal is between 25% and 50% of W'.
+* __W3_Above_CP_W'bal_Heavy_Fatigue__ -	Time expended when Power is above CP and W' bal is between 50% and 75% of W'.
+* __W3_W'bal_Heavy_Fatigue__ -	Time expended when W' bal is between 50% and 75% of W'.
+* __W3_W'bal_Work_Heavy_Fatigue__ -	Work produced when W' bal is between 50% and 75% of W'.
+* __W4_W'bal_Severe_Fatigue__ -	Time expended when W' bal is above 75% of W'.
+* __W4_W'bal_Severe_Fatigue__ -	Time expended when Power is above CP and W' bal is above 75% of W'.
+* __W4_W'bal_Work_Severe_Fatigue__ -	Work produced when Power is above CP and W' bal is above 75% of W'.
+* __Watts_Per_Kilogram__ -	Average Power relative to Athlete Weight.
+* __Watts:RPE_Ratio__ -	Watts to RPE ratio
+* __Work__ -	Total Work in kJ computed from power data
+* __Workbeat_stress__ -	Work * Heartbeats / 100000
+* __xPace__ -	Normalized pace in min/km or min/mile, defined as the constant pace in flat surface which requires the same LNP
+* __xPace_Swim__ -	Normalized Swim Pace in min/100m or min/100yd, defined as the constant pace which requires the same xPowerSwim
+* __xPower__ -	xPower is an estimate of the power that you could have maintained for the same physiological 'cost' if your power output had been perfectly constant, similar to NP.
+* __xPower_Swim__ -	Swimming power normalized for variations in speed as defined by Dr. Skiba in the SwimScore algorithm
 
 **OPERATORS**
 
