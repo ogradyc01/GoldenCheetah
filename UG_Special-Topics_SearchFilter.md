@@ -75,7 +75,7 @@ _Note: In releases before 3.1 the field names were partly translated into your "
   * `BEGINSWITH` - checks if the field text begins with the text you are comparing to
   * `ENDSWITH` - checks if the field text ends with text your are comparing to
   * `CONTAINS` - checks if the field text at any position contains the text you are comparing to
-  * `!` - used before any expression that contains the above operators, gives the opposite results. For example the filter: **Notes CONTAINS "hills"**, returns all the activities that contain the word hills in the notes. The filter **!(Notes CONTAINS "hills")**, returns all the activities that DO NOT CONTAIN the word hill in the notes.
+  * `!` - used before any expression that contains the above operators, gives the opposite results. For example the filter: **Notes CONTAINS "hills"**, returns all the activities that contain the word hills in the notes. The filter **!(Notes CONTAINS "hills")**, returns all the activities that DO NOT CONTAIN the word hills in the notes.
 
 * Value Operator (work for value fields and text fields)
   * `=` - Equal
