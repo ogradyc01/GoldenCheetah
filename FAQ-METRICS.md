@@ -39,7 +39,7 @@ would in fact be lower that your best average for a continuous 30minutes and 30 
 ### Can I set a different CP/FTP for different reasons e.g. CP/FTP on a trainer ?
 
 We allow you to override the CP value for a specific ride by setting the "CP" field to
-the value you wish to use for the ride in question. If you have deleted the  "CP" field in the **Activity>Summary>Metric** menu, follow these steps to create it:
+the value you wish to use for the ride in question. If you have deleted the  "CP" field in the **Activity>Summary>Metric** menu, follow these steps to create it (you can follow exactly the same steps for "FTP" field):
 - Go to **Tools > Options**.
 - Then select **Data Fields**.
 - Select the **Fields** pane.
