@@ -49,6 +49,7 @@ the value you wish to use for the ride in question. If you have deleted the  "CP
 -- Double click **Field** column and write **CP**.
 -- Click **Type** drop down menu and select **Double**.
 When you change CP value, always right click on the activity for which you have changed CP value and select **Save Changes**. Alternatively, you can select **Activity>Save Activity** from the top menu.
+
 We do not have a concept of 'separate' Cps for different purposes -- you will need to specify the CP when the data is imported into GC. But this allows you to make manual adjustments.
 
 We provide this functionality at user request -- we do not endorse the concept of multiple
