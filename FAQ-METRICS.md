@@ -36,12 +36,20 @@ would in fact be lower that your best average for a continuous 30minutes and 30 
 
 
 
-### Can I set a different CP/FTP for different reasons e.g. CP/FTP on a trainer?
+### Can I set a different CP/FTP for different reasons e.g. CP/FTP on a trainer ?
 
 We allow you to override the CP value for a specific ride by setting the "CP" field to
-the value you wish to use for the ride in question. We do not have a concept of 'separate'
-Cps for different purposes -- you will need to specify the CP when the data is imported
-into GC. But this allows you to make manual adjustments.
+the value you wish to use for the ride in question. If you have deleted the  "CP" field in the **Activity>Summary>Metric** menu, follow these steps to create it:
+- Go to **Tools > Options**.
+- Then select **Data Fields**.
+- Select the **Fields** pane.
+- Click the plus symbol (down and right).
+- In the new row you have created:
+-- Double click **Screen Tab** column and write **Metric**.
+-- Double click **Field** column and write **CP**.
+-- Click **Type** drop down menu and select **Double**.
+When you change CP value, always right click on the activity for which you have changed CP value and select **Save Changes**. Alternatively, you can select **Activity>Save Activity** from the top menu.
+We do not have a concept of 'separate' Cps for different purposes -- you will need to specify the CP when the data is imported into GC. But this allows you to make manual adjustments.
 
 We provide this functionality at user request -- we do not endorse the concept of multiple
 CP values. But we do recognise the ongoing debate regarding physiological stress from
