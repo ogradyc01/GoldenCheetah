@@ -67,6 +67,7 @@ For an expanded list see the [Site Map](https://github.com/GoldenCheetah/GoldenC
 * [Working with R](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Working-with-R)
 * [REST API documentation](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_REST-API-documentation)
 * [Other information sources](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Other information)
+* [Train Mode Controller Keys](https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special Topics_Train Mode Controller Keys)
 
 ## Translation/Localization
 
