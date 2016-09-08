@@ -462,6 +462,10 @@ All the named functions are optional, but if no value { } function is defined th
 * XDATA(..) will return true/false when filtering rides to indicate if the xdata is present in the activity.
 * XDATA(..) will return the sample data value when iterating across activity samples (outer join).
 * XDATA(..) repeat - repeat last observed value, sparse - only return observed points, interpolate - smooth values between observations, resample - resample the xdata to the samplerate of the activity.
+
+NOTE: XDATA "name" and "series" can be specified using wildcards. such as "*" or "[Pp][Oo][Ww][Ee][Rr]*]".
+This is NOT a regular expression, it is the same format of pattern used to match filenames.
+
 * INDEX when iterating samples (user metrics/data) its the current index
 * symbol[x] treats symbol as an array and returns xth item (zero if out of bounds)
 * POWER[x] when iterating samples get xth sample value for POWER
