@@ -26,3 +26,10 @@ both cases they can be created and deleted from the sidebar item's drop down men
 
 Please note that events can only be created when a user season is selected, since
 events are associated with a particular season.
+
+### How do i short my events list?
+
+If you want to change the order of your events in your events list, 
+you must do it manually by editing the file **seasons.xml**.
+In Windows, this file is located in the following directory:
+C:\Users\YOU\AppData\Local\GoldenCheetah\YOU\config
